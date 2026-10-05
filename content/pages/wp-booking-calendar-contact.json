@@ -1,0 +1,285 @@
+{
+  "path": "/wp-booking-calendar-contact/",
+  "type": "page",
+  "wpId": 25023,
+  "family": "generic",
+  "wpTemplate": "",
+  "title": "Contact Form",
+  "date": "2026-04-30T08:23:31",
+  "modified": "2026-05-13T13:38:47",
+  "seo": {
+    "title": "Contact Form -",
+    "meta": [
+      [
+        "robots",
+        "follow, noindex"
+      ],
+      [
+        "og:locale",
+        "en_US"
+      ],
+      [
+        "og:type",
+        "article"
+      ],
+      [
+        "og:title",
+        "Contact Form -"
+      ],
+      [
+        "og:url",
+        "https://powderblue-gaur-774652.hostingersite.com/wp-booking-calendar-contact/"
+      ],
+      [
+        "og:site_name",
+        "Zoot Web Agency"
+      ],
+      [
+        "og:updated_time",
+        "2026-05-13T13:38:47+00:00"
+      ],
+      [
+        "og:image",
+        "https://powderblue-gaur-774652.hostingersite.com/uploads/2026/05/ChatGPT-Image-May-13-2026-01_29_22-PM.png"
+      ],
+      [
+        "og:image:secure_url",
+        "https://powderblue-gaur-774652.hostingersite.com/uploads/2026/05/ChatGPT-Image-May-13-2026-01_29_22-PM.png"
+      ],
+      [
+        "og:image:width",
+        "1536"
+      ],
+      [
+        "og:image:height",
+        "1024"
+      ],
+      [
+        "og:image:alt",
+        "Contact Form"
+      ],
+      [
+        "og:image:type",
+        "image/png"
+      ],
+      [
+        "article:published_time",
+        "2026-04-30T08:23:31+00:00"
+      ],
+      [
+        "article:modified_time",
+        "2026-05-13T13:38:47+00:00"
+      ],
+      [
+        "twitter:card",
+        "summary_large_image"
+      ],
+      [
+        "twitter:title",
+        "Contact Form -"
+      ],
+      [
+        "twitter:image",
+        "https://powderblue-gaur-774652.hostingersite.com/uploads/2026/05/ChatGPT-Image-May-13-2026-01_29_22-PM.png"
+      ],
+      [
+        "twitter:label1",
+        "Time to read"
+      ],
+      [
+        "twitter:data1",
+        "Less than a minute"
+      ]
+    ]
+  },
+  "jsonLd": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Service",
+          "name": "Contact Form",
+          "serviceType": "Contact Form",
+          "offers": {
+            "@type": "Offer",
+            "name": "Contact Form",
+            "availability": "https://schema.org/InStock"
+          },
+          "mainEntityOfPage": {
+            "@id": "https://powderblue-gaur-774652.hostingersite.com/wp-booking-calendar-contact/#webpage"
+          }
+        },
+        {
+          "@type": "VideoObject",
+          "embedUrl": "https://www.youtube.com/embed/bbH7j7qgNGo",
+          "name": "Zoot Web Agency",
+          "description": "See how Zoot Web Agency helps businesses grow with SEO, web design, and digital marketing.",
+          "uploadDate": "2026-03-05T00:00:00Z",
+          "thumbnailUrl": "https://powderblue-gaur-774652.hostingersite.com/uploads/2026/03/Group-Photo-scaled.png",
+          "hasPart": [],
+          "@id": "https://powderblue-gaur-774652.hostingersite.com/wp-booking-calendar-contact/#schema-288448",
+          "isPartOf": {
+            "@id": "https://powderblue-gaur-774652.hostingersite.com/wp-booking-calendar-contact/#webpage"
+          },
+          "publisher": {
+            "@id": "https://powderblue-gaur-774652.hostingersite.com/#organization"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://powderblue-gaur-774652.hostingersite.com/wp-booking-calendar-contact/#webpage"
+          }
+        },
+        {
+          "@type": "Place",
+          "@id": "https://powderblue-gaur-774652.hostingersite.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "U 3069, Akshar Business Park, Janta Market Rd, opposite APMC Fruits and Vegetable Market, Sector 25, Vashi",
+            "postalCode": "400703",
+            "addressRegion": "Maharashtra",
+            "addressLocality": "Navi Mumbai"
+          }
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://powderblue-gaur-774652.hostingersite.com/#organization",
+          "name": "Zoot Web Agency",
+          "url": "https://powderblue-gaur-774652.hostingersite.com",
+          "email": "contact@zootdigitalseo.com",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "U 3069, Akshar Business Park, Janta Market Rd, opposite APMC Fruits and Vegetable Market, Sector 25, Vashi",
+            "postalCode": "400703",
+            "addressRegion": "Maharashtra",
+            "addressLocality": "Navi Mumbai"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://powderblue-gaur-774652.hostingersite.com/#logo",
+            "url": "https://powderblue-gaur-774652.hostingersite.com/uploads/2025/08/Zoot-Digital-logo-white.png",
+            "contentUrl": "https://powderblue-gaur-774652.hostingersite.com/uploads/2025/08/Zoot-Digital-logo-white.png",
+            "caption": "Zoot Web Agency",
+            "inLanguage": "en-US",
+            "width": "400",
+            "height": "200"
+          },
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+91-908-272-8185",
+              "contactType": "customer support"
+            }
+          ],
+          "legalName": "Zoot Digital Marketing PVT LTD",
+          "location": {
+            "@id": "https://powderblue-gaur-774652.hostingersite.com/#place"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://powderblue-gaur-774652.hostingersite.com/#website",
+          "url": "https://powderblue-gaur-774652.hostingersite.com",
+          "name": "Zoot Web Agency",
+          "alternateName": "Zoot Digital",
+          "publisher": {
+            "@id": "https://powderblue-gaur-774652.hostingersite.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://powderblue-gaur-774652.hostingersite.com/uploads/2026/05/ChatGPT-Image-May-13-2026-01_29_22-PM.png",
+          "url": "https://powderblue-gaur-774652.hostingersite.com/uploads/2026/05/ChatGPT-Image-May-13-2026-01_29_22-PM.png",
+          "width": "1536",
+          "height": "1024",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://powderblue-gaur-774652.hostingersite.com/wp-booking-calendar-contact/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://powderblue-gaur-774652.hostingersite.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://powderblue-gaur-774652.hostingersite.com/wp-booking-calendar-contact/",
+                "name": "Contact Form"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://powderblue-gaur-774652.hostingersite.com/wp-booking-calendar-contact/#webpage",
+          "url": "https://powderblue-gaur-774652.hostingersite.com/wp-booking-calendar-contact/",
+          "name": "Contact Form -",
+          "datePublished": "2026-04-30T08:23:31+00:00",
+          "dateModified": "2026-05-13T13:38:47+00:00",
+          "isPartOf": {
+            "@id": "https://powderblue-gaur-774652.hostingersite.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://powderblue-gaur-774652.hostingersite.com/uploads/2026/05/ChatGPT-Image-May-13-2026-01_29_22-PM.png"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://powderblue-gaur-774652.hostingersite.com/wp-booking-calendar-contact/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://powderblue-gaur-774652.hostingersite.com/author/zoot_admin/",
+          "name": "Zoot Agency",
+          "url": "https://powderblue-gaur-774652.hostingersite.com/author/zoot_admin/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/0f81843ced056eb83da4aeb3b0b3cbc0dd6f93bb85b1a04943188be3299b2f61?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/0f81843ced056eb83da4aeb3b0b3cbc0dd6f93bb85b1a04943188be3299b2f61?s=96&amp;d=mm&amp;r=g",
+            "caption": "Zoot Agency",
+            "inLanguage": "en-US"
+          },
+          "sameAs": [
+            "https://powderblue-gaur-774652.hostingersite.com"
+          ],
+          "worksFor": {
+            "@id": "https://powderblue-gaur-774652.hostingersite.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Contact Form -",
+          "datePublished": "2026-04-30T08:23:31+00:00",
+          "dateModified": "2026-05-13T13:38:47+00:00",
+          "author": {
+            "@id": "https://powderblue-gaur-774652.hostingersite.com/author/zoot_admin/",
+            "name": "Zoot Agency"
+          },
+          "publisher": {
+            "@id": "https://powderblue-gaur-774652.hostingersite.com/#organization"
+          },
+          "name": "Contact Form -",
+          "@id": "https://powderblue-gaur-774652.hostingersite.com/wp-booking-calendar-contact/#richSnippet",
+          "isPartOf": {
+            "@id": "https://powderblue-gaur-774652.hostingersite.com/wp-booking-calendar-contact/#webpage"
+          },
+          "image": {
+            "@id": "https://powderblue-gaur-774652.hostingersite.com/uploads/2026/05/ChatGPT-Image-May-13-2026-01_29_22-PM.png"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://powderblue-gaur-774652.hostingersite.com/wp-booking-calendar-contact/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "html": " <div id=\"form_id675282899148\" class=\"wpbc_container wpbc_form wpbc_container_booking_form wpbc_theme_dark_1\" ><form id=\"booking_form1\" class=\"booking_form vertical\" method=\"post\" action=\"\"><div id=\"ajax_respond_insert1\" class=\"ajax_respond_insert\" style=\"display:none;\"></div><a name=\"bklnk1\" id=\"bklnk1\"></a><div id=\"booking_form_div1\" class=\"booking_form_div\"><textarea id=\"date_booking1\" name=\"date_booking1\" autocomplete=\"off\" style=\"display:none;\">13.01.2981</textarea><div style=\"clear:both;height:10px;\"></div><div class=\"wpbc_bfb_form wpbc_wizard__border_container\" style=\"--wpbc-bfb-booking_form_layout_width:100%;\">\n\t<div class=\"wpbc_wizard_step wpbc__form__div wpbc_wizard_step1\">\n\t\t<div class=\"wpbc__row\">\n\t\t\t<div style=\"flex-basis: 48.5%\" class=\"wpbc__field\">\n\t\t\t\t<div class=\"bfb_element\">\n\t\t\t\t\t<label>First Name</label>\n\t\t\t\t\t<br><span class=\"wpbc_wrap_text wpdev-form-control-wrap firstname1\"><input type=\"text\" name=\"firstname1\" value=\"\" autocomplete=\"firstname\" class=\"firstname wpdev-validates-as-required firstname\" placeholder=\"Example: &#039;John&#039;\" size=\"40\" /></span>\n\t\t\t\t\t<div class=\"wpbc_field_description\">Enter your first name.</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<div style=\"flex-basis: 48.5%\" class=\"wpbc__field\">\n\t\t\t\t<div class=\"bfb_element\">\n\t\t\t\t\t<label>Last Name</label>\n\t\t\t\t\t<br><span class=\"wpbc_wrap_text wpdev-form-control-wrap secondname1\"><input type=\"text\" name=\"secondname1\" value=\"\" autocomplete=\"secondname\" class=\"secondname lastname wpdev-validates-as-required lastname\" placeholder=\"Example: &#039;Smith&#039;\" size=\"40\" /></span>\n\t\t\t\t\t<div class=\"wpbc_field_description\">Enter your last name.</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t<div class=\"wpbc__row\">\n\t\t\t<div style=\"flex-basis: 100%\" class=\"wpbc__field\">\n\t\t\t\t<div class=\"bfb_element\">\n\t\t\t\t\t<label>Email</label>\n\t\t\t\t\t<br><span class=\"wpbc_wrap_text wpdev-form-control-wrap email1\"><input type=\"email\" name=\"email1\" value=\"\" autocomplete=\"email\" class=\"wpdev-validates-as-email wpdev-validates-as-required\" size=\"40\" /></span>\n\t\t\t\t\t<div class=\"wpbc_field_description\">Enter your email address.</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t<div class=\"wpbc__row\">\n\t\t\t<div style=\"flex-basis: 100%\" class=\"wpbc__field\">\n\t\t\t\t<div class=\"bfb_element\">\n\t\t\t\t\t<label>Message</label>\n\t\t\t\t\t<br><span class=\"wpbc_wrap_textarea wpdev-form-control-wrap textarea1\"><textarea name=\"textarea1\" autocomplete=\"textarea\"></textarea></span>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t<div class=\"wpbc__row\">\n\t\t\t<div style=\"flex-basis: 100%;--wpbc-bfb-col-ai: flex-end;--wpbc-col-min: 0px\" class=\"wpbc__field\">\n\t\t\t\t<div class=\"bfb_element\">\n\t\t\t\t\t<span class=\"wpbc_bfb__btn wpbc_bfb__btn--primary\" style=\"flex:1\"><input type=\"button\" value=\"Send\" class=\"wpbc_button_light\" onclick=\"wpbc_booking_form_submit(this.form,1, 'en_US');\" /></span>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div><input name=\"booking_form_type1\"  id=\"booking_form_type1\" type=\"hidden\" value=\"contact_form\"><input id=\"bk_type1\" name=\"bk_type1\" class=\"\" type=\"hidden\" value=\"1\" /></div><div id=\"submiting1\"></div><div class=\"form_bk_messages\" id=\"form_bk_messages1\" ></div><input type=\"hidden\" id=\"wpbc_nonceCALCULATE_THE_COST1\" name=\"wpbc_nonceCALCULATE_THE_COST1\" value=\"b56d66dc66\" /><input type=\"hidden\" name=\"_wp_http_referer\" value=\"/wp-json/wp/v2/pages?per_page=20&#038;page=7\" /></form></div><div id=\"booking_form_garbage1\" class=\"booking_form_garbage\"></div> \n"
+}

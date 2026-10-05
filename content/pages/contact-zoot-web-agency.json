@@ -1,0 +1,247 @@
+{
+  "path": "/contact-zoot-web-agency/",
+  "type": "page",
+  "wpId": 926,
+  "family": "generic",
+  "wpTemplate": "elementor_header_footer",
+  "title": "Contact",
+  "date": "2025-12-26T07:39:34",
+  "modified": "2026-05-12T10:00:32",
+  "seo": {
+    "title": "Contact Zoot Web Agency for Services | Zoot Web Agency",
+    "canonical": "https://powderblue-gaur-774652.hostingersite.com/contact-zoot-web-agency/",
+    "meta": [
+      [
+        "description",
+        "Contact Zoot Web Agency for affordable SEO, marketing, and support services. Get quick assistance and start your digital growth today."
+      ],
+      [
+        "robots",
+        "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+      ],
+      [
+        "og:locale",
+        "en_US"
+      ],
+      [
+        "og:type",
+        "article"
+      ],
+      [
+        "og:title",
+        "Contact Zoot Web Agency for Services | Zoot Web Agency"
+      ],
+      [
+        "og:description",
+        "Contact Zoot Web Agency for affordable SEO, marketing, and support services. Get quick assistance and start your digital growth today."
+      ],
+      [
+        "og:url",
+        "https://powderblue-gaur-774652.hostingersite.com/contact-zoot-web-agency/"
+      ],
+      [
+        "og:site_name",
+        "Zoot Web Agency"
+      ],
+      [
+        "og:updated_time",
+        "2026-05-12T10:00:32+00:00"
+      ],
+      [
+        "og:image",
+        "https://powderblue-gaur-774652.hostingersite.com/uploads/2026/03/geralt-seo-2051641_1920.jpg"
+      ],
+      [
+        "og:image:secure_url",
+        "https://powderblue-gaur-774652.hostingersite.com/uploads/2026/03/geralt-seo-2051641_1920.jpg"
+      ],
+      [
+        "og:image:width",
+        "1920"
+      ],
+      [
+        "og:image:height",
+        "1357"
+      ],
+      [
+        "og:image:alt",
+        "Contact Zoot Web Agency"
+      ],
+      [
+        "og:image:type",
+        "image/jpeg"
+      ],
+      [
+        "twitter:card",
+        "summary_large_image"
+      ],
+      [
+        "twitter:title",
+        "Contact Zoot Web Agency for Services | Zoot Web Agency"
+      ],
+      [
+        "twitter:description",
+        "Contact Zoot Web Agency for affordable SEO, marketing, and support services. Get quick assistance and start your digital growth today."
+      ],
+      [
+        "twitter:image",
+        "https://powderblue-gaur-774652.hostingersite.com/uploads/2026/03/geralt-seo-2051641_1920.jpg"
+      ],
+      [
+        "twitter:label1",
+        "Time to read"
+      ],
+      [
+        "twitter:data1",
+        "2 minutes"
+      ]
+    ]
+  },
+  "jsonLd": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Service",
+          "name": "Contact",
+          "description": "Contact Zoot Web Agency for affordable SEO, marketing, and support services. Get quick assistance and start your digital growth today.",
+          "serviceType": "Contact",
+          "offers": {
+            "@type": "Offer",
+            "name": "Contact",
+            "availability": "https://schema.org/InStock"
+          },
+          "mainEntityOfPage": {
+            "@id": "https://powderblue-gaur-774652.hostingersite.com/contact-zoot-web-agency/#webpage"
+          }
+        },
+        {
+          "@type": "VideoObject",
+          "embedUrl": "https://www.youtube.com/embed/bbH7j7qgNGo",
+          "name": "Zoot Web Agency",
+          "description": "See how Zoot Web Agency helps businesses grow with SEO, web design, and digital marketing.",
+          "uploadDate": "2026-03-05T00:00:00Z",
+          "thumbnailUrl": "https://powderblue-gaur-774652.hostingersite.com/uploads/2026/03/Group-Photo-scaled.png",
+          "hasPart": [],
+          "@id": "https://powderblue-gaur-774652.hostingersite.com/contact-zoot-web-agency/#schema-288448",
+          "isPartOf": {
+            "@id": "https://powderblue-gaur-774652.hostingersite.com/contact-zoot-web-agency/#webpage"
+          },
+          "publisher": {
+            "@id": "https://powderblue-gaur-774652.hostingersite.com/#organization"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://powderblue-gaur-774652.hostingersite.com/contact-zoot-web-agency/#webpage"
+          }
+        },
+        {
+          "@type": "Place",
+          "@id": "https://powderblue-gaur-774652.hostingersite.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "U 3069, Akshar Business Park, Janta Market Rd, opposite APMC Fruits and Vegetable Market, Sector 25, Vashi",
+            "postalCode": "400703",
+            "addressRegion": "Maharashtra",
+            "addressLocality": "Navi Mumbai"
+          }
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://powderblue-gaur-774652.hostingersite.com/#organization",
+          "name": "Zoot Web Agency",
+          "url": "https://powderblue-gaur-774652.hostingersite.com",
+          "email": "contact@zootdigitalseo.com",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "U 3069, Akshar Business Park, Janta Market Rd, opposite APMC Fruits and Vegetable Market, Sector 25, Vashi",
+            "postalCode": "400703",
+            "addressRegion": "Maharashtra",
+            "addressLocality": "Navi Mumbai"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://powderblue-gaur-774652.hostingersite.com/#logo",
+            "url": "https://powderblue-gaur-774652.hostingersite.com/uploads/2025/08/Zoot-Digital-logo-white.png",
+            "contentUrl": "https://powderblue-gaur-774652.hostingersite.com/uploads/2025/08/Zoot-Digital-logo-white.png",
+            "caption": "Zoot Web Agency",
+            "inLanguage": "en-US",
+            "width": "400",
+            "height": "200"
+          },
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+91-908-272-8185",
+              "contactType": "customer support"
+            }
+          ],
+          "legalName": "Zoot Digital Marketing PVT LTD",
+          "location": {
+            "@id": "https://powderblue-gaur-774652.hostingersite.com/#place"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://powderblue-gaur-774652.hostingersite.com/#website",
+          "url": "https://powderblue-gaur-774652.hostingersite.com",
+          "name": "Zoot Web Agency",
+          "alternateName": "Zoot Digital",
+          "publisher": {
+            "@id": "https://powderblue-gaur-774652.hostingersite.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d38689.04205655143!2d72.99856!3d19.076542500000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xac0a1a4c394606af%3A0x780e37616a35175f!2sZoot%20Digital%20Marketing%20Private%20Limited!5e1!3m2!1sen!2sin!4v1773826220582!5m2!1sen!2sin",
+          "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d38689.04205655143!2d72.99856!3d19.076542500000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xac0a1a4c394606af%3A0x780e37616a35175f!2sZoot%20Digital%20Marketing%20Private%20Limited!5e1!3m2!1sen!2sin!4v1773826220582!5m2!1sen!2sin",
+          "width": "200",
+          "height": "200",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://powderblue-gaur-774652.hostingersite.com/contact-zoot-web-agency/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://powderblue-gaur-774652.hostingersite.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://powderblue-gaur-774652.hostingersite.com/contact-zoot-web-agency/",
+                "name": "Contact"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "ContactPage",
+          "@id": "https://powderblue-gaur-774652.hostingersite.com/contact-zoot-web-agency/#webpage",
+          "url": "https://powderblue-gaur-774652.hostingersite.com/contact-zoot-web-agency/",
+          "name": "Contact Zoot Web Agency for Services | Zoot Web Agency",
+          "datePublished": "2025-12-26T07:39:34+00:00",
+          "dateModified": "2026-05-12T10:00:32+00:00",
+          "isPartOf": {
+            "@id": "https://powderblue-gaur-774652.hostingersite.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d38689.04205655143!2d72.99856!3d19.076542500000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xac0a1a4c394606af%3A0x780e37616a35175f!2sZoot%20Digital%20Marketing%20Private%20Limited!5e1!3m2!1sen!2sin!4v1773826220582!5m2!1sen!2sin"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://powderblue-gaur-774652.hostingersite.com/contact-zoot-web-agency/#breadcrumb"
+          }
+        }
+      ]
+    }
+  ],
+  "html": "\t\t<div data-elementor-type=\"wp-page\" data-elementor-id=\"926\" class=\"elementor elementor-926\" data-elementor-post-type=\"page\">\n\t\t\t\t<div class=\"elementor-element elementor-element-61d560e e-flex e-con-boxed e-con e-parent\" data-id=\"61d560e\" data-element_type=\"container\" data-e-type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t<div class=\"elementor-element elementor-element-eccde58 e-con-full e-flex e-con e-child\" data-id=\"eccde58\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-45ae2df elementor-widget__width-initial elementor-widget elementor-widget-heading\" data-id=\"45ae2df\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h1 class=\"elementor-heading-title elementor-size-default\">Contact Zoot Web Agency | Free Consultation 2026\n</h1>\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-4094e10 elementor-widget__width-initial elementor-widget elementor-widget-text-editor\" data-id=\"4094e10\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t\t\t\t\t\t<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">Contact Zoot Web Agency in 2026 for a free consultation to learn how to grow your business the right way. Please tell us about your project so we can help you make the best plan. Our team is ready to make a plan for your business that fits your goals and budget, whether you want to be <a href=\"/\">found locally</a>, grow your social media presence, or build a website that converts well.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-2678ef9 e-grid e-con-full e-con e-parent\" data-id=\"2678ef9\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-5a2ec39 elementor-widget elementor-widget-html\" data-id=\"5a2ec39\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"html.default\">\n\t\t\t\t\t<!doctype html>\r\n<html lang=\"en\">\r\n<head>\r\n  <meta charset=\"utf-8\" />\r\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\r\n  <!--<title>Get a Quote</title>-->\r\n  <style>\r\n    :root{\r\n      --bg:#070b18;\r\n      --card:#0b1228;\r\n      --card2:#0a1025;\r\n      --text:#eaf0ff;\r\n      --muted:#9fb0de;\r\n      --line:rgba(255,255,255,.10);\r\n      --line2:rgba(255,255,255,.07);\r\n      --brand1:#3b82f6;\r\n      --brand2:#06b6d4;\r\n      --success:#22c55e;\r\n      --danger:#ef4444;\r\n      --radius:18px;\r\n      --radius2:14px;\r\n      --shadow: 0 18px 50px rgba(0,0,0,.45);\r\n      --focus: 0 0 0 3px rgba(59,130,246,.28);\r\n      --max: 1120px;\r\n    }\r\n    *{box-sizing:border-box}\r\n    body{\r\n      margin:0;\r\n      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial;\r\n      color:var(--text);\r\n      background:\r\n        radial-gradient(900px 500px at 20% 10%, rgba(59,130,246,.20), transparent 55%),\r\n        radial-gradient(900px 500px at 80% 20%, rgba(6,182,212,.16), transparent 55%),\r\n        radial-gradient(900px 600px at 50% 95%, rgba(14,165,233,.10), transparent 55%),\r\n        var(--bg);\r\n    }\r\n    .wrap{max-width:var(--max); margin:0 auto; padding:34px 18px 70px;}\r\n    .shell{\r\n      border:1px solid var(--line);\r\n      background: linear-gradient(180deg, rgba(10,16,37,.88), rgba(7,11,24,.78));\r\n      border-radius:24px;\r\n      box-shadow: var(--shadow);\r\n      overflow:hidden;\r\n    }\r\n    .head{padding:18px 18px 10px;}\r\n    .stepRow{\r\n      display:flex; gap:10px; flex-wrap:wrap; align-items:center; justify-content:space-between;\r\n      padding: 4px 2px 12px;\r\n    }\r\n    .chips{display:flex; gap:10px; flex-wrap:wrap; align-items:center}\r\n    .chip{\r\n      display:inline-flex; align-items:center; gap:10px;\r\n      padding:10px 14px; border-radius:999px;\r\n      border:1px solid var(--line2); background: rgba(255,255,255,.03);\r\n      color:var(--muted); font-size:13px; white-space:nowrap;\r\n      cursor:pointer; user-select:none; outline:none;\r\n    }\r\n    .chip:hover{border-color: rgba(59,130,246,.40)}\r\n    .chip:focus{box-shadow: var(--focus); border-color: rgba(59,130,246,.55)}\r\n    .chip.active{border-color: rgba(59,130,246,.55); background: rgba(59,130,246,.10); color: var(--text);}\r\n    .chip b{\r\n      width:22px;height:22px;min-width:22px;flex:0 0 22px;\r\n      display:inline-flex;align-items:center;justify-content:center;\r\n      border-radius:999px; background: rgba(255,255,255,.06);\r\n      border:1px solid rgba(255,255,255,.12); font-size:12px; line-height:1; padding:0;\r\n    }\r\n    .chip.active b{background: rgba(59,130,246,.18); border-color: rgba(59,130,246,.55);}\r\n    .wsp{display:inline-block; width:8px;}\r\n    .wspSm{display:inline-block; width:5px;}\r\n    .meta{color:var(--muted); font-size:13px; padding-right:8px;}\r\n    .progress{\r\n      margin: 0 18px 18px; height: 8px; border-radius:999px;\r\n      border:1px solid var(--line2); background: rgba(255,255,255,.03); overflow:hidden;\r\n    }\r\n    .progress > div{\r\n      height:100%; width:0%;\r\n      background: linear-gradient(90deg, var(--brand1), var(--brand2));\r\n      border-radius:999px; transition: width .25s ease;\r\n    }\r\n    .grid{display:grid; grid-template-columns: 1fr; gap:16px; padding: 0 18px 18px;}\r\n    .panel{border:1px solid var(--line2); background: rgba(10,16,37,.55); border-radius: var(--radius); padding:16px;}\r\n    .panel h2{margin:2px 0 14px; font-size:17px; letter-spacing:2px; font-weight:700; color:#0A1024;}\r\n    .muted{color:var(--muted)}\r\n    .cards{display:grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap:12px;}\r\n    @media (max-width: 700px){.cards{grid-template-columns: 1fr;}}\r\n    .pick{\r\n      border:1px solid var(--line2); background: rgba(255,255,255,.02);\r\n      border-radius: var(--radius2); padding:14px; cursor:pointer; user-select:none;\r\n      transition: transform .12s ease, border-color .12s ease, background .12s ease;\r\n      min-height: 86px;\r\n    }\r\n    .pick:hover{transform: translateY(-1px); border-color: rgba(59,130,246,.45)}\r\n    .pick[aria-pressed=\"true\"]{border-color: rgba(59,130,246,.65); background: rgba(59,130,246,.10);}\r\n    .pick .t{font-weight:700; font-size:14px}\r\n    .pick .d{margin-top:6px; color:var(--muted); font-size:12px}\r\n    .fields{display:grid; gap:12px; margin-top:14px}\r\n    .row{display:grid; grid-template-columns:1fr 1fr; gap:12px}\r\n    @media (max-width: 640px){ .row{grid-template-columns:1fr} }\r\n    label{display:block; font-size:13px; color:var(--muted); margin-bottom:6px}\r\n    input, select, textarea{\r\n      width:100%; padding:12px 12px; border-radius:12px;\r\n      border:1px solid var(--line2); background: rgba(255,255,255,.03);\r\n      color:var(--text); outline:none;\r\n    }\r\n    textarea{min-height:110px; resize:vertical}\r\n    input:focus, select:focus, textarea:focus{box-shadow: var(--focus); border-color: rgba(59,130,246,.55)}\r\n    .hint{font-size:12px; color:var(--muted)}\r\n    .err{display:none; color:#fecaca; font-size:12px}\r\n    select{ background-color: rgba(255,255,255,.03); color: var(--text); border: 1px solid var(--line2); }\r\n    select option{ background-color:#0b1228; color:#eaf0ff; }\r\n    select option:checked{ background-color: rgba(59,130,246,.85); color:#fff; }\r\n    .btnRow{display:flex; justify-content:space-between; gap:12px; flex-wrap:wrap; margin-top:16px;}\r\n    .btnGroup{display:flex; gap:12px; flex-wrap:wrap}\r\n    .btn{\r\n      border:none; cursor:pointer; padding:12px 18px; border-radius: 12px;\r\n      font-weight:700; color: var(--text); background: rgba(255,255,255,.06);\r\n      border:1px solid var(--line2); min-width: 110px;\r\n    }\r\n    .btn:hover{border-color: rgba(255,255,255,.18)}\r\n    .btn.primary{\r\n      background: linear-gradient(135deg, var(--brand1), var(--brand2));\r\n      border:none; box-shadow: 0 14px 26px rgba(59,130,246,.18);\r\n    }\r\n    .btn.primary:disabled{opacity:.55; cursor:not-allowed}\r\n    .summaryBox{\r\n      border:1px solid var(--line2); background: rgba(255,255,255,.02);\r\n      border-radius: var(--radius2); padding:14px; margin-bottom:12px;\r\n    }\r\n    .summaryBox h4{margin:0 0 8px; font-size:14px; font-weight:700;}\r\n    .kv{font-size:13px; color:var(--muted); display:grid; gap:8px}\r\n    .kv b{color:var(--text)}\r\n    .kv .rowline{display:flex; align-items:baseline; justify-content:space-between; gap:12px;}\r\n    .kv .k{color:var(--muted)}\r\n    .kv .v{color:var(--text); font-weight:700; text-align:right}\r\n    .svcItem{line-height:1.25;}\r\n    .svcDot{margin-right:6px;}\r\n    .toast{\r\n      display:none; margin-top:14px; padding:12px 14px; border-radius: 14px;\r\n      border:1px solid rgba(34,197,94,.35); background: rgba(34,197,94,.10);\r\n      color: #dcfce7; font-size:14px;\r\n    }\r\n    .toast.bad{border-color: rgba(239,68,68,.40); background: rgba(239,68,68,.10); color: #fee2e2;}\r\n    .step{display:none}\r\n    .step.active{display:block}\r\n    .overlay{\r\n      display:none; position:fixed; inset:0;\r\n      background: rgba(0,0,0,.55); z-index:99999; padding:18px; overflow:auto;\r\n    }\r\n    .overlay.show{display:flex; align-items:flex-start; justify-content:center;}\r\n    .modal{\r\n      width:100%; max-width: 760px; margin: 22px auto;\r\n      border:1px solid var(--line);\r\n      background: linear-gradient(180deg, rgba(10,16,37,.97), rgba(7,11,24,.97));\r\n      border-radius:24px; box-shadow: var(--shadow); padding:20px;\r\n    }\r\n    .modalHead{\r\n      display:flex; justify-content:space-between; align-items:center;\r\n      gap:12px; flex-wrap:wrap; margin-bottom:16px;\r\n    }\r\n    .modalTitle{font-weight:800; letter-spacing:1px; font-size:18px;}\r\n    .modalSub{font-size:13px; color:var(--muted); margin-top:4px;}\r\n    .xbtn{\r\n      border:1px solid var(--line2); background: rgba(255,255,255,.04);\r\n      color: var(--text); border-radius:12px; padding:10px 16px;\r\n      cursor:pointer; font-weight:700; font-size:14px;\r\n    }\r\n    .modalGrid{display:grid; grid-template-columns:1fr 1fr; gap:12px;}\r\n    @media (max-width: 760px){.modalGrid{grid-template-columns:1fr}}\r\n\r\n    /* Loading spinner on submit button */\r\n    .btn.loading{pointer-events:none; opacity:.7;}\r\n    .btn.loading::after{\r\n      content:\" ⏳\"; font-size:13px;\r\n    }\r\n\r\n    @media (prefers-color-scheme: light){\r\n      :root{\r\n        --bg:#f5f7ff; --text:#0b1228; --muted:#2f3a5a;\r\n        --line: rgba(11,18,40,.18); --line2: rgba(11,18,40,.14);\r\n        --shadow: 0 18px 50px rgba(12,18,40,.18);\r\n        --focus: 0 0 0 3px rgba(59,130,246,.22);\r\n      }\r\n      body{\r\n        background:\r\n          radial-gradient(900px 500px at 20% 10%, rgba(59,130,246,.16), transparent 55%),\r\n          radial-gradient(900px 500px at 80% 20%, rgba(6,182,212,.12), transparent 55%),\r\n          radial-gradient(900px 600px at 50% 95%, rgba(14,165,233,.08), transparent 55%),\r\n          var(--bg);\r\n      }\r\n      .shell{background: linear-gradient(180deg, rgba(255,255,255,.92), rgba(245,247,255,.88)); border-color: var(--line);}\r\n      .panel{background: rgba(255,255,255,.75); border-color: var(--line2);}\r\n      label, .hint, .muted, .meta{color: var(--muted) !important;}\r\n      .chip{background: rgba(11,18,40,.04); color: var(--muted) !important; border-color: var(--line2);}\r\n      .chip.active{background: rgba(59,130,246,.12); color: var(--text) !important;}\r\n      .pick{background: rgba(255,255,255,.80); border-color: var(--line2);}\r\n      .pick .t{color: var(--text) !important;}\r\n      .pick .d{color: var(--muted) !important;}\r\n      input, select, textarea{\r\n        background: rgba(255,255,255,.92); border-color: var(--line2);\r\n        color: var(--text) !important; -webkit-text-fill-color: var(--text) !important;\r\n      }\r\n      .overlay{background: rgba(0,0,0,.35);}\r\n      .modal{background: linear-gradient(180deg, rgba(255,255,255,.98), rgba(245,247,255,.95)); border-color: var(--line);}\r\n      .xbtn{background: rgba(11,18,40,.04); border-color: var(--line2); color: var(--text);}\r\n    }\r\n    .shell input, .shell select, .shell textarea{\r\n      color: var(--text) !important; -webkit-text-fill-color: var(--text) !important; opacity: 1 !important;\r\n    }\r\n    .shell input::placeholder, .shell textarea::placeholder{opacity: 1 !important;}\r\n  </style>\r\n</head>\r\n\r\n<body>\r\n  <div class=\"wrap\">\r\n    <div class=\"shell\" id=\"quoteFormTop\">\r\n      <div class=\"head\">\r\n        <div class=\"stepRow\">\r\n          <div class=\"chips\" id=\"chipRow\">\r\n            <span class=\"chip active\" data-step=\"1\" role=\"button\" tabindex=\"0\" aria-label=\"Go to step 1\">\r\n              <b>1</b>\r\n              <span><span>Submit Your Requirments</span><span class=\"wspSm\"></span><span>+</span><span class=\"wspSm\"></span><span>Contact</span></span>\r\n            </span>\r\n            <span class=\"chip\" data-step=\"2\" role=\"button\" tabindex=\"0\" aria-label=\"Go to step 2\">\r\n              <b>2</b><span>Details</span>\r\n            </span>\r\n          </div>\r\n          <div class=\"meta\">Step <span id=\"stepNow\">1</span> of 2</div>\r\n        </div>\r\n      </div>\r\n\r\n      <div class=\"progress\" aria-label=\"progress\">\r\n        <div id=\"progressFill\"></div>\r\n      </div>\r\n\r\n      <div class=\"grid\">\r\n        <div class=\"panel\">\r\n          <h2 id=\"title\"></h2>\r\n\r\n          <!-- STEP 1 -->\r\n          <section class=\"step active\" data-step=\"1\">\r\n            <div class=\"muted\" style=\"margin-bottom:10px;\">Select one or more services</div>\r\n\r\n            <div class=\"cards\" id=\"serviceCards\">\r\n              <!-- Digital Marketing -->\r\n              <div class=\"pick\" role=\"button\" tabindex=\"0\" aria-pressed=\"false\" data-value=\"GBP Optimization\">\r\n                <div class=\"t\">GBP Optimization</div><div class=\"d\">Google Business Profile</div>\r\n              </div>\r\n              <div class=\"pick\" role=\"button\" tabindex=\"0\" aria-pressed=\"false\" data-value=\"Web Design Services\">\r\n                <div class=\"t\">Web Design Services</div><div class=\"d\">Custom fast websites</div>\r\n              </div>\r\n              <div class=\"pick\" role=\"button\" tabindex=\"0\" aria-pressed=\"false\" data-value=\"Local Citation Building\">\r\n                <div class=\"t\">Local Citation Building</div><div class=\"d\">NAP consistency</div>\r\n              </div>\r\n              <div class=\"pick\" role=\"button\" tabindex=\"0\" aria-pressed=\"false\" data-value=\"Link Building\">\r\n                <div class=\"t\">Link Building</div><div class=\"d\">Authority backlinks</div>\r\n              </div>\r\n              <div class=\"pick\" role=\"button\" tabindex=\"0\" aria-pressed=\"false\" data-value=\"Local SEO Keywords Research\">\r\n                <div class=\"t\">Local SEO Keywords Research</div><div class=\"d\">Smart keyword planning</div>\r\n              </div>\r\n              <div class=\"pick\" role=\"button\" tabindex=\"0\" aria-pressed=\"false\" data-value=\"On-Page Optimization\">\r\n                <div class=\"t\">On-Page Optimization</div><div class=\"d\">Optimize pages</div>\r\n              </div>\r\n              <div class=\"pick\" role=\"button\" tabindex=\"0\" aria-pressed=\"false\" data-value=\"Technical SEO Optimization\">\r\n                <div class=\"t\">Technical SEO Optimization</div><div class=\"d\">Speed &amp; fixes</div>\r\n              </div>\r\n              <div class=\"pick\" role=\"button\" tabindex=\"0\" aria-pressed=\"false\" data-value=\"Local SEO Content Writing\">\r\n                <div class=\"t\">Local SEO Content Writing</div><div class=\"d\">Blogs &amp; local pages</div>\r\n              </div>\r\n              <div class=\"pick\" role=\"button\" tabindex=\"0\" aria-pressed=\"false\" data-value=\"Local Ads\">\r\n                <div class=\"t\">Local Ads</div><div class=\"d\">Targeted local advertising</div>\r\n              </div>\r\n              <div class=\"pick\" role=\"button\" tabindex=\"0\" aria-pressed=\"false\" data-value=\"Search Engine Marketing (SEM)\">\r\n                <div class=\"t\">Search Engine Marketing (SEM)</div><div class=\"d\">Paid search growth</div>\r\n              </div>\r\n              <div class=\"pick\" role=\"button\" tabindex=\"0\" aria-pressed=\"false\" data-value=\"Email Marketing Services\">\r\n                <div class=\"t\">Email Marketing Services</div><div class=\"d\">Automations &amp; campaigns</div>\r\n              </div>\r\n              <div class=\"pick\" role=\"button\" tabindex=\"0\" aria-pressed=\"false\" data-value=\"Franchise Digital Marketing\">\r\n                <div class=\"t\">Franchise Digital Marketing</div><div class=\"d\">Multi-location marketing</div>\r\n              </div>\r\n              <!-- PPC -->\r\n              <div class=\"pick\" role=\"button\" tabindex=\"0\" aria-pressed=\"false\" data-value=\"Google Ads Management\">\r\n                <div class=\"t\">Google Ads Management</div><div class=\"d\">PPC campaigns</div>\r\n              </div>\r\n              <div class=\"pick\" role=\"button\" tabindex=\"0\" aria-pressed=\"false\" data-value=\"YouTube Ads Management\">\r\n                <div class=\"t\">YouTube Ads Management</div><div class=\"d\">Video ad campaigns</div>\r\n              </div>\r\n              <!-- eCommerce -->\r\n              <div class=\"pick\" role=\"button\" tabindex=\"0\" aria-pressed=\"false\" data-value=\"eCommerce SEO\">\r\n                <div class=\"t\">eCommerce SEO</div><div class=\"d\">Grow online store</div>\r\n              </div>\r\n              <div class=\"pick\" role=\"button\" tabindex=\"0\" aria-pressed=\"false\" data-value=\"eCommerce Optimization\">\r\n                <div class=\"t\">eCommerce Optimization</div><div class=\"d\">Boost store performance</div>\r\n              </div>\r\n              <div class=\"pick\" role=\"button\" tabindex=\"0\" aria-pressed=\"false\" data-value=\"Shopify SEO\">\r\n                <div class=\"t\">Shopify SEO</div><div class=\"d\">Rank your Shopify store</div>\r\n              </div>\r\n              <div class=\"pick\" role=\"button\" tabindex=\"0\" aria-pressed=\"false\" data-value=\"Shopify Web Design\">\r\n                <div class=\"t\">Shopify Web Design</div><div class=\"d\">Custom Shopify builds</div>\r\n              </div>\r\n              <!-- Social Media -->\r\n              <div class=\"pick\" role=\"button\" tabindex=\"0\" aria-pressed=\"false\" data-value=\"Social Media Brand Management\">\r\n                <div class=\"t\">Social Media Brand Management</div><div class=\"d\">Build your brand online</div>\r\n              </div>\r\n              <div class=\"pick\" role=\"button\" tabindex=\"0\" aria-pressed=\"false\" data-value=\"Franchise Social Media\">\r\n                <div class=\"t\">Franchise Social Media</div><div class=\"d\">Multi-location social</div>\r\n              </div>\r\n              <div class=\"pick\" role=\"button\" tabindex=\"0\" aria-pressed=\"false\" data-value=\"Enterprise Social Media\">\r\n                <div class=\"t\">Enterprise Social Media</div><div class=\"d\">Large-scale social strategy</div>\r\n              </div>\r\n              <div class=\"pick\" role=\"button\" tabindex=\"0\" aria-pressed=\"false\" data-value=\"Social Media Management\">\r\n                <div class=\"t\">Social Media Management</div><div class=\"d\">Full social management</div>\r\n              </div>\r\n            </div>\r\n\r\n            <div class=\"hint\" style=\"margin-top:10px;\">Tip: multiple selections are allowed.</div>\r\n            <div class=\"err\" id=\"errServices\">Please choose at least one service.</div>\r\n\r\n            <div class=\"fields\">\r\n              <div class=\"row\">\r\n                <div>\r\n                  <label>Project type</label>\r\n                  <select id=\"projectType\">\r\n                    <option value=\"New Project\">New Project</option>\r\n                    <option value=\"Redesign / Upgrade\">Redesign / Upgrade</option>\r\n                    <option value=\"Ongoing Monthly\">Ongoing Monthly</option>\r\n                  </select>\r\n                </div>\r\n                <div>\r\n                  <label>Target market</label>\r\n                  <select id=\"targetMarket\">\r\n                    <option value=\"Global\">Global</option>\r\n                    <option value=\"Local City/State\">Local City/State</option>\r\n                  </select>\r\n                </div>\r\n              </div>\r\n              <div class=\"row\">\r\n                <div>\r\n                  <label>Full name *</label>\r\n                  <input id=\"fullName\" type=\"text\" placeholder=\"Your name\">\r\n                  <div class=\"err\" id=\"errName\">Please enter your name.</div>\r\n                </div>\r\n                <div>\r\n                  <label>Email *</label>\r\n                  <input id=\"email\" type=\"email\" placeholder=\"you@example.com\">\r\n                  <div class=\"err\" id=\"errEmail\">Please enter a valid email.</div>\r\n                </div>\r\n              </div>\r\n              <div class=\"row\">\r\n                <div>\r\n                  <label>Phone / WhatsApp *</label>\r\n                  <input id=\"phone\" type=\"tel\" placeholder=\"+1 555 123 4567\">\r\n                  <div class=\"err\" id=\"errPhone\">Please enter your phone/WhatsApp number.</div>\r\n                </div>\r\n                <div>\r\n                  <label>City</label>\r\n                  <input id=\"city\" type=\"text\" placeholder=\"e.g., New York\">\r\n                </div>\r\n              </div>\r\n              <div class=\"hint\">By submitting, you agree we can contact you about this request.</div>\r\n            </div>\r\n          </section>\r\n\r\n          <!-- STEP 2 -->\r\n          <section class=\"step\" data-step=\"2\">\r\n            <div class=\"fields\">\r\n              <div class=\"row\">\r\n                <div>\r\n                  <label>Google Map Profile Name</label>\r\n                  <input id=\"gmbName\" type=\"text\" placeholder=\"e.g., ABC Dental Clinic\">\r\n                </div>\r\n                <div>\r\n                  <label>Website (if you have)</label>\r\n                  <input id=\"websiteUrl\" type=\"url\" placeholder=\"https://yourwebsite.com\">\r\n                  <input type=\"hidden\" id=\"sourcePage\" value=\"\">\r\n                </div>\r\n              </div>\r\n              <div>\r\n                <label>Requirements</label>\r\n                <textarea id=\"requirements\" placeholder=\"Tell us what you need: goals, competitors, location, services, etc...\"></textarea>\r\n              </div>\r\n            </div>\r\n          </section>\r\n\r\n          <div class=\"btnRow\">\r\n            <button class=\"btn\" type=\"button\" id=\"btnBack\">Back</button>\r\n            <div class=\"btnGroup\">\r\n              <button class=\"btn\" type=\"button\" id=\"btnSave\">Save draft</button>\r\n              <button class=\"btn primary\" type=\"button\" id=\"btnNext\">Next</button>\r\n            </div>\r\n          </div>\r\n\r\n          <div class=\"toast\" id=\"toast\"></div>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </div>\r\n\r\n  <!-- ✅ SUCCESS OVERLAY — shows after submit, form resets behind it -->\r\n  <div class=\"overlay\" id=\"reviewOverlay\" aria-hidden=\"true\">\r\n    <div class=\"modal\" role=\"dialog\" aria-modal=\"true\" aria-label=\"Submission details\">\r\n      <div class=\"modalHead\">\r\n        <div>\r\n          <div class=\"modalTitle\">&#x2705; Request Submitted!</div>\r\n          <div class=\"modalSub\">We've received your quote request. Our team will contact you shortly.</div>\r\n        </div>\r\n        <button class=\"xbtn\" type=\"button\" id=\"closeReview\">&#x2715; Close</button>\r\n      </div>\r\n\r\n      <div class=\"modalGrid\">\r\n        <div class=\"summaryBox\">\r\n          <h4 style=\"margin:0 0 8px;\">Services Selected</h4>\r\n          <div class=\"kv\" id=\"revServices\">None selected</div>\r\n        </div>\r\n        <div class=\"summaryBox\">\r\n          <h4 style=\"margin:0 0 8px;\">Project</h4>\r\n          <div class=\"kv\" id=\"revProject\"></div>\r\n        </div>\r\n        <div class=\"summaryBox\">\r\n          <h4 style=\"margin:0 0 8px;\">Contact</h4>\r\n          <div class=\"kv\" id=\"revContact\"></div>\r\n        </div>\r\n        <div class=\"summaryBox\">\r\n          <h4 style=\"margin:0 0 8px;\">Details</h4>\r\n          <div class=\"kv\" id=\"revDetails\"></div>\r\n        </div>\r\n        <div class=\"summaryBox\" style=\"grid-column:1/-1;\">\r\n          <h4 style=\"margin:0 0 8px;\">Requirements</h4>\r\n          <div class=\"kv\" id=\"revReq\">No requirements provided</div>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </div>\r\n\r\n\r\n</body>\r\n</html>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-5cd62a3f e-flex e-con-boxed e-con e-parent\" data-id=\"5cd62a3f\" data-element_type=\"container\" data-e-type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-695aaaac elementor-widget__width-initial elementor-widget elementor-widget-heading\" data-id=\"695aaaac\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<p class=\"elementor-heading-title elementor-size-default\">Why Contact Zoot Web Agency in 2026\n</p>\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-e40a360 elementor-widget__width-initial elementor-widget elementor-widget-text-editor\" data-id=\"e40a360\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t\t\t\t\t\t<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">When you contact Zoot Web Agency, you&#8217;re not filling out a form into a void. A real strategist reviews your project and responds within one business day.</p><p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">We ask the right questions upfront. So by the time we talk, we already have a direction in mind for you.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-31a45b2d elementor-widget__width-initial elementor-widget elementor-widget-heading\" data-id=\"31a45b2d\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<span class=\"elementor-heading-title elementor-size-default\">Built on Strategies That Actually Work\n</span>\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-12519559 elementor-widget__width-initial elementor-widget elementor-widget-text-editor\" data-id=\"12519559\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t\t\t\t\t\t<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">Every recommendation we make follows the official guidelines recommended by Google for local businesses and digital marketing best practices.</p><p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">So when you contact Zoot Web Agency, you know the work we do won&#8217;t put your site at risk. We build for the long game.</p><p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">That matters more than most people realize. Short-term tricks fade, but solid strategy compounds.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-2ab039de elementor-widget__width-initial elementor-widget elementor-widget-heading\" data-id=\"2ab039de\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<p class=\"elementor-heading-title elementor-size-default\">Take the First Step</p>\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-5b6c272 elementor-widget__width-initial elementor-widget elementor-widget-text-editor\" data-id=\"5b6c272\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t\t\t\t\t\t<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">Contact <a href=\"/\">Zoot Web Agency</a> today and use the form above to share your project details. The consultation is free, the conversation is honest, and there&#8217;s no obligation to move forward.</p><p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">But most people do, because the clarity alone is worth it.<br /><br />Our strategies follow the official guidelines recommended by <a href=\"https://share.google/bP2c5bjmYLBmpXtDV\" target=\"_blank\" rel=\"noopener\">Google for local businesses</a> and digital marketing best practices.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-e57cab7 elementor-hidden-desktop elementor-hidden-laptop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-image\" data-id=\"e57cab7\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"800\" height=\"566\" src=\"/uploads/2026/03/geralt-seo-2051641_1920-1024x724.jpg\" class=\"attachment-large size-large wp-image-9060\" alt=\"Contact Zoot Web Agency\" srcset=\"/uploads/2026/03/geralt-seo-2051641_1920-1024x724.jpg 1024w, /uploads/2026/03/geralt-seo-2051641_1920-600x424.jpg 600w, /uploads/2026/03/geralt-seo-2051641_1920-300x212.jpg 300w, /uploads/2026/03/geralt-seo-2051641_1920-768x543.jpg 768w, /uploads/2026/03/geralt-seo-2051641_1920-1536x1086.jpg 1536w, /uploads/2026/03/geralt-seo-2051641_1920.jpg 1920w\" sizes=\"(max-width: 800px) 100vw, 800px\" title=\"\">\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-f242a2a e-flex e-con-boxed e-con e-parent\" data-id=\"f242a2a\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-d97aee9 elementor-widget elementor-widget-html\" data-id=\"d97aee9\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"html.default\">\n\t\t\t\t\t<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d38689.04205655143!2d72.99856!3d19.076542500000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xac0a1a4c394606af%3A0x780e37616a35175f!2sZoot%20Digital%20Marketing%20Private%20Limited!5e1!3m2!1sen!2sin!4v1773826220582!5m2!1sen!2sin\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t"
+}

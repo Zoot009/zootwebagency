@@ -1,0 +1,17 @@
+[
+  {
+    "source": "/arlington/",
+    "destination": "/arlington-digital-marketing-services/",
+    "permanent": true
+  },
+  {
+    "source": "/social-media-marketing/",
+    "destination": "/social-media-management/",
+    "permanent": true
+  },
+  {
+    "source": "/wp-booking-calendar/",
+    "destination": "/",
+    "permanent": true
+  }
+]

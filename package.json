@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "import": "node scripts/import-wp.mjs",
+    "check-seo": "node scripts/check-seo.mjs"
   },
   "dependencies": {
     "next": "16.3.8",
