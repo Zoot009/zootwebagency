@@ -1,21 +1,107 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+/* Design tokens, taken from the live Elementor kit (post-21) and header/footer templates.
+   Reuse these; don't add new hex values. */
+@theme {
+  /* Elementor breakpoints: mobile ≤767, tablet ≤1024, laptop ≤1366. md/lg/xl start right after. */
+  --breakpoint-*: initial;
+  --breakpoint-sm: 640px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 1025px;
+  --breakpoint-xl: 1367px;
+  --breakpoint-2xl: 1536px;
+
+  --font-sans: var(--nf-manrope), sans-serif; /* body text */
+  --font-display: var(--nf-dm-sans), sans-serif; /* h1, h3–h5 */
+  --font-tight: var(--nf-inter-tight), sans-serif; /* nav, menus */
+  --font-script: var(--nf-amita), cursive; /* accent words in headlines */
+  --font-poppins: var(--nf-poppins), sans-serif; /* contact dropdown titles */
+
+  /* Kit global colors */
+  --color-ink: #040e1e; /* page background */
+  --color-navy: #091028; /* header bar, button text */
+  --color-navy-2: #040f42;
+  --color-heading: #d2cfcf; /* headings, links */
+  --color-body: #c7c2c2; /* body text */
+  --color-blue: #008afc;
+  --color-blue-2: #119cff;
+  --color-blue-3: #0b71d9;
+  --color-cyan: #97f8f4;
+  --color-lime: #9dff00;
+  --color-orange: #f58300;
+  --color-magenta: #d400f5;
+  --color-line: #d5dfff5e; /* footer rules */
+  /* Header menus and footer (template-level colors) */
+  --color-menu: #091531; /* mega menu panels */
+  --color-menu-card: #11556f;
+  --color-menu-icon: #054281;
+  --color-menu-title: #e7e7e7;
+  --color-menu-link: #adadad;
+  --color-menu-muted: #b3b3b3;
+  --color-menu-lede: #dddddd;
+  --color-menu-partners: #557ca3;
+  --color-menu-contact: #0e2852;
+  --color-menu-hover: #0430b5;
+  --color-menu-current: #707070; /* current page in the desktop menu */
+  --color-footer-icon: #0bd5ff;
+  --color-footer-text: #d1d1d1;
+  --color-footer-link: #dce7f0;
+
+  --container-site: 1140px; /* Elementor boxed container */
+  --container-footer: 1400px;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+@layer base {
+  /* Kit typography; sizes step down at laptop (≤1366), tablet (≤1024), mobile (≤767). */
+  :root {
+    --h1: 57px;
+    --h2: 56px;
+    --h3: 45px;
+    --h4: 23px;
+    --h6: 15px;
+  }
+  @media (max-width: 1366px) {
+    :root { --h1: 63px; --h2: 60px; --h3: 39px; }
+  }
+  @media (max-width: 1024px) {
+    :root { --h1: 52px; --h2: 47px; --h3: 33px; --h4: 22px; --h6: 14px; }
+  }
+  @media (max-width: 767px) {
+    :root { --h1: 43px; --h2: 40px; --h3: 31px; --h4: 21px; --h6: 13px; }
+  }
+
+  body {
+    background: var(--color-ink);
+    color: var(--color-body);
+    font-family: var(--font-sans);
+    font-size: 14px;
+    line-height: 2.1;
+    letter-spacing: 0.5px;
+  }
+  a { color: var(--color-heading); }
+  h1, h2, h3, h4, h5, h6 { color: var(--color-heading); }
+  h1 { font: 500 var(--h1) / 1.2 var(--font-display); letter-spacing: -1px; }
+  h2 { font: 700 var(--h2) / 1.2 var(--font-sans); letter-spacing: -2px; }
+  h3 { font: 200 var(--h3) / 1.5 var(--font-display); letter-spacing: -1px; }
+  h4 { font: 400 var(--h4) / 1.3 var(--font-display); letter-spacing: -0.3px; }
+  h5 { font: 700 19px / 1.3 var(--font-display); letter-spacing: -0.5px; }
+  h6 { font: 400 var(--h6) / normal var(--font-sans); letter-spacing: -0.1px; }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+/* Kit button: navy text on a blue→cyan gradient. */
+@utility btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 15px 30px;
+  border-radius: 12px;
+  background-image: linear-gradient(134deg, var(--color-blue) 27%, var(--color-cyan) 100%);
+  color: var(--color-navy);
+  font: 600 15px / normal var(--font-sans);
+  letter-spacing: 0.3px;
+  cursor: pointer;
+  &:hover, &:focus-visible { background-image: linear-gradient(132deg, var(--color-blue) 0%, var(--color-cyan) 100%); }
+  @media (max-width: 1366px) { font-size: 14px; }
 }
 
 /* Raw Elementor HTML rendered by GenericPage: just keep it readable until a template replaces it. */
