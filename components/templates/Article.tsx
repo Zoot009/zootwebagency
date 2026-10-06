@@ -1,7 +1,11 @@
 import type { Page } from "@/lib/content";
-import GenericPage from "./GenericPage";
+import Elementor from "@/components/sections/ArticleElementor";
 
-// TODO(owner): rebuild to match the live design. See CLAUDE.md.
+// "What is / what are" pages and blog posts: the Elementor layout rebuilt in Tailwind (see ArticleElementor.tsx).
 export default function Article({ page }: { page: Page }) {
-  return <GenericPage page={page} />;
+  return (
+    <main className="flex flex-1 flex-col">
+      <Elementor page={page} />
+    </main>
+  );
 }

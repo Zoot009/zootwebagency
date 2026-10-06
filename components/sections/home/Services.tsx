@@ -72,7 +72,8 @@ export function Growth({ s }: { s: S<"growth"> }) {
     <section className="bg-night-4 pt-[90px] pb-[50px] max-md:pt-[50px]">
       <div className={container}>
         <div className="grid items-start gap-5 md:grid-cols-2 md:gap-10">
-          <Image src={s.image.src} alt={s.image.alt} width={s.image.width} height={s.image.height} className="h-auto w-full rounded-[11px]" />
+          {/* WP's <img> for this Elementor thumbnail has no width/height (file is 500×320); h-auto keeps the real ratio. */}
+          <Image src={s.image.src} alt={s.image.alt} width={s.image.width ?? 500} height={s.image.height ?? 320} className="h-auto w-full rounded-[11px]" />
           <div className="flex flex-col gap-11 max-md:gap-0">
             <Headline h={s.title} className={`${sectionTitle} max-md:text-[22px]/[1.5]`} />
             <Rich html={s.body} />

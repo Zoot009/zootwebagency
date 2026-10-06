@@ -21,6 +21,8 @@ export type Page = {
   footer: { sections: { heading: string; links: [string, string][] }[] } | null;
   home?: HomeSection[]; // family "home" only: structured sections (scripts/extract-home.mjs)
   layoutCss?: string; // family "generic" only: Elementor layout values for the raw HTML (scripts/elementor-css.mjs)
+  // family "article" only: Elementor element id -> { "part prop@breakpoint": value } from post-<id>.css
+  layout?: Record<string, Record<string, string>>;
 };
 
 const DIR = "content/pages";
