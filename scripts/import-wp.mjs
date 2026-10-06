@@ -2,7 +2,11 @@
 // Re-runnable: overwrites generated files. Usage: node scripts/import-wp.mjs
 import { mkdir, writeFile, rm, access } from "node:fs/promises";
 import { dirname } from "node:path";
+import { parse } from "node-html-parser";
 import { decode, parseHead } from "./wp-head.mjs";
+import { extractHome } from "./extract-home.mjs";
+import { kitVars, pageCss, staticWidgets } from "./elementor-css.mjs";
+import { iconCss, loadIconFonts } from "./icon-fonts.mjs";
 
 const WP = "https://powderblue-gaur-774652.hostingersite.com";
 // Final production domain. Canonicals/OG URLs are rewritten from WP to this. Change at cutover.
@@ -64,7 +68,7 @@ const CSS_MEDIA = { "": "", "(min-width:768px)": "@min768", "(max-width:1366px)"
   "(max-width:767px)": "@mobile", "(max-width:1366px)and(min-width:768px)": "@laptop-tablet" };
 
 async function elementorLayout(id) {
-  const res = await get(`${WP}/wp-content/uploads/elementor/css/post-${id}.css`).catch(() => null);
+  const res = await get(`${CSS}/post-${id}.css`).catch(() => null);
   if (!res) return undefined;
   const layout = {};
   let media = "";
@@ -84,6 +88,18 @@ async function elementorLayout(id) {
   return layout;
 }
 
+// The rendered page's footer: null if WP shows none; otherwise its per-page link sections
+// (Rank Math "Manual Footer Internal Links", e.g. "Digital Marketing Cities"), often empty.
+function footer(page) {
+  const dom = parse(page);
+  if (!dom.querySelector('[data-elementor-type="footer"]')) return null;
+  const sections = dom.querySelectorAll(".mfilm-footer-links__section").map((s) => ({
+    heading: s.querySelector(".mfilm-footer-links__heading")?.text.trim() ?? "", // some sections have none
+    links: s.querySelectorAll(".mfilm-footer-links__nav a").map((a) => [a.text.trim(), localize(a.getAttribute("href"))]),
+  }));
+  return { sections };
+}
+
 async function pool(items, n, fn) {
   const queue = [...items];
   await Promise.all(Array.from({ length: n }, async () => {
@@ -100,16 +116,43 @@ console.log(`${pages.length} pages, ${posts.length} posts`);
 await rm(OUT, { recursive: true, force: true });
 await mkdir(OUT, { recursive: true });
 
+// WP (Rank Math) redirects this URL elsewhere: keep the redirect. Returns true if it redirected.
+function addRedirect(path, res) {
+  if (res.status < 300 || res.status >= 400) return false;
+  const to = new URL(res.headers.get("location"), WP);
+  redirects.push({ source: path, destination: to.origin === WP ? to.pathname + to.search : to.href, permanent: res.status === 301 || res.status === 308 });
+  return true;
+}
+
+// Header/footer links that aren't WP pages but redirect on WP (e.g. menu "Contact Us" -> /contact/).
+const CHROME_LINKS = ["/contact/"];
+// Images used only as Elementor CSS backgrounds (footer, homepage sections), so they never show up in page content.
+const CSS_UPLOADS = [
+  "2025/08/BG-013.jpg", // footer
+  "2026/01/ChatGPT-Image-Jan-13-2026-12_09_59-PM.png", // home: AI visibility, FAQ
+  "2025/08/BG-014.jpg", // home: process card
+  "2025/08/BG-011.jpg", // home: testimonials heading
+  "2025/08/Asset-045.png", // home: closing CTA
+];
+for (const f of CSS_UPLOADS) uploads.add(`${WP}/wp-content/uploads/${f}`);
+for (const path of CHROME_LINKS) addRedirect(path, await get(WP + path, 4, "manual"));
+
+// Elementor CSS values for GenericPage (see scripts/elementor-css.mjs). Kit 21 = site-wide globals.
+const CSS = `${WP}/wp-content/uploads/elementor/css`;
+const kitCss = kitVars(await (await get(`${CSS}/post-21.css`)).text(), localize);
+await loadIconFonts(WP, get);
+const elementorCss = async (html) => {
+  const ids = [...new Set([...html.matchAll(/data-elementor-id="(\d+)"/g)].map((m) => m[1]))];
+  const parts = await Promise.all(ids.map((id) => get(`${CSS}/post-${id}.css`).then((r) => r.text()).catch(() => "")));
+  return kitCss + iconCss(html) + parts.map((c) => pageCss(c, localize)).join("");
+};
+
 await pool([...pages, ...posts], 4, async (item) => {
   const path = new URL(item.link).pathname;
   const res = await get(item.link, 4, "manual");
-  if (res.status >= 300 && res.status < 400) {
-    // WP (Rank Math) redirects this page elsewhere: keep the redirect, not the page.
-    const to = new URL(res.headers.get("location"), WP);
-    redirects.push({ source: path, destination: to.origin === WP ? to.pathname + to.search : to.href, permanent: res.status === 301 || res.status === 308 });
-    return;
-  }
-  const head = parseHead(await res.text());
+  if (addRedirect(path, res)) return;
+  const page = await res.text();
+  const head = parseHead(page);
   const html = localize(item.content.rendered).replace(/<script[\s\S]*?<\/script>/g, "");
   const doc = {
     path,
@@ -127,7 +170,13 @@ await pool([...pages, ...posts], 4, async (item) => {
     },
     jsonLd: JSON.parse(toSite(JSON.stringify(head.jsonLd))),
     html,
+    footer: footer(page),
   };
+  if (doc.family === "home") doc.home = extractHome(html, localize);
+  if (doc.family === "generic") {
+    doc.html = staticWidgets(html);
+    doc.layoutCss = await elementorCss(html);
+  }
   if (doc.family === "article") doc.layout = await elementorLayout(item.id);
   const file = path === "/" ? "index" : path.replace(/^\/|\/$/g, "").replaceAll("/", "__");
   await writeFile(`${OUT}/${file}.json`, JSON.stringify(doc, null, 2) + "\n");

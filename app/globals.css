@@ -1,23 +1,349 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+/* Design tokens, taken from the live Elementor kit (post-21) and header/footer templates.
+   Reuse these; don't add new hex values. */
+@theme {
+  /* Elementor breakpoints: mobile ≤767, tablet ≤1024, laptop ≤1366. md/lg/xl start right after. */
+  --breakpoint-*: initial;
+  --breakpoint-sm: 640px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 1025px;
+  --breakpoint-xl: 1367px;
+  --breakpoint-2xl: 1536px;
+
+  --font-sans: var(--nf-manrope), sans-serif; /* body text */
+  --font-display: var(--nf-dm-sans), sans-serif; /* h1, h3–h5 */
+  --font-tight: var(--nf-inter-tight), sans-serif; /* nav, menus */
+  --font-script: var(--nf-amita), cursive; /* accent words in headlines */
+  --font-poppins: var(--nf-poppins), sans-serif; /* contact dropdown titles */
+  --font-lato: var(--nf-lato), sans-serif; /* testimonials */
+  --font-nunito: var(--nf-nunito), sans-serif; /* small caps labels */
+  --font-inter: var(--nf-inter), sans-serif; /* generic pages */
+  --font-archivo: var(--nf-archivo), sans-serif; /* generic pages */
+
+  /* Kit global colors */
+  --color-ink: #040e1e; /* page background */
+  --color-navy: #091028; /* header bar, button text */
+  --color-navy-2: #040f42;
+  --color-heading: #d2cfcf; /* headings, links */
+  --color-body: #c7c2c2; /* body text */
+  --color-blue: #008afc;
+  --color-blue-2: #119cff;
+  --color-blue-3: #0b71d9;
+  --color-cyan: #97f8f4;
+  --color-lime: #9dff00;
+  --color-orange: #f58300;
+  --color-magenta: #d400f5;
+  --color-line: #d5dfff5e; /* footer rules */
+  /* Header menus and footer (template-level colors) */
+  --color-menu: #091531; /* mega menu panels */
+  --color-menu-card: #11556f;
+  --color-menu-icon: #054281;
+  --color-menu-title: #e7e7e7;
+  --color-menu-link: #adadad;
+  --color-menu-muted: #b3b3b3;
+  --color-menu-lede: #dddddd;
+  --color-menu-partners: #557ca3;
+  --color-menu-contact: #0e2852;
+  --color-menu-hover: #0430b5;
+  --color-menu-current: #707070; /* current page in the desktop menu */
+  --color-footer-icon: #0bd5ff;
+  --color-footer-text: #d1d1d1;
+  --color-footer-link: #dce7f0;
+
+  /* Homepage section surfaces and accents (page 8461) */
+  --color-night: #01061c; /* hero, stats */
+  --color-night-2: #01071f; /* what-are, team */
+  --color-night-3: #080e25; /* why-choose, trusted */
+  --color-night-4: #030b1d; /* growth */
+  --color-night-5: #0b1220; /* projects */
+  --color-night-6: #04021a; /* AI visibility */
+  --color-night-7: #050e22; /* process */
+  --color-night-8: #03021a; /* testimonials */
+  --color-night-9: #111834; /* FAQ */
+  --color-hero-bar: #30455f; /* website bar */
+  --color-hero-input: #132149;
+  --color-report: #183a6b; /* "Get Report" gradient start (→ blue-3) */
+  --color-stat: #3a6df0;
+  --color-stat-label: #bebdbd;
+  --color-role: #84b9ef; /* team roles */
+  --color-tile: #1c2242; /* service tiles */
+  --color-tile-hover: #152158;
+  --color-tile-hover-2: #001655;
+  --color-tile-icon: #94b8dd;
+  --color-stat-card: #06132e;
+  --color-counter: #4b97e4;
+  --color-counter-title: #e2e2e2;
+  --color-tab-shadow: #023768;
+  --color-process: #0e0257; /* process card overlay gradient start (→ black) */
+  --color-testimonial: #193852;
+  --color-faq: #060a27;
+  --color-cta-accent: #0600d1;
+
+  --container-site: 1140px; /* Elementor boxed container */
+  --container-footer: 1400px;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+@layer base {
+  /* Kit typography; sizes step down at laptop (≤1366), tablet (≤1024), mobile (≤767). */
+  :root {
+    --h1: 57px;
+    --h2: 56px;
+    --h3: 45px;
+    --h4: 23px;
+    --h6: 15px;
+  }
+  @media (max-width: 1366px) {
+    :root { --h1: 63px; --h2: 60px; --h3: 39px; }
+  }
+  @media (max-width: 1024px) {
+    :root { --h1: 52px; --h2: 47px; --h3: 33px; --h4: 22px; --h6: 14px; }
+  }
+  @media (max-width: 767px) {
+    :root { --h1: 43px; --h2: 40px; --h3: 31px; --h4: 21px; --h6: 13px; }
+  }
+
+  body {
+    background: var(--color-ink);
+    color: var(--color-body);
+    font-family: var(--font-sans);
+    font-size: 14px;
+    line-height: 2.1;
+    letter-spacing: 0.5px;
+  }
+  a { color: var(--color-heading); }
+  h1, h2, h3, h4, h5, h6 { color: var(--color-heading); }
+  h1 { font: 500 var(--h1) / 1.2 var(--font-display); letter-spacing: -1px; }
+  h2 { font: 700 var(--h2) / 1.2 var(--font-sans); letter-spacing: -2px; }
+  h3 { font: 200 var(--h3) / 1.5 var(--font-display); letter-spacing: -1px; }
+  h4 { font: 400 var(--h4) / 1.3 var(--font-display); letter-spacing: -0.3px; }
+  h5 { font: 700 19px / 1.3 var(--font-display); letter-spacing: -0.5px; }
+  h6 { font: 400 var(--h6) / normal var(--font-sans); letter-spacing: -0.1px; }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+/* Kit button: navy text on a blue→cyan gradient. */
+@utility btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 15px 30px;
+  border-radius: 12px;
+  background-image: linear-gradient(134deg, var(--color-blue) 27%, var(--color-cyan) 100%);
+  color: var(--color-navy);
+  font: 600 15px / normal var(--font-sans);
+  letter-spacing: 0.3px;
+  cursor: pointer;
+  &:hover, &:focus-visible { background-image: linear-gradient(132deg, var(--color-blue) 0%, var(--color-cyan) 100%); }
+  @media (max-width: 1366px) { font-size: 14px; }
 }
 
-/* Raw Elementor HTML rendered by GenericPage: just keep it readable until a template replaces it. */
-.wp-content img { max-width: 100%; height: auto; }
-.wp-content { max-width: 1200px; margin-inline: auto; padding-inline: 16px; }
+/* Raw Elementor HTML (GenericPage). Our own structural rules for Elementor's containers and widgets;
+   each page's imported values (page.layoutCss, unlayered) override these. Breakpoints match Elementor. */
+@layer components {
+  /* Hello Elementor theme basics that Tailwind's preflight removed */
+  .wp-content :where(p) { margin-block: 0 0.9rem; }
+  .wp-content :where(h1, h2, h3, h4, h5, h6) { margin-block: 0.5rem 1rem; }
+  .wp-content :where(ul) { list-style: disc; padding-inline-start: 40px; }
+  .wp-content :where(ol) { list-style: decimal; padding-inline-start: 40px; }
+  .wp-content :where(img, svg, video, iframe) { display: inline-block; vertical-align: middle; }
+  .wp-content :where(img) { max-width: 100%; height: auto; }
+  .wp-content :where(iframe) { max-width: 100%; }
+  /* Decorative absolute shapes and full-width blocks with margins overhang on WP too; WP doesn't scroll sideways. */
+  main.wp-content { overflow-x: clip; }
+  /* Elementor sizes inline icon SVGs with CSS (1em); ones with a width attribute keep it */
+  .wp-content :where(svg:not([width])) { width: 1em; height: 1em; fill: currentColor; }
+  .wp-content :where(.elementskit-stars, .ekit-wid-con ul) { list-style: none; padding: 0; margin: 0; display: flex; gap: 4px; }
+  .wp-content :where(a) { color: var(--color-heading); }
+  .wp-content :where(button) { cursor: pointer; }
+
+  /* Containers (flexbox + CSS-grid "e-con") */
+  .wp-content .e-con {
+    --display: flex; --flex-direction: column; --flex-wrap: nowrap; --justify-content: normal; --align-items: normal;
+    --align-content: normal; --width: 100%; --min-height: initial; --height: auto; --text-align: initial;
+    --margin-top: 0px; --margin-right: 0px; --margin-bottom: 0px; --margin-left: 0px;
+    --padding-top: 10px; --padding-right: 10px; --padding-bottom: 10px; --padding-left: 10px;
+    --position: relative; --overflow: visible; --gap: 20px; --row-gap: 20px; --column-gap: 20px;
+    --border-radius: 0; --border-style: initial; --border-color: initial;
+    --border-top-width: 0px; --border-right-width: 0px; --border-bottom-width: 0px; --border-left-width: 0px;
+    --overlay-opacity: 1; --flex-wrap-mobile: wrap; --grid-auto-flow: row;
+    --e-con-grid-template-columns: repeat(3, 1fr); --e-con-grid-template-rows: repeat(2, 1fr);
+    --container-widget-width: 100%; --container-widget-flex-grow: 0; --container-widget-align-self: initial;
+    --content-width: min(100%, var(--container-max-width, 1140px));
+    display: var(--display);
+    position: var(--position);
+    isolation: isolate;
+    width: var(--width);
+    min-width: 0;
+    min-height: var(--min-height);
+    height: var(--height);
+    overflow: var(--overflow);
+    border-radius: var(--border-radius);
+    border-style: var(--border-style);
+    border-color: var(--border-color);
+    border-width: var(--border-top-width) var(--border-right-width) var(--border-bottom-width) var(--border-left-width);
+    margin: var(--margin-top) var(--margin-right) var(--margin-bottom) var(--margin-left);
+    padding-inline: var(--padding-left) var(--padding-right);
+    text-align: var(--text-align);
+  }
+  /* Top-level sections center themselves */
+  .wp-content [data-elementor-id] > .e-con { --margin-left: auto; --margin-right: auto; max-width: min(100%, var(--width)); }
+  .wp-content .e-con-full,
+  .wp-content .e-con > .e-con-inner { padding-block: var(--padding-top) var(--padding-bottom); gap: var(--row-gap) var(--column-gap); }
+  .wp-content .e-con > .e-con-inner {
+    display: var(--display); width: 100%; max-width: var(--content-width); height: 100%; margin: 0 auto; text-align: var(--text-align);
+  }
+  .wp-content .e-con-boxed.e-flex { flex-direction: column; flex-wrap: nowrap; }
+  .wp-content .e-con-full.e-flex,
+  .wp-content .e-con.e-flex > .e-con-inner {
+    flex-direction: var(--flex-direction); flex-wrap: var(--flex-wrap); justify-content: var(--justify-content);
+    align-items: var(--align-items); align-content: var(--align-content);
+  }
+  .wp-content .e-con.e-flex > .e-con-inner { flex: 1 1 auto; }
+  .wp-content .e-con-full.e-grid,
+  .wp-content .e-con.e-grid > .e-con-inner {
+    grid-template-columns: var(--e-con-grid-template-columns); grid-template-rows: var(--e-con-grid-template-rows);
+    grid-auto-flow: var(--grid-auto-flow); justify-items: var(--justify-items); align-items: var(--align-items);
+  }
+  .wp-content .e-con-boxed.e-grid { grid-template-columns: 1fr; grid-template-rows: 1fr; }
+  /* Background overlay layer (page values set its image/color/opacity) */
+  .wp-content .e-con::before {
+    content: var(--background-overlay); position: absolute; inset: 0; z-index: -1;
+    opacity: var(--overlay-opacity); border-radius: var(--border-radius); pointer-events: none;
+  }
+  /* Children of a flex/grid container */
+  .wp-content .elementor-element {
+    --flex-basis: initial; --flex-grow: initial; --flex-shrink: initial; --order: initial; --align-self: initial;
+    flex-basis: var(--flex-basis); flex-grow: var(--flex-grow); flex-shrink: var(--flex-shrink);
+    order: var(--order); align-self: var(--align-self);
+  }
+  .wp-content .e-con > .elementor-widget,
+  .wp-content .e-con > .e-con-inner > .elementor-widget {
+    width: var(--container-widget-width); max-width: 100%; min-width: 0;
+    --flex-grow: var(--container-widget-flex-grow); --align-self: var(--container-widget-align-self);
+  }
+  .wp-content .elementor-widget__width-auto { width: auto; }
+  .wp-content .elementor-absolute { position: absolute; z-index: 1; }
+  @media (max-width: 767px) {
+    .wp-content .e-con.e-flex { --width: 100%; --flex-wrap: var(--flex-wrap-mobile); }
+  }
+
+  /* Elementor "hide on device" */
+  @media (min-width: 1367px) { .wp-content .elementor-hidden-desktop { display: none !important; } }
+  @media (min-width: 1025px) and (max-width: 1366px) { .wp-content .elementor-hidden-laptop { display: none !important; } }
+  @media (min-width: 768px) and (max-width: 1024px) { .wp-content .elementor-hidden-tablet { display: none !important; } }
+  @media (max-width: 767px) { .wp-content .elementor-hidden-mobile { display: none !important; } }
+
+  /* Widgets */
+  .wp-content .elementor-heading-title { margin: 0; padding: 0; }
+  .wp-content :not(h1, h2, h3, h4, h5, h6).elementor-headline { line-height: 1.2; }
+  .wp-content p.elementor-headline { margin: 1em 0; } /* browser default kept by WP */
+  .wp-content :not(h1, h2, h3, h4, h5, h6).elementor-heading-title { line-height: 1; }
+  .wp-content .elementor-widget-image { text-align: center; }
+  .wp-content .elementor-widget-image a { display: inline-block; }
+  .wp-content .elementor-align-left { text-align: left; }
+  .wp-content .elementor-align-center { text-align: center; }
+  .wp-content .elementor-align-right { text-align: right; }
+  .wp-content .elementor-align-justify .elementor-button { width: 100%; }
+  .wp-content .elementor-button {
+    display: inline-block; padding: 15px 30px; border-radius: 12px; line-height: 1; text-align: center;
+    font: 600 15px var(--font-sans); letter-spacing: 0.3px; color: var(--color-navy); fill: var(--color-navy);
+    background-image: linear-gradient(134deg, var(--color-blue) 27%, var(--color-cyan) 100%);
+  }
+  .wp-content .elementor-button-content-wrapper { display: flex; justify-content: center; align-items: center; gap: 5px; }
+  .wp-content .elementor-screen-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+
+  .wp-content .elementor-icon {
+    display: inline-block; line-height: 1; font-size: 50px; text-align: center; color: var(--color-body); fill: currentColor;
+  }
+  .wp-content .elementor-icon svg,
+  .wp-content .e-font-icon-svg,
+  .wp-content .ekit-svg-icon { width: 1em; height: 1em; display: block; fill: currentColor; }
+  .wp-content .elementor-view-stacked .elementor-icon { padding: 0.5em; background-color: var(--color-body); color: #fff; }
+  .wp-content .elementor-view-framed .elementor-icon { padding: 0.5em; border: 3px solid; }
+  .wp-content .elementor-shape-circle .elementor-icon { border-radius: 50%; }
+  .wp-content .elementor-shape-rounded .elementor-icon { border-radius: 10%; }
+
+  /* Icon box / image box: icon on top (default) or beside the text */
+  .wp-content .elementor-icon-box-wrapper,
+  .wp-content .elementor-image-box-wrapper { text-align: center; }
+  .wp-content .elementor-icon-box-icon { margin: 0 auto var(--icon-box-icon-margin, 15px); display: inline-flex; }
+  .wp-content .elementor-icon-box-title, .wp-content .elementor-image-box-title { margin: 0 0 var(--title-margin, 0); }
+  .wp-content .elementor-icon-box-title a { color: inherit; }
+  .wp-content .elementor-icon-box-description, .wp-content .elementor-image-box-description { margin: 0; }
+  .wp-content .elementor-image-box-img { display: inline-block; margin-bottom: 15px; }
+  .wp-content :is(.elementor-position-left, .elementor-position-inline-start, .elementor-position-right, .elementor-position-inline-end) :is(.elementor-icon-box-wrapper, .elementor-image-box-wrapper) {
+    display: flex; text-align: start; align-items: flex-start;
+  }
+  .wp-content :is(.elementor-position-right, .elementor-position-inline-end) :is(.elementor-icon-box-wrapper, .elementor-image-box-wrapper) { flex-direction: row-reverse; }
+  .wp-content :is(.elementor-position-left, .elementor-position-inline-start) .elementor-icon-box-icon { margin: 0 var(--icon-box-icon-margin, 15px) 0 0; flex: 0 0 auto; }
+  .wp-content :is(.elementor-position-left, .elementor-position-inline-start) .elementor-image-box-img { margin: 0 15px 0 0; flex: 0 0 auto; }
+  .wp-content .elementor-vertical-align-middle :is(.elementor-icon-box-wrapper, .elementor-image-box-wrapper) { align-items: center; }
+  .wp-content .elementor-vertical-align-bottom :is(.elementor-icon-box-wrapper, .elementor-image-box-wrapper) { align-items: flex-end; }
+  .wp-content .elementor-icon-box-content, .wp-content .elementor-image-box-content { flex-grow: 1; }
+  @media (max-width: 767px) {
+    .wp-content :is(.elementor-mobile-position-top, .elementor-mobile-position-block-start) :is(.elementor-icon-box-wrapper, .elementor-image-box-wrapper) { display: block; text-align: center; }
+    .wp-content :is(.elementor-mobile-position-top, .elementor-mobile-position-block-start) :is(.elementor-icon-box-icon, .elementor-image-box-img) { margin: 0 auto 15px; }
+  }
+
+  .wp-content .elementor-icon-list-items { list-style: none; margin: 0; padding: 0; }
+  .wp-content .elementor-icon-list-item, .wp-content .elementor-icon-list-item > a { display: flex; align-items: center; gap: 8px; }
+  .wp-content .elementor-inline-items { display: flex; flex-wrap: wrap; column-gap: 16px; }
+  .wp-content .elementor-icon-list-icon svg { width: var(--e-icon-list-icon-size, 14px); height: var(--e-icon-list-icon-size, 14px); fill: currentColor; }
+
+  /* Animated headline: show the final text, no animation shapes */
+  .wp-content .elementor-headline-dynamic-wrapper, .wp-content .elementor-headline-dynamic-text { display: inline-block; position: relative; }
+  .wp-content .elementor-headline-dynamic-text:not(.elementor-headline-text-active) { display: none; }
+  .wp-content .elementor-headline svg { display: none; }
+  .wp-content .elementor-headline-dynamic-text { color: var(--dynamic-text-color, var(--color-blue)); }
+
+  .wp-content .elementor-counter { display: flex; flex-direction: column-reverse; align-items: center; }
+  .wp-content .elementor-counter-number-wrapper { display: flex; font-size: 69px; font-weight: 600; line-height: 1; }
+  .wp-content .elementor-counter-title { font-size: 19px; line-height: 2.5; }
+  .wp-content .elementor-spacer-inner { height: var(--spacer-size, 50px); }
+  .wp-content .elementor-divider { display: flex; padding-block: var(--divider-gap, 15px); }
+  .wp-content .elementor-divider-separator { width: var(--divider-width, 100%); border-top: var(--divider-border-width, 1px) var(--divider-border-style, solid) var(--divider-color, currentColor); }
+  .wp-content .elementor-progress-wrapper { height: 30px; background: rgb(255 255 255 / 0.1); border-radius: 2px; overflow: hidden; }
+  .wp-content .elementor-progress-bar { display: flex; height: 100%; align-items: center; justify-content: space-between; padding-inline: 10px; background: var(--color-blue); color: #fff; }
+  .wp-content .e-rating-wrapper, .wp-content .e-rating .e-icon { display: flex; gap: 4px; }
+  .wp-content .e-rating .e-icon-unmarked { display: none; }
+  .wp-content .e-rating svg { width: var(--e-rating-icon-font-size, 18px); height: var(--e-rating-icon-font-size, 18px); fill: var(--e-rating-icon-marked-color, var(--color-orange)); }
+
+  /* Forms (Elementor Pro) */
+  .wp-content .elementor-form-fields-wrapper { display: flex; flex-wrap: wrap; gap: 10px 0; }
+  .wp-content .elementor-field-group { width: 100%; padding-inline: 5px; }
+  .wp-content .elementor-col-50 { width: 50%; }
+  .wp-content .elementor-field-textual { width: 100%; padding: 12px 20px; background: rgb(255 255 255 / 0.05); color: var(--color-heading); border-radius: 6px; }
+  .wp-content .elementor-form button[type="submit"] { width: 100%; }
+
+  /* ElementsKit widgets */
+  .wp-content .ekit_global_links { display: block; color: inherit; }
+  .wp-content .elementskit-infobox.media, .wp-content .elementskit-infobox.icon-lef-right-aligin { display: flex; gap: 15px; align-items: flex-start; }
+  .wp-content .elementskit-info-box-icon { display: inline-flex; align-items: center; justify-content: center; }
+  .wp-content .elementskit-info-box-icon svg { width: 1em; height: 1em; }
+  .wp-content .text-center { text-align: center; }
+  .wp-content .text-left { text-align: left; }
+  .wp-content .text-right { text-align: right; }
+  .wp-content .elementskit-funfact .funfact-icon svg { width: 1em; height: 1em; display: inline-block; }
+  .wp-content .elementskit-funfact .number-percentage-wraper { font-size: 40px; font-weight: 700; line-height: 1.2; }
+  .wp-content .elementskit-card-header a { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 15px 20px; color: inherit; }
+  .wp-content .elementskit-card-body { padding: 20px 30px; }
+  .wp-content .elementskit-accordion .collapse:not(.show) { display: none; }
+  .wp-content .ekit_accordion_icon_group svg { width: 1em; height: 1em; }
+  .wp-content .elementskit-card-header a:not(.collapsed) .ekit_accordion_normal_icon,
+  .wp-content .elementskit-card-header a.collapsed .ekit_accordion_active_icon { display: none; }
+  .wp-content .elementskit-section-title.text_fill > span { -webkit-background-clip: text; background-clip: text; color: transparent; }
+  .wp-content .elementskit-btn { display: inline-flex; align-items: center; gap: 8px; padding: 15px 30px; border-radius: 12px; }
+  .wp-content .elementskit-btn svg { width: 1em; height: 1em; fill: currentColor; }
+  /* ElementsKit / Elementor sliders: horizontal scroll-snap instead of Swiper */
+  .wp-content .swiper-wrapper { display: flex; gap: 30px; overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: none; }
+  .wp-content .swiper-slide { flex: 0 0 calc((100% - 60px) / 3); scroll-snap-align: start; }
+  @media (max-width: 1024px) { .wp-content .swiper-slide { flex-basis: calc((100% - 30px) / 2); } }
+  @media (max-width: 767px) { .wp-content .swiper-slide { flex-basis: 100%; } }
+  .wp-content .swiper-pagination, .wp-content .swiper-button-next, .wp-content .swiper-button-prev, .wp-content .swiper-lazy-preloader { display: none; }
+
+  /* Nested tabs */
+  .wp-content .e-n-tabs-heading { display: flex; flex-wrap: wrap; gap: 10px; }
+  .wp-content .e-n-tab-title { display: flex; align-items: center; gap: 10px; padding: 12px 20px; border: 1px solid rgb(255 255 255 / 0.1); border-radius: 6px; color: inherit; }
+  .wp-content .e-n-tab-title[aria-selected="true"] { border-color: var(--color-blue-2); }
+  .wp-content .e-n-tabs-content > .e-con:not(.e-active) { display: none; }
+}

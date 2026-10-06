@@ -5,6 +5,11 @@
     "permanent": true
   },
   {
+    "source": "/contact/",
+    "destination": "/contact-zoot-web-agency/",
+    "permanent": true
+  },
+  {
     "source": "/social-media-marketing/",
     "destination": "/social-media-management/",
     "permanent": true
