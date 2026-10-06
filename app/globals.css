@@ -80,6 +80,36 @@
   --color-faq: #060a27;
   --color-cta-accent: #0600d1;
 
+  /* City pages (cityHub/cityService: one shared Elementor layout). Values shared with the homepage use the tokens above. */
+  --color-ink-900: #04091f; /* section surfaces */
+  --color-ink-850: #060a14;
+  --color-ink-800: #0b0f1e;
+  --color-ink-700: #0e1627; /* case-study cards */
+  --color-ink-600: #111827; /* cards */
+  --color-line-card: #1e3a5f; /* card borders */
+  --color-line-glow: #119cff3d;
+  --color-line-quote: #f1f1f11f;
+  --color-line-faq: #797979;
+  --color-band: #2563eb; /* stats and CTA bands, icons */
+  --color-band-text: #bfdbfe;
+  --color-link: #3b82f6; /* breadcrumbs, hero subheading, metrics */
+  --color-muted: #94a3b8;
+  --color-card-text: #cbd5e1; /* intro photo card */
+  --color-snow: #f7f7f7;
+  --color-pill: #f1620a; /* "FREE STRATEGY SESSION" pill */
+  --color-pill-bg: #281b1d;
+  --color-field: #111974b0; /* audit form fields */
+  --color-name: #fafafa; /* testimonials */
+  --color-watermark: #2575fc33;
+  --color-star-quote: #ffb66f;
+  --color-dot: #ededed;
+  --color-dot-active: #62606b;
+  --color-faq-head: #b6bbdd0d; /* FAQ */
+  --color-faq-head-closed: #42487029;
+  --color-faq-icon: #fffcfc;
+  --color-faq-q: #ececec;
+  --color-faq-a: #a5a5a5;
+
   --container-site: 1140px; /* Elementor boxed container */
   --container-footer: 1400px;
 }
