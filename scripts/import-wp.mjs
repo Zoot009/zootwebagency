@@ -247,6 +247,22 @@ for (const path of ["/sitemap_index.xml", ...sitemaps.map((m) => new URL(m[1]).p
 // Rank Math Local SEO's KML file (listed in WP's sitemap), at the same URL.
 await writeFile("public/locations.kml", toSite(await (await get(`${WP}/locations.kml`)).text()));
 
+// WP's 404 page (its Elementor "error-404" template) for app/not-found.tsx: any missing URL returns it.
+// Not a route, so it lives outside content/pages (no sitemap entry, no static page).
+{
+  const res = await fetch(`${WP}/zoot-missing-page/`); // not get(): that throws on a 404
+  const page = await res.text();
+  const tpl = parse(page).querySelector('[data-elementor-type="error-404"]');
+  if (res.status !== 404 || !tpl) console.warn(`  404 page: got ${res.status}${tpl ? "" : " without an error-404 template"}, content/404.json not updated`);
+  else {
+    const head = parseHead(page);
+    const html = staticWidgets(localize(tpl.toString()).replace(/<script[\s\S]*?<\/script>/g, ""));
+    const doc = { path: "/404/", type: "page", wpId: Number(tpl.getAttribute("data-elementor-id")), family: "generic", wpTemplate: "", title: head.title, date: "", modified: "",
+      seo: { title: head.title, meta: head.meta }, jsonLd: [], html, footer: footer(page), layoutCss: await elementorCss(html) };
+    await writeFile("content/404.json", JSON.stringify(doc, null, 2) + "\n");
+  }
+}
+
 redirects.sort((a, b) => a.source.localeCompare(b.source));
 await writeFile("content/redirects.json", JSON.stringify(redirects, null, 2) + "\n");
 console.log(`${redirects.length} redirects (pages, links and sitemaps WP redirects) -> content/redirects.json`);

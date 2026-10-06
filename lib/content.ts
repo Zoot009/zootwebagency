@@ -74,6 +74,9 @@ export function getPage(slug: string[] = []): Page | undefined {
   return getAllPages().find((p) => p.path === path);
 }
 
+// WP's 404 page (its Elementor "error-404" template), for app/not-found.tsx. Not a route, so not in content/pages.
+export const getNotFound = (): Page => JSON.parse(readFileSync("content/404.json", "utf8"));
+
 // Rank Math <head> tags -> Next Metadata. Anything Next has no field for goes to `other`.
 export function toMetadata({ seo }: Page): Metadata {
   const m = new Map<string, string>();
