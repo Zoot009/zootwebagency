@@ -54,6 +54,36 @@ function toSite(str) {
   return str.replaceAll(`${WP}/wp-content/uploads/`, `${WP}/uploads/`).replaceAll(WP, SITE);
 }
 
+// Elementor keeps layout (grid columns, widths, backgrounds, ...) in post-<id>.css, not in the HTML.
+// Keep a whitelist per element as flat "part prop@breakpoint" keys; templates decide what to use.
+const CSS_PARTS = { "": "", ".e-con": "", ".elementor-element": "", ":not(.elementor-motion-effects-element-type-background)": "", "::before": "::before",
+  ".elementor-headline": "headline", ".elementor-headline-plain-text": "plain", ".elementor-headline-dynamic-text": "dynamic",
+  ".elementor-heading-title": "title", ".elementor-icon-box-title": "boxtitle", ".elementor-headline-dynamic-wrapper path": "marker", img: "img", a: "a" };
+const CSS_PROPS = /^(--display|--align-self|--(row-|column-)?gap|--e-con-grid-template-columns|--flex-direction|--flex-wrap|--width|--content-width|--padding-(top|bottom|left|right)|--margin-(top|left)|--min-height|--justify-content|--align-items|--overlay-opacity|--dynamic-text-color|border-(width|color)|background-(color|image|position|size)|color|font-(size|weight)|line-height|letter-spacing|stroke|text-align|margin|width)$/;
+const CSS_MEDIA = { "": "", "(min-width:768px)": "@min768", "(max-width:1366px)": "@laptop", "(max-width:1024px)": "@tablet",
+  "(max-width:767px)": "@mobile", "(max-width:1366px)and(min-width:768px)": "@laptop-tablet" };
+
+async function elementorLayout(id) {
+  const res = await get(`${WP}/wp-content/uploads/elementor/css/post-${id}.css`).catch(() => null);
+  if (!res) return undefined;
+  const layout = {};
+  let media = "";
+  // Tokens: "@media(...){", "selector{decls}", or the "}" closing a media block (Elementor never nests them).
+  for (const [, open, sels, body] of (await res.text()).matchAll(/(@media[^{]*)\{|([^{}]+)\{([^{}]*)\}|\}/g)) {
+    if (open || !sels) { media = open ? open.slice(6).replace(/\s+/g, "") : ""; continue; }
+    for (const sel of sels.split(",")) {
+      const [, el, part] = sel.trim().match(/\.elementor-element-([0-9a-f]+)\s*(.*)$/) ?? [];
+      const bp = CSS_MEDIA[media];
+      if (!el || !(part in CSS_PARTS) || bp === undefined) continue;
+      for (const decl of body.split(";")) {
+        const [prop, ...v] = decl.split(":");
+        if (CSS_PROPS.test(prop.trim())) (layout[el] ??= {})[`${CSS_PARTS[part]} ${prop.trim()}${bp}`.trim()] = localize(v.join(":").trim());
+      }
+    }
+  }
+  return layout;
+}
+
 async function pool(items, n, fn) {
   const queue = [...items];
   await Promise.all(Array.from({ length: n }, async () => {
@@ -98,6 +128,7 @@ await pool([...pages, ...posts], 4, async (item) => {
     jsonLd: JSON.parse(toSite(JSON.stringify(head.jsonLd))),
     html,
   };
+  if (doc.family === "article") doc.layout = await elementorLayout(item.id);
   const file = path === "/" ? "index" : path.replace(/^\/|\/$/g, "").replaceAll("/", "__");
   await writeFile(`${OUT}/${file}.json`, JSON.stringify(doc, null, 2) + "\n");
 });

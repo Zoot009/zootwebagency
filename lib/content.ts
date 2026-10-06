@@ -16,6 +16,8 @@ export type Page = {
   seo: { title: string; canonical?: string; meta: [string, string][] };
   jsonLd: object[];
   html: string;
+  // article only: Elementor element id -> { "part prop@breakpoint": value } from post-<id>.css
+  layout?: Record<string, Record<string, string>>;
 };
 
 const DIR = "content/pages";
