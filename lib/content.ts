@@ -7,7 +7,7 @@ export type Family = "home" | "service" | "cityHub" | "cityService" | "article" 
 
 export type Page = {
   path: string; // "/digital-marketing-services/seo-services/"
-  type: "page" | "post" | "category"; // category: theme-rendered post list, e.g. /category/blog/
+  type: "page" | "post" | "category" | "elementskit_content"; // category: theme-rendered post list, e.g. /category/blog/
   wpId: number;
   family: Family;
   wpTemplate: string;
