@@ -1,7 +1,67 @@
 [
   {
+    "source": "/arlington-digital-marketing-agency/ppc-agency/",
+    "destination": "/houston-digital-marketing-services/ppc-agency/",
+    "permanent": true
+  },
+  {
+    "source": "/arlington-digital-marketing-agency/seo-company/",
+    "destination": "/houston-digital-marketing-services/seo-company/",
+    "permanent": true
+  },
+  {
+    "source": "/arlington-digital-marketing-agency/social-media-agency/",
+    "destination": "/houston-digital-marketing-services/social-media-agency/",
+    "permanent": true
+  },
+  {
+    "source": "/arlington-digital-marketing-agency/web-design/",
+    "destination": "/digital-marketing-services/web-design/",
+    "permanent": true
+  },
+  {
+    "source": "/arlington-digital-marketing-services/ppc-agency/",
+    "destination": "/houston-digital-marketing-services/ppc-agency/",
+    "permanent": true
+  },
+  {
+    "source": "/arlington-digital-marketing-services/seo-company/",
+    "destination": "/houston-digital-marketing-services/seo-company/",
+    "permanent": true
+  },
+  {
+    "source": "/arlington-digital-marketing-services/social-media-agency/",
+    "destination": "/houston-digital-marketing-services/social-media-agency/",
+    "permanent": true
+  },
+  {
+    "source": "/arlington-digital-marketing-services/web-design/",
+    "destination": "/digital-marketing-services/web-design/",
+    "permanent": true
+  },
+  {
     "source": "/arlington/",
     "destination": "/arlington-digital-marketing-services/",
+    "permanent": true
+  },
+  {
+    "source": "/austin-digital-marketing-agency/austin-ppc-agency/",
+    "destination": "/austin-digital-marketing-agency/ppc-agency/",
+    "permanent": true
+  },
+  {
+    "source": "/career/",
+    "destination": "/career-at-digital-marketing-agency/",
+    "permanent": true
+  },
+  {
+    "source": "/category-sitemap.xml",
+    "destination": "/sitemap.xml",
+    "permanent": true
+  },
+  {
+    "source": "/contact-us/",
+    "destination": "/contact/",
     "permanent": true
   },
   {
@@ -10,13 +70,228 @@
     "permanent": true
   },
   {
+    "source": "/ecommerce-seo/",
+    "destination": "/digital-marketing-services/ecommerce-seo/",
+    "permanent": true
+  },
+  {
+    "source": "/elementskit_content-sitemap.xml",
+    "destination": "/sitemap.xml",
+    "permanent": true
+  },
+  {
+    "source": "/elementskit_template-sitemap.xml",
+    "destination": "/sitemap.xml",
+    "permanent": true
+  },
+  {
+    "source": "/enterprise-social-media/",
+    "destination": "/digital-marketing-services/enterprise-social-media/",
+    "permanent": true
+  },
+  {
+    "source": "/finance/",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/fitness-and-wellness/",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/franchise-digital-marketing/",
+    "destination": "/digital-marketing-services/franchise-digital-marketing/",
+    "permanent": true
+  },
+  {
+    "source": "/get-free-quote/",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/google-ads-management/",
+    "destination": "/digital-marketing-services/google-ads-management/",
+    "permanent": true
+  },
+  {
+    "source": "/google-business-profile-optimization/",
+    "destination": "/digital-marketing-services/google-business-profile-optimization/",
+    "permanent": true
+  },
+  {
+    "source": "/hospital-digital-marketing-agency/",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/jackonsville-digital-marketing-services/ppc-agency/",
+    "destination": "/houston-digital-marketing-services/ppc-agency/",
+    "permanent": true
+  },
+  {
+    "source": "/keyword-research-strategy/",
+    "destination": "/digital-marketing-services/keyword-research-strategy/",
+    "permanent": true
+  },
+  {
+    "source": "/link-building/",
+    "destination": "/digital-marketing-services/link-building/",
+    "permanent": true
+  },
+  {
+    "source": "/local-citation-building/",
+    "destination": "/digital-marketing-services/local-citation-building/",
+    "permanent": true
+  },
+  {
+    "source": "/local-sitemap.xml",
+    "destination": "/sitemap.xml",
+    "permanent": true
+  },
+  {
+    "source": "/on-page-seo/",
+    "destination": "/digital-marketing-services/on-page-seo/",
+    "permanent": true
+  },
+  {
+    "source": "/page-sitemap.xml",
+    "destination": "/sitemap.xml",
+    "permanent": true
+  },
+  {
+    "source": "/post-sitemap.xml",
+    "destination": "/sitemap.xml",
+    "permanent": true
+  },
+  {
+    "source": "/real-estate/",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/search-engine-marketing-sem/",
+    "destination": "/digital-marketing-services/search-engine-marketing-sem/",
+    "permanent": true
+  },
+  {
+    "source": "/seo-services/",
+    "destination": "/digital-marketing-services/seo-services/",
+    "permanent": true
+  },
+  {
+    "source": "/shopify-seo/",
+    "destination": "/digital-marketing-services/shopify-seo/",
+    "permanent": true
+  },
+  {
+    "source": "/shopify-web-design/",
+    "destination": "/digital-marketing-services/shopify-web-design-services/",
+    "permanent": true
+  },
+  {
+    "source": "/sitemap_index.xml",
+    "destination": "/sitemap.xml",
+    "permanent": true
+  },
+  {
+    "source": "/social-media-management/",
+    "destination": "/digital-marketing-services/social-media-management/",
+    "permanent": true
+  },
+  {
     "source": "/social-media-marketing/",
     "destination": "/social-media-management/",
     "permanent": true
   },
   {
+    "source": "/technical-seo-optimization/",
+    "destination": "/digital-marketing-services/technical-seo-optimization/",
+    "permanent": true
+  },
+  {
+    "source": "/technical-seo/",
+    "destination": "/digital-marketing-services/technical-seo-optimization/",
+    "permanent": true
+  },
+  {
+    "source": "/travel-and-tourism/",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/web-design/",
+    "destination": "/digital-marketing-services/web-design/",
+    "permanent": true
+  },
+  {
+    "source": "/website-design/",
+    "destination": "/digital-marketing-services/website-design/",
+    "permanent": true
+  },
+  {
+    "source": "/what-is-ai-seo/",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/what-is-ecommerce-seo/",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/what-is-enterprise-social-media-marketing/",
+    "destination": "/enterprise-social-media/",
+    "permanent": true
+  },
+  {
+    "source": "/what-is-franchise-digital-marketing/",
+    "destination": "/franchise-digital-marketing/",
+    "permanent": true
+  },
+  {
+    "source": "/what-is-franchise-social-media-marketing/",
+    "destination": "/austin-digital-marketing-agency/ppc-agency/",
+    "permanent": true
+  },
+  {
+    "source": "/what-is-search-engine-marketing/",
+    "destination": "/search-engine-marketing-sem/",
+    "permanent": true
+  },
+  {
+    "source": "/what-is-shopify-seo/",
+    "destination": "/shopify-seo/",
+    "permanent": true
+  },
+  {
+    "source": "/what-is-shopify-web-design/",
+    "destination": "/digital-marketing-services/shopify-web-design-services/",
+    "permanent": true
+  },
+  {
+    "source": "/what-is-social-media-brand-management/",
+    "destination": "/digital-marketing-services/social-media-brand-management/",
+    "permanent": true
+  },
+  {
+    "source": "/what-is-social-media-management/",
+    "destination": "/digital-marketing-services/social-media-management/",
+    "permanent": true
+  },
+  {
+    "source": "/what-is-youtube-ads-management/",
+    "destination": "/youtube-ads-management/",
+    "permanent": true
+  },
+  {
     "source": "/wp-booking-calendar/",
     "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/youtube-ads-management/",
+    "destination": "/digital-marketing-services/youtube-ads-management/",
     "permanent": true
   }
 ]

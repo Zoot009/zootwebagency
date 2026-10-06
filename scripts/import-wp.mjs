@@ -42,6 +42,7 @@ function family(path, type, hasChildren) {
   const parts = path.split("/").filter(Boolean);
   if (parts.length === 0) return "home";
   if (type === "category") return "generic"; // theme archive (post list); its 2-part path isn't a city page
+  if (type === "elementskit_content") return "generic"; // ElementsKit mega-menu panel, not a city page either
   if (type === "post" || /^what-(is|are)-/.test(parts[0])) return "article";
   if (parts[0] === "digital-marketing-services") return "service";
   if (parts.length >= 2) return "cityService";
@@ -121,9 +122,11 @@ const categories = (await getAll("categories")).filter((c) => c.count > 0).map((
   const newest = (k) => posts.filter((p) => p.categories.includes(c.id)).map((p) => p[k]).sort().at(-1);
   return { id: c.id, link: c.link, type: "category", template: "", title: { rendered: c.name }, date_gmt: newest("date_gmt"), modified_gmt: newest("modified_gmt") };
 });
+// ElementsKit mega-menu panels have public, indexable URLs on WP (Rank Math's sitemap lists them), so they're pages too.
+const ekit = (await getAll("elementskit-content")).map((p) => ({ ...p, type: "elementskit_content" }));
 const redirects = [];
 const parents = new Set(pages.map((p) => p.parent));
-console.log(`${pages.length} pages, ${posts.length} posts, ${categories.length} categories`);
+console.log(`${pages.length} pages, ${posts.length} posts, ${categories.length} categories, ${ekit.length} ElementsKit panels`);
 
 await rm(OUT, { recursive: true, force: true });
 await mkdir(OUT, { recursive: true });
@@ -167,7 +170,10 @@ function themeMain(path, page) {
   return main ? `<div class="site-main">${main.innerHTML}</div>` : "";
 }
 
-await pool([...pages, ...posts, ...categories], 4, async (item) => {
+const imported = new Set(); // paths written to content/pages
+const links = new Set(); // internal hrefs in page content and footer rows
+
+await pool([...pages, ...posts, ...categories, ...ekit], 4, async (item) => {
   const path = new URL(item.link).pathname;
   const res = await get(item.link, 4, "manual");
   if (addRedirect(path, res)) return;
@@ -179,7 +185,7 @@ await pool([...pages, ...posts, ...categories], 4, async (item) => {
     type: item.type,
     wpId: item.id,
     family: family(path, item.type, parents.has(item.id)),
-    wpTemplate: item.template,
+    wpTemplate: item.template ?? "",
     title: decode(item.title.rendered),
     date: item.date_gmt,
     modified: item.modified_gmt,
@@ -209,11 +215,41 @@ await pool([...pages, ...posts, ...categories], 4, async (item) => {
   }
   const file = path === "/" ? "index" : path.replace(/^\/|\/$/g, "").replaceAll("/", "__");
   await writeFile(`${OUT}/${file}.json`, JSON.stringify(doc, null, 2) + "\n");
+  imported.add(path);
+  for (const [, href] of doc.html.matchAll(/href="([^"]*)"/g)) links.add(href);
+  for (const s of doc.footer?.sections ?? []) for (const [, href] of s.links) links.add(href);
 });
+
+// Internal links (and redirect targets) that aren't pages here: WP answers many with a redirect (Rank Math,
+// old slugs), so keep it, following chains. Links that 404 on WP stay broken here too.
+const linkPath = (href) => {
+  const p = href.split(/[?#]/)[0];
+  if (!p.startsWith("/") || p.startsWith("/uploads/") || p.includes("//")) return null;
+  return p.endsWith("/") || /\.\w{2,5}$/.test(p) ? p : `${p}/`;
+};
+const tried = new Set();
+for (let todo = [...links, ...redirects.map((r) => r.destination)]; todo.length; ) {
+  const paths = [...new Set(todo.map(linkPath))].filter((p) => p && !tried.has(p) && !imported.has(p) && !redirects.some((r) => r.source === p));
+  todo = [];
+  await pool(paths, 4, async (p) => {
+    tried.add(p);
+    const res = await get(WP + p, 2, "manual").catch(() => null); // null: 404 on WP too
+    if (res && addRedirect(p, res)) todo.push(redirects.find((r) => r.source === p).destination);
+    else if (res) console.warn(`  ${p}: linked and live on WP, but not imported`);
+  });
+}
+
+// WP's sitemap URLs (Rank Math: an index plus one per type) -> our /sitemap.xml, so they don't 404 after the switch.
+const sitemaps = [...(await (await get(`${WP}/sitemap_index.xml`)).text()).matchAll(/<loc>([^<]+)<\/loc>/g)];
+for (const path of ["/sitemap_index.xml", ...sitemaps.map((m) => new URL(m[1]).pathname)])
+  redirects.push({ source: path, destination: "/sitemap.xml", permanent: true });
+
+// Rank Math Local SEO's KML file (listed in WP's sitemap), at the same URL.
+await writeFile("public/locations.kml", toSite(await (await get(`${WP}/locations.kml`)).text()));
 
 redirects.sort((a, b) => a.source.localeCompare(b.source));
 await writeFile("content/redirects.json", JSON.stringify(redirects, null, 2) + "\n");
-console.log(`${redirects.length} pages redirect elsewhere -> content/redirects.json`);
+console.log(`${redirects.length} redirects (pages, links and sitemaps WP redirects) -> content/redirects.json`);
 
 console.log(`downloading ${uploads.size} images`);
 let failed = 0;
