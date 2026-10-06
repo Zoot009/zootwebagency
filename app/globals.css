@@ -183,6 +183,13 @@
   .wp-content :where(ul) { list-style: disc; padding-inline-start: 40px; }
   .wp-content :where(ol) { list-style: decimal; padding-inline-start: 40px; }
   .wp-content :where(img, svg, video, iframe) { display: inline-block; vertical-align: middle; }
+  /* Hello theme templates (category archives, div.site-main): a centered column that steps up in width */
+  .wp-content .site-main { margin-inline: auto; width: 100%; }
+  @media (max-width: 575px) { .wp-content .site-main { padding-inline: 10px; } }
+  @media (min-width: 576px) { .wp-content .site-main { max-width: 500px; } }
+  @media (min-width: 768px) { .wp-content .site-main { max-width: 600px; } }
+  @media (min-width: 992px) { .wp-content .site-main { max-width: 800px; } }
+  @media (min-width: 1200px) { .wp-content .site-main { max-width: 1140px; } }
   .wp-content :where(img) { max-width: 100%; height: auto; }
   .wp-content :where(iframe) { max-width: 100%; }
   /* Decorative absolute shapes and full-width blocks with margins overhang on WP too; WP doesn't scroll sideways. */

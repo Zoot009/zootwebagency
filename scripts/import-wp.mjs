@@ -41,6 +41,7 @@ async function getAll(type) {
 function family(path, type, hasChildren) {
   const parts = path.split("/").filter(Boolean);
   if (parts.length === 0) return "home";
+  if (type === "category") return "generic"; // theme archive (post list); its 2-part path isn't a city page
   if (type === "post" || /^what-(is|are)-/.test(parts[0])) return "article";
   if (parts[0] === "digital-marketing-services") return "service";
   if (parts.length >= 2) return "cityService";
@@ -114,9 +115,15 @@ async function pool(items, n, fn) {
 
 const pages = (await getAll("pages")).map((p) => ({ ...p, type: "page" }));
 const posts = (await getAll("posts")).map((p) => ({ ...p, type: "post" }));
+// Category archives with posts (WP's sitemap lists them, e.g. /category/blog/). The theme renders them, so there's
+// no REST content: the post list comes from the page itself. Dates are the newest post's, as in Rank Math's sitemap.
+const categories = (await getAll("categories")).filter((c) => c.count > 0).map((c) => {
+  const newest = (k) => posts.filter((p) => p.categories.includes(c.id)).map((p) => p[k]).sort().at(-1);
+  return { id: c.id, link: c.link, type: "category", template: "", title: { rendered: c.name }, date_gmt: newest("date_gmt"), modified_gmt: newest("modified_gmt") };
+});
 const redirects = [];
 const parents = new Set(pages.map((p) => p.parent));
-console.log(`${pages.length} pages, ${posts.length} posts`);
+console.log(`${pages.length} pages, ${posts.length} posts, ${categories.length} categories`);
 
 await rm(OUT, { recursive: true, force: true });
 await mkdir(OUT, { recursive: true });
@@ -152,13 +159,21 @@ const elementorCss = async (html) => {
   return kitCss + iconCss(html) + parts.map((c) => pageCss(c, localize)).join("");
 };
 
-await pool([...pages, ...posts], 4, async (item) => {
+// A theme-rendered page (category archive): the content of its <main>. GenericPage supplies the <main>, and the
+// layout already uses id="content" (skip link), so it becomes a plain div.site-main.
+function themeMain(path, page) {
+  const main = parse(page).querySelector("main.site-main");
+  if (!main) console.warn(`  ${path}: no <main class="site-main">, page will be empty`);
+  return main ? `<div class="site-main">${main.innerHTML}</div>` : "";
+}
+
+await pool([...pages, ...posts, ...categories], 4, async (item) => {
   const path = new URL(item.link).pathname;
   const res = await get(item.link, 4, "manual");
   if (addRedirect(path, res)) return;
   const page = await res.text();
   const head = parseHead(page);
-  const html = localize(item.content.rendered).replace(/<script[\s\S]*?<\/script>/g, "");
+  const html = localize(item.content?.rendered ?? themeMain(path, page)).replace(/<script[\s\S]*?<\/script>/g, "");
   const doc = {
     path,
     type: item.type,
