@@ -6,7 +6,7 @@ import CityHub from "@/components/templates/CityHub";
 import CityService from "@/components/templates/CityService";
 import Article from "@/components/templates/Article";
 import GenericPage from "@/components/templates/GenericPage";
-import Footer from "@/components/sections/Footer";
+import Chrome from "@/components/sections/Chrome";
 
 // Every WordPress URL is rendered by this one route. Fix looks in the family template, not here.
 const templates: Record<Family, (props: { page: WpPage }) => React.ReactNode> = {
@@ -42,8 +42,9 @@ export default async function Page({ params }: PageProps<"/[[...slug]]">) {
           dangerouslySetInnerHTML={{ __html: JSON.stringify(ld).replace(/</g, "\\u003c") }}
         />
       ))}
-      <Template page={page} />
-      {page.footer && <Footer sections={page.footer.sections} />}
+      <Chrome page={page}>
+        <Template page={page} />
+      </Chrome>
     </>
   );
 }
