@@ -1,7 +1,2 @@
-import type { Page } from "@/lib/content";
-import GenericPage from "./GenericPage";
-
-// TODO(owner): rebuild to match the live design. See CLAUDE.md.
-export default function CityService({ page }: { page: Page }) {
-  return <GenericPage page={page} />;
-}
+// City service pages use the same Elementor layout as the city hubs.
+export { default } from "./CityHub";
