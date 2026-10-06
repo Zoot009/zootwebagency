@@ -170,6 +170,8 @@
 /* Raw Elementor HTML (GenericPage). Our own structural rules for Elementor's containers and widgets;
    each page's imported values (page.layoutCss, unlayered) override these. Breakpoints match Elementor. */
 @layer components {
+  /* WP kit sets body line-height as 2.1em: a fixed 29.4px that children inherit, not a ratio */
+  .wp-content { line-height: 2.1em; }
   /* Browser default spacing, which WP keeps (Tailwind's preflight removes it) */
   .wp-content :where(p, ul, ol) { margin-block: 1em; }
   .wp-content :where(h1) { margin-block: 0.67em; }
@@ -256,6 +258,7 @@
     width: var(--container-widget-width); max-width: 100%; min-width: 0;
     --flex-grow: var(--container-widget-flex-grow); --align-self: var(--container-widget-align-self);
   }
+  .wp-content .elementor-widget { position: relative; }
   .wp-content .elementor-widget__width-auto { width: auto; }
   .wp-content .elementor-absolute { position: absolute; z-index: 1; }
   @media (max-width: 767px) {
@@ -283,6 +286,11 @@
     font: 600 15px var(--font-sans); letter-spacing: 0.3px; color: var(--color-navy); fill: var(--color-navy);
     background-image: linear-gradient(134deg, var(--color-blue) 27%, var(--color-cyan) 100%);
   }
+  /* Kit button style, which WP applies to every button (e.g. nested-tab titles) */
+  .wp-content :where(button, input[type="button"], input[type="submit"]) {
+    padding: 15px 30px; border-radius: 12px; font: 600 15px var(--font-sans); letter-spacing: 0.3px; color: var(--color-navy);
+    background-image: linear-gradient(134deg, var(--color-blue) 27%, var(--color-cyan) 100%);
+  }
   .wp-content .elementor-button-content-wrapper { display: flex; justify-content: center; align-items: center; gap: 5px; }
   .wp-content .elementor-screen-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
 
@@ -301,7 +309,7 @@
   .wp-content .elementor-icon-box-wrapper,
   .wp-content .elementor-image-box-wrapper { text-align: center; }
   .wp-content .elementor-icon-box-icon { margin: 0 auto var(--icon-box-icon-margin, 15px); display: inline-flex; }
-  .wp-content .elementor-icon-box-title, .wp-content .elementor-image-box-title { margin: 0 0 var(--title-margin, 0); }
+  .wp-content .elementor-icon-box-title, .wp-content .elementor-image-box-title { margin-block-end: var(--title-margin, 0); }
   .wp-content .elementor-icon-box-title a { color: inherit; }
   .wp-content .elementor-icon-box-description, .wp-content .elementor-image-box-description { margin: 0; }
   .wp-content .elementor-image-box-img { display: inline-block; margin-bottom: 15px; }
@@ -376,8 +384,13 @@
   .wp-content .swiper-pagination, .wp-content .swiper-button-next, .wp-content .swiper-button-prev, .wp-content .swiper-lazy-preloader { display: none; }
 
   /* Nested tabs */
-  .wp-content .e-n-tabs-heading { display: flex; flex-wrap: wrap; gap: 10px; }
-  .wp-content .e-n-tab-title { display: flex; align-items: center; gap: 10px; padding: 12px 20px; border: 1px solid rgb(255 255 255 / 0.1); border-radius: 6px; color: inherit; }
-  .wp-content .e-n-tab-title[aria-selected="true"] { border-color: var(--color-blue-2); }
+  .wp-content .e-n-tabs { display: flex; flex-direction: column; gap: var(--n-tabs-gap, 10px); }
+  .wp-content .e-n-tabs-heading { display: flex; flex-wrap: var(--n-tabs-heading-wrap, nowrap); justify-content: var(--n-tabs-heading-justify-content, initial); gap: var(--n-tabs-title-gap, 10px); }
+  .wp-content .e-n-tab-title {
+    display: flex; align-items: var(--n-tabs-title-align-items, center); justify-content: var(--n-tabs-title-justify-content, center);
+    flex-grow: var(--n-tabs-title-flex-grow, 0); gap: 10px;
+    text-align: var(--n-tabs-title-text-align, center); white-space: var(--n-tabs-title-white-space, initial);
+    border-radius: var(--n-tabs-title-border-radius, 0); color: var(--n-tabs-title-color, inherit);
+  }
   .wp-content .e-n-tabs-content > .e-con:not(.e-active) { display: none; }
 }
