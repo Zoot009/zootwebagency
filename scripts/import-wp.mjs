@@ -52,7 +52,8 @@ const UP_RE = new RegExp(`${WP.replace(/[.]/g, "\\.")}/wp-content/uploads/[^\\s"
 
 function localize(str) {
   for (const u of str.match(UP_RE) ?? []) uploads.add(u);
-  return str.replace(UP_RE, (u) => u.replace(`${WP}/wp-content`, "")).replaceAll(WP, "");
+  // Bare origin (href="https://wp-host") is a homepage link: "/" not "" (which would link to the page itself).
+  return str.replace(UP_RE, (u) => u.replace(`${WP}/wp-content`, "")).replaceAll(`${WP}"`, '/"').replaceAll(WP, "");
 }
 
 // Absolute URLs (canonical, og:*, JSON-LD): WP -> SITE, uploads -> /uploads, keep absolute for crawlers.
