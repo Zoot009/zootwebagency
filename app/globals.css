@@ -1,4 +1,7 @@
 @import "tailwindcss";
+/* WP content is data, not source: pages contain pasted markup with Tailwind-like classes (copied from
+   ChatGPT/Claude, e.g. leading-[1.7]) that do nothing on WP but would be styled here if Tailwind scanned it. */
+@source not "../content";
 
 /* Design tokens, taken from the live Elementor kit (post-21) and header/footer templates.
    Reuse these; don't add new hex values. */
@@ -133,14 +136,6 @@
     :root { --h1: 43px; --h2: 40px; --h3: 31px; --h4: 21px; --h6: 13px; }
   }
 
-  body {
-    background: var(--color-ink);
-    color: var(--color-body);
-    font-family: var(--font-sans);
-    font-size: 14px;
-    line-height: 2.1;
-    letter-spacing: 0.5px;
-  }
   a { color: var(--color-heading); }
   h1, h2, h3, h4, h5, h6 { color: var(--color-heading); }
   h1 { font: 500 var(--h1) / 1.2 var(--font-display); letter-spacing: -1px; }
@@ -149,6 +144,18 @@
   h4 { font: 400 var(--h4) / 1.3 var(--font-display); letter-spacing: -0.3px; }
   h5 { font: 700 19px / 1.3 var(--font-display); letter-spacing: -0.5px; }
   h6 { font: 400 var(--h6) / normal var(--font-sans); letter-spacing: -0.1px; }
+}
+
+/* Kit body text. WP styles <body> through the kit class (.elementor-kit-21), so a page's own pasted body{}
+   rules lose for these properties but still add theirs (e.g. a background image). Unlayered and more
+   specific than "body" to keep that precedence: a layered rule would lose to any unlayered one. */
+html body {
+  background-color: var(--color-ink);
+  color: var(--color-body);
+  font-family: var(--font-sans);
+  font-size: 14px;
+  line-height: 2.1;
+  letter-spacing: 0.5px;
 }
 
 /* Kit button: navy text on a blue→cyan gradient. */
