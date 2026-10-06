@@ -17,7 +17,7 @@ export default function Breadcrumbs({ items, className }: { items: Crumb[]; clas
         {items.map((c, i) =>
           i < items.length - 1 ? (
             <Fragment key={c.href}>
-              <a href={c.href} className="text-link in-[.wp-default]:underline">{c.name}</a>
+              <a href={c.href} className="text-link">{c.name}</a>
               <span> - </span>
             </Fragment>
           ) : (

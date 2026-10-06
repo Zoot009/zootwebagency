@@ -14,9 +14,9 @@ export function Html({ as = "div", html, className, link, align }: HtmlProps) {
   return <Tag className={className} style={style} dangerouslySetInnerHTML={{ __html: html }} />;
 }
 
-// WP link styling: the widget's color (else the kit's), underlined on pages that used WP's default
-// template (main.wp-default), like the Hello theme does there.
-export const links = "[&_a]:text-[var(--link,var(--color-heading))] in-[.wp-default]:[&_a]:underline";
+// WP link styling: the widget's color (else the kit's). Elementor removes link underlines; links that
+// want one carry it in their own inline style, which the copied HTML keeps.
+export const links = "[&_a]:text-[var(--link,var(--color-heading))]";
 // WP rich text: browser-default spacing (Tailwind's reset removes it) plus link styling.
 export const rich = `[&_p]:my-[1em] [&_ul]:my-[1em] [&_ul]:list-disc [&_ul]:pl-10 [&_ol]:my-[1em] [&_ol]:list-decimal [&_ol]:pl-10 [&_h2]:my-[0.83em] [&_h3]:my-[1em] [&_h4]:my-[1.33em] ${links}`;
 

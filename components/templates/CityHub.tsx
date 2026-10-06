@@ -43,8 +43,7 @@ export default function CityHub({ page }: { page: Page }) {
   return (
     // Body text comes from <body>, except line height: the kit's 2.1em is a fixed 29.4px that children inherit.
     // Links take their parent's color (a heading's links follow the heading color, as Elementor's does); explicit link colors win.
-    // wp-default: page used WP's default template, where the Hello theme underlines content links.
-    <main className={`leading-[29.4px] [:where(&)_a]:text-inherit ${page.wpTemplate === "" ? "wp-default" : ""}`}>
+    <main className="leading-[29.4px] [:where(&)_a]:text-inherit">
       {page.city.sections.map((s, i) => {
         const Section = SECTIONS[s.kind];
         return <Section key={i} s={s} page={page} />;
