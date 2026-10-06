@@ -13,10 +13,13 @@ const WP = "https://powderblue-gaur-774652.hostingersite.com";
 const SITE = process.env.SITE_URL ?? WP;
 const OUT = "content/pages";
 
-// Hostinger 5xx's under load: retry with backoff.
+// Hostinger 5xx's under load and resets connections mid-body (ECONNRESET): retry with backoff.
+// The body is buffered inside the retry so a reset during download is retried too.
 async function get(url, tries = 4, redirect = "follow") {
   for (let i = 1; ; i++) {
-    const res = await fetch(url, { redirect, signal: AbortSignal.timeout(90_000) }).catch((e) => ({ ok: false, status: e.name }));
+    const res = await fetch(url, { redirect, signal: AbortSignal.timeout(90_000) })
+      .then(async (r) => new Response(await r.arrayBuffer(), r))
+      .catch((e) => ({ ok: false, status: e.name }));
     const retryable = !(res.status < 500); // 5xx or network error/timeout
     if (res.status < 400) return res; // 2xx, or 3xx when redirect: "manual"
     if (!retryable || i === tries) throw new Error(`${res.status} ${url}`);
@@ -49,7 +52,8 @@ const UP_RE = new RegExp(`${WP.replace(/[.]/g, "\\.")}/wp-content/uploads/[^\\s"
 
 function localize(str) {
   for (const u of str.match(UP_RE) ?? []) uploads.add(u);
-  return str.replace(UP_RE, (u) => u.replace(`${WP}/wp-content`, "")).replaceAll(WP, "");
+  // Bare origin (href="https://wp-host") is a homepage link: "/" not "" (which would link to the page itself).
+  return str.replace(UP_RE, (u) => u.replace(`${WP}/wp-content`, "")).replaceAll(`${WP}"`, '/"').replaceAll(WP, "");
 }
 
 // Absolute URLs (canonical, og:*, JSON-LD): WP -> SITE, uploads -> /uploads, keep absolute for crawlers.

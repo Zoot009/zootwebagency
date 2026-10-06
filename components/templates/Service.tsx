@@ -1,7 +1,8 @@
 import type { Page } from "@/lib/content";
-import GenericPage from "./GenericPage";
+import Elementor from "@/components/sections/Elementor";
 
-// TODO(owner): rebuild to match the live design. See CLAUDE.md.
+// The hub and its children share one template. WP has two designs, picked by the page's WP template:
+// "elementor_header_footer" pages (hub, seo-services, ...) use the landing design, the rest the classic one.
 export default function Service({ page }: { page: Page }) {
-  return <GenericPage page={page} />;
+  return <Elementor page={page} variant={page.wpTemplate === "elementor_header_footer" ? "landing" : "classic"} />;
 }
