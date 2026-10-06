@@ -136,8 +136,9 @@ function addRedirect(path, res) {
   return true;
 }
 
-// Header/footer links that aren't WP pages but redirect on WP (e.g. menu "Contact Us" -> /contact/).
-const CHROME_LINKS = ["/contact/"];
+// URLs that aren't WP pages but redirect on WP: header/footer links (menu "Contact Us" -> /contact/) and old URLs
+// (/social-media-marketing/ redirects to /social-media-management/, which redirects again).
+const CHROME_LINKS = ["/contact/", "/social-media-management/", "/blog/"];
 // Images used only as Elementor CSS backgrounds (footer, homepage sections), so they never show up in page content.
 const CSS_UPLOADS = [
   "2025/08/BG-013.jpg", // footer
@@ -148,6 +149,26 @@ const CSS_UPLOADS = [
 ];
 for (const f of CSS_UPLOADS) uploads.add(`${WP}/wp-content/uploads/${f}`);
 for (const path of CHROME_LINKS) addRedirect(path, await get(WP + path, 4, "manual"));
+// WP's sitemap URLs (Rank Math's index and its per-type sitemaps, WP core's) all go to our single /sitemap.xml.
+const sitemapIndex = await (await get(`${WP}/sitemap_index.xml`)).text();
+for (const source of ["/sitemap_index.xml", "/wp-sitemap.xml", ...[...sitemapIndex.matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => new URL(m[1]).pathname)])
+  redirects.push({ source, destination: "/sitemap.xml", permanent: true });
+
+// Rank Math adds a missing alt (from the file name) when WP renders the page, so the REST content has alt="" where the
+// live page shows one. Copy the live page's alt onto those images, matched by src.
+function liveAlts(html, page) {
+  const src = (tag) => tag.match(/\ssrc="([^"]*)"/)?.[1];
+  const alts = new Map();
+  for (const tag of page.match(/<img\s[^>]*>/g) ?? []) {
+    const alt = tag.match(/\salt="([^"]+)"/)?.[1];
+    if (alt) alts.set(src(tag), alt);
+  }
+  return html.replace(/<img\s[^>]*>/g, (tag) => {
+    const alt = alts.get(src(tag));
+    if (!alt || /\salt="[^"]/.test(tag)) return tag;
+    return /\salt=""/.test(tag) ? tag.replace(/\salt=""/, ` alt="${alt}"`) : tag.replace(/^<img/, `<img alt="${alt}"`);
+  });
+}
 
 // Elementor CSS values for GenericPage (see scripts/elementor-css.mjs). Kit 21 = site-wide globals.
 const CSS = `${WP}/wp-content/uploads/elementor/css`;
@@ -173,7 +194,7 @@ await pool([...pages, ...posts, ...categories], 4, async (item) => {
   if (addRedirect(path, res)) return;
   const page = await res.text();
   const head = parseHead(page);
-  const html = localize(item.content?.rendered ?? themeMain(path, page)).replace(/<script[\s\S]*?<\/script>/g, "");
+  const html = localize(liveAlts(item.content?.rendered ?? themeMain(path, page), page)).replace(/<script[\s\S]*?<\/script>/g, "");
   const doc = {
     path,
     type: item.type,

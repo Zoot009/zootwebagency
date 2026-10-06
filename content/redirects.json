@@ -5,8 +5,53 @@
     "permanent": true
   },
   {
+    "source": "/blog/",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/category-sitemap.xml",
+    "destination": "/sitemap.xml",
+    "permanent": true
+  },
+  {
     "source": "/contact/",
     "destination": "/contact-zoot-web-agency/",
+    "permanent": true
+  },
+  {
+    "source": "/elementskit_content-sitemap.xml",
+    "destination": "/sitemap.xml",
+    "permanent": true
+  },
+  {
+    "source": "/elementskit_template-sitemap.xml",
+    "destination": "/sitemap.xml",
+    "permanent": true
+  },
+  {
+    "source": "/local-sitemap.xml",
+    "destination": "/sitemap.xml",
+    "permanent": true
+  },
+  {
+    "source": "/page-sitemap.xml",
+    "destination": "/sitemap.xml",
+    "permanent": true
+  },
+  {
+    "source": "/post-sitemap.xml",
+    "destination": "/sitemap.xml",
+    "permanent": true
+  },
+  {
+    "source": "/sitemap_index.xml",
+    "destination": "/sitemap.xml",
+    "permanent": true
+  },
+  {
+    "source": "/social-media-management/",
+    "destination": "/digital-marketing-services/social-media-management/",
     "permanent": true
   },
   {
@@ -17,6 +62,11 @@
   {
     "source": "/wp-booking-calendar/",
     "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/wp-sitemap.xml",
+    "destination": "/sitemap.xml",
     "permanent": true
   }
 ]

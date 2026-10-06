@@ -16,7 +16,7 @@ export function parseHead(html) {
   for (const tag of head.match(/<meta\s[^>]*>/g) ?? []) {
     const key = attr(tag, "property") ?? attr(tag, "name");
     const content = attr(tag, "content");
-    if (key && content != null && /^(description|robots|og:|article:|twitter:|keywords)/.test(key))
+    if (key && content != null && /^(description|robots|og:|article:|twitter:|keywords|google-site-verification|theme-color|msapplication-TileImage)/.test(key))
       meta.push([key, decode(content)]);
   }
   const title = head.match(/<title>([\s\S]*?)<\/title>/)?.[1];
