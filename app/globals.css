@@ -170,9 +170,14 @@
 /* Raw Elementor HTML (GenericPage). Our own structural rules for Elementor's containers and widgets;
    each page's imported values (page.layoutCss, unlayered) override these. Breakpoints match Elementor. */
 @layer components {
-  /* Hello Elementor theme basics that Tailwind's preflight removed */
-  .wp-content :where(p) { margin-block: 0 0.9rem; }
-  .wp-content :where(h1, h2, h3, h4, h5, h6) { margin-block: 0.5rem 1rem; }
+  /* Browser default spacing, which WP keeps (Tailwind's preflight removes it) */
+  .wp-content :where(p, ul, ol) { margin-block: 1em; }
+  .wp-content :where(h1) { margin-block: 0.67em; }
+  .wp-content :where(h2) { margin-block: 0.83em; }
+  .wp-content :where(h3) { margin-block: 1em; }
+  .wp-content :where(h4) { margin-block: 1.33em; }
+  .wp-content :where(h5) { margin-block: 1.67em; }
+  .wp-content :where(h6) { margin-block: 2.33em; }
   .wp-content :where(ul) { list-style: disc; padding-inline-start: 40px; }
   .wp-content :where(ol) { list-style: decimal; padding-inline-start: 40px; }
   .wp-content :where(img, svg, video, iframe) { display: inline-block; vertical-align: middle; }
@@ -266,7 +271,6 @@
   /* Widgets */
   .wp-content .elementor-heading-title { margin: 0; padding: 0; }
   .wp-content :not(h1, h2, h3, h4, h5, h6).elementor-headline { line-height: 1.2; }
-  .wp-content p.elementor-headline { margin: 1em 0; } /* browser default kept by WP */
   .wp-content :not(h1, h2, h3, h4, h5, h6).elementor-heading-title { line-height: 1; }
   .wp-content .elementor-widget-image { text-align: center; }
   .wp-content .elementor-widget-image a { display: inline-block; }
