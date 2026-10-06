@@ -362,5 +362,923 @@
         ]
       }
     ]
+  },
+  "city": {
+    "sections": [
+      {
+        "kind": "hero",
+        "parts": [
+          {
+            "t": "crumbs"
+          },
+          {
+            "t": "h",
+            "tag": "h1",
+            "html": "Houston Web Design Company",
+            "align": "start"
+          },
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Custom Websites That Convert Visitors Into Clients",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>Zoot Web Agency builds high-performing websites for Houston businesses that load fast, look sharp on every device, and convert visitors into leads. We do not start with templates. We start with your business goals and build every web design decision around them, then hand you a site you actually own and can manage.</p>",
+            "link": "#0362F9",
+            "align": "start"
+          },
+          {
+            "t": "img",
+            "src": "/uploads/2026/05/ChatGPT-Image-May-16-2026-11_36_18-AM.png",
+            "alt": "Houston Web Design Company",
+            "width": 1672,
+            "height": 941
+          }
+        ]
+      },
+      {
+        "kind": "stats",
+        "parts": [
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "parts": [
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "150+",
+                "align": "center"
+              },
+              {
+                "t": "html",
+                "html": "<div style=\"display:flex;justify-content:center;gap:3px;margin:6px 0;\"><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span></div>"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "5-Star Google Reviews",
+                "align": "center"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "500+",
+                "align": "center"
+              },
+              {
+                "t": "html",
+                "html": "<div style=\"display:flex;justify-content:center;gap:3px;margin:6px 0;\"><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span></div>"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Happy Clients Served",
+                "align": "center"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "1,000+",
+                "align": "center"
+              },
+              {
+                "t": "html",
+                "html": "<div style=\"display:flex;justify-content:center;gap:3px;margin:6px 0;\"><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span></div>"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Total Client Reviews",
+                "align": "center"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "1,000+",
+                "align": "center"
+              },
+              {
+                "t": "html",
+                "html": "<div style=\"display:flex;justify-content:center;gap:3px;margin:6px 0;\"><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span></div>"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Businesses Helped Grow",
+                "align": "center"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "50px 0px 50px 0px"
+        },
+        "width": "1140px"
+      },
+      {
+        "kind": "intro",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Web Design Services in Houston",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>Houston businesses operate in one of the most commercially active and digitally competitive markets in the United States. Potential customers research online before making almost every purchase or hiring decision and the website they land on shapes their first impression of your business within seconds. A site that loads slowly, looks outdated on mobile, or gives visitors no clear path to take action will cost you clients every single day, regardless of how strong your actual service is.</p><p>The web design bar in Houston is high. Consumers in this market are sophisticated and have no shortage of alternatives. If your site does not immediately communicate credibility, relevance, and a clear reason to choose you over competitors, the visitor is gone — and they rarely come back. A site that was built five years ago, or that was put together on a page builder template without careful attention to user experience, is almost certainly leaking revenue right now.</p>"
+          },
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "bg": "/uploads/2026/03/ChatGPT-Image-Mar-25-2026-12_34_38-PM.png",
+            "parts": [
+              {
+                "t": "btn",
+                "html": "FREE STRATEGY SESSION",
+                "href": "#"
+              },
+              {
+                "t": "text",
+                "html": "<p>Grow Your Houston Business With Expert Web Design</p>"
+              },
+              {
+                "t": "text",
+                "html": "<p>Get a free website audit from our Houston web design experts. We&#8217;ll show you what&#8217;s costing you leads and exactly how we&#8217;ll fix it.</p>"
+              },
+              {
+                "t": "btn",
+                "html": "Get My Free Growth Plan",
+                "href": "/contact-zoot-web-agency/"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "audit",
+        "parts": [
+          {
+            "t": "headline",
+            "tag": "p",
+            "before": "Get Your FREE",
+            "highlight": "Houston Website Consultation",
+            "after": ""
+          },
+          {
+            "t": "form",
+            "name": "Free Audit Form",
+            "fields": [
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[name]",
+                "id": "form-field-name",
+                "placeholder": "First Name",
+                "label": null,
+                "width": 50
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[last_name]",
+                "id": "form-field-last_name",
+                "placeholder": "Last Name",
+                "label": null,
+                "width": 50
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[company]",
+                "id": "form-field-company",
+                "placeholder": "Company / Organization",
+                "label": null,
+                "width": 50
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[website]",
+                "id": "form-field-website",
+                "placeholder": "Website URL",
+                "label": null,
+                "width": 50
+              },
+              {
+                "tag": "select",
+                "type": null,
+                "name": "form_fields[goal]",
+                "id": "form-field-goal",
+                "placeholder": null,
+                "label": "Main Goal",
+                "width": 50,
+                "options": [
+                  "More Traffic",
+                  "More Leads",
+                  "Brand Awareness",
+                  "Better ROI"
+                ]
+              },
+              {
+                "tag": "select",
+                "type": null,
+                "name": "form_fields[service]",
+                "id": "form-field-service",
+                "placeholder": null,
+                "label": "Service Interested In",
+                "width": 50,
+                "options": [
+                  "Digital Marketing Services",
+                  "SEO Services",
+                  "Local SEO Services",
+                  "Technical SEO",
+                  "Enterprise SEO Services",
+                  "eCommerce SEO",
+                  "Pay Per Click (PPC)",
+                  "Social Media Marketing",
+                  "Social Media Management",
+                  "Web Design",
+                  "Content Marketing",
+                  "Email Marketing",
+                  "Online Reputation Management",
+                  "eCommerce Marketing Services",
+                  "Amazon Marketing Services",
+                  "Conversion Rate Optimization",
+                  "Link Building Services",
+                  "Video Production",
+                  "AI SEO Services",
+                  "Digital Marketing Strategy Development",
+                  "Franchise Digital Marketing",
+                  "Enterprise Digital Marketing",
+                  "SEO Audit Services",
+                  "CRO Audit Services",
+                  "User Experience Testing",
+                  "Search Engine Marketing",
+                  "Google Ads Management Services",
+                  "YouTube Advertising Services",
+                  "Programmatic Advertising",
+                  "Lead Generation Services",
+                  "Franchise PPC Marketing",
+                  "Enterprise PPC Marketing",
+                  "Social Media Brand Management",
+                  "Franchise Social Media Marketing",
+                  "Enterprise Social Media Marketing",
+                  "Facebook Advertising",
+                  "LinkedIn Advertising",
+                  "Twitter Advertising",
+                  "Instagram Marketing",
+                  "Social Media Advertising",
+                  "Digital PR Services",
+                  "HARO Link Building",
+                  "Branding Services",
+                  "Custom Website Design",
+                  "WordPress Website Design",
+                  "Website Hosting",
+                  "ADA Compliance Services",
+                  "Media Production Services",
+                  "Video Testimonial Services",
+                  "Product Photography",
+                  "Drone Video & Photography",
+                  "Content Writing",
+                  "Copywriting Services",
+                  "User Behavior Analytics",
+                  "Franchise SEO Audit Services",
+                  "Enterprise SEO Audit Services"
+                ]
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[city]",
+                "id": "form-field-city",
+                "placeholder": "Your City / Location",
+                "label": null,
+                "width": 100
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[message]",
+                "id": "form-field-message",
+                "placeholder": "Tell us about your business challenges",
+                "label": null,
+                "width": 100
+              }
+            ],
+            "submit": "Get My Free Audit"
+          }
+        ],
+        "pad": {
+          "sec": "0px 0px 0px 0px",
+          "box": "21px 0px 40px 0px"
+        }
+      },
+      {
+        "kind": "cases",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Our Houston Web Design Clients Get Results",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>Real campaigns. Documented results. Every client below shows exactly what we achieved and what they have to say about working with Zoot.</p>"
+          },
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "parts": [
+              {
+                "t": "img",
+                "src": "/uploads/2026/03/darkostojanovic-laboratory-563423_1920.jpg",
+                "alt": "Houston Web Design Company - Dallas Digital Marketing Agency - austin digital marketing agency - franchise digital marketing - Arlington Digital Marketing Services",
+                "width": 1920,
+                "height": 1280
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "+664%",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "+360%",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Organic Traffic",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Online Leads",
+                "align": "center"
+              },
+              {
+                "t": "text",
+                "html": "<p><em>&#8220;Our previous website looked fine but generated almost no enquiries. After Zoot rebuilt it, leads from organic search increased dramatically within the first few months. The new site actually works for our business.&#8221;</em></p>"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "img",
+                "src": "/uploads/2026/03/advogadoaguilar-right-4944550_1920.jpg",
+                "alt": "Houston Web Design Company - Dallas Digital Marketing Agency - austin digital marketing agency - Arlington Digital Marketing Services - Google Business Profile Optimization - franchise digital marketing",
+                "width": 1920,
+                "height": 1280
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "+800%",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "+640%",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Online Leads",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Conversion Rate",
+                "align": "center"
+              },
+              {
+                "t": "text",
+                "html": "<p><em>&#8220;Zoot completely redesigned our site around conversion, not just aesthetics. The result speaks for itself — our enquiry volume more than doubled in the first 90 days after launch.&#8221;</em></p>"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "testimonials",
+        "parts": [
+          {
+            "t": "headline",
+            "tag": "p",
+            "before": "But Don't Take Our Word For It",
+            "highlight": "Real Results. Real Clients.",
+            "after": ""
+          },
+          {
+            "t": "testimonials",
+            "minHeight": 290,
+            "pad": "30px",
+            "items": [
+              {
+                "stars": 5,
+                "html": "<p>We hired Zoot web agency for Google My Business SEO services and the results have been outstanding. Our local visibility improved quickly, our listing is now optimized correctly, and we're getting more calls and in-store traffic than before. They clearly understand local SEO, maps ranking, reviews, and how to position a business to stand out in competitive searches. Highly recommend their services to any business serious about local growth.</p>",
+                "name": "brainbodge"
+              },
+              {
+                "stars": 5,
+                "html": "<p>I've now worked with many other agencies but this one absolutely delivered what I was looking for. The citations they completed were incredibly detailed, accurate, and clearly done with a deep understanding of what actually moves the needle. What really stands out is how much he goes above and beyond, not just doing the job, but making sure everything is set up properly for long-term results.</p>",
+                "name": "Englishcoach"
+              },
+              {
+                "stars": 5,
+                "html": "<p>Zoot Web Agency has been Exceptional in helping us with SEO across all of our clinics. I am deeply content on the direction we are taking as citations are much underrated by many business owners. AI signaling in different ways is replacing the outdated old SEO and I am glad I am working with Prasad to maintain modern visibility online.</p>",
+                "name": "Scubaskool"
+              },
+              {
+                "stars": 5,
+                "html": "<p>Zoot did an excellent job improving our SEO and online visibility. They built high-quality backlinks, optimized our map citations, and helped strengthen our local search presence. What impressed me most was that he went beyond the agreed work by adding extra improvements and giving valuable SEO advice for free. Highly recommend them to anyone looking for reliable SEO and backlink services.</p>",
+                "name": "karlblud"
+              },
+              {
+                "stars": 5,
+                "html": "<p>After trying several top rated agency, I can surely say they are outstanding. Don't even look further, hire them. They have an excellent and in-depth understanding of webpage SEO and explains clearly how everything connects to Google. They communicate in a very transparent and structured way and put real effort into choosing the best strategy for your project. Highly recommended.</p>",
+                "name": "Revibetherapy"
+              },
+              {
+                "stars": 5,
+                "html": "<p>I had a great experience working with this SEO service. They helped improve my Google Business ranking and increased visibility for my business. Very professional, honest, and knowledgeable about local SEO. I started seeing better results on Google Maps and more customer calls after their work. I highly recommend them to anyone looking to grow their business online.</p>",
+                "name": "Kalsaid16"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "80px 15px 80px 15px"
+        }
+      },
+      {
+        "kind": "cta",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Ready to Build a Website That Actually Works for Your Houston Business?",
+            "align": "center"
+          },
+          {
+            "t": "text",
+            "html": "<p>Get a free website consultation from Zoot Web Agency Houston&#8217;s conversion-focused web design specialists. We&#8217;ll audit your current site and show you exactly what a better one would do for your business.</p>",
+            "align": "center"
+          },
+          {
+            "t": "btn",
+            "html": "Get My Free Proposal",
+            "href": "/contact-zoot-web-agency/"
+          }
+        ],
+        "pad": {
+          "sec": "70px 24px 70px 24px"
+        },
+        "width": "900px"
+      },
+      {
+        "kind": "services",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Houston Web Design Services",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>We build performance-driven websites for Houston businesses, custom-designed, SEO-ready, and built to convert the visitors you are already getting into inquiries and customers.</p>",
+            "link": "#0362F9"
+          },
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M18 14H26L32 20V32C32 33.1046 31.1046 34 30 34H18C16.8954 34 16 33.1046 16 32V16C16 14.8954 16.8954 14 18 14Z\" fill=\"#2563EB\"></path><path d=\"M26 14V20H32\" fill=\"#0B3B8C\"></path><rect x=\"20\" y=\"24\" width=\"8\" height=\"2\" fill=\"#0B3B8C\"></rect><rect x=\"20\" y=\"28\" width=\"6\" height=\"2\" fill=\"#0B3B8C\"></rect></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "<a href=\"/website-design/\">Custom WordPress Web Design</a>",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "Every site we build starts from scratch, not from a template. We assess your business goals, your target audience, and your competitive landscape in Houston before any design work begins. The result is a site that looks and functions as if you built it specifically for your business — because you did. We work on WordPress with Elementor, which gives you a platform that is fast, highly editable, and <a href=\"/houston-digital-marketing-services/seo-company/\">SEO professionals </a>friendly from launch. You own it outright, and you can update it yourself without needing a developer for every change.",
+                "link": "#008AFC",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 32V18\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M16 32H32\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M18 28L22 24L26 26L32 20\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M30 20H32V22\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Responsive &amp; Mobile-First Design",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>More than half of your website visitors are viewing your site on a mobile device, and Google uses mobile performance and <a href=\"/houston-digital-marketing-services/\">houston digital marketing services</a> signals as primary ranking factors. A site that looks great on desktop but breaks or slows on mobile is actively costing you both rankings and conversions. We design mobile-first and marketing-focused, meaning the mobile experience is considered before the desktop version, not adapted from it. </p>",
+                "link": "#008AFC",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M24 14L32 18V24C32 29 28.5 32.5 24 34C19.5 32.5 16 29 16 24V18L24 14Z\" fill=\"#2563EB\"></path></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Website Redesign",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>A redesign is not just a cosmetic exercise. If your current site has a technical SEO debt, slow load times, or a conversion rate that is clearly below where it should be, a redesign is an opportunity to fix all of it at once. We audit your existing site before we propose a redesign — identifying what is hurting performance, what content is working, and what the new site architecture needs to look like to improve on all of it. We do not build a prettier version of a site that was not working. We rebuild it around what your customers actually need to see to enquire.</p>",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 20C16 17.7909 17.7909 16 20 16H28C30.2091 16 32 17.7909 32 20V25C32 27.2091 30.2091 29 28 29H22L18 32V29H20C17.7909 29 16 27.2091 16 25V20Z\" fill=\"#2563EB\"></path></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "eCommerce Web Design",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>eCommerce websites have a specific set of requirements that standard service business sites do not share — product catalogue architecture, filtering and search, checkout flows, payment gateway integration, and inventory management. We build eCommerce sites on WordPress with WooCommerce or on Shopify, depending on the best fit for your business model. Every product page is designed around the psychology of an online purchase decision: clear imagery, trust signals, concise descriptions, prominent calls to action, and a checkout process with as little friction as possible.</p>",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 30L30 16L32 18L18 32L15 33L16 30Z\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"></path><path d=\"M29 15L33 19\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Landing Page Design",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>eCommerce websites have a specific set of requirements that standard service business sites do not share—product catalog architecture, filtering and search, checkout flows, payment gateway integration, inventory management, and <a href=\"/houston-digital-marketing-services/social-media-agency/\">social media marketing</a> integration. We build eCommerce sites on WordPress with WooCommerce or on Shopify, depending on the best fit for your business model. Every product page is designed around the psychology of an online purchase decision: clear imagery, trust signals, concise descriptions, prominent calls to action, and a checkout process with as little friction as possible.</p>",
+                "link": "#008AFC",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 18C16 16.8954 16.8954 16 18 16H30C31.1046 16 32 16.8954 32 18V26C32 27.1046 31.1046 28 30 28H23L18 32V28H18C16.8954 28 16 27.1046 16 26V18Z\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linejoin=\"round\"></path><circle cx=\"21\" cy=\"22\" r=\"1.5\" fill=\"#2563EB\"></circle><circle cx=\"24\" cy=\"22\" r=\"1.5\" fill=\"#2563EB\"></circle><circle cx=\"27\" cy=\"22\" r=\"1.5\" fill=\"#2563EB\"></circle></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "SEO-Friendly Web Development",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>A website that is not optimised for search engines will not rank, regardless of how well it is designed. We build every site with SEO as a foundational requirement, not an afterthought. That means clean URL structures, proper heading hierarchies, fast page load times, schema markup where relevant, optimised image files, no duplicate content issues, and a technical setup that Google can crawl and index without obstacles. When your new site launches, it is already in a strong position to build search visibility — rather than needing months of remedial technical work after the fact.</p>",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 17H32V30H16V17Z\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linejoin=\"round\"></path><path d=\"M19 21H24\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M19 25H26\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M29 21V26\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "WordPress Maintenance &amp; Support",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>A website is not a one-time project. After launch it needs regular updates, security monitoring, performance tracking, <a href=\"/houston-digital-marketing-services/ppc-agency/\">PPC</a> campaign support, and occasional content changes. We offer monthly maintenance packages for Houston businesses that want to keep their site in peak condition without managing it themselves. This includes WordPress core and plugin updates, security scanning, uptime monitoring, page speed checks, PPC landing page optimization, and a fixed number of content update hours each month.</p>",
+                "link": "#008AFC",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M18 16L32 23L25 25L27 32L24 33L22 26L18 30L18 16Z\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"></path><circle cx=\"30\" cy=\"18\" r=\"1.5\" fill=\"#2563EB\"></circle></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "<a href=\"/shopify-web-design/\">Shopify Web Design</a>",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Shopify is one of the most reliable eCommerce platforms available, and a well-designed Shopify store can compete effectively in any product category. We build custom Shopify themes for Houston businesses that reflect your brand, convert at a high rate, and handle the technical requirements of a serious online store — fast product pages, clean checkout flows, mobile optimisation, and integration with the apps your operations depend on. We also handle Shopify SEO setup so your store can earn organic traffic from day one.</p>",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 30L30 16L32 18L18 32L15 33L16 30Z\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"></path><path d=\"M29 15L33 19\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Website Hosting &amp; Performance",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Where your website is hosted directly affects how fast it loads — and page speed is both a ranking factor and a conversion factor. A site hosted on a cheap shared server will consistently underperform a site on managed WordPress hosting regardless of how well it is built. We offer managed hosting recommendations and setup for Houston clients who want their site on infrastructure that is fast, secure, and backed by real technical support. We also handle performance optimisation — caching, image compression, lazy loading, and CDN configuration — to ensure your site delivers the best possible experience to every visitor.</p>",
+                "align": "start"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "why",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Why Choose Zoot As Your Houston Web Design Company",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>Most web design projects fail not because of bad design but because of misaligned priorities. Agencies that focus on winning design awards build sites that look stunning in a portfolio and perform poorly as business tools. If you are searching for what a web design company in Houston is, the answer is simple: your website should generate more leads and revenue for your business, not just look visually impressive. <a href=\"/what-is-web-design-company-in-houston/\">Learn how conversion-focused websites improve business growth </a>by optimizing layout structure, mobile performance, user experience, and lead generation strategy.</p>",
+            "link": "#008AFC"
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><rect x=\"16\" y=\"8\" width=\"16\" height=\"32\" rx=\"2\" stroke=\"#00A3FF\" stroke-width=\"4\"></rect><circle cx=\"24\" cy=\"34\" r=\"1.8\" fill=\"#00A3FF\"></circle></svg>",
+            "tag": "p",
+            "html": "Conversion-First Design",
+            "desc": "Every design decision starts with what we want visitors to do and works backward from there. The visual design exists to support the conversion goal, not the other way around. We track how visitors interact with your site and use that data to make ongoing improvements to conversion rate after launch — so the site gets more effective over time rather than sitting static."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><path d=\"M18 14L10 24L18 34\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M30 14L38 24L30 34\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M26 10L22 38\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linecap=\"round\"></path></svg>",
+            "tag": "p",
+            "html": "Clean, Maintainable Code",
+            "desc": "We build on WordPress because it is the most widely supported and maintainable CMS available. The code we write is clean, well-structured, and properly documented. You will never be handed a site that only our developers can understand or update. If you ever want to bring maintenance in-house or work with a different agency, you can do so without starting from scratch."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><path d=\"M18 20L30 14V34L18 28H12V20H18Z\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linejoin=\"round\"></path><path d=\"M16 28V34\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linecap=\"round\"></path><path d=\"M34 20C36 22 37 24 37 27C37 30 36 32 34 34\" stroke=\"#00A3FF\" stroke-width=\"3\" stroke-linecap=\"round\"></path><path d=\"M38 16C41 19 43 23 43 27C43 31 41 35 38 38\" stroke=\"#00A3FF\" stroke-width=\"3\" stroke-linecap=\"round\"></path></svg>",
+            "tag": "p",
+            "html": "Performance Optimised",
+            "desc": "Page speed is a ranking factor and a conversion factor simultaneously — a one-second delay in mobile load time reduces conversions by up to 20%. We optimise every site for Core Web Vitals, compress assets without quality loss, configure proper caching, and host on infrastructure that delivers consistently fast load times across Houston and nationally."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><circle cx=\"20\" cy=\"24\" r=\"2\" fill=\"#2563EB\"></circle><circle cx=\"28\" cy=\"20\" r=\"2\" fill=\"#2563EB\"></circle><circle cx=\"28\" cy=\"28\" r=\"2\" fill=\"#2563EB\"></circle><path d=\"M22 23L26 21\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M22 25L26 27\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path></svg>",
+            "tag": "p",
+            "html": "SEO-Ready from Launch",
+            "desc": "A new website that is not built for SEO requires months of remedial work before it can start ranking. We build every site with the technical SEO foundation in place from day one — clean URL structure, proper schema markup, sitemap configuration, no duplicate content issues, and a setup that Google can crawl and index cleanly. Your site is ready to rank from the moment it goes live."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 17H32V30H16V17Z\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linejoin=\"round\"></path><path d=\"M19 21H24\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M19 25H26\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M29 21V26\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path></svg>",
+            "tag": "p",
+            "html": "Mobile-First Execution",
+            "desc": "We design for mobile before we design for desktop. With most Houston web traffic coming from mobile devices and Google using mobile-first indexing for rankings, building mobile as an afterthought is no longer acceptable. Every layout, button, font size, and interaction is tested on real mobile devices before your site launches."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 20C16 17.7909 17.7909 16 20 16H28C30.2091 16 32 17.7909 32 20V25C32 27.2091 30.2091 29 28 29H22L18 32V29H20C17.7909 29 16 27.2091 16 25V20Z\" fill=\"#2563EB\"></path></svg>",
+            "tag": "p",
+            "html": "You Own Everything",
+            "desc": "We do not hold your website hostage. When we deliver your site, you receive full ownership of every file, every credential, and every asset. You are never dependent on us for routine updates. We use platforms and tools you can manage yourself, switch to another provider, or hand to an internal team without any complications or migration costs."
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "awards",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Award-Winning Web Design Company in Houston",
+            "align": "start"
+          },
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "parts": [
+              {
+                "t": "img",
+                "src": "/uploads/2026/05/ChatGPT-Image-May-1-2026-05_50_19-PM.png",
+                "alt": "Dallas Digital Marketing Agency - Houston Digital Marketing Services -austin digital marketing",
+                "width": 1536,
+                "height": 1025
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Zoot Web Agency Named Top Web Design Company in Houston by Clutch",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Clutch evaluates B2B service providers through verified client interviews and independent market presence data. The evaluation process cannot be influenced by payment, which is what makes a Clutch recognition credible. Zoot Web Agency has been named a top agency in Houston across five categories including <a href=\"/digital-marketing-services/website-design/\">Web Design Agency</a>, SEO Agency, PPC Agency, Social Media Agency, and Digital Marketing Agency.</p><p>We hold a 5.0 rating on the platform. Every review reflects the honest experience of a real client.</p>",
+                "link": "#008AFC"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "img",
+                "src": "/uploads/2026/05/ChatGPT-Image-May-6-2026-11_22_01-AM.png",
+                "alt": "Dallas Digital Marketing Agency - Houston Digital Marketing Services",
+                "width": 1536,
+                "height": 1025
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Zoot Web Agency Named National Excellence Award Winner in Houston by UpCity",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>UpCity&#8217;s Recommendability Rating independently measures credibility, reputation, and client satisfaction signals from across the web. The score cannot be purchased or gamed.</p><p><a href=\"https://maps.app.goo.gl/fZjGehNgjXazcoCd6\" target=\"_blank\" rel=\"noopener\">Zoot Web Agency</a> holds a 5.0 rating on UpCity and has been recognised as a National Excellence Award winner in Houston for web design services. We treat these recognitions as standards to maintain rather than achievements to rest on.</p>",
+                "link": "#008AFC"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "faq",
+        "parts": [
+          {
+            "t": "headline",
+            "tag": "h3",
+            "before": "Frequently Asked",
+            "highlight": "Questions",
+            "after": ""
+          },
+          {
+            "t": "text",
+            "html": "<p>Common questions from Houston businesses about web design services, timelines, costs, and what to expect from a web design project with Zoot Web Agency.</p>",
+            "align": "center"
+          },
+          {
+            "t": "faq",
+            "items": [
+              {
+                "q": "How long does it take to build a website for a Houston business?",
+                "a": "<p>Most website projects take between four and ten weeks from kickoff to launch, depending on the size and complexity of the site. A standard service business website with eight to twelve pages typically takes four to six weeks. A larger site with custom features, eCommerce functionality, or a complex content structure takes longer. We set a clear timeline at the start of every project and communicate early if anything changes.</p>",
+                "open": true
+              },
+              {
+                "q": "How much does web design cost for a Houston business?",
+                "a": "<p>Pricing depends on the scope of the project — number of pages, functionality requirements, design complexity, and whether content writing is included. A standard service business website typically starts at $3,000 to $5,000. eCommerce sites and custom-feature projects run higher. We do a free consultation and scoping session before providing a quote so you get accurate pricing for what you actually need, not a generic estimate.</p>",
+                "open": true
+              },
+              {
+                "q": "Do you build on WordPress or use a proprietary platform?",
+                "a": "<p>We build on WordPress, which is the world's most widely used content management system. It is open source, has no ongoing platform licensing fees, and can be managed by virtually any developer if you ever want to switch providers. We use Elementor as the page builder, which gives you the ability to make content updates yourself without needing technical knowledge. You own the platform and everything on it.</p>",
+                "open": true
+              },
+              {
+                "q": "Will my new website be optimised for Google search?",
+                "a": "<p>Yes, technical SEO is built into every site we deliver as standard — not as an add-on. This includes clean URL structure, proper heading hierarchy, optimised page titles and meta descriptions, schema markup, image optimisation, sitemap configuration, and a technical setup that Google can crawl and index cleanly. Your site will be in a strong position to earn rankings from the day it launches.</p>",
+                "open": true
+              },
+              {
+                "q": "Can you redesign my existing Houston business website?",
+                "a": "<p>Yes. Most of our web design projects are redesigns rather than brand new sites. We start with an audit of your existing site to understand what is working, what is not, and what the new design needs to improve on specifically. We preserve and migrate any content worth keeping, redirect old URLs properly to protect your existing search rankings, and deliver a new site that performs better on every measurable dimension than what you had.</p>",
+                "open": true
+              }
+            ]
+          },
+          {
+            "t": "faq",
+            "items": [
+              {
+                "q": "Do you design eCommerce websites for Houston businesses?",
+                "a": "<p>Yes. We build eCommerce sites on WordPress with WooCommerce and on Shopify, depending on the best fit for your business. We design around the full purchase journey — product discovery, page content, product imagery, trust signals, checkout flow, and post-purchase experience. We also handle the SEO setup for eCommerce specifically, since product page and category page optimisation requires a different approach from service business SEO.</p>",
+                "open": true
+              },
+              {
+                "q": "Will my website be mobile-friendly?",
+                "a": "<p>Yes, and more than that — we design mobile-first. We do not build a desktop design and then adapt it to mobile. We start with the mobile experience and scale up, which produces a fundamentally better result for the majority of your visitors who are on phones. Every layout, font size, button, and interaction is tested on real mobile devices before we launch.</p>",
+                "open": true
+              },
+              {
+                "q": "Do you offer ongoing website maintenance after launch?",
+                "a": "<p>Yes. We offer monthly maintenance packages for Houston clients who want their site kept in peak condition without managing it themselves. This covers WordPress core and plugin updates, security monitoring, uptime checks, regular backups, performance monitoring, and a set number of content update hours per month. Sites that are not maintained regularly accumulate security vulnerabilities and performance issues over time — maintenance is an investment in protecting the work done during the build.</p>",
+                "open": true
+              },
+              {
+                "q": "Who writes the content for my new website?",
+                "a": "<p>We offer content writing as part of the web design package or as a separate service. Our content team writes service pages, about pages, location pages, and any other content your site needs. Everything is written specifically for your business, your audience, and your target keywords — not adapted from a generic template. If you prefer to provide your own content, we work with what you supply and advise on structure and optimisation.</p>",
+                "open": true
+              },
+              {
+                "q": "How do I get started with a web design project?",
+                "a": "<p>Fill out the form on this page. We will schedule a free consultation to understand your business, your current website situation, and what you need the new site to do. From that conversation we put together a clear scope and proposal with realistic timelines and pricing. No obligation — and the consultation itself is usually useful regardless of whether you decide to move forward with us.</p>",
+                "open": true
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "0px 0px 30px 0px",
+          "box": "60px 0px 0px 0px"
+        }
+      }
+    ]
   }
 }

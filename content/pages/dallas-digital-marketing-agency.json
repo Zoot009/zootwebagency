@@ -354,5 +354,891 @@
         ]
       }
     ]
+  },
+  "city": {
+    "sections": [
+      {
+        "kind": "hero",
+        "parts": [
+          {
+            "t": "crumbs"
+          },
+          {
+            "t": "h",
+            "tag": "h1",
+            "html": "Dallas Digital Marketing Agency",
+            "align": "start"
+          },
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Digital Marketing That Keeps Up With the Dallas Market",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>Zoot Web Agency helps businesses compete online with Dallas digital marketing services, including search rankings, paid advertising, web design, and social media built around results. Dallas is a fast-moving market, and we know what it takes to stay visible in it.</p>",
+            "link": "#0362F9",
+            "align": "start"
+          },
+          {
+            "t": "img",
+            "src": "/uploads/2026/05/ChatGPT-Image-May-7-2026-06_58_17-PM.png",
+            "alt": "Dallas Digital Marketing Agency",
+            "width": 1672,
+            "height": 941
+          }
+        ]
+      },
+      {
+        "kind": "stats",
+        "parts": [
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "parts": [
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "150+",
+                "align": "center"
+              },
+              {
+                "t": "html",
+                "html": "<div style=\"display:flex;justify-content:center;gap:3px;margin:4px 0;\"><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span></div>"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "5-Star Google Reviews",
+                "align": "center"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "500+",
+                "align": "center"
+              },
+              {
+                "t": "html",
+                "html": "<div style=\"display:flex;justify-content:center;gap:3px;margin:4px 0;\"><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span></div>"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Happy Clients Served",
+                "align": "center"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "1,000+",
+                "align": "center"
+              },
+              {
+                "t": "html",
+                "html": "<div style=\"display:flex;justify-content:center;gap:3px;margin:4px 0;\"><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span></div>"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Total Client Reviews",
+                "align": "center"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "44px 24px 44px 24px"
+        },
+        "width": "1360px"
+      },
+      {
+        "kind": "intro",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Digital Marketing Services in Dallas",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>Zoot Web Agency works with Dallas businesses on the digital marketing work that actually drives revenue: organic search, paid advertising, high-converting websites, and social content with a real strategy behind it. Dallas is one of the most active business markets in the country, and we&#8217;ve built a clear picture of what it takes to compete here and what tends to get wasted.</p><p>All of that business activity means the competition for customers is intense especially online. Companies from Houston and Austin target Dallas buyers through search and paid advertising. National chains spend aggressively in this market. And local businesses compete directly for the same search terms, the same ad placements, and the same consumer attention at the same time. Standing out in this environment takes more than having a website and a <a href=\"https://support.google.com/business\" target=\"_blank\" rel=\"noopener\">Google Business Profile</a>.</p>",
+            "link": "#008AFC"
+          },
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "bg": "/uploads/2026/04/18.jpg-1-scaled.jpeg",
+            "parts": [
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Grow Your Dallas Business With Zoot",
+                "align": "center"
+              },
+              {
+                "t": "text",
+                "html": "<p>Partner with a results-driven team that knows your market. Book a free strategy session and see exactly how we&#8217;ll grow your business.</p>",
+                "align": "center"
+              },
+              {
+                "t": "btn",
+                "html": "Get My Free Proposal",
+                "href": "/contact-zoot-web-agency/"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "audit",
+        "parts": [
+          {
+            "t": "headline",
+            "tag": "p",
+            "before": "Get Your FREE",
+            "highlight": "Dallas Marketing Audit",
+            "after": ""
+          },
+          {
+            "t": "form",
+            "name": "Free Audit Form",
+            "fields": [
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[name]",
+                "id": "form-field-name",
+                "placeholder": "First Name",
+                "label": null,
+                "width": 50
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[last_name]",
+                "id": "form-field-last_name",
+                "placeholder": "Last Name",
+                "label": null,
+                "width": 50
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[company]",
+                "id": "form-field-company",
+                "placeholder": "Company / Organization",
+                "label": null,
+                "width": 50
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[website]",
+                "id": "form-field-website",
+                "placeholder": "Website URL",
+                "label": null,
+                "width": 50
+              },
+              {
+                "tag": "select",
+                "type": null,
+                "name": "form_fields[goal]",
+                "id": "form-field-goal",
+                "placeholder": null,
+                "label": "Main Goal",
+                "width": 50,
+                "options": [
+                  "More Traffic",
+                  "More Leads",
+                  "Brand Awareness",
+                  "Better ROI"
+                ]
+              },
+              {
+                "tag": "select",
+                "type": null,
+                "name": "form_fields[service]",
+                "id": "form-field-service",
+                "placeholder": null,
+                "label": "Service Interested In",
+                "width": 50,
+                "options": [
+                  "Digital Marketing Services",
+                  "SEO Services",
+                  "Local SEO Services",
+                  "Technical SEO",
+                  "Enterprise SEO Services",
+                  "eCommerce SEO",
+                  "Pay Per Click (PPC)",
+                  "Social Media Marketing",
+                  "Social Media Management",
+                  "Web Design",
+                  "Content Marketing",
+                  "Email Marketing",
+                  "Online Reputation Management",
+                  "eCommerce Marketing Services",
+                  "Amazon Marketing Services",
+                  "Conversion Rate Optimization",
+                  "Link Building Services",
+                  "Video Production",
+                  "AI SEO Services",
+                  "Digital Marketing Strategy Development",
+                  "Franchise Digital Marketing",
+                  "Enterprise Digital Marketing",
+                  "SEO Audit Services",
+                  "CRO Audit Services",
+                  "User Experience Testing",
+                  "Search Engine Marketing",
+                  "Google Ads Management Services",
+                  "YouTube Advertising Services",
+                  "Programmatic Advertising",
+                  "Lead Generation Services",
+                  "Franchise PPC Marketing",
+                  "Enterprise PPC Marketing",
+                  "Social Media Brand Management",
+                  "Franchise Social Media Marketing",
+                  "Enterprise Social Media Marketing",
+                  "Facebook Advertising",
+                  "LinkedIn Advertising",
+                  "Twitter Advertising",
+                  "Instagram Marketing",
+                  "Social Media Advertising",
+                  "Digital PR Services",
+                  "HARO Link Building",
+                  "Branding Services",
+                  "Custom Website Design",
+                  "WordPress Website Design",
+                  "Website Hosting",
+                  "ADA Compliance Services",
+                  "Media Production Services",
+                  "Video Testimonial Services",
+                  "Product Photography",
+                  "Drone Video & Photography",
+                  "Content Writing",
+                  "Copywriting Services",
+                  "User Behavior Analytics",
+                  "Franchise SEO Audit Services",
+                  "Enterprise SEO Audit Services"
+                ]
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[city]",
+                "id": "form-field-city",
+                "placeholder": "Your City / Location",
+                "label": null,
+                "width": 100
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[message]",
+                "id": "form-field-message",
+                "placeholder": "Tell us about your business challenges",
+                "label": null,
+                "width": 100
+              }
+            ],
+            "submit": "Get My Free Audit"
+          }
+        ],
+        "pad": {
+          "sec": "0px 0px 0px 0px",
+          "box": "21px 0px 40px 0px"
+        }
+      },
+      {
+        "kind": "cases",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Our Dallas Digital Marketing Clients Get Results",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>Real campaigns. Documented results. Every client below shows exactly what we achieved and what they have to say about working with <a href=\"https://maps.app.goo.gl/SB3Zd7pRJ1EFiigb9\" target=\"_blank\" rel=\"noopener\">Zoot Web Agency</a>.<br />.</p>",
+            "link": "#008AFC"
+          },
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "parts": [
+              {
+                "t": "img",
+                "src": "/uploads/2026/03/darkostojanovic-laboratory-563423_1920.jpg",
+                "alt": "Houston Web Design Company - Dallas Digital Marketing Agency - austin digital marketing agency - franchise digital marketing - Arlington Digital Marketing Services",
+                "width": 1920,
+                "height": 1280
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "+664%",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "+360%",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Organic Traffic",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Online Leads",
+                "align": "center"
+              },
+              {
+                "t": "text",
+                "html": "<p><em>&#8220;The results speak for themselves. Since working with Zoot, we have more calls, more enquiries, and more revenue than at any point in our company&#8217;s history.&#8221;</em></p>"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "img",
+                "src": "/uploads/2026/03/advogadoaguilar-right-4944550_1920.jpg",
+                "alt": "Houston Web Design Company - Dallas Digital Marketing Agency - austin digital marketing agency - Arlington Digital Marketing Services - Google Business Profile Optimization - franchise digital marketing",
+                "width": 1920,
+                "height": 1280
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "+800%",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "+640%",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Online Leads",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Conversion Rate",
+                "align": "center"
+              },
+              {
+                "t": "text",
+                "html": "<p><em>&#8220;Zoot goes above and beyond on every single deliverable. They do not just do the job — they make sure everything is set up properly for long-term results.&#8221;</em></p>"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "testimonials",
+        "parts": [
+          {
+            "t": "headline",
+            "tag": "p",
+            "before": "But Don't Take Our Word For It",
+            "highlight": "Real Results. Real Clients.",
+            "after": ""
+          },
+          {
+            "t": "testimonials",
+            "minHeight": 290,
+            "pad": "30px",
+            "items": [
+              {
+                "stars": 5,
+                "html": "<p>We hired Zoot web agency for Google My Business SEO services and the results have been outstanding. Our local visibility improved quickly, our listing is now optimized correctly, and we're getting more calls and in-store traffic than before. They clearly understand local SEO, maps ranking, reviews, and how to position a business to stand out in competitive searches. Highly recommend their services to any business serious about local growth.</p>",
+                "name": "brainbodge"
+              },
+              {
+                "stars": 5,
+                "html": "<p>I've now worked with many other agencies but this one absolutely delivered what I was looking for. The citations they completed were incredibly detailed, accurate, and clearly done with a deep understanding of what actually moves the needle. What really stands out is how much he goes above and beyond, not just doing the job, but making sure everything is set up properly for long-term results.</p>",
+                "name": "Englishcoach"
+              },
+              {
+                "stars": 5,
+                "html": "<p>Zoot Web Agency has been Exceptional in helping us with SEO across all of our clinics. I am deeply content on the direction we are taking as citations are much underrated by many business owners. AI signaling in different ways is replacing the outdated old SEO and I am glad I am working with Prasad to maintain modern visibility online.</p>",
+                "name": "Scubaskool"
+              },
+              {
+                "stars": 5,
+                "html": "<p>Zoot did an excellent job improving our SEO and online visibility. They built high-quality backlinks, optimized our map citations, and helped strengthen our local search presence. What impressed me most was that he went beyond the agreed work by adding extra improvements and giving valuable SEO advice for free. Highly recommend them to anyone looking for reliable SEO and backlink services.</p>",
+                "name": "karlblud"
+              },
+              {
+                "stars": 5,
+                "html": "<p>After trying several top rated agency, I can surely say they are outstanding. Don't even look further, hire them. They have an excellent and in-depth understanding of webpage SEO and explains clearly how everything connects to Google. They communicate in a very transparent and structured way and put real effort into choosing the best strategy for your project. Highly recommended.</p>",
+                "name": "Revibetherapy"
+              },
+              {
+                "stars": 5,
+                "html": "<p>I had a great experience working with this SEO service. They helped improve my Google Business ranking and increased visibility for my business. Very professional, honest, and knowledgeable about local SEO. I started seeing better results on Google Maps and more customer calls after their work. I highly recommend them to anyone looking to grow their business online.</p>",
+                "name": "Kalsaid16"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "80px 15px 80px 15px"
+        }
+      },
+      {
+        "kind": "cta",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Ready to Grow Your Dallas Business With Digital Marketing Services?",
+            "align": "center"
+          },
+          {
+            "t": "text",
+            "html": "<p>Partner with Zoot Web Agency, the results-driven digital marketing experts trusted by businesses across Dallas. Get your free proposal today.</p>"
+          },
+          {
+            "t": "btn",
+            "html": "Get My Free Proposal",
+            "href": "/contact-zoot-web-agency/"
+          }
+        ],
+        "pad": {
+          "sec": "70px 24px 70px 24px"
+        },
+        "width": "1140px"
+      },
+      {
+        "kind": "services",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Dallas Digital Marketing Services",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>We provide customized digital marketing solutions built specifically for Dallas businesses — every strategy is tailored to your market, your competition, and your growth goals.</p>"
+          },
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 32V18\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M16 32H32\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M18 28L22 24L26 26L32 20\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M30 20H32V22\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Search Engine Optimization",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Getting to page one of Google is one thing. Staying there is another option. Our <a href=\"/dallas-digital-marketing-agency/seo-company/\">SEO </a>work starts with a proper audit — not a generic automated scan, but a real look at what&#8217;s holding your site back technically, where your competitors are beating you, and where the actual keyword opportunities are for a Dallas business like yours. From there we handle everything: on-page fixes, link building, local SEO for the Google Maps pack, and content that earns rankings over time. It takes a few months to build real momentum, but once it&#8217;s there, it holds — and it compounds.</p>",
+                "link": "#008AFC",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 30L30 16L32 18L18 32L15 33L16 30Z\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"></path><path d=\"M29 15L33 19\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Web Design and Development",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>A lot of websites look fine and still don&#8217;t work — slow to load, frustrating on mobile, no clear path for a visitor to follow. That&#8217;s the kind of thing that kills conversions quietly in the background. Every site we build is designed around what we want visitors to do first, then around how it looks using <a href=\"/dallas-digital-marketing-agency/web-design/\">web design and development</a> services. We build on WordPress with Elementor, which means you get something fast, easy to update yourself, and SEO-friendly out of the gate. No proprietary builders that lock you in.</p>",
+                "link": "#008AFC"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><circle cx=\"20\" cy=\"24\" r=\"2\" fill=\"#2563EB\"></circle><circle cx=\"28\" cy=\"20\" r=\"2\" fill=\"#2563EB\"></circle><circle cx=\"28\" cy=\"28\" r=\"2\" fill=\"#2563EB\"></circle><path d=\"M22 23L26 21\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M22 25L26 27\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Social Media Marketing",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p><a href=\"/dallas-digital-marketing-agency/social-media-agency/\">Social media marketing solutions </a>succeed when you build them around a specific audience not when you copy them from a template. A strategy for a law firm looks nothing like one for a restaurant or a home services company, and it shouldn&#8217;t. We figure out which platforms your customers actually spend time on, what type of content gets real engagement in your industry, and how to turn that attention into leads your sales team can work with. The goal is always actual business outcomes, not just follower counts.</p>",
+                "link": "#008AFC"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 18C16 16.8954 16.8954 16 18 16H30C31.1046 16 32 16.8954 32 18V26C32 27.1046 31.1046 28 30 28H23L18 32V28H18C16.8954 28 16 27.1046 16 26V18Z\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linejoin=\"round\"></path><circle cx=\"21\" cy=\"22\" r=\"1.5\" fill=\"#2563EB\"></circle><circle cx=\"24\" cy=\"22\" r=\"1.5\" fill=\"#2563EB\"></circle><circle cx=\"27\" cy=\"22\" r=\"1.5\" fill=\"#2563EB\"></circle></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Pay-Per-Click (PPC)",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p><a href=\"/dallas-digital-marketing-agency/ppc-agency/\">PPC</a> can drain a budget fast if the setup is wrong. We&#8217;ve taken over plenty of Google Ads accounts that were spending heavily on the wrong keywords, sending clicks to pages that don&#8217;t convert, and reporting metrics that sounded good but had nothing to do with revenue. We fix the problems first, then build campaigns around what actually matters for your business. Our team manages Google, Meta, and display advertising for Dallas clients at a range of budget levels.</p>",
+                "link": "#008AFC"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><circle cx=\"24\" cy=\"22\" r=\"3\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M18 30C18 27.7909 20.6863 26 24 26C27.3137 26 30 27.7909 30 30\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><circle cx=\"16\" cy=\"24\" r=\"2\" stroke=\"#2563EB\" stroke-width=\"2\"></circle></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Online Reputation Management",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Your Google reviews matter more than most business owners realize — they&#8217;re often what makes a potential customer pick you or keep scrolling. A run of bad reviews, even unfair ones, can quietly kill your lead flow for months. We handle reputation from both sides: making it easier for satisfied customers to leave reviews and responding to negative ones in a way that actually helps your standing. </p>"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 17H32V30H16V17Z\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linejoin=\"round\"></path><path d=\"M19 21H24\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M19 25H26\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M29 21V26\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Content Marketing",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Good content earns trust before the sale ever happens — and it does it while you sleep. We write blog posts, service pages, and guides that your potential customers actually want to read, not keyword-stuffed filler. Every piece is tied to a purpose: <a href=\"https://moz.com/beginners-guide-to-seo\" target=\"_blank\" rel=\"noopener\">ranking for a specific search term</a>, answering a question your customers ask over and over, or nudging someone closer to a buying decision. Our writers work alongside our SEO team so the content builds your authority and organic visibility over time.</p>"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M18 14H26L32 20V32C32 33.1046 31.1046 34 30 34H18C16.8954 34 16 33.1046 16 32V16C16 14.8954 16.8954 14 18 14Z\" fill=\"#2563EB\"></path><path d=\"M26 14V20H32\" fill=\"#0B3B8C\"></path><rect x=\"20\" y=\"24\" width=\"8\" height=\"2\" fill=\"#0B3B8C\"></rect><rect x=\"20\" y=\"28\" width=\"6\" height=\"2\" fill=\"#0B3B8C\"></rect></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Video Production",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Video is the format people actually stop and watch. A well-made explainer video, a genuine testimonial from a real client, or a look behind the scenes at your team can do more for trust-building than ten written pages. We handle the whole thing — scripting, filming, editing, and formatting for the platforms you&#8217;re using. If you&#8217;re running video ads on YouTube or social, we produce it with that distribution in mind from the start.</p>"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M24 14L32 18V24C32 29 28.5 32.5 24 34C19.5 32.5 16 29 16 24V18L24 14Z\" fill=\"#2563EB\"></path></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Conversion Rate Optimization",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Getting traffic to your site is only half the job. If visitors aren&#8217;t turning into leads or customers, you&#8217;re paying for eyeballs and not much else. CRO is about understanding why people leave without acting — and fixing it. We look at heat maps, session recordings, form completion rates, and where people drop off in your funnel. </p>"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 20C16 17.7909 17.7909 16 20 16H28C30.2091 16 32 17.7909 32 20V25C32 27.2091 30.2091 29 28 29H22L18 32V29H20C17.7909 29 16 27.2091 16 25V20Z\" fill=\"#2563EB\"></path></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Amazon Marketing Services",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Amazon has its own search engine, its own ranking factors, and its own buyer psychology — and winning there takes a different approach than regular digital marketing. We help Dallas-based sellers optimize their product listings and brand pages, improve visibility within Amazon&#8217;s search results, and run sponsored campaigns that bring in buyers rather than browsers. </p>"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "why",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Why Choose Zoot As Your Dallas Digital Marketing Company",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>We built Zoot around a simple idea: if the results aren&#8217;t there, the client leaves. That keeps everyone on the team honest. Most agencies focus energy on signing new clients. We focus energy on keeping the ones we have, which means the work has to actually produce something. Every account manager, strategist, and specialist on our team knows their job isn&#8217;t to make a report look impressive. It&#8217;s to make the client&#8217;s business grow.<a href=\"/what-is-digital-marketing-in-dallas/\"> See how performance-driven marketing helps businesses scale sustainably </a>through measurable strategy, lead generation, and long-term customer acquisition.</p>",
+            "link": "#008AFC"
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><path d=\"M18 20L30 14V34L18 28H12V20H18Z\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linejoin=\"round\"></path><path d=\"M16 28V34\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linecap=\"round\"></path><path d=\"M34 20C36 22 37 24 37 27C37 30 36 32 34 34\" stroke=\"#00A3FF\" stroke-width=\"3\" stroke-linecap=\"round\"></path><path d=\"M38 16C41 19 43 23 43 27C43 31 41 35 38 38\" stroke=\"#00A3FF\" stroke-width=\"3\" stroke-linecap=\"round\"></path></svg>",
+            "tag": "p",
+            "html": "Honest, Straight Talk",
+            "desc": "We tell clients what we can realistically achieve, and we own it when something isn't performing the way we expected. If a strategy isn't working, we say so and change course — we don't hide it in a report. We've turned down clients who weren't a good fit and ended campaigns that weren't producing. That kind of honesty is sometimes uncomfortable, but it's the only way to build a working relationship that lasts."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><rect x=\"16\" y=\"8\" width=\"16\" height=\"32\" rx=\"2\" stroke=\"#00A3FF\" stroke-width=\"4\"></rect><circle cx=\"24\" cy=\"34\" r=\"1.8\" fill=\"#00A3FF\"></circle></svg>",
+            "tag": "p",
+            "html": "Results We Can Show You",
+            "desc": "We have actual numbers from actual clients — traffic growth, lead increases, and revenue impact — across industries including legal, healthcare, home services, retail, and professional services. When we tell you something works, we can show you cases where it did. That track record shapes every recommendation we make because it filters out tactics that sound good in a pitch but don't move the needle."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><path d=\"M8 32C8 23.1634 15.1634 16 24 16C32.8366 16 40 23.1634 40 32\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linecap=\"round\"></path><path d=\"M16 24L18 26\" stroke=\"#00A3FF\" stroke-width=\"3\" stroke-linecap=\"round\"></path><path d=\"M24 21V24\" stroke=\"#00A3FF\" stroke-width=\"3\" stroke-linecap=\"round\"></path><path d=\"M32 24L30 26\" stroke=\"#00A3FF\" stroke-width=\"3\" stroke-linecap=\"round\"></path><path d=\"M24 32L31 24\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linecap=\"round\"></path><circle cx=\"24\" cy=\"32\" r=\"2.5\" fill=\"#00A3FF\"></circle></svg>",
+            "tag": "p",
+            "html": "Specialists, Not Generalists",
+            "desc": "Every person who works on your account is a specialist in their area. Your SEO isn't being handled by someone who also manages your social media and writes your blog posts on the side. We have dedicated people for each channel, and they actually talk to each other. That coordination matters — your campaigns reinforce each other instead of pulling in different directions."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><path d=\"M18 14L10 24L18 34\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M30 14L38 24L30 34\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M26 10L22 38\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linecap=\"round\"></path></svg>",
+            "tag": "p",
+            "html": "Reporting That Makes Sense",
+            "desc": "Our monthly reports answer the questions that actually matter: what did we do, what did it produce, and what's the plan for next month? No 40-page PDFs packed with metrics that don't connect to your bottom line. You also get access to your live dashboard anytime, plus a direct line to your account manager when you have a question between reports."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><g fill=\"none\" stroke=\"#1E90FF\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M8 12h8l8 28h24l8-20H22\"></path><circle cx=\"28\" cy=\"52\" r=\"3\" fill=\"#1E90FF\" stroke=\"none\"></circle><circle cx=\"48\" cy=\"52\" r=\"3\" fill=\"#1E90FF\" stroke=\"none\"></circle></g></svg>",
+            "tag": "p",
+            "html": "We Respect Your Time",
+            "desc": "We set timelines we intend to keep. Before any campaign or project kicks off, we walk through a realistic schedule so there are no surprises. When something runs longer than planned — and occasionally it does — we communicate early, explain what happened, and give you a revised date. You'll never be sitting there wondering why nothing has happened."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><g fill=\"none\" stroke=\"#1E90FF\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"10\" y=\"10\" width=\"44\" height=\"44\" rx=\"6\" ry=\"6\"></rect><polyline points=\"20,34 28,42 44,24\"></polyline></g></svg>",
+            "tag": "p",
+            "html": "Built for Your Business",
+            "desc": "Generic packages don't work because no two businesses compete in the same way. Before we recommend anything, we do the homework — your market, your competitors, your current digital footprint, and where the actual growth opportunities are. What we put together for you is based on that research, not whatever package is easiest for us to sell this month."
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "awards",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Award-Winning Digital Marketing Agency in Dallas",
+            "align": "start"
+          },
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "parts": [
+              {
+                "t": "img",
+                "src": "/uploads/2026/05/ChatGPT-Image-May-16-2026-11_39_07-AM.png",
+                "alt": "Dallas Social Media Agency",
+                "width": 1583,
+                "height": 993
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Zoot Web Agency Named Top Digital Marketing Agency in Dallas by Clutch",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p><a href=\"https://clutch.co/agencies/digital-marketing\" target=\"_blank\" rel=\"noopener\">Clutch ranks B2B service providers</a> using verified client interviews and market presence data. Their evaluation is independent and can&#8217;t be paid for — which is what makes it meaningful. Zoot Web Agency has been named a top agency in Dallas across five categories:</p><ul><li>Digital Marketing Agency</li><li>SEO Agency</li><li>PPC Agency</li><li>Social Media Agency</li><li>Web Design Agency</li></ul><p>We hold a 5.0 rating on the platform. Every review comes from a real client, and we&#8217;re grateful to those who took the time to share their experience honestly.</p>"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "img",
+                "src": "/uploads/2026/05/ChatGPT-Image-May-16-2026-11_39_57-AM.png",
+                "alt": "Dallas Social Media Agency",
+                "width": 1555,
+                "height": 1011
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Zoot Web Agency Named National Excellence Award Winner in Dallas by UpCity",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>UpCity scores service providers using their Recommendability Rating — an algorithm that evaluates credibility, reputation, and client satisfaction signals from across the web. It&#8217;s not self-reported and can&#8217;t be gamed.</p><p>Zoot Web Agency holds a 5.0 rating on UpCity and has been named a National Excellence Award winner in the Dallas market. We treat recognitions like this as a baseline to maintain — not a finish line. The only way to keep earning them is to keep doing good work.</p>"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "faq",
+        "parts": [
+          {
+            "t": "headline",
+            "tag": "h3",
+            "before": "Frequently Asked",
+            "highlight": "Questions",
+            "after": ""
+          },
+          {
+            "t": "text",
+            "html": "<p>Common questions from Dallas businesses about digital marketing services and what to expect when working with Zoot Web Agency.</p>",
+            "align": "center"
+          },
+          {
+            "t": "faq",
+            "items": [
+              {
+                "q": "How much does digital marketing cost for a Dallas business?",
+                "a": "<p>It depends on the size of your market, how competitive your category is, and what you're trying to accomplish. Most small-to-medium Dallas businesses spend between $1,500 and $5,000 per month for a complete strategy. We start with a free audit and custom proposal, so there are no surprises — you'll know what's included and what the expected outcomes look like before you sign anything.</p>",
+                "open": true
+              },
+              {
+                "q": "How long does SEO take to produce results in Dallas?",
+                "a": "<p>Dallas is a competitive market for most categories, so realistic timelines are three to six months before you see clear organic movement. Niches with less competition will move faster. Paid search is different — you can be capturing leads from the day the campaign goes live. We set accurate expectations upfront and report monthly so you can track exactly where things stand.</p>",
+                "open": true
+              },
+              {
+                "q": "Dallas has a lot of marketing agencies — what makes Zoot stand out?",
+                "a": "<p>Three things specifically: we don't lock clients into long-term contracts; every account gets a single dedicated manager instead of being passed around a team; and we report in plain language that actually tells you what your investment produced. If results aren't there, we say so and fix it — we don't hide underperformance behind impressive-looking dashboards.</p>",
+                "open": true
+              },
+              {
+                "q": "Do you work with both B2B and B2C businesses in Dallas?",
+                "a": "<p>Yes. We work across both. B2B in Dallas tends to involve longer sales cycles, more content and LinkedIn strategy, and different conversion metrics. B2C is often more search and social-driven with faster decision cycles. We adapt the approach based on how your customers actually buy, not a one-size-fits-all playbook.</p>",
+                "open": true
+              },
+              {
+                "q": "Can you help my Dallas business rank in the Google Maps pack?",
+                "a": "<p>Local pack rankings are part of our standard SEO work. We optimize your Google Business Profile, fix citation inconsistencies, build a review acquisition strategy, and handle the local on-page signals that Google uses to rank Maps results. Most Dallas clients see real improvement within 60 to 90 days of getting started.</p>",
+                "open": true
+              }
+            ]
+          },
+          {
+            "t": "faq",
+            "items": [
+              {
+                "q": "Do you build websites for Dallas businesses?",
+                "a": "<p>Yes. We build on WordPress — fast, SEO-ready, and easy for you to manage without agency help for everyday updates. Every project includes on-page SEO, mobile optimization, and conversion design as standard. You own the site outright, and it's built to perform, not just to look good.</p>",
+                "open": true
+              },
+              {
+                "q": "Can you manage social media for my Dallas business?",
+                "a": "<p>Yes. We create content, manage posting schedules, handle community responses, and run paid social campaigns on Facebook, Instagram, and LinkedIn. Dallas has a strong professional and consumer market on both platforms, and the right social presence builds brand trust before a prospect ever visits your website. We don't post for the sake of posting — everything has a purpose.</p>",
+                "open": true
+              },
+              {
+                "q": "Do you handle online reputation management in Dallas?",
+                "a": "<p>Yes. We help you build a consistent stream of reviews from happy customers, monitor what's being said about your business, and manage responses to negative reviews in a way that protects your standing. Reviews affect both search rankings and buyer decisions — a 4.2 rating losing to a 4.8 competitor is a real problem we can help solve over time.</p>",
+                "open": true
+              },
+              {
+                "q": "How fast can PPC start producing results for a Dallas business?",
+                "a": "<p>Paid search campaigns can be live and generating leads within the first week. The key is getting the targeting, ad copy, and landing pages right from day one — a poorly structured campaign burns budget fast. We audit any existing accounts before touching them, fix the structural problems first, and then scale what's working. Dallas has real ad competition in most categories, but it's very winnable with proper campaign management.</p>",
+                "open": true
+              },
+              {
+                "q": "How do I get started with Zoot in Dallas?",
+                "a": "<p>Reach out and we'll schedule a free audit of your current digital presence. We look at your website, search visibility, Google Business Profile, and any advertising you're currently running. From that we put together a proposal with the specific work, expected results, and cost — no generic packages, just a plan built around your business. There's no pressure to move forward and no cost for the audit itself.</p>",
+                "open": true
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "0px 0px 30px 0px",
+          "box": "60px 0px 0px 0px"
+        }
+      }
+    ]
   }
 }

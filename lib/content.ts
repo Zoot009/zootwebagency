@@ -23,6 +23,40 @@ export type Page = {
   layoutCss?: string; // family "generic" only: Elementor layout values for the raw HTML (scripts/elementor-css.mjs)
   // family "article" only: Elementor element id -> { "part prop@breakpoint": value } from post-<id>.css
   layout?: Record<string, Record<string, string>>;
+  city?: { sections: CitySection[] }; // cityHub/cityService only, see scripts/city-sections.mjs
+};
+
+// City page structure. Copy fields are WordPress HTML, verbatim.
+export type CityPart =
+  | { t: "crumbs" | "cards" }
+  | { t: "h"; tag: string; html: string; align?: string }
+  | { t: "text"; html: string; link?: string; align?: string }
+  | { t: "img"; src: string; alt: string; width: number; height: number }
+  | { t: "btn"; html: string; href: string | null }
+  | { t: "icon"; svg: string }
+  | { t: "iconbox"; svg: string; tag: string; html: string; desc: string; link?: string }
+  | { t: "html"; html: string } // HTML widget (e.g. the star row), verbatim
+  | { t: "headline"; tag: string; before: string; highlight: string; after: string }
+  | { t: "form"; name: string; fields: FormField[]; submit: string }
+  | { t: "testimonials"; minHeight: number; pad: string; items: { stars: number; html: string; name: string }[] }
+  | { t: "faq"; items: { q: string; a: string; open: boolean }[] }
+  | { t: "raw"; html: string };
+export type FormField = {
+  tag: "input" | "select" | "textarea";
+  type: string | null;
+  name: string;
+  id: string;
+  placeholder: string | null;
+  label: string | null;
+  width: number;
+  options?: string[];
+};
+export type CitySection = {
+  kind: "hero" | "stats" | "intro" | "audit" | "cases" | "testimonials" | "cta" | "services" | "why" | "awards" | "faq" | "generic";
+  parts: CityPart[];
+  cards?: { bg?: string; parts: CityPart[] }[];
+  pad?: { sec?: string; box?: string; grid?: string }; // per-page container padding from WP CSS
+  width?: string; // per-page content width (boxed sections)
 };
 
 const DIR = "content/pages";

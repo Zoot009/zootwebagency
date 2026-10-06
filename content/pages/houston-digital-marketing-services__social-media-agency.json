@@ -362,5 +362,919 @@
         ]
       }
     ]
+  },
+  "city": {
+    "sections": [
+      {
+        "kind": "hero",
+        "parts": [
+          {
+            "t": "crumbs"
+          },
+          {
+            "t": "h",
+            "tag": "h1",
+            "html": "Houston Social Media Agency",
+            "align": "start"
+          },
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Build Authority, Grow Your Audience &amp; Generate Real Leads",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>Zoot Web Agency is a Houston social media agency that builds brands, grows engaged audiences, and generates qualified leads through strategic social media marketing. We do not post just for the sake of posting. Every campaign is built around specific business outcomes — more visibility, more enquiries, and a social presence that reflects the quality of what your Houston business actually delivers.</p>",
+            "align": "start"
+          },
+          {
+            "t": "img",
+            "src": "/uploads/2026/05/ChatGPT-Image-May-7-2026-05_25_50-PM.png",
+            "alt": "Houston Social Media Agency",
+            "width": 1672,
+            "height": 941
+          }
+        ]
+      },
+      {
+        "kind": "stats",
+        "parts": [
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "parts": [
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "150+",
+                "align": "center"
+              },
+              {
+                "t": "html",
+                "html": "<div style=\"display:flex;justify-content:center;gap:3px;margin:6px 0;\"><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span></div>"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "5-Star Google Reviews",
+                "align": "center"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "500+",
+                "align": "center"
+              },
+              {
+                "t": "html",
+                "html": "<div style=\"display:flex;justify-content:center;gap:3px;margin:6px 0;\"><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span></div>"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Happy Clients Served",
+                "align": "center"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "1,000+",
+                "align": "center"
+              },
+              {
+                "t": "html",
+                "html": "<div style=\"display:flex;justify-content:center;gap:3px;margin:6px 0;\"><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span></div>"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Total Client Reviews",
+                "align": "center"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "1,000+",
+                "align": "center"
+              },
+              {
+                "t": "html",
+                "html": "<div style=\"display:flex;justify-content:center;gap:3px;margin:6px 0;\"><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span></div>"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Businesses Helped Grow",
+                "align": "center"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "50px 24px 50px 24px"
+        }
+      },
+      {
+        "kind": "intro",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Social Media Services in Houston",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>Houston is one of the most socially active business markets in the country. The city&#8217;s diverse population across energy, healthcare, technology, hospitality, retail, and professional services creates a social media landscape where almost every consumer audience is reachable — but where standing out requires more than a consistent posting schedule. Businesses that generate real leads and real brand equity from social media in Houston are the ones with a defined content strategy, a clear understanding of which platforms their customers actually use, and a paid amplification approach that gets content in front of the right people rather than broadcasting to an unfocused following.</p><p>The mistake most Houston businesses make with social media is treating it as a broadcast channel rather than a relationship-building one. Content that is purely promotional — service announcements, sale notices, and company updates — generates minimal engagement and does little to build the trust that precedes a purchase decision. The businesses that use social media effectively tend to share genuine insights, answer questions their customers are already asking, give potential buyers a realistic sense of what working with them looks like, and respond to comments and messages in a way that demonstrates real human attentiveness. This approach builds a following of people who are actually interested in what you offer.</p><p> </p>"
+          },
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "bg": "/uploads/2026/03/ChatGPT-Image-Mar-25-2026-12_34_38-PM.png",
+            "parts": [
+              {
+                "t": "btn",
+                "html": "FREE STRATEGY SESSION",
+                "href": "#"
+              },
+              {
+                "t": "text",
+                "html": "<p>Grow Your Houston Business With Expert Social Media Marketing</p>"
+              },
+              {
+                "t": "text",
+                "html": "<p>Get a free social media audit from our Houston specialists. We&#8217;ll show you how to build a loyal following and drive more leads from social.</p>"
+              },
+              {
+                "t": "btn",
+                "html": "Get My Free Growth Plan",
+                "href": "/contact-zoot-web-agency/"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "audit",
+        "parts": [
+          {
+            "t": "headline",
+            "tag": "p",
+            "before": "Get Your FREE",
+            "highlight": "Houston Social Media Audit",
+            "after": ""
+          },
+          {
+            "t": "form",
+            "name": "Free Audit Form",
+            "fields": [
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[name]",
+                "id": "form-field-name",
+                "placeholder": "First Name",
+                "label": null,
+                "width": 50
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[last_name]",
+                "id": "form-field-last_name",
+                "placeholder": "Last Name",
+                "label": null,
+                "width": 50
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[company]",
+                "id": "form-field-company",
+                "placeholder": "Company / Organization",
+                "label": null,
+                "width": 50
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[website]",
+                "id": "form-field-website",
+                "placeholder": "Website URL",
+                "label": null,
+                "width": 50
+              },
+              {
+                "tag": "select",
+                "type": null,
+                "name": "form_fields[goal]",
+                "id": "form-field-goal",
+                "placeholder": null,
+                "label": "Main Goal",
+                "width": 50,
+                "options": [
+                  "More Traffic",
+                  "More Leads",
+                  "Brand Awareness",
+                  "Better ROI"
+                ]
+              },
+              {
+                "tag": "select",
+                "type": null,
+                "name": "form_fields[service]",
+                "id": "form-field-service",
+                "placeholder": null,
+                "label": "Service Interested In",
+                "width": 50,
+                "options": [
+                  "Digital Marketing Services",
+                  "SEO Services",
+                  "Local SEO Services",
+                  "Technical SEO",
+                  "Enterprise SEO Services",
+                  "eCommerce SEO",
+                  "Pay Per Click (PPC)",
+                  "Social Media Marketing",
+                  "Social Media Management",
+                  "Web Design",
+                  "Content Marketing",
+                  "Email Marketing",
+                  "Online Reputation Management",
+                  "eCommerce Marketing Services",
+                  "Amazon Marketing Services",
+                  "Conversion Rate Optimization",
+                  "Link Building Services",
+                  "Video Production",
+                  "AI SEO Services",
+                  "Digital Marketing Strategy Development",
+                  "Franchise Digital Marketing",
+                  "Enterprise Digital Marketing",
+                  "SEO Audit Services",
+                  "CRO Audit Services",
+                  "User Experience Testing",
+                  "Search Engine Marketing",
+                  "Google Ads Management Services",
+                  "YouTube Advertising Services",
+                  "Programmatic Advertising",
+                  "Lead Generation Services",
+                  "Franchise PPC Marketing",
+                  "Enterprise PPC Marketing",
+                  "Social Media Brand Management",
+                  "Franchise Social Media Marketing",
+                  "Enterprise Social Media Marketing",
+                  "Facebook Advertising",
+                  "LinkedIn Advertising",
+                  "Twitter Advertising",
+                  "Instagram Marketing",
+                  "Social Media Advertising",
+                  "Digital PR Services",
+                  "HARO Link Building",
+                  "Branding Services",
+                  "Custom Website Design",
+                  "WordPress Website Design",
+                  "Website Hosting",
+                  "ADA Compliance Services",
+                  "Media Production Services",
+                  "Video Testimonial Services",
+                  "Product Photography",
+                  "Drone Video & Photography",
+                  "Content Writing",
+                  "Copywriting Services",
+                  "User Behavior Analytics",
+                  "Franchise SEO Audit Services",
+                  "Enterprise SEO Audit Services"
+                ]
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[city]",
+                "id": "form-field-city",
+                "placeholder": "Your City / Location",
+                "label": null,
+                "width": 100
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[message]",
+                "id": "form-field-message",
+                "placeholder": "Tell us about your business challenges",
+                "label": null,
+                "width": 100
+              }
+            ],
+            "submit": "Get My Free Audit"
+          }
+        ],
+        "pad": {
+          "sec": "0px 0px 0px 0px",
+          "box": "21px 0px 40px 0px"
+        }
+      },
+      {
+        "kind": "cases",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Our Houston Social Media Agency Clients Get Results",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>Real campaigns. Documented results. Every client below shows exactly what we achieved and what they have to say about working with Zoot. </p>",
+            "link": "#0362F9"
+          },
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "parts": [
+              {
+                "t": "img",
+                "src": "/uploads/2026/03/darkostojanovic-laboratory-563423_1920.jpg",
+                "alt": "Houston Web Design Company - Dallas Digital Marketing Agency - austin digital marketing agency - franchise digital marketing - Arlington Digital Marketing Services",
+                "width": 1920,
+                "height": 1280
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "+664%",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "+360%",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Organic Traffic",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Online Leads",
+                "align": "center"
+              },
+              {
+                "t": "text",
+                "html": "<p><em>&#8220;Before Zoot, our social media accounts existed but were not doing anything for our business. Within three months of their management, we were generating consistent enquiries from Instagram and Facebook — from people who had been following us and built genuine interest in what we do.&#8221;</em></p>"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "img",
+                "src": "/uploads/2026/03/advogadoaguilar-right-4944550_1920.jpg",
+                "alt": "Houston Web Design Company - Dallas Digital Marketing Agency - austin digital marketing agency - Arlington Digital Marketing Services - Google Business Profile Optimization - franchise digital marketing",
+                "width": 1920,
+                "height": 1280
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "+800%",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "+640%",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Online Leads",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Conversion Rate",
+                "align": "center"
+              },
+              {
+                "t": "text",
+                "html": "<p><em>&#8220;Zoot completely changed how we thought about social media. It&#8217;s not just a posting service — it&#8217;s a genuine brand-building and lead-generation channel. Our paid social campaigns alone have become one of our top two lead sources.&#8221;</em></p>"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "testimonials",
+        "parts": [
+          {
+            "t": "headline",
+            "tag": "p",
+            "before": "But Don't Take Our Word For It",
+            "highlight": "Real Results. Real Clients.",
+            "after": ""
+          },
+          {
+            "t": "testimonials",
+            "minHeight": 290,
+            "pad": "30px",
+            "items": [
+              {
+                "stars": 5,
+                "html": "<p>We hired Zoot web agency for Google My Business SEO services and the results have been outstanding. Our local visibility improved quickly, our listing is now optimized correctly, and we're getting more calls and in-store traffic than before. They clearly understand local SEO, maps ranking, reviews, and how to position a business to stand out in competitive searches. Highly recommend their services to any business serious about local growth.</p>",
+                "name": "brainbodge"
+              },
+              {
+                "stars": 5,
+                "html": "<p>I've now worked with many other agencies but this one absolutely delivered what I was looking for. The citations they completed were incredibly detailed, accurate, and clearly done with a deep understanding of what actually moves the needle. What really stands out is how much he goes above and beyond, not just doing the job, but making sure everything is set up properly for long-term results.</p>",
+                "name": "Englishcoach"
+              },
+              {
+                "stars": 5,
+                "html": "<p>Zoot Web Agency has been Exceptional in helping us with SEO across all of our clinics. I am deeply content on the direction we are taking as citations are much underrated by many business owners. AI signaling in different ways is replacing the outdated old SEO and I am glad I am working with Prasad to maintain modern visibility online.</p>",
+                "name": "Scubaskool"
+              },
+              {
+                "stars": 5,
+                "html": "<p>Zoot did an excellent job improving our SEO and online visibility. They built high-quality backlinks, optimized our map citations, and helped strengthen our local search presence. What impressed me most was that he went beyond the agreed work by adding extra improvements and giving valuable SEO advice for free. Highly recommend them to anyone looking for reliable SEO and backlink services.</p>",
+                "name": "karlblud"
+              },
+              {
+                "stars": 5,
+                "html": "<p>After trying several top rated agency, I can surely say they are outstanding. Don't even look further, hire them. They have an excellent and in-depth understanding of webpage SEO and explains clearly how everything connects to Google. They communicate in a very transparent and structured way and put real effort into choosing the best strategy for your project. Highly recommended.</p>",
+                "name": "Revibetherapy"
+              },
+              {
+                "stars": 5,
+                "html": "<p>I had a great experience working with this SEO service. They helped improve my Google Business ranking and increased visibility for my business. Very professional, honest, and knowledgeable about local SEO. I started seeing better results on Google Maps and more customer calls after their work. I highly recommend them to anyone looking to grow their business online.</p>",
+                "name": "Kalsaid16"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "80px 15px 80px 15px"
+        }
+      },
+      {
+        "kind": "cta",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Ready to Build a Social Media Presence That Grows Your Houston Business?",
+            "align": "center"
+          },
+          {
+            "t": "text",
+            "html": "<p>Partner with Zoot Web Agency — Houston&#039;s results-driven social media specialists. Get your free social media audit and see exactly how your accounts can perform better.</p>"
+          },
+          {
+            "t": "btn",
+            "html": "Get My Free Proposal",
+            "href": "/contact-zoot-web-agency/"
+          }
+        ],
+        "pad": {
+          "sec": "70px 24px 70px 24px"
+        },
+        "width": "900px"
+      },
+      {
+        "kind": "services",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Houston Social Media Services",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>We provide full-service social media management and marketing for Houston businesses — strategy, content creation, community management, paid social, and clear monthly reporting on what it is producing.</p>"
+          },
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M18 14H26L32 20V32C32 33.1046 31.1046 34 30 34H18C16.8954 34 16 33.1046 16 32V16C16 14.8954 16.8954 14 18 14Z\" fill=\"#2563EB\"></path><path d=\"M26 14V20H32\" fill=\"#0B3B8C\"></path><rect x=\"20\" y=\"24\" width=\"8\" height=\"2\" fill=\"#0B3B8C\"></rect><rect x=\"20\" y=\"28\" width=\"6\" height=\"2\" fill=\"#0B3B8C\"></rect></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Social Media Management",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Effective <a href=\"/digital-marketing-services/social-media-management/\">social media management services</a> are not just keeping accounts active. It has a coherent brand voice, a content strategy tied to business goals, a consistent posting schedule across the right platforms, and someone who actively monitors comments, messages, and mentions, responding in a way that reflects well on your business. We handle all of this for Houston clients — from content planning and creation through to scheduling, community management, and monthly performance analysis. Your accounts stay active and professionally managed without requiring your time or attention.</p>",
+                "link": "#008AFC",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M24 14L32 18V24C32 29 28.5 32.5 24 34C19.5 32.5 16 29 16 24V18L24 14Z\" fill=\"#2563EB\"></path></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Social Media Marketing Strategy",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Successful <a href=\"/houston-digital-marketing-services/\">houston digital marketing</a> requires more than just posting content. We develop customized strategies for social media marketing that help Houston businesses grow their audience, strengthen brand awareness, and generate consistent leads online. Our approach includes campaign planning, audience targeting, content direction, platform optimization, and performance analysis to ensure every marketing effort supports your business goals and delivers measurable results across digital channels.</p>",
+                "link": "#008AFC",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 32V18\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M16 32H32\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M18 28L22 24L26 26L32 20\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M30 20H32V22\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Paid Social Advertising",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Paid advertising allows your business to reach the right audience faster and generate measurable results through targeted digital campaigns. We create and manage <a href=\"/houston-digital-marketing-services/ppc-agency/\">PPC</a> and paid social advertising campaigns for Houston businesses across platforms like Facebook, Instagram, and Google. From audience targeting and ad creative development to campaign optimization and performance tracking, every strategy is designed to increase traffic, generate qualified leads, and maximize your advertising budget with data-driven results.</p>",
+                "link": "#008AFC",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 30L30 16L32 18L18 32L15 33L16 30Z\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"></path><path d=\"M29 15L33 19\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Facebook &amp; Instagram Marketing",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Facebook and Instagram remain the two highest-reach social platforms for most Houston consumer audiences, with combined advertising capabilities that allow precise targeting by location, demographic, interest, behaviour, and prior interaction with your brand. We manage Facebook and Instagram strategy together as a coordinated effort — using organic content to build brand equity and community, and paid campaigns to extend reach and drive specific conversion actions. For Houston businesses in retail, food and beverage, health and wellness, professional services, and home services, this combination consistently produces the best results.</p>",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 17H32V30H16V17Z\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linejoin=\"round\"></path><path d=\"M19 21H24\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M19 25H26\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M29 21V26\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "LinkedIn Marketing",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>LinkedIn is the primary platform for Houston B2B marketing. If your business sells to other businesses — professional services, consulting, technology, staffing, commercial real estate, financial services — LinkedIn gives you access to decision-makers at a level of targeting precision that no other platform matches. We build LinkedIn strategies for Houston B2B businesses that combine thought-leadership content to build credibility, targeted connection-building, and LinkedIn Ads to reach specific industries, job titles, and company sizes. A well-executed LinkedIn presence consistently generates high-quality pipeline for Houston B2B businesses that generic social media approaches simply cannot match.</p>",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><circle cx=\"24\" cy=\"22\" r=\"3\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M18 30C18 27.7909 20.6863 26 24 26C27.3137 26 30 27.7909 30 30\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><circle cx=\"16\" cy=\"24\" r=\"2\" stroke=\"#2563EB\" stroke-width=\"2\"></circle></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Content Creation &amp; Strategy",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Content is the foundation of effective digital marketing. We create high-quality content for Houston businesses including social media posts, <a href=\"/houston-digital-marketing-services/seo-company/\">SEO </a>focused website copy, ad creatives, blogs, graphic design, and short-form video scripts. Every piece is built around your brand voice, audience interests, and marketing goals to improve visibility, engagement, and conversions. We do not use recycled templates or generic messaging. Your content is created specifically for your business, helping strengthen your online presence across social media, search engines, and digital marketing campaigns.</p>",
+                "link": "#008AFC",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 20C16 17.7909 17.7909 16 20 16H28C30.2091 16 32 17.7909 32 20V25C32 27.2091 30.2091 29 28 29H22L18 32V29H20C17.7909 29 16 27.2091 16 25V20Z\" fill=\"#2563EB\"></path></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Social Media Brand Management",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Your brand is more than a logo. It is how customers recognize, trust, and remember your business online. We help Houston businesses build a strong digital presence through strategic brand development and professional <a href=\"/houston-digital-marketing-services/web-design-company/\">web design development</a> services. From website layout and visual identity to messaging, user experience, and brand consistency, every element is designed to reflect your business professionally while improving customer engagement, credibility, and online performance.</p>",
+                "link": "#008AFC",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M18 16L32 23L25 25L27 32L24 33L22 26L18 30L18 16Z\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"></path><circle cx=\"30\" cy=\"18\" r=\"1.5\" fill=\"#2563EB\"></circle></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Community Management",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>A social media presence that does not respond to comments, messages, and reviews quickly communicates the wrong things about your business — that you are not paying attention, that you do not value customer interaction, or that your service after the sale is as slow as your response rate on social. We handle community management for Houston clients as a standard part of social media management: monitoring comments and direct messages, responding in your brand voice within agreed timeframes, escalating complaints that require your attention, and maintaining the kind of active, attentive social presence that builds trust with your audience over time.</p>",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><circle cx=\"20\" cy=\"24\" r=\"2\" fill=\"#2563EB\"></circle><circle cx=\"28\" cy=\"20\" r=\"2\" fill=\"#2563EB\"></circle><circle cx=\"28\" cy=\"28\" r=\"2\" fill=\"#2563EB\"></circle><path d=\"M22 23L26 21\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M22 25L26 27\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Social Media Analytics &amp; Reporting",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Monthly reports cover the metrics that matter for your business — not just platform-native statistics that look impressive but do not connect to revenue. We report on reach and engagement (with context on what is performing and why), click-through rates to your website, lead and conversion volumes from paid social, cost per result for all paid campaigns, and audience growth quality. We also include a forward plan for the coming month — what content is planned, what tests are running, and what optimisations are in progress based on the previous month&#8217;s data.</p>",
+                "align": "start"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "why",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Why Choose Zoot As Your Houston Social Media Agency",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>Social media management is easy to start and hard to do well. Anyone can set up accounts and post content on a schedule. What is difficult is building a social presence that genuinely moves the needle for a Houston business — that builds real brand equity, attracts an audience of people who will eventually become customers, and generates qualified enquiries at a cost that makes business sense. Zoot&#8217;s approach starts with the business outcome and works backward to the content and platform strategy. We do not produce content for its own sake. Every post, campaign, and paid placement is tied to a measurable objective. <a href=\"/what-is-social-media-agency-in-houston/\">Learn how strategic social campaigns drive customer engagement </a>through audience targeting, platform-specific content, and measurable performance tracking.</p>",
+            "link": "#008AFC"
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><path d=\"M18 20L30 14V34L18 28H12V20H18Z\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linejoin=\"round\"></path><path d=\"M16 28V34\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linecap=\"round\"></path><path d=\"M34 20C36 22 37 24 37 27C37 30 36 32 34 34\" stroke=\"#00A3FF\" stroke-width=\"3\" stroke-linecap=\"round\"></path><path d=\"M38 16C41 19 43 23 43 27C43 31 41 35 38 38\" stroke=\"#00A3FF\" stroke-width=\"3\" stroke-linecap=\"round\"></path></svg>",
+            "tag": "p",
+            "html": "Content Built for Your Brand",
+            "desc": "Everything we create is made specifically for your business — your voice, your audience, your goals. We do not recycle content templates across clients or produce generic posts that could belong to any company in your industry. Your social media presence reflects what your Houston business actually is, which is the only version of social media management that builds genuine brand equity over time."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><rect x=\"16\" y=\"8\" width=\"16\" height=\"32\" rx=\"2\" stroke=\"#00A3FF\" stroke-width=\"4\"></rect><circle cx=\"24\" cy=\"34\" r=\"1.8\" fill=\"#00A3FF\"></circle></svg>",
+            "tag": "p",
+            "html": "Business Outcomes Over Vanity",
+            "desc": "Follower counts and impressions are inputs, not outcomes. We measure our social media work by the metrics that connect to your business — leads generated, enquiries from social channels, website traffic from social, and revenue attributed to social media campaigns. Monthly reports present these numbers clearly so you always know what your social media investment is producing."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><path d=\"M8 32C8 23.1634 15.1634 16 24 16C32.8366 16 40 23.1634 40 32\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linecap=\"round\"></path><path d=\"M16 24L18 26\" stroke=\"#00A3FF\" stroke-width=\"3\" stroke-linecap=\"round\"></path><path d=\"M24 21V24\" stroke=\"#00A3FF\" stroke-width=\"3\" stroke-linecap=\"round\"></path><path d=\"M32 24L30 26\" stroke=\"#00A3FF\" stroke-width=\"3\" stroke-linecap=\"round\"></path><path d=\"M24 32L31 24\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linecap=\"round\"></path><circle cx=\"24\" cy=\"32\" r=\"2.5\" fill=\"#00A3FF\"></circle></svg>",
+            "tag": "p",
+            "html": "Platform-Specific Strategy",
+            "desc": "The right approach on Instagram is completely different from LinkedIn, and neither is the same as Facebook. We do not apply a generic social media strategy across all platforms and call it done. We build platform-specific approaches based on where your Houston audience actually spends time and what format and content type produces results on each platform — because what works is different everywhere."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><path d=\"M18 14L10 24L18 34\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M30 14L38 24L30 34\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M26 10L22 38\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linecap=\"round\"></path></svg>",
+            "tag": "p",
+            "html": "Active Community Management",
+            "desc": "Social media accounts that do not respond to comments and messages signal a business that is not paying attention. We manage community engagement as a standard part of every social media retainer — responding to comments, handling direct messages, monitoring brand mentions, and escalating anything that requires your personal attention. Your social presence stays active and attentive without requiring your time."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><rect x=\"8\" y=\"36\" width=\"6\" height=\"16\" fill=\"#2F80ED\"></rect><rect x=\"20\" y=\"28\" width=\"6\" height=\"24\" fill=\"#2F80ED\"></rect><rect x=\"32\" y=\"20\" width=\"6\" height=\"32\" fill=\"#2F80ED\"></rect><path d=\"M10 30 L26 18 L42 10\" stroke=\"#2F80ED\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><polyline points=\"36,10 42,10 42,16\" stroke=\"#2F80ED\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></polyline></svg>",
+            "tag": "p",
+            "html": "Brand Reputation Protection",
+            "desc": "Your social media presence is public, and what appears on it — including complaints and negative comments — is visible to prospective customers. We monitor your social brand closely, respond to concerns in a way that is professional and brand-appropriate, and flag issues early before they escalate. Protecting your online reputation is as much a part of social media management as building it."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><g fill=\"none\" stroke=\"#1E90FF\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"8\" y=\"12\" width=\"48\" height=\"32\" rx=\"3\" ry=\"3\"></rect><line x1=\"24\" y1=\"48\" x2=\"40\" y2=\"48\"></line><line x1=\"32\" y1=\"44\" x2=\"32\" y2=\"56\"></line><rect x=\"20\" y=\"56\" width=\"24\" height=\"4\" rx=\"2\"></rect><circle cx=\"32\" cy=\"28\" r=\"8\"></circle><path d=\"M32 22v12\"></path><path d=\"M28 24c0-1.5 1.8-2.5 4-2.5s4 1 4 2.5-1.8 2.5-4 2.5-4 1-4 2.5 1.8 2.5 4 2.5 4-1 4-2.5\"></path></g></svg>",
+            "tag": "p",
+            "html": "Transparent Monthly Reporting",
+            "desc": "Monthly reports that tell you exactly what happened, what it produced, and what is planned for the next period. We do not produce reports designed to make our work look impressive — we produce reports designed to give you a clear, honest picture of what your social media investment is delivering and where we are focusing next to improve it."
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "awards",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Award-Winning Social Media Agency in Houston",
+            "align": "start"
+          },
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "parts": [
+              {
+                "t": "img",
+                "src": "/uploads/2026/05/ChatGPT-Image-May-1-2026-05_50_19-PM.png",
+                "alt": "Dallas Digital Marketing Agency - Houston Digital Marketing Services -austin digital marketing",
+                "width": 1536,
+                "height": 1025
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Zoot Web Agency Named Top Social Media Agency in Houston by Clutch",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Clutch evaluates B2B service providers through verified client interviews and independent market presence data. The process cannot be paid for, which is what makes a Clutch recognition credible. Zoot Web Agency has been named a top agency in Houston across five categories including Social Media Agency, SEO Agency, PPC Agency, Web Design Agency, and Digital Marketing Agency.</p><p>We hold a 5.0 rating on the platform from verified client reviews — every one submitted by a real business that has worked with our team on social media campaigns.</p>"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "img",
+                "src": "/uploads/2026/05/ChatGPT-Image-May-6-2026-11_22_01-AM.png",
+                "alt": "Dallas Digital Marketing Agency - Houston Digital Marketing Services",
+                "width": 1536,
+                "height": 1025
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Zoot Web Agency Named National Excellence Award Winner in Houston by UpCity",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>UpCity&#8217;s Recommendability Rating independently evaluates credibility signals, client satisfaction data, and online reputation from across the web. The score cannot be purchased or influenced directly.</p><p>Zoot Web Agency holds a 5.0 rating on UpCity and has been recognised as a National Excellence Award winner in Houston for social media marketing services. We treat this recognition as a standard to maintain through consistently strong performance for every client we manage.</p>"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "faq",
+        "parts": [
+          {
+            "t": "headline",
+            "tag": "h3",
+            "before": "Frequently Asked",
+            "highlight": "Questions",
+            "after": ""
+          },
+          {
+            "t": "text",
+            "html": "<p>Common questions from Houston businesses about social media management, paid social advertising, platform strategy, and what to expect from working with Zoot Web Agency.</p>",
+            "align": "center"
+          },
+          {
+            "t": "faq",
+            "items": [
+              {
+                "q": "Which social media platforms do you manage for Houston businesses?",
+                "a": "<p>We manage Facebook, Instagram, LinkedIn, and YouTube for Houston business clients, and we can extend to Twitter/X, Pinterest, or TikTok where it makes strategic sense for your specific audience. Platform selection is based on where your customers actually spend time — not on which platforms are most popular in general. We will advise on the right platform mix for your business type and goals during the initial consultation.</p>",
+                "open": true
+              },
+              {
+                "q": "What does social media management include?",
+                "a": "<p>A full social media management engagement includes: initial strategy development, competitive analysis, content calendar planning, written post copy and graphic design, posting and scheduling across agreed platforms, community management (comment and message responses), monthly performance reporting, and a dedicated account manager. For clients who add paid social advertising, we also include campaign build, audience setup, creative testing, and paid-specific reporting.</p>",
+                "open": true
+              },
+              {
+                "q": "How long does it take to see results from social media marketing in Houston?",
+                "a": "<p>Organic social media results — follower growth, engagement, brand awareness — build over three to six months as consistency compounds. Lead generation from social, particularly through paid social advertising, can begin producing results much faster — typically within the first 30 to 60 days of a well-structured paid campaign. We set realistic expectations in the initial proposal and track leading indicators (engagement, reach, click-through) while building toward business outcomes.</p>",
+                "open": true
+              },
+              {
+                "q": "Can social media marketing actually generate leads for Houston service businesses?",
+                "a": "<p>Yes — and paid social in particular is one of the highest-volume lead generation channels available for Houston service businesses in the right categories. Home services, healthcare, legal, financial services, and fitness are all categories where well-targeted Meta campaigns consistently produce qualified enquiries at a competitive cost per lead. Organic social builds the trust that makes those paid campaigns more effective, and community management keeps warm audiences engaged between buying decisions.</p>",
+                "open": true
+              },
+              {
+                "q": "How much does social media management cost in Houston?",
+                "a": "<p>Social media management pricing depends on the number of platforms, the volume of content, whether paid advertising management is included, and the level of community management required. Organic-only management typically starts at $800 to $1,500 per month. Combined organic plus paid social management (including ad spend management but not the ad spend itself) typically ranges from $1,500 to $3,000 per month. We build a custom proposal after understanding exactly what your business needs.</p>",
+                "open": true
+              }
+            ]
+          },
+          {
+            "t": "faq",
+            "items": [
+              {
+                "q": "Do you create the content, or do I need to provide it?",
+                "a": "<p>We create the content as a standard part of every social media management engagement — written copy, graphic design, and creative direction for all platforms. For content that requires your involvement — team photos, behind-the-scenes footage, client testimonials — we brief you on what we need and how to capture it. If you prefer to supply your own imagery or video, we work with what you provide. Most clients prefer to hand content creation entirely to our team so they can focus on running their business.</p>",
+                "open": true
+              },
+              {
+                "q": "Will you manage our Facebook ads separately from organic posting?",
+                "a": "<p>We manage paid social and organic social as part of the same coordinated strategy rather than as separate engagements, because they are most effective when they work together. Organic content builds the audience and trust that makes paid campaigns more efficient — retargeting people who have already engaged with your organic content consistently outperforms cold audience targeting. That said, if you only need paid social management without organic posting, we can structure an engagement specifically around that.</p>",
+                "open": true
+              },
+              {
+                "q": "How do you measure the ROI of social media for my Houston business?",
+                "a": "<p>For paid social, we measure ROI through cost per lead, cost per conversion, and where possible direct revenue attribution through CRM integration. For organic social, we track the leading indicators that connect to business outcomes — website traffic from social, enquiry form completions attributed to social referrals, and direct messages that convert to appointments or sales. Monthly reports present all of this clearly with a plain-language explanation of what the numbers mean for your business.</p>",
+                "open": true
+              },
+              {
+                "q": "Do you handle social media for B2B Houston businesses?",
+                "a": "<p>Yes. B2B social media in Houston is primarily LinkedIn-driven, and it requires a fundamentally different approach from consumer-focused social. Thought leadership content that establishes genuine expertise, relationship-building through targeted connection strategies, and LinkedIn Ads that reach specific industries and job titles — all of these produce meaningful pipeline for Houston B2B businesses. We have specific experience in professional services, technology, industrial services, and commercial real estate social media in the Houston market.</p>",
+                "open": true
+              },
+              {
+                "q": "How do I get started with social media management in Houston?",
+                "a": "<p>Fill out the form on this page. We will audit your current social media presence — platform performance, content quality, audience composition, and how your accounts compare to key Houston competitors in your category. From that audit we build a clear proposal covering strategy, content plan, platform mix, and pricing. You will know exactly what we plan to do and what outcomes we expect before you decide to move forward.</p>",
+                "open": true
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "0px 0px 30px 0px",
+          "box": "60px 0px 0px 0px"
+        }
+      }
+    ]
   }
 }

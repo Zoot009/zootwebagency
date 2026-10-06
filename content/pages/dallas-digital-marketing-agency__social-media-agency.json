@@ -362,5 +362,901 @@
         ]
       }
     ]
+  },
+  "city": {
+    "sections": [
+      {
+        "kind": "hero",
+        "parts": [
+          {
+            "t": "crumbs"
+          },
+          {
+            "t": "h",
+            "tag": "h1",
+            "html": "Dallas Social Media Agency",
+            "align": "start"
+          },
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Build Authority, Grow Your Audience &amp; Generate Real Leads",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>Zoot Web Agency is a Dallas social media agency that builds brands, grows engaged audiences, and generates qualified leads through strategic social media marketing. We do not post for the sake of posting. Every campaign is built around specific business outcomes — more visibility, more enquiries, and a social presence that reflects the quality of what your business delivers.</p>",
+            "align": "start"
+          },
+          {
+            "t": "img",
+            "src": "/uploads/2026/05/ChatGPT-Image-May-16-2026-11_47_12-AM.png",
+            "alt": "Dallas Social Media Agency",
+            "width": 1672,
+            "height": 941
+          }
+        ]
+      },
+      {
+        "kind": "stats",
+        "parts": [
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "parts": [
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "150+",
+                "align": "center"
+              },
+              {
+                "t": "img",
+                "src": "/uploads/2026/05/icon-five-stars.svg",
+                "alt": "google business profile optimization - digital marketing services",
+                "width": 120,
+                "height": 24
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "5-Star Google Reviews",
+                "align": "center"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "10+ Years",
+                "align": "center"
+              },
+              {
+                "t": "img",
+                "src": "/uploads/2026/05/icon-five-stars.svg",
+                "alt": "google business profile optimization - digital marketing services",
+                "width": 120,
+                "height": 24
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Digital Marketing Experience",
+                "align": "center"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "500+",
+                "align": "center"
+              },
+              {
+                "t": "img",
+                "src": "/uploads/2026/05/icon-five-stars.svg",
+                "alt": "google business profile optimization - digital marketing services",
+                "width": 120,
+                "height": 24
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Happy Clients Served",
+                "align": "center"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "1,000+",
+                "align": "center"
+              },
+              {
+                "t": "img",
+                "src": "/uploads/2026/05/icon-five-stars.svg",
+                "alt": "google business profile optimization - digital marketing services",
+                "width": 120,
+                "height": 24
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Total Client Reviews",
+                "align": "center"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "50px 24px 50px 24px"
+        }
+      },
+      {
+        "kind": "intro",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Social Media Services in Dallas",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>Social media has become a primary channel through which Dallas consumers discover, evaluate, and form opinions about local businesses. For professional services, hospitality, retail, healthcare, and home services, your social presence is often the first thing a potential customer looks at after a Google search or a word-of-mouth recommendation. A professional, consistent, and engaging social presence builds the trust that turns interest into enquiries. An inactive or poorly managed one signals that the business is not serious — or worse, not still operating.</p><p>Zoot Web Agency manages social media for Dallas businesses as a strategic marketing function, not a content production task. That means understanding your audience, your competitive landscape in Dallas, which platforms your buyers actually use, and what type of content drives the outcomes your business needs. We produce the content, manage the community, run the paid campaigns, and report on the metrics that connect social activity to real business results.</p>"
+          },
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "bg": "/uploads/2026/03/ChatGPT-Image-Mar-25-2026-12_34_38-PM.png",
+            "parts": [
+              {
+                "t": "btn",
+                "html": "FREE STRATEGY SESSION",
+                "href": "#"
+              },
+              {
+                "t": "text",
+                "html": "<p>Grow Your Dallas Business With Expert Social Media Marketing</p>"
+              },
+              {
+                "t": "text",
+                "html": "<p>Get a free social media audit from our Dallas specialists. We&#8217;ll show you how to build a loyal following and drive more leads from social.</p>"
+              },
+              {
+                "t": "btn",
+                "html": "Get My Free Growth Plan",
+                "href": "/contact-zoot-web-agency/"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "audit",
+        "parts": [
+          {
+            "t": "headline",
+            "tag": "p",
+            "before": "Get Your FREE",
+            "highlight": "Dallas Social Media Audit",
+            "after": ""
+          },
+          {
+            "t": "form",
+            "name": "Free Audit Form",
+            "fields": [
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[name]",
+                "id": "form-field-name",
+                "placeholder": "First Name",
+                "label": null,
+                "width": 50
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[last_name]",
+                "id": "form-field-last_name",
+                "placeholder": "Last Name",
+                "label": null,
+                "width": 50
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[company]",
+                "id": "form-field-company",
+                "placeholder": "Company / Organization",
+                "label": null,
+                "width": 50
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[website]",
+                "id": "form-field-website",
+                "placeholder": "Website URL",
+                "label": null,
+                "width": 50
+              },
+              {
+                "tag": "select",
+                "type": null,
+                "name": "form_fields[goal]",
+                "id": "form-field-goal",
+                "placeholder": null,
+                "label": "Main Goal",
+                "width": 50,
+                "options": [
+                  "More Traffic",
+                  "More Leads",
+                  "Brand Awareness",
+                  "Better ROI"
+                ]
+              },
+              {
+                "tag": "select",
+                "type": null,
+                "name": "form_fields[service]",
+                "id": "form-field-service",
+                "placeholder": null,
+                "label": "Service Interested In",
+                "width": 50,
+                "options": [
+                  "Digital Marketing Services",
+                  "SEO Services",
+                  "Local SEO Services",
+                  "Technical SEO",
+                  "Enterprise SEO Services",
+                  "eCommerce SEO",
+                  "Pay Per Click (PPC)",
+                  "Social Media Marketing",
+                  "Social Media Management",
+                  "Web Design",
+                  "Content Marketing",
+                  "Email Marketing",
+                  "Online Reputation Management",
+                  "eCommerce Marketing Services",
+                  "Amazon Marketing Services",
+                  "Conversion Rate Optimization",
+                  "Link Building Services",
+                  "Video Production",
+                  "AI SEO Services",
+                  "Digital Marketing Strategy Development",
+                  "Franchise Digital Marketing",
+                  "Enterprise Digital Marketing",
+                  "SEO Audit Services",
+                  "CRO Audit Services",
+                  "User Experience Testing",
+                  "Search Engine Marketing",
+                  "Google Ads Management Services",
+                  "YouTube Advertising Services",
+                  "Programmatic Advertising",
+                  "Lead Generation Services",
+                  "Franchise PPC Marketing",
+                  "Enterprise PPC Marketing",
+                  "Social Media Brand Management",
+                  "Franchise Social Media Marketing",
+                  "Enterprise Social Media Marketing",
+                  "Facebook Advertising",
+                  "LinkedIn Advertising",
+                  "Twitter Advertising",
+                  "Instagram Marketing",
+                  "Social Media Advertising",
+                  "Digital PR Services",
+                  "HARO Link Building",
+                  "Branding Services",
+                  "Custom Website Design",
+                  "WordPress Website Design",
+                  "Website Hosting",
+                  "ADA Compliance Services",
+                  "Media Production Services",
+                  "Video Testimonial Services",
+                  "Product Photography",
+                  "Drone Video & Photography",
+                  "Content Writing",
+                  "Copywriting Services",
+                  "User Behavior Analytics",
+                  "Franchise SEO Audit Services",
+                  "Enterprise SEO Audit Services"
+                ]
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[city]",
+                "id": "form-field-city",
+                "placeholder": "Your City / Location",
+                "label": null,
+                "width": 100
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[message]",
+                "id": "form-field-message",
+                "placeholder": "Tell us about your business challenges",
+                "label": null,
+                "width": 100
+              }
+            ],
+            "submit": "Get My Free Audit"
+          }
+        ],
+        "pad": {
+          "sec": "0px 0px 0px 0px",
+          "box": "21px 0px 40px 0px"
+        }
+      },
+      {
+        "kind": "cases",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Our Dallas Digital Marketing Clients Get Results",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>Real campaigns. Documented results. Every client below shows exactly what we achieved and what they have to say about working with Zoot.</p>"
+          },
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "parts": [
+              {
+                "t": "img",
+                "src": "/uploads/2026/03/darkostojanovic-laboratory-563423_1920.jpg",
+                "alt": "Houston Web Design Company - Dallas Digital Marketing Agency - austin digital marketing agency - franchise digital marketing - Arlington Digital Marketing Services",
+                "width": 1920,
+                "height": 1280
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "+664%",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "+360%",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Organic Traffic",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Online Leads",
+                "align": "center"
+              },
+              {
+                "t": "text",
+                "html": "<p><em>&#8220;Zoot took us from barely visible on Google to ranking on page one for every keyword that matters. The leads from organic search are the best quality we&#8217;ve ever seen.&#8221;</em></p>"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "img",
+                "src": "/uploads/2026/03/advogadoaguilar-right-4944550_1920.jpg",
+                "alt": "Houston Web Design Company - Dallas Digital Marketing Agency - austin digital marketing agency - Arlington Digital Marketing Services - Google Business Profile Optimization - franchise digital marketing",
+                "width": 1920,
+                "height": 1280
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "+800%",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "+640%",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Online Leads",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Conversion Rate",
+                "align": "center"
+              },
+              {
+                "t": "text",
+                "html": "<p><em>&#8220;Before Zoot, we spent heavily on paid ads because our organic presence was almost nonexistent. Now organic is our best-performing channel.&#8221;</em></p>"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "testimonials",
+        "parts": [
+          {
+            "t": "headline",
+            "tag": "p",
+            "before": "But Don't Take Our Word For It",
+            "highlight": "Real Results. Real Clients.",
+            "after": ""
+          },
+          {
+            "t": "testimonials",
+            "minHeight": 340,
+            "pad": "34px 40px 32px 30px",
+            "items": [
+              {
+                "stars": 5,
+                "html": "<p>We hired Zoot web agency for Google My Business SEO services and the results have been outstanding. Our local visibility improved quickly, our listing is now optimized correctly, and we're getting more calls and in-store traffic than before. They clearly understand local SEO, maps ranking, reviews, and how to position a business to stand out in competitive searches. Highly recommend their services to any business serious about local growth.</p>",
+                "name": "brainbodge"
+              },
+              {
+                "stars": 5,
+                "html": "<p>I've now worked with many other agencies but this one absolutely delivered what I was looking for. The citations they completed were incredibly detailed, accurate, and clearly done with a deep understanding of what actually moves the needle. What really stands out is how much he goes above and beyond, not just doing the job, but making sure everything is set up properly for long-term results.</p>",
+                "name": "Englishcoach"
+              },
+              {
+                "stars": 5,
+                "html": "<p>Zoot Web Agency has been Exceptional in helping us with SEO across all of our clinics. I am deeply content on the direction we are taking as citations are much underrated by many business owners. AI signaling in different ways is replacing the outdated old SEO and I am glad I am working with Prasad to maintain modern visibility online.</p>",
+                "name": "Scubaskool"
+              },
+              {
+                "stars": 5,
+                "html": "<p>Zoot did an excellent job improving our SEO and online visibility. They built high-quality backlinks, optimized our map citations, and helped strengthen our local search presence. What impressed me most was that he went beyond the agreed work by adding extra improvements and giving valuable SEO advice for free. Highly recommend them to anyone looking for reliable SEO and backlink services.</p>",
+                "name": "karlblud"
+              },
+              {
+                "stars": 5,
+                "html": "<p>After trying several top rated agency, I can surely say they are outstanding. Don't even look further, hire them. They have an excellent and in-depth understanding of webpage SEO and explains clearly how everything connects to Google. They communicate in a very transparent and structured way and put real effort into choosing the best strategy for your project. Highly recommended.</p>",
+                "name": "Revibetherapy"
+              },
+              {
+                "stars": 5,
+                "html": "<p>I had a great experience working with this SEO service. They helped improve my Google Business ranking and increased visibility for my business. Very professional, honest, and knowledgeable about local SEO. I started seeing better results on Google Maps and more customer calls after their work. I highly recommend them to anyone looking to grow their business online.</p>",
+                "name": "Kalsaid16"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "80px 15px 80px 15px"
+        }
+      },
+      {
+        "kind": "cta",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Ready to Build a Social Media Presence That Generates Leads in Dallas?",
+            "align": "center"
+          },
+          {
+            "t": "text",
+            "html": "<p>Partner with Zoot Web Agency — Dallas&#8217;s results-driven social media specialists. Get your free social media audit today.</p>",
+            "align": "center"
+          },
+          {
+            "t": "btn",
+            "html": "Get My Free Proposal",
+            "href": "/contact-zoot-web-agency/"
+          }
+        ],
+        "pad": {
+          "sec": "70px 24px 70px 24px"
+        },
+        "width": "900px"
+      },
+      {
+        "kind": "services",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Dallas Social Media Services",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>Full-service social media management and marketing for Dallas businesses — strategy, content creation, community management, paid campaigns, and reporting all under one roof.</p>"
+          },
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><g fill=\"#1E90FF\"><circle cx=\"26\" cy=\"26\" r=\"14\" fill=\"none\" stroke=\"#1E90FF\" stroke-width=\"6\"></circle><rect x=\"36\" y=\"36\" width=\"16\" height=\"6\" rx=\"3\" ry=\"3\" transform=\"rotate(45 36 36)\"></rect></g></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Social Media Management",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>We manage your social media presence across the platforms that matter for your business — content scheduling, community management, follower engagement, and performance monitoring. Management without strategy is just posting. Every piece of content we publish has a defined purpose: building brand awareness, driving engagement, or generating enquiries from your target audience.</p>",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 17H32V30H16V17Z\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linejoin=\"round\"></path><path d=\"M19 21H24\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M19 25H26\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M29 21V26\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Social Media Marketing Strategy",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Before we post anything, we build a strategy that aligns your social media goals with your wider <a href=\"/dallas-digital-marketing-agency/\"><strong data-start=\"963\" data-end=\"984\">dallas digital marketing</strong></a> objectives. That means understanding your audience, competitors, content performance, and platform behaviour to create campaigns that actually generate business results. The strategy document is reviewed and updated regularly as algorithms and audience behaviour evolve.</p>",
+                "link": "#008AFC",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><circle cx=\"20\" cy=\"24\" r=\"2\" fill=\"#2563EB\"></circle><circle cx=\"28\" cy=\"20\" r=\"2\" fill=\"#2563EB\"></circle><circle cx=\"28\" cy=\"28\" r=\"2\" fill=\"#2563EB\"></circle><path d=\"M22 23L26 21\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M22 25L26 27\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Paid Social Advertising",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p data-start=\"1327\" data-end=\"1714\">Organic reach on social platforms is limited without paid support. We run high-converting <a href=\"/dallas-digital-marketing-agency/ppc-agency/\"><strong data-start=\"1417\" data-end=\"1424\">PPC</strong></a> and paid social campaigns across Facebook, Instagram, LinkedIn, and TikTok using audience targeting based on interests, demographics, and behaviour. Paid campaigns are designed to generate leads, increase brand visibility, and retarget users who have already interacted with your business.</p>",
+                "link": "#008AFC",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100\" height=\"100\" viewBox=\"0 0 24 24\" fill=\"none\"><path d=\"M12 3L2 19H22L12 3Z\" fill=\"#0A65C3\"></path><path d=\"M12 11L8 19H16L12 11Z\" fill=\"white\"></path><rect x=\"2\" y=\"19\" width=\"20\" height=\"2\" rx=\"1\" fill=\"#0A65C3\"></rect></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Facebook &amp; Instagram Marketing",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Meta&#8217;s platforms remain the largest social advertising opportunity for most businesses. We manage both organic content and paid campaigns, build audience segments, design creative assets, write copy, and optimise continuously based on performance data. We focus on the metrics that connect to business outcomes — enquiries, website visits, and sales — not vanity metrics like follower count.</p>",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1024 1024\" fill=\"currentColor\"><path transform=\"matrix(1 0 0 -1 0 960)\" d=\"M360 864v32c0 13.255 10.745 24 24 24s24-10.745 24-24v0-32c0-13.255-10.745-24-24-24s-24 10.745-24 24v0zM64 552h32c13.255 0 24 10.745 24 24s-10.745 24-24 24v0h-32c-13.255 0-24-10.745-24-24s10.745-24 24-24v0zM501.28 810.52c3.124-1.594 6.815-2.529 10.723-2.529 9.351 0 17.453 5.348 21.414 13.152l0.063 0.137 32 64c1.599 3.129 2.535 6.825 2.535 10.74 0 13.263-10.752 24.015-24.015 24.015-9.348 0-17.449-5.341-21.417-13.139l-0.063-0.136-32-64c-1.604-3.133-2.545-6.834-2.545-10.755 0-9.357 5.355-17.464 13.168-21.422l0.137-0.063zM117.28 469.48l-64-32c-7.94-4.026-13.286-12.129-13.286-21.48 0-13.258 10.748-24.006 24.006-24.006 3.907 0 7.596 0.933 10.857 2.589l-0.137-0.063 64 32c7.94 4.026 13.286 12.129 13.286 21.48 0 13.258-10.748 24.006-24.006 24.006-3.907 0-7.596-0.933-10.857-2.589l0.137 0.063zM871.6 218.36c10.135-10.134 16.404-24.135 16.404-39.6s-6.269-29.466-16.404-39.6l-50.76-50.76c-10.134-10.135-24.135-16.404-39.6-16.404s-29.466 6.269-39.6 16.404l-205.24 205.24c-1.447 1.443-3.444 2.335-5.649 2.335-3.143 0-5.862-1.812-7.17-4.448l-0.021-0.047-71-184.96c-0.125-0.25-0.26-0.567-0.378-0.892l-0.022-0.068c-8.696-19.903-28.21-33.56-50.914-33.56-0.073 0-0.145 0-0.218 0h0.011c-0.92 0-1.8 0-2.72 0-23.566 1.075-43.21 16.719-50.209 38.088l-0.111 0.392-209.2 640.32c-1.689 5.098-2.663 10.967-2.663 17.063 0 30.928 25.072 56 56 56 6.096 0 11.965-0.974 17.459-2.775l-0.396 0.112 640.32-209.2c22.205-7.774 37.845-28.548 37.845-52.975 0-22.566-13.347-42.014-32.577-50.881l-0.347-0.144-0.96-0.36-185-71.040c-2.668-1.334-4.468-4.046-4.468-7.178 0-2.212 0.897-4.214 2.348-5.662v0zM837.64 184.4l-205.24 205.24c-10.135 10.134-16.403 24.135-16.403 39.599 0 22.857 13.694 42.516 33.326 51.22l0.357 0.141 0.96 0.4 185 71c2.454 1.398 4.083 3.996 4.083 6.975 0 3.383-2.1 6.276-5.068 7.446l-0.054 0.019-640.28 209.12c-0.772 0.256-1.663 0.415-2.588 0.44h-0.012c-4.255-0.205-7.626-3.704-7.626-7.991 0-0.831 0.127-1.632 0.362-2.385l-0.015 0.057 209.080-640.28c0.887-3.134 3.719-5.393 7.079-5.4h0.001c0.211-0.022 0.455-0.034 0.703-0.034 2.97 0 5.523 1.789 6.639 4.348l0.018 0.047 71.040 185 0.4 0.96c8.845 19.989 28.504 33.683 51.361 33.683 15.464 0 29.465-6.268 39.599-16.403l205.24-205.24c1.448-1.45 3.449-2.346 5.66-2.346s4.212 0.897 5.66 2.346v0l50.72 50.72c1.45 1.448 2.346 3.449 2.346 5.66s-0.897 4.212-2.346 5.66v0z\"/></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "LinkedIn Marketing",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>LinkedIn is the primary platform for B2B lead generation through social. We manage company page content, run sponsored content and InMail campaigns, and use LinkedIn&#8217;s precise professional targeting to reach decision-makers by job title, industry, company size, and seniority. For professional services, consulting, technology, and B2B products, LinkedIn typically delivers the highest quality leads of any social platform.</p>",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 30L30 16L32 18L18 32L15 33L16 30Z\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"></path><path d=\"M29 15L33 19\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Social Media Content Creation",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p data-start=\"2241\" data-end=\"2615\">We produce platform-specific graphics, short-form video scripts, and carousel content designed for each platform’s format and algorithm. Our creative approach also supports consistent branding across your website and <a href=\"/dallas-digital-marketing-agency/web-design/\"><strong data-start=\"2458\" data-end=\"2472\">web design</strong></a>, helping users experience the same visual identity across every digital touchpoint. Content is planned monthly and reviewed before scheduling.</p>",
+                "link": "#008AFC",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 17H32V30H16V17Z\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linejoin=\"round\"></path><path d=\"M19 21H24\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M19 25H26\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M29 21V26\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Brand Building &amp; Awareness",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Consistent brand presence across social platforms builds the trust that converts browsers into buyers. We ensure your visual identity, tone of voice, and messaging are consistent across every platform and every post type. Brand recognition is built incrementally through consistency — not through viral moments that cannot be repeated.</p>",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><circle cx=\"24\" cy=\"22\" r=\"3\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M18 30C18 27.7909 20.6863 26 24 26C27.3137 26 30 27.7909 30 30\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><circle cx=\"16\" cy=\"24\" r=\"2\" stroke=\"#2563EB\" stroke-width=\"2\"></circle></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Community Management",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Responding to comments, messages, and mentions promptly builds community and signals to algorithms that your content is generating engagement worth promoting. We handle community management as part of ongoing social management — ensuring your audience feels heard and that negative sentiment is addressed quickly and professionally before it escalates.</p>",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 20C16 17.7909 17.7909 16 20 16H28C30.2091 16 32 17.7909 32 20V25C32 27.2091 30.2091 29 28 29H22L18 32V29H20C17.7909 29 16 27.2091 16 25V20Z\" fill=\"#2563EB\"></path></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Social Media Analytics &amp; Reporting",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p data-start=\"1797\" data-end=\"2156\">Monthly reports cover reach, engagement, follower growth, website traffic from social media, and conversion performance across all channels. We also analyse how social activity supports your wider <a href=\"/dallas-digital-marketing-agency/seo-company/\"><strong data-start=\"1988\" data-end=\"1995\">SEO</strong></a> performance through branded search growth, traffic quality, and content engagement. We track the metrics that connect social activity to real business outcomes.</p>",
+                "link": "#008AFC",
+                "align": "start"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "why",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Why Choose Zoot As Your Dallas Social Media Agency",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>Most social media management agencies focus on posting frequency and follower growth. We focus on business outcomes. A large following that does not generate enquiries does not grow your revenue. <a href=\"/what-is-social-media-agency-in-dallas/\">If you’re wondering What Is a Social Media Agency in Dallas,</a> Zoot Web Agency manages social media for Dallas businesses with one objective above all others: producing measurable results in terms of leads, website visits, and brand visibility that translates into real commercial activity. Every strategy we build starts with an honest audit of your current social presence and a clear picture of what success actually looks like for your business.</p>",
+            "link": "#008AFC"
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><path d=\"M18 20L30 14V34L18 28H12V20H18Z\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linejoin=\"round\"></path><path d=\"M16 28V34\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linecap=\"round\"></path><path d=\"M34 20C36 22 37 24 37 27C37 30 36 32 34 34\" stroke=\"#00A3FF\" stroke-width=\"3\" stroke-linecap=\"round\"></path><path d=\"M38 16C41 19 43 23 43 27C43 31 41 35 38 38\" stroke=\"#00A3FF\" stroke-width=\"3\" stroke-linecap=\"round\"></path></svg>",
+            "tag": "p",
+            "html": "Strategy-Led Content",
+            "desc": "Every post we publish has a purpose defined before it is written. We build content strategies that align with your business goals, not just your posting schedule."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg aria-hidden=\"true\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M167.02 309.34c-40.12 2.58-76.53 17.86-97.19 72.3-2.35 6.21-8 9.98-14.59 9.98-11.11 0-45.46-27.67-55.25-34.35C0 439.62 37.93 512 128 512c75.86 0 128-43.77 128-120.19 0-3.11-.65-6.08-.97-9.13l-88.01-73.34zM457.89 0c-15.16 0-29.37 6.71-40.21 16.45C213.27 199.05 192 203.34 192 257.09c0 13.7 3.25 26.76 8.73 38.7l63.82 53.18c7.21 1.8 14.64 3.03 22.39 3.03 62.11 0 98.11-45.47 211.16-256.46 7.38-14.35 13.9-29.85 13.9-45.99C512 20.64 486 0 457.89 0z\"></path></svg>",
+            "tag": "p",
+            "html": "In-House Creative",
+            "desc": "Copywriting, graphic design, and short-form video production handled entirely in-house. No outsourcing, no templates — content built for your brand and your audience."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 32V18\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M16 32H32\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M18 28L22 24L26 26L32 20\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M30 20H32V22\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+            "tag": "p",
+            "html": "Business-Outcome Metrics",
+            "desc": "We report on leads, website visits, and conversions from social — not just reach and engagement. Social media management should have a measurable return."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 18C16 16.8954 16.8954 16 18 16H30C31.1046 16 32 16.8954 32 18V26C32 27.1046 31.1046 28 30 28H23L18 32V28H18C16.8954 28 16 27.1046 16 26V18Z\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linejoin=\"round\"></path><circle cx=\"21\" cy=\"22\" r=\"1.5\" fill=\"#2563EB\"></circle><circle cx=\"24\" cy=\"22\" r=\"1.5\" fill=\"#2563EB\"></circle><circle cx=\"27\" cy=\"22\" r=\"1.5\" fill=\"#2563EB\"></circle></svg>",
+            "tag": "p",
+            "html": "Active Community Management",
+            "desc": "We monitor your accounts daily, respond to comments and messages promptly, and manage your community in a way that builds trust and prevents negative sentiment from escalating."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg aria-hidden=\"true\" viewBox=\"0 0 288 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M209.2 233.4l-108-31.6C88.7 198.2 80 186.5 80 173.5c0-16.3 13.2-29.5 29.5-29.5h66.3c12.2 0 24.2 3.7 34.2 10.5 6.1 4.1 14.3 3.1 19.5-2l34.8-34c7.1-6.9 6.1-18.4-1.8-24.5C238 74.8 207.4 64.1 176 64V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48h-2.5C45.8 64-5.4 118.7.5 183.6c4.2 46.1 39.4 83.6 83.8 96.6l102.5 30c12.5 3.7 21.2 15.3 21.2 28.3 0 16.3-13.2 29.5-29.5 29.5h-66.3C100 368 88 364.3 78 357.5c-6.1-4.1-14.3-3.1-19.5 2l-34.8 34c-7.1 6.9-6.1 18.4 1.8 24.5 24.5 19.2 55.1 29.9 86.5 30v48c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16v-48.2c46.6-.9 90.3-28.6 105.7-72.7 21.5-61.6-14.6-124.8-72.5-141.7z\"></path></svg>",
+            "tag": "p",
+            "html": "Paid &amp; Organic Together",
+            "desc": "Organic social and paid social work best as a combined strategy. We manage both under one roof so your paid spend amplifies your best organic content and targets your warmest audiences."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 17H32V30H16V17Z\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linejoin=\"round\"></path><path d=\"M19 21H24\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M19 25H26\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M29 21V26\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path></svg>",
+            "tag": "p",
+            "html": "Monthly Content Calendar",
+            "desc": "Content is planned, created, and approved a month in advance so you always know what is going out and why. No last-minute posts, no gaps in your publishing schedule."
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "awards",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Award-Winning Social Media Agency in Dallas",
+            "align": "start"
+          },
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "parts": [
+              {
+                "t": "img",
+                "src": "/uploads/2026/05/ChatGPT-Image-May-16-2026-11_39_07-AM.png",
+                "alt": "Dallas Social Media Agency",
+                "width": 1583,
+                "height": 993
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Zoot Web Agency Named Top Digital Marketing Company by Clutch",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Clutch evaluates B2B service providers using verified client interviews and independent market data. Zoot Web Agency holds a 5.0 rating and has been recognised as a top agency across SEO, PPC, Social Media, Web Design, and Digital Marketing categories.</p>"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "img",
+                "src": "/uploads/2026/05/ChatGPT-Image-May-16-2026-11_39_57-AM.png",
+                "alt": "Dallas Social Media Agency",
+                "width": 1555,
+                "height": 1011
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Zoot Web Agency Named National Excellence Award Winner by UpCity",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>UpCity&#8217;s Recommendability Rating evaluates credibility, client satisfaction, and online reputation independently. <a href=\"https://maps.app.goo.gl/fZjGehNgjXazcoCd6\" target=\"_blank\" rel=\"noopener\">Zoot Web Agency</a> holds a 5.0 rating on UpCity and has been recognised as a National Excellence Award winner.</p>"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "faq",
+        "parts": [
+          {
+            "t": "headline",
+            "tag": "h3",
+            "before": "Frequently Asked",
+            "highlight": "Questions",
+            "after": ""
+          },
+          {
+            "t": "text",
+            "html": "<p>Common questions from Dallas businesses about social media management, platforms, content, and what to expect from a social media partnership with Zoot Web Agency.</p>",
+            "align": "center"
+          },
+          {
+            "t": "faq",
+            "items": [
+              {
+                "q": "Which social media platforms should a Dallas business be on?",
+                "a": "<p>The right platforms depend on your target audience and business type. For most B2C businesses in Dallas, Facebook and Instagram are the highest-priority platforms. For B2B and professional services, LinkedIn is typically more valuable. We audit where your target audience actually spends time and recommend the platforms with the best ROI for your specific business — not the ones that are most popular in general.</p>",
+                "open": true
+              },
+              {
+                "q": "What is included in your social media management service?",
+                "a": "<p>Content strategy, copywriting, graphic design, scheduling, community management (responding to comments and messages), performance monitoring, and monthly reporting. We handle the full content production process — you review and approve before anything is published.</p>",
+                "open": true
+              }
+            ]
+          },
+          {
+            "t": "faq",
+            "items": [
+              {
+                "q": "Do you run paid social advertising as well as organic management?",
+                "a": "<p>Yes. We manage both organic content and paid campaigns, and we strongly recommend combining the two. Paid social extends the reach of your best organic content and allows precise targeting that organic alone cannot achieve. Paid and organic social are priced separately but managed as one integrated strategy.</p>",
+                "open": true
+              },
+              {
+                "q": "How do you measure the success of social media for a Dallas business?",
+                "a": "<p>We report on website visits from social, leads and enquiries generated, reach and engagement on content, and follower growth. We focus on metrics that connect to business outcomes rather than vanity metrics that look impressive but do not contribute to revenue.</p>",
+                "open": true
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "0px 0px 30px 0px",
+          "box": "60px 0px 0px 0px",
+          "grid": "0px 0px 0px 0px"
+        }
+      }
+    ]
   }
 }

@@ -354,5 +354,917 @@
         ]
       }
     ]
+  },
+  "city": {
+    "sections": [
+      {
+        "kind": "hero",
+        "parts": [
+          {
+            "t": "crumbs"
+          },
+          {
+            "t": "h",
+            "tag": "h1",
+            "html": "Austin Digital Marketing Agency",
+            "align": "start"
+          },
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Growth-Focused Digital Marketing for Austin's Competitive Market",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>Zoot Web Agency works with Austin businesses on the digital marketing work that actually produces results search rankings, paid ads that convert, websites built for leads, and social media with a real strategy. Austin is one of Texas&#8217;s most competitive digital markets, and we know how to stand out.</p>",
+            "align": "start"
+          },
+          {
+            "t": "img",
+            "src": "/uploads/2026/05/ChatGPT-Image-May-8-2026-06_57_21-PM.png",
+            "alt": "Austin Digital Marketing Services - austin digital marketing agency",
+            "width": 1672,
+            "height": 941
+          }
+        ]
+      },
+      {
+        "kind": "stats",
+        "parts": [
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "parts": [
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "150+",
+                "align": "center"
+              },
+              {
+                "t": "html",
+                "html": "<div style=\"display:flex;justify-content:center;gap:3px;margin:6px 0;\"><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span></div>"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "5-Star Google Reviews",
+                "align": "center"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "500+",
+                "align": "center"
+              },
+              {
+                "t": "html",
+                "html": "<div style=\"display:flex;justify-content:center;gap:3px;margin:6px 0;\"><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span></div>"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Happy Clients Served",
+                "align": "center"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "1,000+",
+                "align": "center"
+              },
+              {
+                "t": "html",
+                "html": "<div style=\"display:flex;justify-content:center;gap:3px;margin:6px 0;\"><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span></div>"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Total Client Reviews",
+                "align": "center"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "1,000+",
+                "align": "center"
+              },
+              {
+                "t": "html",
+                "html": "<div style=\"display:flex;justify-content:center;gap:3px;margin:6px 0;\"><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span></div>"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Total Client Reviews",
+                "align": "center"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "50px 24px 50px 24px"
+        },
+        "width": "1140px"
+      },
+      {
+        "kind": "intro",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Digital Marketing Services in Austin",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>Zoot Web Agency works with Austin businesses on the <a href=\"/what-is-digital-marketing-in-austin/\">fundamentals of what is digital marketing in Austin</a> that generate sustainable growth — organic search, paid ads, high-converting websites, and social content with a real strategy behind it. Austin is one of the most competitive cities in the country for digital marketing, and we’ve built a clear sense of what works here versus what just sounds good in a proposal.</p><p>All of that growth has made Austin extremely competitive for local businesses. There are more marketing agencies here than anywhere else in Texas — which means business owners have to be more careful about who they trust with their budget. The cost of advertising has risen as more companies compete for the same search terms and ad placements. Cutting through the noise takes more precision than it did a few years ago, and a mediocre strategy wastes money fast.</p><p>Zoot has worked with businesses across Austin and the surrounding area — from service companies and healthcare providers to retailers, professional services, and tech-adjacent firms. We know what it takes to build organic visibility in a market this competitive and how to run paid campaigns that don’t burn through budget before they produce results. If you’re serious about growing in Austin, we can build the digital foundation that makes it happen.</p>",
+            "link": "#008AFC"
+          },
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "bg": "/uploads/2026/03/ChatGPT-Image-Mar-25-2026-12_34_38-PM.png",
+            "parts": [
+              {
+                "t": "btn",
+                "html": "FREE STRATEGY SESSION",
+                "href": "#"
+              },
+              {
+                "t": "text",
+                "html": "<p>Grow Your Austin Business With Expert Digital Marketing</p>"
+              },
+              {
+                "t": "text",
+                "html": "<p>Partner with a results-driven team that knows your market. Book a free strategy session and see exactly how we&#8217;ll grow your business.</p>"
+              },
+              {
+                "t": "btn",
+                "html": "Get My Free Growth Plan",
+                "href": "#"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "audit",
+        "parts": [
+          {
+            "t": "headline",
+            "tag": "p",
+            "before": "Get Your FREE",
+            "highlight": "Austin Marketing Audit",
+            "after": ""
+          },
+          {
+            "t": "form",
+            "name": "Free Audit Form",
+            "fields": [
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[name]",
+                "id": "form-field-name",
+                "placeholder": "First Name",
+                "label": null,
+                "width": 50
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[last_name]",
+                "id": "form-field-last_name",
+                "placeholder": "Last Name",
+                "label": null,
+                "width": 50
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[company]",
+                "id": "form-field-company",
+                "placeholder": "Company / Organization",
+                "label": null,
+                "width": 50
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[website]",
+                "id": "form-field-website",
+                "placeholder": "Website URL",
+                "label": null,
+                "width": 50
+              },
+              {
+                "tag": "select",
+                "type": null,
+                "name": "form_fields[goal]",
+                "id": "form-field-goal",
+                "placeholder": null,
+                "label": "Main Goal",
+                "width": 50,
+                "options": [
+                  "More Traffic",
+                  "More Leads",
+                  "Brand Awareness",
+                  "Better ROI"
+                ]
+              },
+              {
+                "tag": "select",
+                "type": null,
+                "name": "form_fields[service]",
+                "id": "form-field-service",
+                "placeholder": null,
+                "label": "Service Interested In",
+                "width": 50,
+                "options": [
+                  "Digital Marketing Services",
+                  "SEO Services",
+                  "Local SEO Services",
+                  "Technical SEO",
+                  "Enterprise SEO Services",
+                  "eCommerce SEO",
+                  "Pay Per Click (PPC)",
+                  "Social Media Marketing",
+                  "Social Media Management",
+                  "Web Design",
+                  "Content Marketing",
+                  "Email Marketing",
+                  "Online Reputation Management",
+                  "eCommerce Marketing Services",
+                  "Amazon Marketing Services",
+                  "Conversion Rate Optimization",
+                  "Link Building Services",
+                  "Video Production",
+                  "AI SEO Services",
+                  "Digital Marketing Strategy Development",
+                  "Franchise Digital Marketing",
+                  "Enterprise Digital Marketing",
+                  "SEO Audit Services",
+                  "CRO Audit Services",
+                  "User Experience Testing",
+                  "Search Engine Marketing",
+                  "Google Ads Management Services",
+                  "YouTube Advertising Services",
+                  "Programmatic Advertising",
+                  "Lead Generation Services",
+                  "Franchise PPC Marketing",
+                  "Enterprise PPC Marketing",
+                  "Social Media Brand Management",
+                  "Franchise Social Media Marketing",
+                  "Enterprise Social Media Marketing",
+                  "Facebook Advertising",
+                  "LinkedIn Advertising",
+                  "Twitter Advertising",
+                  "Instagram Marketing",
+                  "Social Media Advertising",
+                  "Digital PR Services",
+                  "HARO Link Building",
+                  "Branding Services",
+                  "Custom Website Design",
+                  "WordPress Website Design",
+                  "Website Hosting",
+                  "ADA Compliance Services",
+                  "Media Production Services",
+                  "Video Testimonial Services",
+                  "Product Photography",
+                  "Drone Video & Photography",
+                  "Content Writing",
+                  "Copywriting Services",
+                  "User Behavior Analytics",
+                  "Franchise SEO Audit Services",
+                  "Enterprise SEO Audit Services"
+                ]
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[city]",
+                "id": "form-field-city",
+                "placeholder": "Your City / Location",
+                "label": null,
+                "width": 100
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[message]",
+                "id": "form-field-message",
+                "placeholder": "Tell us about your business challenges",
+                "label": null,
+                "width": 100
+              }
+            ],
+            "submit": "Get My Free Audit"
+          }
+        ],
+        "pad": {
+          "sec": "0px 0px 0px 0px",
+          "box": "21px 0px 40px 0px"
+        }
+      },
+      {
+        "kind": "cases",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Our Austin Digital Marketing Clients Get Results",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>Real campaigns. Documented results. Every client below shows exactly what we achieved and what they have to say about working with Zoot.</p>"
+          },
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "parts": [
+              {
+                "t": "img",
+                "src": "/uploads/2026/03/darkostojanovic-laboratory-563423_1920.jpg",
+                "alt": "Houston Web Design Company - Dallas Digital Marketing Agency - austin digital marketing agency - franchise digital marketing - Arlington Digital Marketing Services",
+                "width": 1920,
+                "height": 1280
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "+664%",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "+360%",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Organic Traffic",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Online Leads",
+                "align": "center"
+              },
+              {
+                "t": "text",
+                "html": "<p><em>&#8220;The results speak for themselves. Since working with Zoot, we have more calls, more enquiries, and more revenue than at any point in our company&#8217;s history.&#8221;</em></p>"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "img",
+                "src": "/uploads/2026/03/advogadoaguilar-right-4944550_1920.jpg",
+                "alt": "Houston Web Design Company - Dallas Digital Marketing Agency - austin digital marketing agency - Arlington Digital Marketing Services - Google Business Profile Optimization - franchise digital marketing",
+                "width": 1920,
+                "height": 1280
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "+800%",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "+640%",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Online Leads",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Conversion Rate",
+                "align": "center"
+              },
+              {
+                "t": "text",
+                "html": "<p><em>&#8220;Zoot goes above and beyond on every single deliverable. They do not just do the job — they make sure everything is set up properly for long-term results.&#8221;</em></p>"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "testimonials",
+        "parts": [
+          {
+            "t": "headline",
+            "tag": "p",
+            "before": "But Don't Take Our Word For It",
+            "highlight": "Real Results. Real Clients.",
+            "after": ""
+          },
+          {
+            "t": "testimonials",
+            "minHeight": 340,
+            "pad": "34px 40px 32px 30px",
+            "items": [
+              {
+                "stars": 5,
+                "html": "<p>We hired Zoot web agency for Google My Business SEO services and the results have been outstanding. Our local visibility improved quickly, our listing is now optimized correctly, and we're getting more calls and in-store traffic than before. They clearly understand local SEO, maps ranking, reviews, and how to position a business to stand out in competitive searches. Highly recommend their services to any business serious about local growth.</p>",
+                "name": "brainbodge"
+              },
+              {
+                "stars": 5,
+                "html": "<p>I've now worked with many other agencies but this one absolutely delivered what I was looking for. The citations they completed were incredibly detailed, accurate, and clearly done with a deep understanding of what actually moves the needle. What really stands out is how much he goes above and beyond, not just doing the job, but making sure everything is set up properly for long-term results.</p>",
+                "name": "Englishcoach"
+              },
+              {
+                "stars": 5,
+                "html": "<p>Zoot Web Agency has been Exceptional in helping us with SEO across all of our clinics. I am deeply content on the direction we are taking as citations are much underrated by many business owners. AI signaling in different ways is replacing the outdated old SEO and I am glad I am working with Prasad to maintain modern visibility online.</p>",
+                "name": "Scubaskool"
+              },
+              {
+                "stars": 5,
+                "html": "<p>Zoot did an excellent job improving our SEO and online visibility. They built high-quality backlinks, optimized our map citations, and helped strengthen our local search presence. What impressed me most was that he went beyond the agreed work by adding extra improvements and giving valuable SEO advice for free. Highly recommend them to anyone looking for reliable SEO and backlink services.</p>",
+                "name": "karlblud"
+              },
+              {
+                "stars": 5,
+                "html": "<p>After trying several top rated agency, I can surely say they are outstanding. Don't even look further, hire them. They have an excellent and in-depth understanding of webpage SEO and explains clearly how everything connects to Google. They communicate in a very transparent and structured way and put real effort into choosing the best strategy for your project. Highly recommended.</p>",
+                "name": "Revibetherapy"
+              },
+              {
+                "stars": 5,
+                "html": "<p>I had a great experience working with this SEO service. They helped improve my Google Business ranking and increased visibility for my business. Very professional, honest, and knowledgeable about local SEO. I started seeing better results on Google Maps and more customer calls after their work. I highly recommend them to anyone looking to grow their business online.</p>",
+                "name": "Kalsaid16"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "80px 15px 80px 15px"
+        }
+      },
+      {
+        "kind": "cta",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Ready to Grow Your Austin Business With Digital Marketing Services?",
+            "align": "center"
+          },
+          {
+            "t": "text",
+            "html": "<p>Partner with <a href=\"https://maps.app.goo.gl/tb8WF6CfNc696mt16\" target=\"_blank\" rel=\"noopener\">Zoot Web Agency</a> — the results-driven digital marketing experts trusted by businesses across Austin. Get your free proposal today.</p>"
+          },
+          {
+            "t": "btn",
+            "html": "Get My Free Proposal",
+            "href": "#"
+          }
+        ],
+        "pad": {
+          "sec": "70px 24px 70px 24px"
+        },
+        "width": "900px"
+      },
+      {
+        "kind": "services",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Austin Digital Marketing Services",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>We provide customized digital marketing solutions built specifically for Austin businesses — every strategy is tailored to your market, your competition, and your growth goals.</p>"
+          },
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><path d=\"M18 20L30 14V34L18 28H12V20H18Z\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linejoin=\"round\"></path><path d=\"M16 28V34\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linecap=\"round\"></path><path d=\"M34 20C36 22 37 24 37 27C37 30 36 32 34 34\" stroke=\"#00A3FF\" stroke-width=\"3\" stroke-linecap=\"round\"></path><path d=\"M38 16C41 19 43 23 43 27C43 31 41 35 38 38\" stroke=\"#00A3FF\" stroke-width=\"3\" stroke-linecap=\"round\"></path></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Search Engine Optimization (SEO)",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Getting to page one of Google is one thing. Staying there is another. Our SEO work starts with a proper audit — not a generic automated scan, but a real look at what&#8217;s holding your site back technically, where your competitors are beating you, and where the actual keyword opportunities are for an Austin business like yours. From there we handle everything: on-page fixes, link building, local SEO for the Google Maps pack, and content that earns rankings over time. Austin is competitive, but consistent SEO builds the kind of visibility that pays off for years.</p>",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><rect x=\"16\" y=\"8\" width=\"16\" height=\"32\" rx=\"2\" stroke=\"#00A3FF\" stroke-width=\"4\"></rect><circle cx=\"24\" cy=\"34\" r=\"1.8\" fill=\"#00A3FF\"></circle></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Web Design and Development",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>A lot of websites look fine and still don&#8217;t work — slow to load, frustrating on mobile, no clear path for a visitor to follow. Austin buyers are sophisticated and will leave a site that feels dated or slow without thinking twice. Every site we build is designed around what we want visitors to do first, then around how it looks. We build on WordPress with Elementor — fast, editable, and SEO-friendly out of the gate. No proprietary builders that lock you in.</p>",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><path d=\"M8 32C8 23.1634 15.1634 16 24 16C32.8366 16 40 23.1634 40 32\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linecap=\"round\"></path><path d=\"M16 24L18 26\" stroke=\"#00A3FF\" stroke-width=\"3\" stroke-linecap=\"round\"></path><path d=\"M24 21V24\" stroke=\"#00A3FF\" stroke-width=\"3\" stroke-linecap=\"round\"></path><path d=\"M32 24L30 26\" stroke=\"#00A3FF\" stroke-width=\"3\" stroke-linecap=\"round\"></path><path d=\"M24 32L31 24\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linecap=\"round\"></path><circle cx=\"24\" cy=\"32\" r=\"2.5\" fill=\"#00A3FF\"></circle></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Social Media Marketing",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Social media works when it’s built around a specific audience — not copied from a template. Austin has a unique mix of tech workers, creatives, students, and long-time locals, and different businesses need to reach different segments of that audience in different ways. We identify the platforms your customers actually use, the types of content that generate real engagement in your niche, and the strategies to convert that attention into leads that your team can close. We focus on actual business outcomes, not just engagement numbers. Strong social media campaigns also depend on professional <a href=\"/austin-digital-marketing-agency/web-design/\">web design</a>, fast-loading landing pages, and a smooth user experience that turns clicks into actual customers.</p>",
+                "link": "#008AFC",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><path d=\"M18 14L10 24L18 34\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M30 14L38 24L30 34\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M26 10L22 38\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linecap=\"round\"></path></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Pay-Per-Click (PPC)",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>PPC in Austin is more expensive than in most Texas cities because competition is higher. That makes it more important to have campaigns that are actually built correctly. We&#8217;ve taken over plenty of Google Ads accounts wasting money on the wrong keywords, sending traffic to pages that don&#8217;t convert, and reporting metrics that had nothing to do with revenue. We fix those problems first, then build campaigns tied to what matters for your business. Google, Meta, and display — managed properly, at any budget level.</p>",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><g fill=\"none\" stroke=\"#1E90FF\" stroke-width=\"5\"><circle cx=\"32\" cy=\"32\" r=\"18\"></circle><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"#1E90FF\" stroke=\"none\"></circle></g></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Online Reputation Management",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Your Google reviews matter more than most Austin business owners realize — they&#8217;re often what makes a potential customer pick you or keep scrolling. A run of bad reviews, even unfair ones, can quietly kill your lead flow for months. We handle reputation from both sides: making it easier for satisfied customers to leave reviews, and responding to negative ones in a way that actually helps your standing. We also monitor your brand across review platforms and directories so nothing falls through the cracks.</p>",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><g fill=\"none\" stroke=\"#1E90FF\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"10\" y=\"10\" width=\"44\" height=\"44\" rx=\"6\" ry=\"6\"></rect><polyline points=\"20,34 28,42 44,24\"></polyline></g></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Content Marketing",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Good content earns trust before the sale ever happens — and it does it in the background while you focus on your business. We write blog posts, service pages, and guides that your potential customers actually want to read. Every piece is tied to a purpose: ranking for a specific search term, answering a question your customers ask repeatedly, or moving someone further down their buying decision. Our writers work alongside our <a style=\"color: #3b82f6; text-decoration: underline; font-weight: 600;\" href=\"/austin-digital-marketing-agency/seo-company/\">SEO</a> team so the content is always doing double duty — readable and ranking.</p>",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><g fill=\"none\" stroke=\"#1E90FF\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M8 12h8l8 28h24l8-20H22\"></path><circle cx=\"28\" cy=\"52\" r=\"3\" fill=\"#1E90FF\" stroke=\"none\"></circle><circle cx=\"48\" cy=\"52\" r=\"3\" fill=\"#1E90FF\" stroke=\"none\"></circle></g></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Video Production",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p data-start=\"3112\" data-end=\"3746\">Video is the format people actually stop and watch — especially in a market full of creative-minded people like Austin. A well-made explainer video, a genuine testimonial, or a behind-the-scenes look at your team can do more for trust-building than a dozen written pages. We handle the whole production process — scripting, filming, editing, and formatting for whatever platforms you’re using. If you’re running video ads, we produce them with that purpose in mind from the start. Short-form videos and branded content also perform especially well across <a href=\"/austin-digital-marketing-agency/social-media-agency/\">social media</a> platforms where attention spans are short and consistency matters.</p>",
+                "link": "#008AFC",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><g fill=\"#1E90FF\"><circle cx=\"26\" cy=\"26\" r=\"14\" fill=\"none\" stroke=\"#1E90FF\" stroke-width=\"6\"></circle><rect x=\"36\" y=\"36\" width=\"16\" height=\"6\" rx=\"3\" ry=\"3\" transform=\"rotate(45 36 36)\"></rect></g></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Conversion Rate Optimization",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Getting traffic to your site is only half the job. If visitors aren&#8217;t turning into leads or customers, you&#8217;re paying for eyeballs. CRO is about understanding why people leave without acting — and fixing it. We look at heat maps, session recordings, form completion rates, and where people drop off in your funnel. Then we test changes: different layouts, different headlines, different calls to action. The improvements compound over time, which means your existing traffic starts working harder without additional spend.</p>",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><g fill=\"none\" stroke=\"#1E90FF\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M38 6a14 14 0 0 0-12 20L8 44a6 6 0 1 0 8 8l18-18A14 14 0 0 0 54 22l-8 6-6-6 6-8A14 14 0 0 0 38 6z\"></path></g></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Amazon Marketing Services",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<div><div><section dir=\"auto\" data-turn-id=\"request-WEB:7dbb0b8a-1be4-4c26-8d63-939020744f7c-3\" data-turn-id-container=\"request-WEB:7dbb0b8a-1be4-4c26-8d63-939020744f7c-3\" data-testid=\"conversation-turn-4\" data-scroll-anchor=\"false\" data-turn=\"assistant\"><div><div><div><div dir=\"auto\" tabindex=\"0\" data-message-author-role=\"assistant\" data-message-id=\"74d61804-be04-4df1-bf59-e698ea9ed5c0\" data-message-model-slug=\"gpt-5-5\" data-turn-start-message=\"true\"><div><div><p data-start=\"4486\" data-end=\"5149\" data-is-last-node=\"\" data-is-only-node=\"\">Amazon has its own search engine, its own ranking factors, and its own buyer psychology — and winning there takes a different approach than standard digital marketing. We help Austin-based sellers optimize their product listings and brand pages, improve visibility within Amazon’s search results, and run sponsored campaigns that bring in buyers rather than browsers. We also handle A+ content, brand store setup, and review strategy to make products more credible and competitive in a crowded marketplace. Sponsored product campaigns on Amazon follow many of the same principles as <a href=\"/austin-digital-marketing-agency/austin-ppc-agency/\">PPC</a> advertising, where targeting, testing, and optimization drive profitability.</p></div></div></div></div><div><div> </div></div></div></div></section><div> </div></div></div><div aria-hidden=\"true\"> </div>",
+                "link": "#008AFC",
+                "align": "start"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "why",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Why Choose Zoot As Your Austin Digital Marketing Company",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>We built Zoot around a simple idea: if the results aren&#8217;t there, the client leaves. That keeps everyone on the team honest. Most agencies focus energy on signing new clients. We focus energy on keeping the ones we have — which means the work has to actually produce something. Every account manager, strategist, and specialist on our team knows their job isn&#8217;t to make a report look good. It&#8217;s to make the client&#8217;s business grow.</p>"
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M18 14H26L32 20V32C32 33.1046 31.1046 34 30 34H18C16.8954 34 16 33.1046 16 32V16C16 14.8954 16.8954 14 18 14Z\" fill=\"#2563EB\"></path><path d=\"M26 14V20H32\" fill=\"#0B3B8C\"></path><rect x=\"20\" y=\"24\" width=\"8\" height=\"2\" fill=\"#0B3B8C\"></rect><rect x=\"20\" y=\"28\" width=\"6\" height=\"2\" fill=\"#0B3B8C\"></rect></svg>",
+            "tag": "p",
+            "html": "Honest, Straight Talk",
+            "desc": "We tell clients what we can realistically achieve, and we own it when something isn't performing the way we expected. If a strategy isn't working, we say so and change course — we don't hide it in a report. We've turned down clients who weren't a good fit and ended campaigns that weren't producing. That kind of honesty is sometimes uncomfortable, but it's the only way to build a working relationship that lasts."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M24 14L32 18V24C32 29 28.5 32.5 24 34C19.5 32.5 16 29 16 24V18L24 14Z\" fill=\"#2563EB\"></path></svg>",
+            "tag": "p",
+            "html": "Results We Can Show You",
+            "desc": "We have actual numbers from actual clients — traffic growth, lead increases, and revenue impact — across industries including legal, healthcare, home services, retail, and professional services. When we tell you something works, we can show you cases where it did. That track record shapes every recommendation we make because it filters out tactics that sound good in a pitch but don't move the needle."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 32V18\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M16 32H32\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M18 28L22 24L26 26L32 20\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M30 20H32V22\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+            "tag": "p",
+            "html": "Specialists, Not Generalists",
+            "desc": "Every person who works on your account is a specialist in their area. Your SEO isn't being handled by someone who also manages your social media and writes your blog posts on the side. We have dedicated people for each channel, and they actually talk to each other. That coordination matters — your campaigns reinforce each other instead of pulling in different directions."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 32V18\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M16 32H32\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M18 28L22 24L26 26L32 20\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M30 20H32V22\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+            "tag": "p",
+            "html": "Reporting That Makes Sense",
+            "desc": "Our monthly reports answer the questions that actually matter: what did we do, what did it produce, and what's the plan for next month? No 40-page PDFs packed with metrics that don't connect to your bottom line. You also get access to your live dashboard anytime, plus a direct line to your account manager when you have a question between reports."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 18C16 16.8954 16.8954 16 18 16H30C31.1046 16 32 16.8954 32 18V26C32 27.1046 31.1046 28 30 28H23L18 32V28H18C16.8954 28 16 27.1046 16 26V18Z\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linejoin=\"round\"></path><circle cx=\"21\" cy=\"22\" r=\"1.5\" fill=\"#2563EB\"></circle><circle cx=\"24\" cy=\"22\" r=\"1.5\" fill=\"#2563EB\"></circle><circle cx=\"27\" cy=\"22\" r=\"1.5\" fill=\"#2563EB\"></circle></svg>",
+            "tag": "p",
+            "html": "We Respect Your Time",
+            "desc": "We set timelines we intend to keep. Before any campaign or project kicks off, we walk through a realistic schedule so there are no surprises. When something runs longer than planned — and occasionally it does — we communicate early, explain what happened, and give you a revised date. You'll never be sitting there wondering why nothing has happened."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 17H32V30H16V17Z\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linejoin=\"round\"></path><path d=\"M19 21H24\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M19 25H26\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M29 21V26\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path></svg>",
+            "tag": "p",
+            "html": "Built for Your Business",
+            "desc": "Generic packages don't work because no two businesses compete in the same way. Before we recommend anything, we do the homework — your market, your competitors, your current digital footprint, and where the actual growth opportunities are. What we put together for you is based on that research, not whatever package is easiest for us to sell this month."
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "awards",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "p",
+            "html": "Award-Winning Digital Marketing Agency in Austin",
+            "align": "center"
+          },
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "parts": [
+              {
+                "t": "img",
+                "src": "/uploads/2026/05/ChatGPT-Image-May-1-2026-05_50_19-PM.png",
+                "alt": "Dallas Digital Marketing Agency - Houston Digital Marketing Services -austin digital marketing",
+                "width": 1536,
+                "height": 1025
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Zoot Web Agency Named Top Digital Marketing Agency in Austin by Clutch",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Clutch ranks B2B service providers using verified client interviews and market presence data. Their evaluation is independent and can&#8217;t be paid for — which is what makes it meaningful. Zoot Web Agency has been named a top agency in Austin across five categories:</p><ul><li>Digital Marketing Agency</li><li>SEO Agency</li><li>PPC Agency</li><li>Social Media Agency</li><li>Web Design Agency</li></ul><p>We hold a 5.0 rating on the platform. Every review comes from a real client, and we&#8217;re grateful to those who took the time to share their experience.</p>"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "img",
+                "src": "/uploads/2026/05/ChatGPT-Image-May-1-2026-05_36_26-PM.png",
+                "alt": "Houston Digital Marketing Services",
+                "width": 1536,
+                "height": 1025
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Zoot Web Agency Named National Excellence Award Winner in Austin by UpCity",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>UpCity scores service providers using their Recommendability Rating — an algorithm that evaluates credibility, reputation, and client satisfaction signals from across the web. It&#8217;s not self-reported and can&#8217;t be gamed.</p><p>Zoot Web Agency holds a 5.0 rating on UpCity and has been named a National Excellence Award winner in the Austin market. We treat this as a baseline to maintain, not a finish line. The only way to keep earning it is to keep doing good work.</p>"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "faq",
+        "parts": [
+          {
+            "t": "headline",
+            "tag": "h3",
+            "before": "Frequently Asked",
+            "highlight": "Questions",
+            "after": ""
+          },
+          {
+            "t": "text",
+            "html": "<p>Common questions from businesses about Austin digital marketing services and what to expect when working with Zoot Web Agency.</p>",
+            "align": "center"
+          },
+          {
+            "t": "faq",
+            "items": [
+              {
+                "q": "How much does Austin digital marketing cost?",
+                "a": "<p>Austin is a more expensive market than most Texas cities because competition for ad placements and search rankings is higher. Most small-to-medium Austin businesses spend between $2,000 and $6,000 per month for a meaningful strategy. We do a free audit first and put together a proposal based on your actual situation — no guessing, no generic pricing tiers.</p>",
+                "open": true
+              },
+              {
+                "q": "How competitive is SEO in Austin, and how long will it take?",
+                "a": "<p>It's genuinely competitive for most categories. Austin has attracted a lot of businesses and a lot of marketing agencies, which means more competition for the same search terms. Realistic timelines are four to eight months before you see substantial organic movement — though lower-competition niches can move faster. Paid ads can produce results immediately. We're always straight with you about what to expect.</p>",
+                "open": true
+              },
+              {
+                "q": "Do you work with tech startups and fast-growth companies in Austin?",
+                "a": "<p>Yes. We've worked with early-stage companies building their first real digital presence and growth-stage companies scaling lead generation. The approach is different — startups often need to establish credibility fast and can't wait 18 months for SEO to fully mature, so the mix of organic and paid tends to weight differently. We adapt the strategy to where you are in your growth curve.</p>",
+                "open": true
+              },
+              {
+                "q": "What makes Zoot different from the other agencies in Austin?",
+                "a": "<p>Austin has a lot of agencies, which means you have real choices — and you should be picky. We work month-to-month, which keeps the pressure on us to keep performing. You get one account manager who knows your account, not a queue. And we report results in plain language — revenue-relevant metrics, not impressions and follower counts.</p>",
+                "open": true
+              },
+              {
+                "q": "Can you help an Austin business rank in Google Maps?",
+                "a": "<p>Yes. We optimize your Google Business Profile, fix citation issues, build a review system, and handle the local SEO signals that influence map pack rankings. Austin's local pack is competitive, but most businesses we work with see clear improvement within 60 to 90 days of starting the work.</p>",
+                "open": true
+              }
+            ]
+          },
+          {
+            "t": "faq",
+            "items": [
+              {
+                "q": "Do you build websites for Austin businesses?",
+                "a": "Yes. All on WordPress — fast, mobile-first, and set up properly for search from day one. Austin buyers are sophisticated and will leave a site that feels slow or dated. We build for performance and conversion first, then layer the design on top of a solid technical foundation. You own the site outright once it's built.",
+                "open": true
+              },
+              {
+                "q": "Can you manage social media for my Austin business?",
+                "a": "Yes. We handle content strategy, creation, posting, and paid social on Facebook, Instagram, and LinkedIn. Austin has a particularly active tech and lifestyle audience on social platforms, and the standard for what looks credible is high. We create content that fits your brand and speaks to the audience you're actually trying to reach — not generic filler that blends into the feed.",
+                "open": true
+              },
+              {
+                "q": "Do you do content marketing for Austin businesses?",
+                "a": "Yes. Blog posts, service pages, guides, and case studies — written to rank in search and build genuine trust with your audience. In Austin, where buyers tend to be research-heavy before committing, quality content makes a real difference in the sales process. Our writers work alongside the SEO team so every piece is built around actual search demand and tied to a business objective.",
+                "open": true
+              },
+              {
+                "q": "How do you handle reporting for Austin clients?",
+                "a": "Monthly reports covering everything that happened — rankings moved, traffic changes, leads generated, ad spend and return. All in plain language. We don't send you a dashboard with 40 metrics and leave you to figure out what matters. If something underperformed, we tell you and explain what we're adjusting. You always know where your investment stands.",
+                "open": true
+              },
+              {
+                "q": "What&#039;s the first step to working with Zoot in Austin?",
+                "a": "A free audit. We look at your website technical health, search visibility, Google Business Profile, and any existing advertising. We identify the specific gaps and opportunities for an Austin business in your category, then put together a proposal with clear deliverables and expected outcomes. The audit is genuinely useful on its own — there's no obligation attached.",
+                "open": true
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "0px 0px 30px 0px",
+          "box": "60px 0px 0px 0px"
+        }
+      }
+    ]
   }
 }

@@ -7,6 +7,7 @@ import { decode, parseHead } from "./wp-head.mjs";
 import { extractHome } from "./extract-home.mjs";
 import { kitVars, pageCss, staticWidgets } from "./elementor-css.mjs";
 import { iconCss, loadIconFonts } from "./icon-fonts.mjs";
+import { citySections } from "./city-sections.mjs";
 
 const WP = "https://powderblue-gaur-774652.hostingersite.com";
 // Final production domain. Canonicals/OG URLs are rewritten from WP to this. Change at cutover.
@@ -182,6 +183,15 @@ await pool([...pages, ...posts], 4, async (item) => {
     doc.layoutCss = await elementorCss(html);
   }
   if (doc.family === "article") doc.layout = await elementorLayout(item.id);
+  if (doc.family === "cityHub" || doc.family === "cityService") {
+    // Elementor keeps background images, link colors and some paddings in the page's CSS, not the HTML.
+    const css = await get(`${CSS}/post-${item.id}.css`).then((r) => r.text()).catch((e) => (console.warn(`  ${path}: no page CSS (${e.message})`), ""));
+    try {
+      doc.city = { sections: citySections(html, localize(css), kitCss) };
+    } catch (e) {
+      console.warn(`  ${path}: city sections failed (${e.message}), page renders as raw HTML`);
+    }
+  }
   const file = path === "/" ? "index" : path.replace(/^\/|\/$/g, "").replaceAll("/", "__");
   await writeFile(`${OUT}/${file}.json`, JSON.stringify(doc, null, 2) + "\n");
 });

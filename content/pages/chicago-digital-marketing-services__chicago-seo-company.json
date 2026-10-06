@@ -362,5 +362,895 @@
         ]
       }
     ]
+  },
+  "city": {
+    "sections": [
+      {
+        "kind": "hero",
+        "parts": [
+          {
+            "t": "crumbs"
+          },
+          {
+            "t": "h",
+            "tag": "h1",
+            "html": "Chicago SEO Company",
+            "align": "start"
+          },
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Drive More Organic Traffic &amp; Qualified Leads",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>Zoot Web Agency is a Chicago <a style=\"color: #3b82f6; text-decoration: underline; font-weight: 600;\" href=\"/seo-services/\">SEO services </a>that builds data-driven search campaigns around what your business needs — higher rankings for the terms your customers use, more qualified organic traffic, and a measurable increase in leads and revenue. We focus on results that connect directly to your bottom line.</p>",
+            "align": "start"
+          },
+          {
+            "t": "img",
+            "src": "/uploads/2026/05/ChatGPT-Image-May-13-2026-01_02_16-PM.png",
+            "alt": "",
+            "width": 1536,
+            "height": 1025
+          }
+        ]
+      },
+      {
+        "kind": "stats",
+        "parts": [
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "parts": [
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "150+",
+                "align": "center"
+              },
+              {
+                "t": "html",
+                "html": "<div style=\"display:flex;justify-content:center;gap:3px;margin:6px 0;\"><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span></div>"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "5-Star Google Reviews",
+                "align": "center"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "10+ Years",
+                "align": "center"
+              },
+              {
+                "t": "html",
+                "html": "<div style=\"display:flex;justify-content:center;gap:3px;margin:6px 0;\"><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span></div>"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Digital Marketing Experience",
+                "align": "center"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "500+",
+                "align": "center"
+              },
+              {
+                "t": "html",
+                "html": "<div style=\"display:flex;justify-content:center;gap:3px;margin:6px 0;\"><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span></div>"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Happy Clients Served",
+                "align": "center"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "1,000+",
+                "align": "center"
+              },
+              {
+                "t": "html",
+                "html": "<div style=\"display:flex;justify-content:center;gap:3px;margin:6px 0;\"><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span></div>"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Total Client Reviews",
+                "align": "center"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "50px 24px 50px 24px"
+        }
+      },
+      {
+        "kind": "intro",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "SEO Services in Chicago",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>Chicago businesses compete in one of the most active local search markets in the country. Appearing at the top of Google results for the terms your customers use when they are ready to buy is the single most reliable source of high-intent organic traffic available to local businesses. Businesses on page one — particularly in the top three organic positions — capture the overwhelming majority of clicks. Those below page one are effectively invisible regardless of how good their service actually is.</p><p>That competitive reality is why SEO in Chicago requires more than basic optimization. Zoot Web Agency builds SEO campaigns for Chicago businesses around your specific category, your specific competitors, and the exact search terms your customers use when they are ready to make a decision. Every campaign starts with a thorough audit of what is currently holding your site back and where the real ranking opportunities are in your market right now.</p>"
+          },
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "bg": "/uploads/2026/03/ChatGPT-Image-Mar-25-2026-12_34_38-PM.png",
+            "parts": [
+              {
+                "t": "btn",
+                "html": "FREE STRATEGY SESSION",
+                "href": "#"
+              },
+              {
+                "t": "text",
+                "html": "<p>Grow Your Chicago Business With Expert SEO Services</p>"
+              },
+              {
+                "t": "text",
+                "html": "<p>Get a free SEO audit from our Chicago specialists. We&#8217;ll identify exactly what&#8217;s holding your rankings back and build a clear path to page one.</p>"
+              },
+              {
+                "t": "btn",
+                "html": "Get My Free Growth Plan",
+                "href": "#"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "audit",
+        "parts": [
+          {
+            "t": "headline",
+            "tag": "p",
+            "before": "Get Your FREE",
+            "highlight": "Chicago SEO Audit",
+            "after": ""
+          },
+          {
+            "t": "form",
+            "name": "Free Audit Form",
+            "fields": [
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[name]",
+                "id": "form-field-name",
+                "placeholder": "First Name",
+                "label": null,
+                "width": 50
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[last_name]",
+                "id": "form-field-last_name",
+                "placeholder": "Last Name",
+                "label": null,
+                "width": 50
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[company]",
+                "id": "form-field-company",
+                "placeholder": "Company / Organization",
+                "label": null,
+                "width": 50
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[website]",
+                "id": "form-field-website",
+                "placeholder": "Website URL",
+                "label": null,
+                "width": 50
+              },
+              {
+                "tag": "select",
+                "type": null,
+                "name": "form_fields[goal]",
+                "id": "form-field-goal",
+                "placeholder": null,
+                "label": "Main Goal",
+                "width": 50,
+                "options": [
+                  "More Traffic",
+                  "More Leads",
+                  "Brand Awareness",
+                  "Better ROI"
+                ]
+              },
+              {
+                "tag": "select",
+                "type": null,
+                "name": "form_fields[service]",
+                "id": "form-field-service",
+                "placeholder": null,
+                "label": "Service Interested In",
+                "width": 50,
+                "options": [
+                  "Digital Marketing Services",
+                  "SEO Services",
+                  "Local SEO Services",
+                  "Technical SEO",
+                  "Enterprise SEO Services",
+                  "eCommerce SEO",
+                  "Pay Per Click (PPC)",
+                  "Social Media Marketing",
+                  "Social Media Management",
+                  "Web Design",
+                  "Content Marketing",
+                  "Email Marketing",
+                  "Online Reputation Management",
+                  "eCommerce Marketing Services",
+                  "Amazon Marketing Services",
+                  "Conversion Rate Optimization",
+                  "Link Building Services",
+                  "Video Production",
+                  "AI SEO Services",
+                  "Digital Marketing Strategy Development",
+                  "Franchise Digital Marketing",
+                  "Enterprise Digital Marketing",
+                  "SEO Audit Services",
+                  "CRO Audit Services",
+                  "User Experience Testing",
+                  "Search Engine Marketing",
+                  "Google Ads Management Services",
+                  "YouTube Advertising Services",
+                  "Programmatic Advertising",
+                  "Lead Generation Services",
+                  "Franchise PPC Marketing",
+                  "Enterprise PPC Marketing",
+                  "Social Media Brand Management",
+                  "Franchise Social Media Marketing",
+                  "Enterprise Social Media Marketing",
+                  "Facebook Advertising",
+                  "LinkedIn Advertising",
+                  "Twitter Advertising",
+                  "Instagram Marketing",
+                  "Social Media Advertising",
+                  "Digital PR Services",
+                  "HARO Link Building",
+                  "Branding Services",
+                  "Custom Website Design",
+                  "WordPress Website Design",
+                  "Website Hosting",
+                  "ADA Compliance Services",
+                  "Media Production Services",
+                  "Video Testimonial Services",
+                  "Product Photography",
+                  "Drone Video & Photography",
+                  "Content Writing",
+                  "Copywriting Services",
+                  "User Behavior Analytics",
+                  "Franchise SEO Audit Services",
+                  "Enterprise SEO Audit Services"
+                ]
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[city]",
+                "id": "form-field-city",
+                "placeholder": "Your City / Location",
+                "label": null,
+                "width": 100
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[message]",
+                "id": "form-field-message",
+                "placeholder": "Tell us about your business challenges",
+                "label": null,
+                "width": 100
+              }
+            ],
+            "submit": "Get My Free Audit"
+          }
+        ],
+        "pad": {
+          "sec": "0px 0px 0px 0px",
+          "box": "21px 0px 40px 0px"
+        }
+      },
+      {
+        "kind": "cases",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Our Chicago Digital Marketing Clients Get Results",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>Real campaigns. Documented results. Every client below shows exactly what we achieved and what they have to say about working with Zoot.</p>"
+          },
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "parts": [
+              {
+                "t": "img",
+                "src": "/uploads/2026/03/darkostojanovic-laboratory-563423_1920.jpg",
+                "alt": "Houston Web Design Company - Dallas Digital Marketing Agency - austin digital marketing agency - franchise digital marketing - Arlington Digital Marketing Services",
+                "width": 1920,
+                "height": 1280
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "+664%",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "+360%",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Organic Traffic",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Online Leads",
+                "align": "center"
+              },
+              {
+                "t": "text",
+                "html": "<p><em>&#8220;Zoot took us from barely visible on Google to ranking on page one for every keyword that matters. The leads from organic search are the best quality we&#8217;ve ever seen.&#8221;</em></p>"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "img",
+                "src": "/uploads/2026/03/advogadoaguilar-right-4944550_1920.jpg",
+                "alt": "Houston Web Design Company - Dallas Digital Marketing Agency - austin digital marketing agency - Arlington Digital Marketing Services - Google Business Profile Optimization - franchise digital marketing",
+                "width": 1920,
+                "height": 1280
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "+800%",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "+640%",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Online Leads",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Conversion Rate",
+                "align": "center"
+              },
+              {
+                "t": "text",
+                "html": "<p><em>&#8220;Before Zoot, we spent heavily on paid ads because our organic presence was almost nonexistent. Now organic is our best-performing channel.&#8221;</em></p>"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "testimonials",
+        "parts": [
+          {
+            "t": "headline",
+            "tag": "p",
+            "before": "But Don't Take Our Word For It",
+            "highlight": "Real Results. Real Clients.",
+            "after": ""
+          },
+          {
+            "t": "testimonials",
+            "minHeight": 340,
+            "pad": "34px 40px 32px 30px",
+            "items": [
+              {
+                "stars": 5,
+                "html": "<p>We hired Zoot web agency for Google My Business SEO services and the results have been outstanding. Our local visibility improved quickly, our listing is now optimized correctly, and we're getting more calls and in-store traffic than before. They clearly understand local SEO, maps ranking, reviews, and how to position a business to stand out in competitive searches. Highly recommend their services to any business serious about local growth.</p>",
+                "name": "brainbodge"
+              },
+              {
+                "stars": 5,
+                "html": "<p>I've now worked with many other agencies but this one absolutely delivered what I was looking for. The citations they completed were incredibly detailed, accurate, and clearly done with a deep understanding of what actually moves the needle. What really stands out is how much he goes above and beyond, not just doing the job, but making sure everything is set up properly for long-term results.</p>",
+                "name": "Englishcoach"
+              },
+              {
+                "stars": 5,
+                "html": "<p>Zoot Web Agency has been Exceptional in helping us with SEO across all of our clinics. I am deeply content on the direction we are taking as citations are much underrated by many business owners. AI signaling in different ways is replacing the outdated old SEO and I am glad I am working with Prasad to maintain modern visibility online.</p>",
+                "name": "Scubaskool"
+              },
+              {
+                "stars": 5,
+                "html": "<p>Zoot did an excellent job improving our SEO and online visibility. They built high-quality backlinks, optimized our map citations, and helped strengthen our local search presence. What impressed me most was that he went beyond the agreed work by adding extra improvements and giving valuable SEO advice for free. Highly recommend them to anyone looking for reliable SEO and backlink services.</p>",
+                "name": "karlblud"
+              },
+              {
+                "stars": 5,
+                "html": "<p>After trying several top rated agency, I can surely say they are outstanding. Don't even look further, hire them. They have an excellent and in-depth understanding of webpage SEO and explains clearly how everything connects to Google. They communicate in a very transparent and structured way and put real effort into choosing the best strategy for your project. Highly recommended.</p>",
+                "name": "Revibetherapy"
+              },
+              {
+                "stars": 5,
+                "html": "<p>I had a great experience working with this SEO service. They helped improve my Google Business ranking and increased visibility for my business. Very professional, honest, and knowledgeable about local SEO. I started seeing better results on Google Maps and more customer calls after their work. I highly recommend them to anyone looking to grow their business online.</p>",
+                "name": "Kalsaid16"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "80px 15px 80px 15px"
+        }
+      },
+      {
+        "kind": "cta",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Ready to Dominate Chicago Search Results?",
+            "align": "center"
+          },
+          {
+            "t": "text",
+            "html": "<p>Partner with Zoot Web Agency — Chicago&#039;s results-driven SEO specialists. Get your free SEO audit today and discover exactly where your rankings can go.</p>"
+          },
+          {
+            "t": "btn",
+            "html": "Get My Free Proposal",
+            "href": "#"
+          }
+        ],
+        "pad": {
+          "sec": "70px 24px 70px 24px"
+        },
+        "width": "900px"
+      },
+      {
+        "kind": "services",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Chicago SEO Services",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>Comprehensive, results-focused SEO services built for Chicago businesses — every strategy is built around your market, your competition, and the keywords your customers actually use.</p>"
+          },
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><path d=\"M18 20L30 14V34L18 28H12V20H18Z\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linejoin=\"round\"></path><path d=\"M16 28V34\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linecap=\"round\"></path><path d=\"M34 20C36 22 37 24 37 27C37 30 36 32 34 34\" stroke=\"#00A3FF\" stroke-width=\"3\" stroke-linecap=\"round\"></path><path d=\"M38 16C41 19 43 23 43 27C43 31 41 35 38 38\" stroke=\"#00A3FF\" stroke-width=\"3\" stroke-linecap=\"round\"></path></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Keyword Research &amp; Strategy",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>We manage Search, Shopping, Display, and Performance Max campaigns across Google Ads as part of a broader <a href=\"/chicago-digital-marketing-services/\">chicago digital marketing</a> strategy focused on measurable business growth. Campaign architecture, keyword selection, match type strategy, negative keyword management, and Quality Score optimization are all handled continuously. </p>",
+                "link": "#008AFC",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><rect x=\"16\" y=\"8\" width=\"16\" height=\"32\" rx=\"2\" stroke=\"#00A3FF\" stroke-width=\"4\"></rect><circle cx=\"24\" cy=\"34\" r=\"1.8\" fill=\"#00A3FF\"></circle></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "On-Page SEO Optimisation",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Paid social campaigns on Facebook and Instagram are built around your specific audience through advanced <a href=\"/chicago-digital-marketing-services/social-media-agency/\">social media</a> marketing strategies based on interests, behavior, demographics, and custom audience matching. We handle creative strategy, copywriting, audience targeting, budget allocation, and ongoing optimization. Meta’s algorithm rewards relevance, and we build social media campaigns designed to earn it.</p>",
+                "link": "#008AFC",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><path d=\"M8 32C8 23.1634 15.1634 16 24 16C32.8366 16 40 23.1634 40 32\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linecap=\"round\"></path><path d=\"M16 24L18 26\" stroke=\"#00A3FF\" stroke-width=\"3\" stroke-linecap=\"round\"></path><path d=\"M24 21V24\" stroke=\"#00A3FF\" stroke-width=\"3\" stroke-linecap=\"round\"></path><path d=\"M32 24L30 26\" stroke=\"#00A3FF\" stroke-width=\"3\" stroke-linecap=\"round\"></path><path d=\"M24 32L31 24\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linecap=\"round\"></path><circle cx=\"24\" cy=\"32\" r=\"2.5\" fill=\"#00A3FF\"></circle></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Technical SEO",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>We go beyond basic keyword volume data, using advanced <a href=\"/chicago-digital-marketing-services/ppc-agency/\">PPC</a> strategy to analyse buyer intent, competitive pressure, and local search behaviour. Our PPC campaigns are built around tightly structured ad groups, high-intent keyword targeting, audience segmentation, bid optimisation, and conversion tracking designed to maximise return on ad spend. </p>",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><path d=\"M18 14L10 24L18 34\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M30 14L38 24L30 34\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M26 10L22 38\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linecap=\"round\"></path></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Link Building",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>The landing page is where ad spend either converts into leads or gets wasted. Our <a href=\"/chicago-digital-marketing-services/web-design/\">web design</a> and conversion-focused development process centers on building high-performance websites and landing pages with strong UX, fast load speeds, clear messaging, mobile responsiveness, and SEO-friendly architecture that supports both rankings and conversions.</p>",
+                "link": "#008AFC",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><g fill=\"none\" stroke=\"#1E90FF\" stroke-width=\"5\"><circle cx=\"32\" cy=\"32\" r=\"18\"></circle><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"#1E90FF\" stroke=\"none\"></circle></g></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Local SEO &amp; Google Maps",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>We optimise your Google Business Profile, build local citations, develop a review acquisition strategy, and handle the on-page local signals that directly influence your Maps ranking. Most clients see meaningful movement within 60 to 90 days.</p>",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><g fill=\"none\" stroke=\"#1E90FF\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"10\" y=\"10\" width=\"44\" height=\"44\" rx=\"6\" ry=\"6\"></rect><polyline points=\"20,34 28,42 44,24\"></polyline></g></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "SEO Content Writing",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Our content team writes service pages, blog posts, location pages, and FAQs optimised for specific search terms and written to engage real readers. Every piece has a clear purpose — ranking for a search term, answering a frequent question, or moving a prospect closer to a decision.</p>",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><g fill=\"none\" stroke=\"#1E90FF\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M8 12h8l8 28h24l8-20H22\"></path><circle cx=\"28\" cy=\"52\" r=\"3\" fill=\"#1E90FF\" stroke=\"none\"></circle><circle cx=\"48\" cy=\"52\" r=\"3\" fill=\"#1E90FF\" stroke=\"none\"></circle></g></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "eCommerce SEO",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>We optimise product pages and category structures, resolve technical issues common to Shopify and WooCommerce, build content strategies that drive category authority, and handle structured data for Google Shopping. We layer in local optimisation where relevant.</p>",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><g fill=\"#1E90FF\"><circle cx=\"26\" cy=\"26\" r=\"14\" fill=\"none\" stroke=\"#1E90FF\" stroke-width=\"6\"></circle><rect x=\"36\" y=\"36\" width=\"16\" height=\"6\" rx=\"3\" ry=\"3\" transform=\"rotate(45 36 36)\"></rect></g></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Competitor Analysis",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>We audit the sites outranking you — their keyword coverage, content depth, backlink profiles, and technical setup — to identify exactly what you are competing against and where the realistic opportunities are to overtake them. We revisit the competitive landscape quarterly.</p>",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><g fill=\"none\" stroke=\"#1E90FF\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M38 6a14 14 0 0 0-12 20L8 44a6 6 0 1 0 8 8l18-18A14 14 0 0 0 54 22l-8 6-6-6 6-8A14 14 0 0 0 38 6z\"></path></g></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "SEO Reporting &amp; Analytics",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Monthly reporting covers keyword positions, organic traffic, click-through rates, and leads attributed to organic search. We connect Search Console, Analytics, and your CRM where possible so you always see revenue attribution — not just traffic numbers.</p>",
+                "align": "start"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "why",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Why Choose Zoot As Your Chicago SEO Company",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>A lot of agencies promise first-page rankings. Fewer can show you documented cases where they delivered them. Zoot Web Agency&#8217;s approach to SEO in Chicago is grounded in research, transparency, and consistent execution. Before we recommend anything, we audit your website, your competition, and your current search visibility. What we propose is based on what we actually found — not a standard package that looks the same for every client. <a href=\"/what-is-seo-company-in-chicago/\">Learn what is SEO company in chicago?</a></p>"
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M18 14H26L32 20V32C32 33.1046 31.1046 34 30 34H18C16.8954 34 16 33.1046 16 32V16C16 14.8954 16.8954 14 18 14Z\" fill=\"#2563EB\"></path><path d=\"M26 14V20H32\" fill=\"#0B3B8C\"></path><rect x=\"20\" y=\"24\" width=\"8\" height=\"2\" fill=\"#0B3B8C\"></rect><rect x=\"20\" y=\"28\" width=\"6\" height=\"2\" fill=\"#0B3B8C\"></rect></svg>",
+            "tag": "p",
+            "html": "Audit-First Approach",
+            "desc": "Every engagement starts with a thorough audit of your site — technical health, on-page signals, backlink profile, and keyword positioning. Recommendations are based on what we actually found, not what is easiest to deliver."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M24 14L32 18V24C32 29 28.5 32.5 24 34C19.5 32.5 16 29 16 24V18L24 14Z\" fill=\"#2563EB\"></path></svg>",
+            "tag": "p",
+            "html": "Revenue-Focused Metrics",
+            "desc": "We measure success by organic leads, calls, form completions, and revenue — not just rankings and traffic volume. Every report connects SEO activity to business outcomes."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 32V18\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M16 32H32\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M18 28L22 24L26 26L32 20\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M30 20H32V22\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+            "tag": "p",
+            "html": "White-Hat Only",
+            "desc": "No link schemes, no PBNs, no shortcuts that carry penalty risk. Our approach is sustainable because it is built on genuine quality signals that survive algorithm updates."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 32V18\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M16 32H32\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M18 28L22 24L26 26L32 20\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M30 20H32V22\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+            "tag": "p",
+            "html": "Dedicated SEO Specialist",
+            "desc": "Your account is handled by a specialist who works on SEO full time — not a generalist managing ten service lines. They know your account, your competitors, and your progress inside out."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 18C16 16.8954 16.8954 16 18 16H30C31.1046 16 32 16.8954 32 18V26C32 27.1046 31.1046 28 30 28H23L18 32V28H18C16.8954 28 16 27.1046 16 26V18Z\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linejoin=\"round\"></path><circle cx=\"21\" cy=\"22\" r=\"1.5\" fill=\"#2563EB\"></circle><circle cx=\"24\" cy=\"22\" r=\"1.5\" fill=\"#2563EB\"></circle><circle cx=\"27\" cy=\"22\" r=\"1.5\" fill=\"#2563EB\"></circle></svg>",
+            "tag": "p",
+            "html": "Transparent Monthly Reports",
+            "desc": "Clear reporting every month: what changed, why, and what is planned next. You get access to a live dashboard between reports and a direct line to your account manager."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 17H32V30H16V17Z\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linejoin=\"round\"></path><path d=\"M19 21H24\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M19 25H26\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M29 21V26\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path></svg>",
+            "tag": "p",
+            "html": "Continuous Optimisation",
+            "desc": "Google updates its algorithm hundreds of times per year. We treat your campaign as an ongoing process — monitoring weekly, updating content, building links, and adjusting strategy based on data."
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "awards",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Award-Winning SEO Company in Chicago",
+            "align": "start"
+          },
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "parts": [
+              {
+                "t": "img",
+                "src": "/uploads/2026/05/ChatGPT-Image-May-16-2026-12_30_34-PM.png",
+                "alt": "",
+                "width": 1584,
+                "height": 994
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Zoot Web Agency Named Top Digital Marketing Company by Clutch",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Clutch evaluates B2B service providers using verified client interviews and independent market data. Zoot Web Agency holds a 5.0 rating and has been recognised as a top agency across SEO, PPC, Social Media, Web Design, and Digital Marketing categories.</p>"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "img",
+                "src": "/uploads/2026/05/ChatGPT-Image-May-16-2026-12_30_38-PM.png",
+                "alt": "",
+                "width": 1556,
+                "height": 1011
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Zoot Web Agency Named National Excellence Award Winner by UpCity",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>UpCity&#8217;s Recommendability Rating evaluates credibility, client satisfaction, and online reputation independently. Zoot Web Agency holds a 5.0 rating on UpCity and has been recognised as a National Excellence Award winner.</p>"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "faq",
+        "parts": [
+          {
+            "t": "headline",
+            "tag": "h3",
+            "before": "Frequently Asked",
+            "highlight": "Questions",
+            "after": ""
+          },
+          {
+            "t": "text",
+            "html": "<p>Common questions from Chicago businesses about SEO services, timelines, and what to expect from an SEO campaign with Zoot Web Agency.</p>",
+            "align": "center"
+          },
+          {
+            "t": "faq",
+            "items": [
+              {
+                "q": "How long does SEO take to show results for a Chicago business?",
+                "a": "Most businesses start seeing clear ranking improvements and measurable traffic growth within three to six months of a properly executed campaign. Chicago is a competitive market, and some categories — legal, medical, home services — take longer to move in than others. We are specific about expected timelines in our proposals and provide monthly reporting so you can track progress every step of the way.",
+                "open": true
+              },
+              {
+                "q": "What does your Chicago SEO service include?",
+                "a": "Every engagement includes a full technical audit, keyword research and strategy, on-page optimisation, content development, link building, and monthly reporting. We cover everything required to improve organic rankings — there are no upsells for core SEO components.",
+                "open": true
+              },
+              {
+                "q": "How much does SEO cost for a Chicago business?",
+                "a": "SEO pricing depends on the competitiveness of your category, the current state of your website, and your growth targets. We provide fixed-scope proposals based on a free audit of your current position — you know exactly what you are getting and what it will cost before you commit.",
+                "open": true
+              }
+            ]
+          },
+          {
+            "t": "faq",
+            "items": [
+              {
+                "q": "Do you guarantee first-page rankings?",
+                "a": "No agency can legitimately guarantee specific rankings — Google's algorithm is complex and constantly evolving. What we do guarantee is a documented strategy based on your specific market, transparent reporting on all activity and results, and a track record of delivering meaningful ranking improvements for businesses like yours.",
+                "open": true
+              },
+              {
+                "q": "Can you work with our existing website?",
+                "a": "Yes. Most of our SEO engagements are with businesses that already have a website. We audit what exists, fix what is holding it back technically and on-page, and build a content and link-building strategy on top of that foundation. A rebuild is only recommended when the existing site has fundamental structural problems that cannot be efficiently fixed.",
+                "open": true
+              },
+              {
+                "q": "Do you have experience with Chicago businesses?",
+                "a": "Yes. We have worked with businesses across professional services, healthcare, legal, home services, retail, and hospitality. We understand how buyers search in competitive local markets and what it takes to earn and hold first-page rankings in a city with significant search competition.",
+                "open": true
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "0px 0px 30px 0px",
+          "box": "60px 0px 0px 0px"
+        }
+      }
+    ]
   }
 }

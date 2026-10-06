@@ -361,5 +361,898 @@
         ]
       }
     ]
+  },
+  "city": {
+    "sections": [
+      {
+        "kind": "hero",
+        "parts": [
+          {
+            "t": "crumbs"
+          },
+          {
+            "t": "h",
+            "tag": "h1",
+            "html": "Las Vegas Social Media Agency",
+            "align": "start"
+          },
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Build Authority, Grow Your Audience &amp; Generate Real Leads",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "Zoot Web Agency is a Las Vegas social media agency that builds brands, grows engaged audiences, and generates qualified leads through strategic <a href=\"/social-media-marketing/\" style=\"color:#3b82f6;text-decoration:underline;font-weight:600;\">social media marketing</a>. We do not post for the sake of posting. Every campaign is built around specific business outcomes — more visibility, more enquiries, and a social presence that reflects the quality of what your business delivers.",
+            "align": "start"
+          },
+          {
+            "t": "img",
+            "src": "/uploads/2026/05/ChatGPT-Image-May-15-2026-12_24_16-AM.png",
+            "alt": "las vegas social media agency",
+            "width": 1536,
+            "height": 1025
+          }
+        ]
+      },
+      {
+        "kind": "stats",
+        "parts": [
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "parts": [
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "150+",
+                "align": "center"
+              },
+              {
+                "t": "html",
+                "html": "<div style=\"display:flex;justify-content:center;gap:3px;margin:6px 0;\"><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span></div>"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "5-Star Google Reviews",
+                "align": "center"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "10+ Years",
+                "align": "center"
+              },
+              {
+                "t": "html",
+                "html": "<div style=\"display:flex;justify-content:center;gap:3px;margin:6px 0;\"><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span></div>"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Digital Marketing Experience",
+                "align": "center"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "500+",
+                "align": "center"
+              },
+              {
+                "t": "html",
+                "html": "<div style=\"display:flex;justify-content:center;gap:3px;margin:6px 0;\"><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span></div>"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Happy Clients Served",
+                "align": "center"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "1,000+",
+                "align": "center"
+              },
+              {
+                "t": "html",
+                "html": "<div style=\"display:flex;justify-content:center;gap:3px;margin:6px 0;\"><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span></div>"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Total Client Reviews",
+                "align": "center"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "50px 24px 50px 24px"
+        }
+      },
+      {
+        "kind": "intro",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Social Media Services in Las Vegas",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>Social media has become a primary channel through which Las Vegas consumers discover, evaluate, and form opinions about local businesses. For professional services, hospitality, retail, healthcare, and home services, your social presence is often the first thing a potential customer looks at after a Google search or a word-of-mouth recommendation. A professional, consistent, and engaging social presence builds the trust that turns interest into enquiries. An inactive or poorly managed one signals that the business is not serious — or worse, not still operating.</p><p>Zoot Web Agency manages social media for Las Vegas businesses as a strategic marketing function, not a content production task. That means understanding your audience, your competitive landscape in Las Vegas, which platforms your buyers actually use, and what type of content drives the outcomes your business needs. We produce the content, manage the community, run the paid campaigns, and report on the metrics that connect social activity to real business results.</p>"
+          },
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "bg": "/uploads/2026/03/ChatGPT-Image-Mar-25-2026-12_34_38-PM.png",
+            "parts": [
+              {
+                "t": "btn",
+                "html": "FREE STRATEGY SESSION",
+                "href": "#"
+              },
+              {
+                "t": "text",
+                "html": "<p>Grow Your Las Vegas Business With Expert Social Media Marketing</p>"
+              },
+              {
+                "t": "text",
+                "html": "<p>Get a free social media audit from our Las Vegas specialists. We&#8217;ll show you how to build a loyal following and drive more leads from social.</p>"
+              },
+              {
+                "t": "btn",
+                "html": "Get My Free Growth Plan",
+                "href": "#"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "audit",
+        "parts": [
+          {
+            "t": "headline",
+            "tag": "p",
+            "before": "Get Your FREE",
+            "highlight": "Las Vegas Social Media Audit",
+            "after": ""
+          },
+          {
+            "t": "form",
+            "name": "Free Audit Form",
+            "fields": [
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[name]",
+                "id": "form-field-name",
+                "placeholder": "First Name",
+                "label": null,
+                "width": 50
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[last_name]",
+                "id": "form-field-last_name",
+                "placeholder": "Last Name",
+                "label": null,
+                "width": 50
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[company]",
+                "id": "form-field-company",
+                "placeholder": "Company / Organization",
+                "label": null,
+                "width": 50
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[website]",
+                "id": "form-field-website",
+                "placeholder": "Website URL",
+                "label": null,
+                "width": 50
+              },
+              {
+                "tag": "select",
+                "type": null,
+                "name": "form_fields[goal]",
+                "id": "form-field-goal",
+                "placeholder": null,
+                "label": "Main Goal",
+                "width": 50,
+                "options": [
+                  "More Traffic",
+                  "More Leads",
+                  "Brand Awareness",
+                  "Better ROI"
+                ]
+              },
+              {
+                "tag": "select",
+                "type": null,
+                "name": "form_fields[service]",
+                "id": "form-field-service",
+                "placeholder": null,
+                "label": "Service Interested In",
+                "width": 50,
+                "options": [
+                  "Digital Marketing Services",
+                  "SEO Services",
+                  "Local SEO Services",
+                  "Technical SEO",
+                  "Enterprise SEO Services",
+                  "eCommerce SEO",
+                  "Pay Per Click (PPC)",
+                  "Social Media Marketing",
+                  "Social Media Management",
+                  "Web Design",
+                  "Content Marketing",
+                  "Email Marketing",
+                  "Online Reputation Management",
+                  "eCommerce Marketing Services",
+                  "Amazon Marketing Services",
+                  "Conversion Rate Optimization",
+                  "Link Building Services",
+                  "Video Production",
+                  "AI SEO Services",
+                  "Digital Marketing Strategy Development",
+                  "Franchise Digital Marketing",
+                  "Enterprise Digital Marketing",
+                  "SEO Audit Services",
+                  "CRO Audit Services",
+                  "User Experience Testing",
+                  "Search Engine Marketing",
+                  "Google Ads Management Services",
+                  "YouTube Advertising Services",
+                  "Programmatic Advertising",
+                  "Lead Generation Services",
+                  "Franchise PPC Marketing",
+                  "Enterprise PPC Marketing",
+                  "Social Media Brand Management",
+                  "Franchise Social Media Marketing",
+                  "Enterprise Social Media Marketing",
+                  "Facebook Advertising",
+                  "LinkedIn Advertising",
+                  "Twitter Advertising",
+                  "Instagram Marketing",
+                  "Social Media Advertising",
+                  "Digital PR Services",
+                  "HARO Link Building",
+                  "Branding Services",
+                  "Custom Website Design",
+                  "WordPress Website Design",
+                  "Website Hosting",
+                  "ADA Compliance Services",
+                  "Media Production Services",
+                  "Video Testimonial Services",
+                  "Product Photography",
+                  "Drone Video & Photography",
+                  "Content Writing",
+                  "Copywriting Services",
+                  "User Behavior Analytics",
+                  "Franchise SEO Audit Services",
+                  "Enterprise SEO Audit Services"
+                ]
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[city]",
+                "id": "form-field-city",
+                "placeholder": "Your City / Location",
+                "label": null,
+                "width": 100
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[message]",
+                "id": "form-field-message",
+                "placeholder": "Tell us about your business challenges",
+                "label": null,
+                "width": 100
+              }
+            ],
+            "submit": "Get My Free Audit"
+          }
+        ],
+        "pad": {
+          "sec": "0px 0px 0px 0px",
+          "box": "21px 0px 40px 0px"
+        }
+      },
+      {
+        "kind": "cases",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Our Las Vegas Digital Marketing Clients Get Results",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>Real campaigns. Documented results. Every client below shows exactly what we achieved and what they have to say about working with Zoot.</p>"
+          },
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "parts": [
+              {
+                "t": "img",
+                "src": "/uploads/2026/03/darkostojanovic-laboratory-563423_1920.jpg",
+                "alt": "Houston Web Design Company - Dallas Digital Marketing Agency - austin digital marketing agency - franchise digital marketing - Arlington Digital Marketing Services",
+                "width": 1920,
+                "height": 1280
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "+664%",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "+360%",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Organic Traffic",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Online Leads",
+                "align": "center"
+              },
+              {
+                "t": "text",
+                "html": "<p><em>&#8220;Zoot took us from barely visible on Google to ranking on page one for every keyword that matters. The leads from organic search are the best quality we&#8217;ve ever seen.&#8221;</em></p>"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "img",
+                "src": "/uploads/2026/03/advogadoaguilar-right-4944550_1920.jpg",
+                "alt": "Houston Web Design Company - Dallas Digital Marketing Agency - austin digital marketing agency - Arlington Digital Marketing Services - Google Business Profile Optimization - franchise digital marketing",
+                "width": 1920,
+                "height": 1280
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "+800%",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "+640%",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Online Leads",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Conversion Rate",
+                "align": "center"
+              },
+              {
+                "t": "text",
+                "html": "<p><em>&#8220;Before Zoot, we spent heavily on paid ads because our organic presence was almost nonexistent. Now organic is our best-performing channel.&#8221;</em></p>"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "testimonials",
+        "parts": [
+          {
+            "t": "headline",
+            "tag": "p",
+            "before": "But Don't Take Our Word For It",
+            "highlight": "Real Results. Real Clients.",
+            "after": ""
+          },
+          {
+            "t": "testimonials",
+            "minHeight": 340,
+            "pad": "34px 40px 32px 30px",
+            "items": [
+              {
+                "stars": 5,
+                "html": "<p>We hired Zoot web agency for Google My Business SEO services and the results have been outstanding. Our local visibility improved quickly, our listing is now optimized correctly, and we're getting more calls and in-store traffic than before. They clearly understand local SEO, maps ranking, reviews, and how to position a business to stand out in competitive searches. Highly recommend their services to any business serious about local growth.</p>",
+                "name": "brainbodge"
+              },
+              {
+                "stars": 5,
+                "html": "<p>I've now worked with many other agencies but this one absolutely delivered what I was looking for. The citations they completed were incredibly detailed, accurate, and clearly done with a deep understanding of what actually moves the needle. What really stands out is how much he goes above and beyond, not just doing the job, but making sure everything is set up properly for long-term results.</p>",
+                "name": "Englishcoach"
+              },
+              {
+                "stars": 5,
+                "html": "<p>Zoot Web Agency has been Exceptional in helping us with SEO across all of our clinics. I am deeply content on the direction we are taking as citations are much underrated by many business owners. AI signaling in different ways is replacing the outdated old SEO and I am glad I am working with Prasad to maintain modern visibility online.</p>",
+                "name": "Scubaskool"
+              },
+              {
+                "stars": 5,
+                "html": "<p>Zoot did an excellent job improving our SEO and online visibility. They built high-quality backlinks, optimized our map citations, and helped strengthen our local search presence. What impressed me most was that he went beyond the agreed work by adding extra improvements and giving valuable SEO advice for free. Highly recommend them to anyone looking for reliable SEO and backlink services.</p>",
+                "name": "karlblud"
+              },
+              {
+                "stars": 5,
+                "html": "<p>After trying several top rated agency, I can surely say they are outstanding. Don't even look further, hire them. They have an excellent and in-depth understanding of webpage SEO and explains clearly how everything connects to Google. They communicate in a very transparent and structured way and put real effort into choosing the best strategy for your project. Highly recommended.</p>",
+                "name": "Revibetherapy"
+              },
+              {
+                "stars": 5,
+                "html": "<p>I had a great experience working with this SEO service. They helped improve my Google Business ranking and increased visibility for my business. Very professional, honest, and knowledgeable about local SEO. I started seeing better results on Google Maps and more customer calls after their work. I highly recommend them to anyone looking to grow their business online.</p>",
+                "name": "Kalsaid16"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "80px 15px 80px 15px"
+        }
+      },
+      {
+        "kind": "cta",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Ready to Build a Social Media Presence That Generates Leads in Las Vegas?",
+            "align": "center"
+          },
+          {
+            "t": "text",
+            "html": "<p>Partner with Zoot Web Agency — Las Vegas&#039;s results-driven social media specialists. Get your free social media audit today.</p>"
+          },
+          {
+            "t": "btn",
+            "html": "Get My Free Proposal",
+            "href": "#"
+          }
+        ],
+        "pad": {
+          "sec": "70px 24px 70px 24px"
+        },
+        "width": "900px"
+      },
+      {
+        "kind": "services",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Las Vegas Social Media Services",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>Full-service social media management and marketing for Las Vegas businesses — strategy, content creation, community management, paid campaigns, and reporting all under one roof.</p>"
+          },
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><path d=\"M18 20L30 14V34L18 28H12V20H18Z\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linejoin=\"round\"></path><path d=\"M16 28V34\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linecap=\"round\"></path><path d=\"M34 20C36 22 37 24 37 27C37 30 36 32 34 34\" stroke=\"#00A3FF\" stroke-width=\"3\" stroke-linecap=\"round\"></path><path d=\"M38 16C41 19 43 23 43 27C43 31 41 35 38 38\" stroke=\"#00A3FF\" stroke-width=\"3\" stroke-linecap=\"round\"></path></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Social Media Management",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>We manage your social media presence across the platforms that matter for your business — content scheduling, community management, follower engagement, and performance monitoring. Management without strategy is just posting. Every piece of content we publish has a defined purpose: building brand awareness, driving engagement, or generating enquiries from your target audience.</p>",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><rect x=\"16\" y=\"8\" width=\"16\" height=\"32\" rx=\"2\" stroke=\"#00A3FF\" stroke-width=\"4\"></rect><circle cx=\"24\" cy=\"34\" r=\"1.8\" fill=\"#00A3FF\"></circle></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Social Media Marketing Strategy",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Before we post anything, we build a strategy. That means understanding your audience; your competitors’ social presence; which platforms your buyers actually use; and what content format and frequency drives results in your category. The strategy document is the brief every piece of content is written against, and we revisit it quarterly as platform algorithms and audience behavior evolve within your wider <a href=\"/las-vegas-digital-marketing-agency/\">digital marketing</a> strategy.</p>",
+                "link": "#008AFC",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><path d=\"M8 32C8 23.1634 15.1634 16 24 16C32.8366 16 40 23.1634 40 32\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linecap=\"round\"></path><path d=\"M16 24L18 26\" stroke=\"#00A3FF\" stroke-width=\"3\" stroke-linecap=\"round\"></path><path d=\"M24 21V24\" stroke=\"#00A3FF\" stroke-width=\"3\" stroke-linecap=\"round\"></path><path d=\"M32 24L30 26\" stroke=\"#00A3FF\" stroke-width=\"3\" stroke-linecap=\"round\"></path><path d=\"M24 32L31 24\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linecap=\"round\"></path><circle cx=\"24\" cy=\"32\" r=\"2.5\" fill=\"#00A3FF\"></circle></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Paid Social Advertising",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Organic reach on social platforms is limited without paid support. We run paid campaigns on Facebook, Instagram, LinkedIn, and TikTok targeted by interest, behaviour, demographic, and custom audience matching. Paid social is particularly effective for lead generation, event promotion, product launches, and remarketing to warm audiences as part of a broader <a href=\"/las-vegas-digital-marketing-agency/ppc-agency/\">PPC</a> advertising strategy.</p>",
+                "link": "#008AFC",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><path d=\"M18 14L10 24L18 34\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M30 14L38 24L30 34\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M26 10L22 38\" stroke=\"#00A3FF\" stroke-width=\"4\" stroke-linecap=\"round\"></path></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Facebook &amp; Instagram Marketing",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Meta&#8217;s platforms remain the largest social advertising opportunity for most businesses. We manage both organic content and paid campaigns, build audience segments, design creative assets, write copy, and optimise continuously based on performance data. We focus on the metrics that connect to business outcomes — enquiries, website visits, and sales — not vanity metrics like follower count.</p>",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><g fill=\"none\" stroke=\"#1E90FF\" stroke-width=\"5\"><circle cx=\"32\" cy=\"32\" r=\"18\"></circle><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"#1E90FF\" stroke=\"none\"></circle></g></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "LinkedIn Marketing",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>LinkedIn is the primary platform for B2B lead generation through social. We manage company page content, run sponsored content and InMail campaigns, and use LinkedIn&#8217;s precise professional targeting to reach decision-makers by job title, industry, company size, and seniority. For professional services, consulting, technology, and B2B products, LinkedIn typically delivers the highest quality leads of any social platform.</p>",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><g fill=\"none\" stroke=\"#1E90FF\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"10\" y=\"10\" width=\"44\" height=\"44\" rx=\"6\" ry=\"6\"></rect><polyline points=\"20,34 28,42 44,24\"></polyline></g></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Social Media Content Creation",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>We produce the content: copywriting, graphics, short-form video scripts, and carousels designed for each platform’s format and algorithm. Content is planned a month ahead against your content calendars, reviewed before scheduling, and formatted specifically for the platform it is being posted on. Creative assets are aligned with your <a href=\"/las-vegas-digital-marketing-agency/web-design/\">web design</a> and overall brand identity for consistency across every channel.</p>",
+                "link": "#008AFC",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><g fill=\"none\" stroke=\"#1E90FF\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M8 12h8l8 28h24l8-20H22\"></path><circle cx=\"28\" cy=\"52\" r=\"3\" fill=\"#1E90FF\" stroke=\"none\"></circle><circle cx=\"48\" cy=\"52\" r=\"3\" fill=\"#1E90FF\" stroke=\"none\"></circle></g></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Brand Building &amp; Awareness",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Consistent brand presence across social platforms builds the trust that converts browsers into buyers. We ensure your visual identity, tone of voice, and messaging are consistent across every platform and every post type. You build brand recognition incrementally through consistency, and stronger <a href=\"/las-vegas-digital-marketing-agency/seo-company/\">SEO</a> visibility keeps your business discoverable over time.</p>",
+                "link": "#008AFC",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><g fill=\"#1E90FF\"><circle cx=\"26\" cy=\"26\" r=\"14\" fill=\"none\" stroke=\"#1E90FF\" stroke-width=\"6\"></circle><rect x=\"36\" y=\"36\" width=\"16\" height=\"6\" rx=\"3\" ry=\"3\" transform=\"rotate(45 36 36)\"></rect></g></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Community Management",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Responding to comments, messages, and mentions promptly builds community and signals to algorithms that your content is generating engagement worth promoting. We handle community management as part of ongoing social management — ensuring your audience feels heard and that negative sentiment is addressed quickly and professionally before it escalates.</p>",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><g fill=\"none\" stroke=\"#1E90FF\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M38 6a14 14 0 0 0-12 20L8 44a6 6 0 1 0 8 8l18-18A14 14 0 0 0 54 22l-8 6-6-6 6-8A14 14 0 0 0 38 6z\"></path></g></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Social Media Analytics &amp; Reporting",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Monthly reports covering reach, engagement, follower growth, website traffic from social, and leads or conversions attributed to social channels. We track the metrics that connect social activity to business results — not just how many people saw a post, but how many of them took an action that matters to your business.</p>",
+                "align": "start"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "why",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Why Choose Zoot As Your Las Vegas Social Media Agency",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>Most social media management agencies focus on posting frequency and follower growth. We focus on business outcomes. A large following that does not generate enquiries does not grow your revenue. Zoot Web Agency manages social media for Las Vegas businesses with one objective above all others: producing measurable results in terms of leads, website visits, and brand visibility that translates into real commercial activity. Every strategy we build starts with an honest audit of your current social presence and a clear picture of what success actually looks like for your business.</p><p>To learn more <a href=\"/what-is-social-media-agency-in-las-vegas/\">about what is social media agency in Las Vegas</a>, explore how strategic social media management can help businesses build visibility, generate leads, and create long-term brand growth in a competitive market.</p>",
+            "link": "#119CFF"
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M18 14H26L32 20V32C32 33.1046 31.1046 34 30 34H18C16.8954 34 16 33.1046 16 32V16C16 14.8954 16.8954 14 18 14Z\" fill=\"#2563EB\"></path><path d=\"M26 14V20H32\" fill=\"#0B3B8C\"></path><rect x=\"20\" y=\"24\" width=\"8\" height=\"2\" fill=\"#0B3B8C\"></rect><rect x=\"20\" y=\"28\" width=\"6\" height=\"2\" fill=\"#0B3B8C\"></rect></svg>",
+            "tag": "p",
+            "html": "Strategy-Led Content",
+            "desc": "Every post we publish has a purpose defined before it is written. We build content strategies that align with your business goals, not just your posting schedule."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M24 14L32 18V24C32 29 28.5 32.5 24 34C19.5 32.5 16 29 16 24V18L24 14Z\" fill=\"#2563EB\"></path></svg>",
+            "tag": "p",
+            "html": "In-House Creative",
+            "desc": "Copywriting, graphic design, and short-form video production handled entirely in-house. No outsourcing, no templates — content built for your brand and your audience."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 32V18\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M16 32H32\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M18 28L22 24L26 26L32 20\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M30 20H32V22\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+            "tag": "p",
+            "html": "Business-Outcome Metrics",
+            "desc": "We report on leads, website visits, and conversions from social — not just reach and engagement. Social media management should have a measurable return."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 32V18\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M16 32H32\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M18 28L22 24L26 26L32 20\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M30 20H32V22\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+            "tag": "p",
+            "html": "Active Community Management",
+            "desc": "We monitor your accounts daily, respond to comments and messages promptly, and manage your community in a way that builds trust and prevents negative sentiment from escalating."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 18C16 16.8954 16.8954 16 18 16H30C31.1046 16 32 16.8954 32 18V26C32 27.1046 31.1046 28 30 28H23L18 32V28H18C16.8954 28 16 27.1046 16 26V18Z\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linejoin=\"round\"></path><circle cx=\"21\" cy=\"22\" r=\"1.5\" fill=\"#2563EB\"></circle><circle cx=\"24\" cy=\"22\" r=\"1.5\" fill=\"#2563EB\"></circle><circle cx=\"27\" cy=\"22\" r=\"1.5\" fill=\"#2563EB\"></circle></svg>",
+            "tag": "p",
+            "html": "Paid &amp; Organic Together",
+            "desc": "Organic social and paid social work best as a combined strategy. We manage both under one roof so your paid spend amplifies your best organic content and targets your warmest audiences."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 17H32V30H16V17Z\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linejoin=\"round\"></path><path d=\"M19 21H24\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M19 25H26\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M29 21V26\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path></svg>",
+            "tag": "p",
+            "html": "Monthly Content Calendar",
+            "desc": "Content is planned, created, and approved a month in advance so you always know what is going out and why. No last-minute posts, no gaps in your publishing schedule."
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px",
+          "grid": "0px 0px 0px 0px"
+        }
+      },
+      {
+        "kind": "awards",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Award-Winning Social Media Agency in Las Vegas",
+            "align": "start"
+          },
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "parts": [
+              {
+                "t": "img",
+                "src": "/uploads/2026/05/ChatGPT-Image-May-1-2026-05_50_19-PM.png",
+                "alt": "Dallas Digital Marketing Agency - Houston Digital Marketing Services -austin digital marketing",
+                "width": 1536,
+                "height": 1025
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Zoot Web Agency Named Top Digital Marketing Company by Clutch",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Clutch evaluates B2B service providers using verified client interviews and independent market data. Zoot Web Agency holds a 5.0 rating and has been recognised as a top agency across SEO, PPC, Social Media, Web Design, and Digital Marketing categories.</p>"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "img",
+                "src": "/uploads/2026/05/ChatGPT-Image-May-6-2026-11_22_01-AM.png",
+                "alt": "Dallas Digital Marketing Agency - Houston Digital Marketing Services",
+                "width": 1536,
+                "height": 1025
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Zoot Web Agency Named National Excellence Award Winner by UpCity",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>UpCity&#8217;s Recommendability Rating evaluates credibility, client satisfaction, and online reputation independently. Zoot Web Agency holds a 5.0 rating on UpCity and has been recognised as a National Excellence Award winner.</p>"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "faq",
+        "parts": [
+          {
+            "t": "headline",
+            "tag": "h3",
+            "before": "Frequently Asked",
+            "highlight": "Questions",
+            "after": ""
+          },
+          {
+            "t": "text",
+            "html": "<p>Common questions from Las Vegas businesses about social media management, platforms, content, and what to expect from a social media partnership with Zoot Web Agency.</p>",
+            "align": "center"
+          },
+          {
+            "t": "faq",
+            "items": [
+              {
+                "q": "Which social media platforms should a Las Vegas business be on?",
+                "a": "The right platforms depend on your target audience and business type. For most B2C businesses in Las Vegas, Facebook and Instagram are the highest-priority platforms. For B2B and professional services, LinkedIn is typically more valuable. We audit where your target audience actually spends time and recommend the platforms with the best ROI for your specific business — not the ones that are most popular in general.",
+                "open": true
+              },
+              {
+                "q": "What is included in your social media management service?",
+                "a": "Content strategy, copywriting, graphic design, scheduling, community management (responding to comments and messages), performance monitoring, and monthly reporting. We handle the full content production process — you review and approve before anything is published.",
+                "open": true
+              },
+              {
+                "q": "How often will you post on our social media accounts?",
+                "a": "Posting frequency is defined in your content strategy based on the platform and your goals. For most businesses, we recommend four to five posts per week on primary platforms. Quality and consistency matter more than volume — an irregular posting schedule that publishes poor content does more harm than a structured cadence of well-crafted posts.",
+                "open": true
+              }
+            ]
+          },
+          {
+            "t": "faq",
+            "items": [
+              {
+                "q": "Do you run paid social advertising as well as organic management?",
+                "a": "Yes. We manage both organic content and paid campaigns, and we strongly recommend combining the two. Paid social extends the reach of your best organic content and allows precise targeting that organic alone cannot achieve. Paid and organic social are priced separately but managed as one integrated strategy.",
+                "open": true
+              },
+              {
+                "q": "How do you measure the success of social media for a Las Vegas business?",
+                "a": "We report on website visits from social, leads and enquiries generated, reach and engagement on content, and follower growth. We focus on metrics that connect to business outcomes rather than vanity metrics that look impressive but do not contribute to revenue.",
+                "open": true
+              },
+              {
+                "q": "Do I need to provide content or do you handle everything?",
+                "a": "We handle everything — strategy, copywriting, graphic design, and scheduling. Where you have brand assets, photography, or product content to share, we incorporate them. You review and approve content before it is published, but you do not need to produce it. The goal is to take the entire content production burden off your plate.",
+                "open": true
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "0px 0px 30px 0px",
+          "box": "60px 0px 0px 0px"
+        }
+      }
+    ]
   }
 }

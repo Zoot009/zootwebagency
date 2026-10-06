@@ -362,5 +362,922 @@
         ]
       }
     ]
+  },
+  "city": {
+    "sections": [
+      {
+        "kind": "hero",
+        "parts": [
+          {
+            "t": "crumbs"
+          },
+          {
+            "t": "h",
+            "tag": "h1",
+            "html": "Houston PPC Agency",
+            "align": "start"
+          },
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Paid Advertising That Drives Leads, Not Just Clicks",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>Zoot Web Agency manages Google Ads, Meta Ads, and paid search campaigns for Houston businesses focused on one thing: qualified leads that convert into revenue. We do not optimize for impressions or click volume. We build and do PPC management service campaigns around cost per lead, conversion rate, and return on ad spend, and we report on every one of those numbers with complete transparency.</p>",
+            "link": "#008AFC",
+            "align": "start"
+          },
+          {
+            "t": "img",
+            "src": "/uploads/2026/05/ChatGPT-Image-May-7-2026-12_59_59-PM.png",
+            "alt": "Houston PPC Agency",
+            "width": 1678,
+            "height": 938
+          }
+        ]
+      },
+      {
+        "kind": "stats",
+        "parts": [
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "parts": [
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "150+",
+                "align": "center"
+              },
+              {
+                "t": "html",
+                "html": "<div style=\"display:flex;justify-content:center;gap:3px;margin:6px 0;\"><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span></div>"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "5-Star Google Reviews",
+                "align": "center"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "500+",
+                "align": "center"
+              },
+              {
+                "t": "html",
+                "html": "<div style=\"display:flex;justify-content:center;gap:3px;margin:6px 0;\"><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span></div>"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Happy Clients Served",
+                "align": "center"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "1,000+",
+                "align": "center"
+              },
+              {
+                "t": "html",
+                "html": "<div style=\"display:flex;justify-content:center;gap:3px;margin:6px 0;\"><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span></div>"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Total Client Reviews",
+                "align": "center"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "1,000+",
+                "align": "center"
+              },
+              {
+                "t": "html",
+                "html": "<div style=\"display:flex;justify-content:center;gap:3px;margin:6px 0;\"><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span></div>"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Businesses Helped Grow",
+                "align": "center"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "50px 24px 50px 24px"
+        }
+      },
+      {
+        "kind": "intro",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Houston PPC Services",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>Houston PPC Agency becomes expensive if you do not manage it correctly. Keyword costs in competitive categories—legal, healthcare, home services, and financial services—can run significantly higher than national averages because of the volume of businesses bidding for the same searchers. An account that is not properly structured, continuously optimized, and managed by someone who knows what they are doing will burn through budget and produce leads of poor quality or no leads at all. We have taken over enough mismanaged Google Ads accounts to clearly see how budget gets wasted and why.</p><p>The businesses that get the best return from PPC in Houston are the ones with campaigns built around specific, high-intent audiences rather than broad keyword coverage. Targeting the right keywords, writing ad copy that qualifies visitors before they click, sending traffic to landing pages designed specifically for conversion, and continuously testing and refining — these are the practices that separate profitable PPC from expensive traffic generation. The difference in cost per lead between a well-managed and a poorly managed account in the same category can be three to five times.</p>"
+          },
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "bg": "/uploads/2026/03/ChatGPT-Image-Mar-25-2026-12_34_38-PM.png",
+            "parts": [
+              {
+                "t": "btn",
+                "html": "FREE STRATEGY SESSION",
+                "href": "#"
+              },
+              {
+                "t": "text",
+                "html": "<p>Grow Your Business With Expert Houston PPC Services</p>"
+              },
+              {
+                "t": "text",
+                "html": "<p>Get a free PPC audit from our Houston specialists. We&#8217;ll find wasted ad spend and show you how to maximize every dollar of your budget.</p>"
+              },
+              {
+                "t": "btn",
+                "html": "Get My Free Growth Plan",
+                "href": "/contact-zoot-web-agency/"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "audit",
+        "parts": [
+          {
+            "t": "headline",
+            "tag": "p",
+            "before": "Get Your FREE",
+            "highlight": "Houston PPC Agency Audit",
+            "after": ""
+          },
+          {
+            "t": "form",
+            "name": "Free Audit Form",
+            "fields": [
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[name]",
+                "id": "form-field-name",
+                "placeholder": "First Name",
+                "label": null,
+                "width": 50
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[last_name]",
+                "id": "form-field-last_name",
+                "placeholder": "Last Name",
+                "label": null,
+                "width": 50
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[company]",
+                "id": "form-field-company",
+                "placeholder": "Company / Organization",
+                "label": null,
+                "width": 50
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[website]",
+                "id": "form-field-website",
+                "placeholder": "Website URL",
+                "label": null,
+                "width": 50
+              },
+              {
+                "tag": "select",
+                "type": null,
+                "name": "form_fields[goal]",
+                "id": "form-field-goal",
+                "placeholder": null,
+                "label": "Main Goal",
+                "width": 50,
+                "options": [
+                  "More Traffic",
+                  "More Leads",
+                  "Brand Awareness",
+                  "Better ROI"
+                ]
+              },
+              {
+                "tag": "select",
+                "type": null,
+                "name": "form_fields[service]",
+                "id": "form-field-service",
+                "placeholder": null,
+                "label": "Service Interested In",
+                "width": 50,
+                "options": [
+                  "Digital Marketing Services",
+                  "SEO Services",
+                  "Local SEO Services",
+                  "Technical SEO",
+                  "Enterprise SEO Services",
+                  "eCommerce SEO",
+                  "Pay Per Click (PPC)",
+                  "Social Media Marketing",
+                  "Social Media Management",
+                  "Web Design",
+                  "Content Marketing",
+                  "Email Marketing",
+                  "Online Reputation Management",
+                  "eCommerce Marketing Services",
+                  "Amazon Marketing Services",
+                  "Conversion Rate Optimization",
+                  "Link Building Services",
+                  "Video Production",
+                  "AI SEO Services",
+                  "Digital Marketing Strategy Development",
+                  "Franchise Digital Marketing",
+                  "Enterprise Digital Marketing",
+                  "SEO Audit Services",
+                  "CRO Audit Services",
+                  "User Experience Testing",
+                  "Search Engine Marketing",
+                  "Google Ads Management Services",
+                  "YouTube Advertising Services",
+                  "Programmatic Advertising",
+                  "Lead Generation Services",
+                  "Franchise PPC Marketing",
+                  "Enterprise PPC Marketing",
+                  "Social Media Brand Management",
+                  "Franchise Social Media Marketing",
+                  "Enterprise Social Media Marketing",
+                  "Facebook Advertising",
+                  "LinkedIn Advertising",
+                  "Twitter Advertising",
+                  "Instagram Marketing",
+                  "Social Media Advertising",
+                  "Digital PR Services",
+                  "HARO Link Building",
+                  "Branding Services",
+                  "Custom Website Design",
+                  "WordPress Website Design",
+                  "Website Hosting",
+                  "ADA Compliance Services",
+                  "Media Production Services",
+                  "Video Testimonial Services",
+                  "Product Photography",
+                  "Drone Video & Photography",
+                  "Content Writing",
+                  "Copywriting Services",
+                  "User Behavior Analytics",
+                  "Franchise SEO Audit Services",
+                  "Enterprise SEO Audit Services"
+                ]
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[city]",
+                "id": "form-field-city",
+                "placeholder": "Your City / Location",
+                "label": null,
+                "width": 100
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[message]",
+                "id": "form-field-message",
+                "placeholder": "Tell us about your business challenges",
+                "label": null,
+                "width": 100
+              }
+            ],
+            "submit": "Get My Free Audit"
+          }
+        ],
+        "pad": {
+          "sec": "0px 0px 0px 0px",
+          "box": "21px 0px 40px 0px"
+        }
+      },
+      {
+        "kind": "cases",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Our Houston PPC Agency Clients Get Results",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>Real campaigns. Documented results. Every client below shows exactly what we achieved and what they have to say about working with Zoot.</p>",
+            "link": "#2159D3"
+          },
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "parts": [
+              {
+                "t": "img",
+                "src": "/uploads/2026/03/darkostojanovic-laboratory-563423_1920.jpg",
+                "alt": "Houston Web Design Company - Dallas Digital Marketing Agency - austin digital marketing agency - franchise digital marketing - Arlington Digital Marketing Services",
+                "width": 1920,
+                "height": 1280
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "+664%",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "+360%",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Organic Traffic",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Online Leads",
+                "align": "center"
+              },
+              {
+                "t": "text",
+                "html": "<p><em>&#8220;We had been running Google Ads for two years and never really trusted the results. Zoot audited the account, rebuilt the campaigns, and within 60 days our cost per lead dropped by more than half and the lead quality improved noticeably.&#8221;</em></p>"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "img",
+                "src": "/uploads/2026/03/advogadoaguilar-right-4944550_1920.jpg",
+                "alt": "Houston Web Design Company - Dallas Digital Marketing Agency - austin digital marketing agency - Arlington Digital Marketing Services - Google Business Profile Optimization - franchise digital marketing",
+                "width": 1920,
+                "height": 1280
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "+800%",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "+640%",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Online Leads",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Conversion Rate",
+                "align": "center"
+              },
+              {
+                "t": "text",
+                "html": "<p><em>&#8220;Zoot rebuilt our entire paid search strategy from scratch. The difference in lead volume and quality was immediate. They are the first PPC agency we have worked with where the monthly report actually makes sense and connects directly to revenue.&#8221;</em></p>"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "testimonials",
+        "parts": [
+          {
+            "t": "headline",
+            "tag": "p",
+            "before": "But Don't Take Our Word For It",
+            "highlight": "Real Results. Real Clients.",
+            "after": ""
+          },
+          {
+            "t": "testimonials",
+            "minHeight": 290,
+            "pad": "30px",
+            "items": [
+              {
+                "stars": 5,
+                "html": "<p>We hired Zoot web agency for Google My Business SEO services and the results have been outstanding. Our local visibility improved quickly, our listing is now optimized correctly, and we're getting more calls and in-store traffic than before. They clearly understand local SEO, maps ranking, reviews, and how to position a business to stand out in competitive searches. Highly recommend their services to any business serious about local growth.</p>",
+                "name": "brainbodge"
+              },
+              {
+                "stars": 5,
+                "html": "<p>I've now worked with many other agencies but this one absolutely delivered what I was looking for. The citations they completed were incredibly detailed, accurate, and clearly done with a deep understanding of what actually moves the needle. What really stands out is how much he goes above and beyond, not just doing the job, but making sure everything is set up properly for long-term results.</p>",
+                "name": "Englishcoach"
+              },
+              {
+                "stars": 5,
+                "html": "<p>Zoot Web Agency has been Exceptional in helping us with SEO across all of our clinics. I am deeply content on the direction we are taking as citations are much underrated by many business owners. AI signaling in different ways is replacing the outdated old SEO and I am glad I am working with Prasad to maintain modern visibility online.</p>",
+                "name": "Scubaskool"
+              },
+              {
+                "stars": 5,
+                "html": "<p>Zoot did an excellent job improving our SEO and online visibility. They built high-quality backlinks, optimized our map citations, and helped strengthen our local search presence. What impressed me most was that he went beyond the agreed work by adding extra improvements and giving valuable SEO advice for free. Highly recommend them to anyone looking for reliable SEO and backlink services.</p>",
+                "name": "karlblud"
+              },
+              {
+                "stars": 5,
+                "html": "<p>After trying several top rated agency, I can surely say they are outstanding. Don't even look further, hire them. They have an excellent and in-depth understanding of webpage SEO and explains clearly how everything connects to Google. They communicate in a very transparent and structured way and put real effort into choosing the best strategy for your project. Highly recommended.</p>",
+                "name": "Revibetherapy"
+              },
+              {
+                "stars": 5,
+                "html": "<p>I had a great experience working with this SEO service. They helped improve my Google Business ranking and increased visibility for my business. Very professional, honest, and knowledgeable about local SEO. I started seeing better results on Google Maps and more customer calls after their work. I highly recommend them to anyone looking to grow their business online.</p>",
+                "name": "Kalsaid16"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "80px 15px 80px 15px"
+        }
+      },
+      {
+        "kind": "cta",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Ready to Get More Qualified Leads From Paid Advertising in Houston?",
+            "align": "center"
+          },
+          {
+            "t": "text",
+            "html": "<p>Partner with the results-driven PPC specialists at <a href=\"https://maps.app.goo.gl/fZjGehNgjXazcoCd6\" target=\"_blank\" rel=\"noopener\">Zoot Web Agency</a> in Houston. We&#8217;ll audit your current campaigns and show you exactly where your budget is going and how to improve it.</p>",
+            "link": "#101ED2"
+          },
+          {
+            "t": "btn",
+            "html": "Get My Free Proposal",
+            "href": "/contact-zoot-web-agency/"
+          }
+        ],
+        "pad": {
+          "sec": "70px 24px 70px 24px"
+        },
+        "width": "900px"
+      },
+      {
+        "kind": "services",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Houston PPC Services",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>We manage data-driven paid advertising campaigns for Houston businesses built around qualified leads, measurable ROI, and complete transparency on every dollar spent.</p>"
+          },
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 32V18\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M16 32H32\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M18 28L22 24L26 26L32 20\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M30 20H32V22\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "<a href=\"/digital-marketing-services/google-ads-management/\">Google Ads Management</a>",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Google Search Ads remain one of the highest-intent digital marketing channels available for businesses because users searching for specific services are often ready to take action immediately. We build and manage Google Ads campaigns with a strong <a href=\"/houston-digital-marketing-services/\">Houston digital marketing services</a> strategy focused on converting search intent into qualified inquiries while maintaining the lowest possible cost per lead. Our process includes detailed keyword research, negative keyword management, high-converting ad copy, bid strategy optimization, quality score improvements, and continuous testing of every campaign element that impacts performance and lead generation.</p>",
+                "link": "#008AFC",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 30L30 16L32 18L18 32L15 33L16 30Z\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"></path><path d=\"M29 15L33 19\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Meta Ads (Facebook &amp; Instagram)",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Facebook and Instagram advertising reaches audiences at an earlier stage of the buying journey than search — but for many Houston businesses, paid social is the highest-volume lead source available at a reasonable cost. We build Meta campaigns around audience targeting rather than keyword intent, which means understanding who your ideal customer is, where they are in their decision process, and what content format gets them to act. We manage prospecting campaigns for new audiences and retargeting campaigns for people who have already visited your site or engaged with your content.</p>",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 18C16 16.8954 16.8954 16 18 16H30C31.1046 16 32 16.8954 32 18V26C32 27.1046 31.1046 28 30 28H23L18 32V28H18C16.8954 28 16 27.1046 16 26V18Z\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linejoin=\"round\"></path><circle cx=\"21\" cy=\"22\" r=\"1.5\" fill=\"#2563EB\"></circle><circle cx=\"24\" cy=\"22\" r=\"1.5\" fill=\"#2563EB\"></circle><circle cx=\"27\" cy=\"22\" r=\"1.5\" fill=\"#2563EB\"></circle></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "<a href=\"/keyword-research-strategy/#digital-marketing\">Keyword Research &amp; Bid Strategy</a>",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Bidding on the wrong keywords is one of the most common and expensive PPC and SEO mistakes businesses make. We build keyword strategies around buyer intent, separating users who are researching from those who are ready to make a purchase or submit an enquiry immediately. High-intent keywords may cost more per click, but they typically generate stronger conversion rates and better return on investment. An effective <a href=\"/houston-digital-marketing-services/seo-company/\">SEO</a> and negative keyword management are equally important, as excluding irrelevant search terms prevents wasted ad spend and allows your budget to focus on the keywords and audiences that drive real business results.</p>",
+                "link": "#008AFC",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><circle cx=\"24\" cy=\"22\" r=\"3\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M18 30C18 27.7909 20.6863 26 24 26C27.3137 26 30 27.7909 30 30\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><circle cx=\"16\" cy=\"24\" r=\"2\" stroke=\"#2563EB\" stroke-width=\"2\"></circle></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Landing Page Optimisation",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>A paid click landing on a generic service page will convert at a much lower rate than traffic directed to a purpose-built landing page. Our <a href=\"/houston-digital-marketing-services/web-design-company/\" data-wplink-edit=\"true\">web design</a> approach focuses on creating high-converting landing pages for PPC campaigns that align with the messaging of each advertisement, remove unnecessary distractions, and provide visitors with the exact information they need to take action. We continuously test headlines, form placement, social proof, page structure, and call-to-action copy to improve conversion rates and user experience. </p>",
+                "link": "#008AFC",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M18 16L32 23L25 25L27 32L24 33L22 26L18 30L18 16Z\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"></path><circle cx=\"30\" cy=\"18\" r=\"1.5\" fill=\"#2563EB\"></circle></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "A/B Split Testing",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Systematic testing is what separates PPC campaigns that improve over time from ones that plateau. We test ad headline variations, description copy, call-to-action language, landing page layouts, and audience targeting parameters — running controlled experiments that give us statistically reliable data on what performs better. Every change we make to a campaign is based on evidence from prior tests, not intuition. Over time, this continuous refinement produces compounding improvements in cost per lead and conversion rate that make your PPC investment more and more efficient.</p>",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><circle cx=\"20\" cy=\"24\" r=\"2\" fill=\"#2563EB\"></circle><circle cx=\"28\" cy=\"20\" r=\"2\" fill=\"#2563EB\"></circle><circle cx=\"28\" cy=\"28\" r=\"2\" fill=\"#2563EB\"></circle><path d=\"M22 23L26 21\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M22 25L26 27\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Conversion Rate Optimisation",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Getting the click is half the job. What happens after the visitor lands on your page determines whether the spend was worthwhile. We monitor conversion rates at every stage of the paid traffic journey — from click through to form completion through to qualified lead. When something in the funnel is underperforming, we identify it with session recording and heat map data, test fixes, and validate improvements with data before making them permanent. CRO applied to a PPC campaign has a multiplier effect: every improvement to conversion rate produces more leads from the same budget.</p>",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 17H32V30H16V17Z\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linejoin=\"round\"></path><path d=\"M19 21H24\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M19 25H26\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M29 21V26\" stroke=\"#2563EB\" stroke-width=\"2\" stroke-linecap=\"round\"></path></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Display &amp; Remarketing Campaigns",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Display and remarketing campaigns serve a different purpose than search. They are most effective at re-engaging visitors who have already interacted with your brand — people who visited your site, watched a video, or engaged with an ad but did not convert. For Houston businesses with a longer sales cycle or a considered purchase decision, remarketing keeps your brand visible and top-of-mind as prospects work through their decision. We build remarketing audiences based on behaviour signals and serve targeted creative that matches where each visitor is in their consideration process.</p>",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M18 14H26L32 20V32C32 33.1046 31.1046 34 30 34H18C16.8954 34 16 33.1046 16 32V16C16 14.8954 16.8954 14 18 14Z\" fill=\"#2563EB\"></path><path d=\"M26 14V20H32\" fill=\"#0B3B8C\"></path><rect x=\"20\" y=\"24\" width=\"8\" height=\"2\" fill=\"#0B3B8C\"></rect><rect x=\"20\" y=\"28\" width=\"6\" height=\"2\" fill=\"#0B3B8C\"></rect></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "YouTube Advertising",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>YouTube is the second-largest search engine in the world, and for Houston businesses where a product, service, or process benefits from visual demonstration, video advertising can be extraordinarily effective. We manage YouTube ad campaigns — including skippable in-stream ads, non-skippable bumper ads, and discovery ads — built around the specific audiences most likely to convert. YouTube advertising is also one of the most cost-effective awareness channels available, with CPMs that are substantially lower than traditional broadcast advertising and with targeting precision that television simply cannot match.</p>",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><circle cx=\"24\" cy=\"24\" r=\"22\" stroke=\"#2563EB\" stroke-width=\"2\"></circle><path d=\"M16 20C16 17.7909 17.7909 16 20 16H28C30.2091 16 32 17.7909 32 20V25C32 27.2091 30.2091 29 28 29H22L18 32V29H20C17.7909 29 16 27.2091 16 25V20Z\" fill=\"#2563EB\"></path></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "PPC Reporting &amp; Analytics",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Every client receives a detailed monthly PPC and <a href=\"/houston-digital-marketing-services/social-media-agency/\">social media</a> performance report covering total ad spend, cost per click by campaign, conversion volume, cost per lead, audience engagement, and a clear breakdown of what strategies are performing best and what adjustments are being made. We connect advertising platforms, social media campaigns, and lead tracking systems wherever possible to measure actual revenue generated from specific campaigns instead of tracking only form submissions. Regular reporting calls are included with every account, and your account manager remains available </p>",
+                "link": "#008AFC",
+                "align": "start"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px",
+          "box": "0px 0px 0px 0px",
+          "grid": "0px 0px 0px 0px"
+        }
+      },
+      {
+        "kind": "why",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Why Choose Zoot As Your Houston PPC Agency",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>We have audited enough PPC accounts to know exactly how budgets get wasted. The most common pattern: campaigns structured for clicks rather than conversions, keywords selected for volume rather than intent, landing pages that do not match the ad message, and reporting that shows impressive-looking click data disconnected from actual business results. Zoot builds PPC campaigns from the opposite starting point — what outcome does this Houston business need, and what campaign structure, keywords, landing pages, and bidding strategy are most likely to produce it at an acceptable cost per lead? <a href=\"/what-is-ppc-agency-in-houston/\">See how strategic paid advertising campaigns improve lead quality </a>through stronger targeting, conversion-focused landing pages, and data-driven budget allocation.</p>",
+            "link": "#008AFC"
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><g fill=\"none\" stroke=\"#1E90FF\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"10\" y=\"10\" width=\"44\" height=\"44\" rx=\"6\" ry=\"6\"></rect><polyline points=\"20,34 28,42 44,24\"></polyline></g></svg>",
+            "tag": "p",
+            "html": "Lead Quality Over Click Volume",
+            "desc": "We optimise for qualified leads, not for the metrics that look best in a dashboard. High click volume with poor conversion rate is a waste of budget. We structure campaigns and select keywords specifically to attract visitors with genuine buying intent, and we monitor lead quality — not just volume — through regular communication with your sales team about what is coming through."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><g fill=\"none\" stroke=\"#1E90FF\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"8\" y=\"12\" width=\"48\" height=\"32\" rx=\"3\" ry=\"3\"></rect><line x1=\"24\" y1=\"48\" x2=\"40\" y2=\"48\"></line><line x1=\"32\" y1=\"44\" x2=\"32\" y2=\"56\"></line><rect x=\"20\" y=\"56\" width=\"24\" height=\"4\" rx=\"2\"></rect><circle cx=\"32\" cy=\"28\" r=\"8\"></circle><path d=\"M32 22v12\"></path><path d=\"M28 24c0-1.5 1.8-2.5 4-2.5s4 1 4 2.5-1.8 2.5-4 2.5-4 1-4 2.5 1.8 2.5 4 2.5 4-1 4-2.5\"></path></g></svg>",
+            "tag": "p",
+            "html": "Full Spend Transparency",
+            "desc": "You see exactly where every dollar of your PPC budget is going. We provide full access to your ad accounts, clear monthly reports that break down spend by campaign and keyword, and a plain-language explanation of what each campaign is producing. There are no hidden management fees buried in your media spend and no inflated invoices with unclear line items."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><g fill=\"none\" stroke=\"#1E90FF\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M22 34l-6 6a10 10 0 1 0 14 14l6-6\"></path><path d=\"M42 30l6-6a10 10 0 1 0-14-14l-6 6\"></path><line x1=\"24\" y1=\"40\" x2=\"40\" y2=\"24\"></line></g></svg>",
+            "tag": "p",
+            "html": "Systematic A/B Testing",
+            "desc": "We run controlled experiments on ad copy, landing pages, audiences, and bid strategies continuously. Every test is designed to produce actionable data — not just variation for its own sake. Over time, this systematic refinement produces compounding improvements in cost per lead that make your PPC progressively more efficient as the campaign matures."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns:inkscape=\"http://www.inkscape.org/namespaces/inkscape\" xmlns:sodipodi=\"http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:svg=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#0A84FF\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" id=\"svg5\" sodipodi:docname=\"13def74c-4aea-4226-b94e-151782950ae7.svg\"><defs id=\"defs5\"></defs><path d=\"M16 3h5v5\" id=\"path1\"></path><path d=\"M4 20L21 3\" id=\"path2\"></path><path d=\"M21 16v5h-5\" id=\"path3\"></path><path d=\"M15 15l6 6\" id=\"path4\"></path><path d=\"M4 4l6 6\" id=\"path5\"></path></svg>",
+            "tag": "p",
+            "html": "Dedicated PPC Specialist",
+            "desc": "Your account is managed by a PPC specialist who works on paid advertising full time — not a generalist who also handles your SEO, content, and social media. Your specialist knows your account history, your competitors, and your conversion data. They are the person on your monthly reporting call and the person managing your campaigns day to day."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><g fill=\"none\" stroke=\"#1E90FF\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M38 6a14 14 0 0 0-12 20L8 44a6 6 0 1 0 8 8l18-18A14 14 0 0 0 54 22l-8 6-6-6 6-8A14 14 0 0 0 38 6z\"></path></g></svg>",
+            "tag": "p",
+            "html": "Continuous Campaign Optimisation",
+            "desc": "PPC campaigns require active management to stay competitive. Search behaviour changes, competitors adjust their bids, and quality scores shift based on ad relevance and landing page experience. We monitor campaigns regularly, make data-driven adjustments to bids, keywords, and ad copy, and bring strategic recommendations to every monthly call based on what the data shows."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\" fill=\"none\"><circle cx=\"25\" cy=\"25\" r=\"16\" stroke=\"#0A84FF\" stroke-width=\"2\"></circle><circle cx=\"24\" cy=\"26\" r=\"5\" stroke=\"#0A84FF\" stroke-width=\"2\"></circle><path d=\"M29 24.5H37\" stroke=\"#0A84FF\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M28 22L35 15\" stroke=\"#0A84FF\" stroke-width=\"2\" stroke-linecap=\"round\"></path></svg>",
+            "tag": "p",
+            "html": "Month-to-Month Contracts",
+            "desc": "We do not lock clients into long-term PPC management contracts. We earn your business every month through the results we deliver. If the performance is not there, you are free to leave. That accountability ensures we are always working to improve your campaigns — not managing an account on autopilot and waiting for a contract to renew."
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "awards",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Award-Winning PPC Agency in Houston",
+            "align": "start"
+          },
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "parts": [
+              {
+                "t": "img",
+                "src": "/uploads/2026/05/ChatGPT-Image-May-1-2026-05_50_19-PM.png",
+                "alt": "Dallas Digital Marketing Agency - Houston Digital Marketing Services -austin digital marketing",
+                "width": 1536,
+                "height": 1025
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Zoot Web Agency Named Top PPC Agency in Houston by Clutch",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Clutch evaluates B2B service providers through verified client interviews and independent market presence data. Zoot Web Agency has been named a top agency in Houston across five categories, including Houston PPC Agency, SEO Agency, Social Media Agency, Web Design Agency, and Digital Marketing Agency.</p><p>We hold a 5.0 rating on Clutch from verified client reviews. Every review reflects the honest experience of a real business that has worked with our team on paid advertising campaigns.</p>"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "img",
+                "src": "/uploads/2026/05/ChatGPT-Image-May-6-2026-11_22_01-AM.png",
+                "alt": "Dallas Digital Marketing Agency - Houston Digital Marketing Services",
+                "width": 1536,
+                "height": 1025
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Zoot Web Agency Named National Excellence Award Winner in Houston by UpCity",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>UpCity independently measures service provider credibility, reputation, and client satisfaction through their Recommendability Rating algorithm. The score is not self-reported and cannot be influenced directly.</p><p>Zoot Web Agency holds a 5.0 rating on UpCity and has been recognized as a National Excellence Award winner in Houston PPC Agency We treat this recognition as a standard to maintain through consistently strong campaign performance.</p>"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "faq",
+        "parts": [
+          {
+            "t": "headline",
+            "tag": "h3",
+            "before": "Frequently Asked",
+            "highlight": "Questions",
+            "after": ""
+          },
+          {
+            "t": "text",
+            "html": "<p>Common questions from businesses about Houston PPC Agency, Google Ads, campaign costs, and what to expect from a paid advertising engagement with Zoot Web Agency.</p>",
+            "align": "center"
+          },
+          {
+            "t": "faq",
+            "items": [
+              {
+                "q": "What PPC platforms do you manage for Houston businesses?",
+                "a": "<p>We manage campaigns on Google Search, Google Display, Google Shopping, YouTube, Facebook, Instagram, and LinkedIn. The right platform depends on your business type, audience, and goals. For most Houston service businesses, Google Search delivers the highest-intent traffic and the fastest qualified lead results. Meta platforms are strong for reach, awareness, and categories where the buying decision benefits from visual content. We recommend the platform mix most appropriate for your specific situation.</p>",
+                "open": true
+              },
+              {
+                "q": "How much should a Houston business spend on PPC advertising?",
+                "a": "<p>Budget depends on your industry, how competitive your keywords are in Houston, and what cost per lead is acceptable for your business. Some Houston categories — legal, medical, home services — have high keyword costs because of the value of each client. In these categories, a meaningful budget (typically $2,000 to $5,000 or more per month in ad spend) is required to generate reliable lead volume. We will tell you honestly what we think is required in your category before you commit to anything.</p>",
+                "open": true
+              },
+              {
+                "q": "How quickly can PPC generate leads for my Houston business?",
+                "a": "<p>Unlike SEO, paid advertising can generate leads from the first week — sometimes from the first day a campaign goes live. The early weeks focus on optimisation: refining keywords, adjusting bids, testing ad copy, and improving landing page conversion rates. Lead volume and quality typically improve significantly in the first 30 to 60 days as these optimisations compound. We set realistic expectations in the proposal so you know what to expect at each stage.</p>",
+                "open": true
+              },
+              {
+                "q": "Will you take over my existing Google Ads account?",
+                "a": "<p>Yes. If you have an existing Google Ads account, we start with a thorough audit to understand the current campaign structure, keyword strategy, historical performance, and where budget has been wasted. In most cases we find significant opportunities to improve targeting, reduce wasted spend on non-converting keywords, and improve landing page conversion rates. The audit findings inform our initial strategy and give us a baseline to measure improvements against.</p>",
+                "open": true
+              },
+              {
+                "q": "How do you ensure we get quality leads, not just clicks?",
+                "a": "<p>Quality control starts with keyword strategy — bidding on terms with genuine buying intent rather than broad informational queries. It continues with ad copy that qualifies visitors before they click — describing who the service is for, what it costs, and what the process looks like. Purpose-built landing pages with clear expectations reduce further the number of non-qualified visitors who submit a form. We also ask for regular feedback from your sales team on lead quality so we can adjust targeting if needed.</p>",
+                "open": true
+              }
+            ]
+          },
+          {
+            "t": "faq",
+            "items": [
+              {
+                "q": "Do you charge a percentage of ad spend or a flat management fee?",
+                "a": "<p>We charge a flat monthly management fee rather than a percentage of spend. This means our incentive is to produce leads efficiently — not to increase your spend to grow our revenue. The management fee covers all campaign strategy, build, optimisation, testing, and monthly reporting. Ad spend goes directly to the platforms and is separate. We will be explicit about both numbers in the proposal.</p>",
+                "open": true
+              },
+              {
+                "q": "What happens to my campaigns if I stop working with Zoot?",
+                "a": "<p>You own your ad accounts. If you ever decide to stop working with us, you take your Google Ads account, your Meta Business Manager, and all campaign assets with you. We do not retain ownership of anything built on your accounts, and we will provide a full transition briefing to whoever takes over management. Nothing is held back.</p>",
+                "open": true
+              },
+              {
+                "q": "How do you measure PPC success beyond click-through rate?",
+                "a": "<p>Click-through rate is a quality indicator but not a success metric by itself. We measure success by cost per lead, lead quality, conversion rate from landing page visits, and ultimately revenue generated from paid traffic. Where we can connect Google Ads or Meta data to your CRM, we do — giving you full revenue attribution by campaign and keyword. Monthly reports present all of this in plain language tied to your actual business outcomes.</p>",
+                "open": true
+              },
+              {
+                "q": "Can you run Google Shopping campaigns for my Houston eCommerce business?",
+                "a": "<p>Yes. Google Shopping requires a different approach from search campaigns — product feed optimisation, bidding strategies by product margin and conversion rate, and continuous refinement of product titles and descriptions to match shopping queries. We manage Shopping campaigns for Houston-based online retailers and combine them with search, display, and remarketing for a complete paid search strategy across the purchase funnel.</p>",
+                "open": true
+              },
+              {
+                "q": "How do I get started with PPC management in Houston?",
+                "a": "<p>Fill out the form on this page. If you have an existing Google Ads or Meta account, we will conduct a free audit and send you a plain-language findings report showing exactly what is costing you money and what we would do differently. If you are starting from scratch, we will assess your goals and market and put together a recommended campaign structure and starting budget. Either way, you will have a clear picture before committing to anything.</p>",
+                "open": true
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "0px 0px 30px 0px",
+          "box": "60px 0px 0px 0px"
+        }
+      }
+    ]
   }
 }

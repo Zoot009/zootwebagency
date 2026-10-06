@@ -354,5 +354,896 @@
         ]
       }
     ]
+  },
+  "city": {
+    "sections": [
+      {
+        "kind": "hero",
+        "parts": [
+          {
+            "t": "crumbs"
+          },
+          {
+            "t": "h",
+            "tag": "h1",
+            "html": "Louisville Digital Marketing Agency",
+            "align": "start"
+          },
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Digital Marketing Built for Louisville's Diverse and Growing Business Community",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "Zoot Web Agency works with Louisville businesses on digital marketing that produces real, measurable outcomes. Louisville has a stronger economy than most people outside Kentucky realize — healthcare, manufacturing, logistics, bourbon, and retail all create significant demand for businesses that serve them. We help those businesses grow their digital presence and capture more of that demand.",
+            "align": "start"
+          },
+          {
+            "t": "img",
+            "src": "/uploads/2026/05/ChatGPT-Image-May-15-2026-01_33_46-AM.png",
+            "alt": "Louisville digital marketing agency",
+            "width": 1536,
+            "height": 1025
+          }
+        ]
+      },
+      {
+        "kind": "stats",
+        "parts": [
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "parts": [
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "150+",
+                "align": "center"
+              },
+              {
+                "t": "html",
+                "html": "<div style=\"display:flex;justify-content:center;gap:3px;margin:4px 0;\"><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span></div>"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "5-Star Google Reviews",
+                "align": "center"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "500+",
+                "align": "center"
+              },
+              {
+                "t": "html",
+                "html": "<div style=\"display:flex;justify-content:center;gap:3px;margin:4px 0;\"><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span></div>"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Happy Clients Served",
+                "align": "center"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "1,000+",
+                "align": "center"
+              },
+              {
+                "t": "html",
+                "html": "<div style=\"display:flex;justify-content:center;gap:3px;margin:4px 0;\"><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span><span style=\"color:#f59e0b;font-size:20px;\">&#9733;</span></div>"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Total Client Reviews",
+                "align": "center"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "44px 24px 44px 24px"
+        }
+      },
+      {
+        "kind": "intro",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Digital Marketing Services in Louisville",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>Louisville punches above its weight economically. The city is home to major corporate headquarters — Humana, Kindred Healthcare, Yum! Brands, GE Appliances — and hosts one of the largest UPS air cargo hubs in the world at Louisville Muhammad Ali International Airport. Ford Motor Company has significant manufacturing presence in Louisville, and the bourbon tourism economy has made the city a nationally recognized destination. Each of those industries creates its own digital marketing competition for the businesses serving them.</p><p>Healthcare dominates Louisville&#8217;s economy in a way similar to Nashville and Charlotte. Humana and Kindred both anchor large healthcare ecosystems, and the city&#8217;s hospital systems — Baptist Health, Norton Healthcare, and UofL Health — compete intensely for patient acquisition online. Professional services, legal, and financial businesses serving those industries also compete heavily in search. For any business serving Louisville&#8217;s healthcare or professional services sectors, organic search and paid advertising are no longer optional.</p><p>Zoot has worked with businesses across the Louisville metro on SEO, PPC, web design, and social media. Louisville&#8217;s digital marketing market is growing but still not as saturated as Nashville or Indianapolis, which means businesses that invest now build advantages that take competitors years to close. The Kentucky Derby, bourbon tourism, and the city&#8217;s growing culinary and arts scene have also elevated Louisville&#8217;s national profile — with real implications for businesses serving tourism-adjacent markets.</p>"
+          },
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "bg": "/uploads/2026/04/18.jpg-1-scaled.jpeg",
+            "parts": [
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Grow Your Louisville Business With Zoot",
+                "align": "center"
+              },
+              {
+                "t": "text",
+                "html": "<p>Partner with a results-driven team that knows your market. Book a free strategy session and see exactly how we&#8217;ll grow your business.</p>",
+                "align": "center"
+              },
+              {
+                "t": "btn",
+                "html": "Get My Free Proposal",
+                "href": "#"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "audit",
+        "parts": [
+          {
+            "t": "headline",
+            "tag": "p",
+            "before": "Get Your FREE",
+            "highlight": "Louisville Marketing Audit",
+            "after": ""
+          },
+          {
+            "t": "form",
+            "name": "Free Audit Form",
+            "fields": [
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[name]",
+                "id": "form-field-name",
+                "placeholder": "First Name",
+                "label": null,
+                "width": 50
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[last_name]",
+                "id": "form-field-last_name",
+                "placeholder": "Last Name",
+                "label": null,
+                "width": 50
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[company]",
+                "id": "form-field-company",
+                "placeholder": "Company / Organization",
+                "label": null,
+                "width": 50
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[website]",
+                "id": "form-field-website",
+                "placeholder": "Website URL",
+                "label": null,
+                "width": 50
+              },
+              {
+                "tag": "select",
+                "type": null,
+                "name": "form_fields[goal]",
+                "id": "form-field-goal",
+                "placeholder": null,
+                "label": "Main Goal",
+                "width": 50,
+                "options": [
+                  "More Traffic",
+                  "More Leads",
+                  "Brand Awareness",
+                  "Better ROI"
+                ]
+              },
+              {
+                "tag": "select",
+                "type": null,
+                "name": "form_fields[service]",
+                "id": "form-field-service",
+                "placeholder": null,
+                "label": "Service Interested In",
+                "width": 50,
+                "options": [
+                  "Digital Marketing Services",
+                  "SEO Services",
+                  "Local SEO Services",
+                  "Technical SEO",
+                  "Enterprise SEO Services",
+                  "eCommerce SEO",
+                  "Pay Per Click (PPC)",
+                  "Social Media Marketing",
+                  "Social Media Management",
+                  "Web Design",
+                  "Content Marketing",
+                  "Email Marketing",
+                  "Online Reputation Management",
+                  "eCommerce Marketing Services",
+                  "Amazon Marketing Services",
+                  "Conversion Rate Optimization",
+                  "Link Building Services",
+                  "Video Production",
+                  "AI SEO Services",
+                  "Digital Marketing Strategy Development",
+                  "Franchise Digital Marketing",
+                  "Enterprise Digital Marketing",
+                  "SEO Audit Services",
+                  "CRO Audit Services",
+                  "User Experience Testing",
+                  "Search Engine Marketing",
+                  "Google Ads Management Services",
+                  "YouTube Advertising Services",
+                  "Programmatic Advertising",
+                  "Lead Generation Services",
+                  "Franchise PPC Marketing",
+                  "Enterprise PPC Marketing",
+                  "Social Media Brand Management",
+                  "Franchise Social Media Marketing",
+                  "Enterprise Social Media Marketing",
+                  "Facebook Advertising",
+                  "LinkedIn Advertising",
+                  "Twitter Advertising",
+                  "Instagram Marketing",
+                  "Social Media Advertising",
+                  "Digital PR Services",
+                  "HARO Link Building",
+                  "Branding Services",
+                  "Custom Website Design",
+                  "WordPress Website Design",
+                  "Website Hosting",
+                  "ADA Compliance Services",
+                  "Media Production Services",
+                  "Video Testimonial Services",
+                  "Product Photography",
+                  "Drone Video & Photography",
+                  "Content Writing",
+                  "Copywriting Services",
+                  "User Behavior Analytics",
+                  "Franchise SEO Audit Services",
+                  "Enterprise SEO Audit Services"
+                ]
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[city]",
+                "id": "form-field-city",
+                "placeholder": "Your City / Location",
+                "label": null,
+                "width": 100
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "form_fields[message]",
+                "id": "form-field-message",
+                "placeholder": "Tell us about your business challenges",
+                "label": null,
+                "width": 100
+              }
+            ],
+            "submit": "Get My Free Audit"
+          }
+        ],
+        "pad": {
+          "sec": "0px 0px 0px 0px",
+          "box": "21px 0px 40px 0px"
+        }
+      },
+      {
+        "kind": "cases",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Our Louisville Digital Marketing Clients Get Results",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>Real campaigns. Documented results. Every client below shows exactly what we achieved and what they have to say about working with Zoot.</p>"
+          },
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "parts": [
+              {
+                "t": "img",
+                "src": "/uploads/2026/03/darkostojanovic-laboratory-563423_1920.jpg",
+                "alt": "Houston Web Design Company - Dallas Digital Marketing Agency - austin digital marketing agency - franchise digital marketing - Arlington Digital Marketing Services",
+                "width": 1920,
+                "height": 1280
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "+550%",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "+240%",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Organic Traffic",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Online Leads",
+                "align": "center"
+              },
+              {
+                "t": "text",
+                "html": "<p><em>&#8220;Zoot understood the Louisville market from day one. They built us a strategy that actually made sense for our business and delivered consistent results. The reporting is always clear and honest.&#8221;</em></p>"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "img",
+                "src": "/uploads/2026/03/advogadoaguilar-right-4944550_1920.jpg",
+                "alt": "Houston Web Design Company - Dallas Digital Marketing Agency - austin digital marketing agency - Arlington Digital Marketing Services - Google Business Profile Optimization - franchise digital marketing",
+                "width": 1920,
+                "height": 1280
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "+690%",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "+360%",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Online Leads",
+                "align": "center"
+              },
+              {
+                "t": "h",
+                "tag": "p",
+                "html": "Conversion Rate",
+                "align": "center"
+              },
+              {
+                "t": "text",
+                "html": "<p><em>&#8220;We&#8217;d been burned by agencies before and were skeptical. Zoot earned our trust by delivering results early and being straight with us when something needed adjusting. Couldn&#8217;t ask for more.&#8221;</em></p>"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "testimonials",
+        "parts": [
+          {
+            "t": "headline",
+            "tag": "p",
+            "before": "But Don't Take Our Word For It",
+            "highlight": "Real Results. Real Clients.",
+            "after": ""
+          },
+          {
+            "t": "testimonials",
+            "minHeight": 150,
+            "pad": "34px 40px 32px 30px",
+            "items": [
+              {
+                "stars": 5,
+                "html": "<p>We hired Zoot web agency for Google My Business SEO services and the results have been outstanding. Our local visibility improved quickly, our listing is now optimized correctly, and we're getting more calls and in-store traffic than before. They clearly understand local SEO, maps ranking, reviews, and how to position a business to stand out in competitive searches. Highly recommend their services to any business serious about local growth.</p>",
+                "name": "brainbodge"
+              },
+              {
+                "stars": 5,
+                "html": "<p>I've now worked with many other agencies but this one absolutely delivered what I was looking for. The citations they completed were incredibly detailed, accurate, and clearly done with a deep understanding of what actually moves the needle. What really stands out is how much he goes above and beyond, not just doing the job, but making sure everything is set up properly for long-term results.</p>",
+                "name": "Englishcoach"
+              },
+              {
+                "stars": 5,
+                "html": "<p>Zoot Web Agency has been Exceptional in helping us with SEO across all of our clinics. I am deeply content on the direction we are taking as citations are much underrated by many business owners. AI signaling in different ways is replacing the outdated old SEO and I am glad I am working with Prasad to maintain modern visibility online.</p>",
+                "name": "Scubaskool"
+              },
+              {
+                "stars": 5,
+                "html": "<p>Zoot did an excellent job improving our SEO and online visibility. They built high-quality backlinks, optimized our map citations, and helped strengthen our local search presence. What impressed me most was that he went beyond the agreed work by adding extra improvements and giving valuable SEO advice for free. Highly recommend them to anyone looking for reliable SEO and backlink services.</p>",
+                "name": "karlblud"
+              },
+              {
+                "stars": 5,
+                "html": "<p>After trying several top rated agency, I can surely say they are outstanding. Don't even look further, hire them. They have an excellent and in-depth understanding of webpage SEO and explains clearly how everything connects to Google. They communicate in a very transparent and structured way and put real effort into choosing the best strategy for your project. Highly recommended.</p>",
+                "name": "Revibetherapy"
+              },
+              {
+                "stars": 5,
+                "html": "<p>I had a great experience working with this SEO service. They helped improve my Google Business ranking and increased visibility for my business. Very professional, honest, and knowledgeable about local SEO. I started seeing better results on Google Maps and more customer calls after their work. I highly recommend them to anyone looking to grow their business online.</p>",
+                "name": "Kalsaid16"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "80px 15px 80px 15px"
+        }
+      },
+      {
+        "kind": "cta",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Ready to Grow Your Louisville Business With Digital Marketing Services?",
+            "align": "center"
+          },
+          {
+            "t": "text",
+            "html": "<p>Partner with Zoot Web Agency — the results-driven digital marketing experts trusted by businesses across Louisville. Get your free proposal today.</p>"
+          },
+          {
+            "t": "btn",
+            "html": "Get My Free Proposal",
+            "href": "#"
+          }
+        ],
+        "pad": {
+          "sec": "70px 24px 70px 24px"
+        },
+        "width": "900px"
+      },
+      {
+        "kind": "services",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Louisville Digital Marketing Services",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>We provide customized digital marketing solutions built specifically for Louisville businesses — every strategy is tailored to your market, your competition, and your growth goals.</p>"
+          },
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg aria-hidden=\"true\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z\"></path></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Search Engine Optimization (SEO)",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Louisville&#8217;s SEO landscape is competitive in healthcare, legal, and professional services — but less saturated in many other categories than similarly sized cities. That creates real opportunity for businesses that invest in organic search now. We start with a comprehensive audit of your site&#8217;s technical health, map out your actual keyword competition in Louisville, and build a strategy around where the best opportunities are. We build local SEO for the Google Maps pack, on-page optimization, link building, and content that earns rankings over time — all tailored to your specific market position in Louisville.</p>",
+                "link": "#008AFC",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm-5 14H4v-4h11v4zm0-5H4V9h11v4zm5 5h-4V9h4v9z\"/></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Web Design and Development",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Louisville buyers expect a fast, professional website that gets them to the information they need without friction. A slow site, a poor mobile experience, or a confusing navigation structure costs you leads before you ever speak with a prospect. Every site we build starts with conversion: what do we want visitors to do, and how do we make that as easy as possible? We focus on practical <a href=\"/louisville-digital-marketing-agency/web-design/\">web design</a> built for long-term business growth.</p>",
+                "link": "#008AFC",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" fill=\"currentColor\"><path transform=\"matrix(1 0 0 -1 0 480)\" d=\"M 256.00,480.00C 114.609,480.00,0.00,365.391,0.00,224.00s 114.609-256.00, 256.00-256.00s 256.00,114.609, 256.00,256.00S 397.391,480.00, 256.00,480.00z M 256.00,8.00 c-119.297,0.00-216.00,96.703-216.00,216.00S 136.703,440.00, 256.00,440.00s 216.00-96.703, 216.00-216.00S 375.297,8.00, 256.00,8.00zM 342.906,269.75c 22.734,0.00, 41.172,18.438, 41.172,41.172c0.00,22.719-18.438,41.156-41.172,41.156s-41.172-18.438-41.172-41.156 c0.00-1.781, 0.312-3.438, 0.516-5.156l-104.328-52.438c-7.438,7.312-17.594,11.844-28.844,11.844 c-22.719,0.00-41.156-18.438-41.156-41.156c0.00-22.734, 18.438-41.188, 41.156-41.188c 11.484,0.00, 21.859,4.734, 29.328,12.328l 103.891-52.594 c-0.25-1.812-0.562-3.594-0.562-5.453c0.00-22.75, 18.438-41.188, 41.172-41.188s 41.172,18.438, 41.172,41.188 c0.00,22.703-18.438,41.172-41.172,41.172c-11.609,0.00-22.062-4.875-29.531-12.609l-103.719,52.50c 0.266,1.922, 0.594,3.828, 0.594,5.844 c0.00,2.219-0.328,4.391-0.656,6.547l 103.562,52.016C 320.656,274.719, 331.188,269.75, 342.906,269.75z\"/></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Social Media Marketing",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Louisville has a strong sense of local identity, Kentucky Derby culture, bourbon pride, local sports, and a growing culinary scene all create authentic <a href=\"/louisville-digital-marketing-agency/social-media-agency/\">social media</a> hooks for businesses that know how to use them. We build social strategies around your specific business and Louisville audience which platforms your customers actually use, what content earns engagement in your industry, and how to turn that attention into qualified leads.</p>",
+                "link": "#008AFC",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1024 1024\" fill=\"currentColor\"><path transform=\"matrix(1 0 0 -1 0 960)\" d=\"M360 864v32c0 13.255 10.745 24 24 24s24-10.745 24-24v0-32c0-13.255-10.745-24-24-24s-24 10.745-24 24v0zM64 552h32c13.255 0 24 10.745 24 24s-10.745 24-24 24v0h-32c-13.255 0-24-10.745-24-24s10.745-24 24-24v0zM501.28 810.52c3.124-1.594 6.815-2.529 10.723-2.529 9.351 0 17.453 5.348 21.414 13.152l0.063 0.137 32 64c1.599 3.129 2.535 6.825 2.535 10.74 0 13.263-10.752 24.015-24.015 24.015-9.348 0-17.449-5.341-21.417-13.139l-0.063-0.136-32-64c-1.604-3.133-2.545-6.834-2.545-10.755 0-9.357 5.355-17.464 13.168-21.422l0.137-0.063zM117.28 469.48l-64-32c-7.94-4.026-13.286-12.129-13.286-21.48 0-13.258 10.748-24.006 24.006-24.006 3.907 0 7.596 0.933 10.857 2.589l-0.137-0.063 64 32c7.94 4.026 13.286 12.129 13.286 21.48 0 13.258-10.748 24.006-24.006 24.006-3.907 0-7.596-0.933-10.857-2.589l0.137 0.063zM871.6 218.36c10.135-10.134 16.404-24.135 16.404-39.6s-6.269-29.466-16.404-39.6l-50.76-50.76c-10.134-10.135-24.135-16.404-39.6-16.404s-29.466 6.269-39.6 16.404l-205.24 205.24c-1.447 1.443-3.444 2.335-5.649 2.335-3.143 0-5.862-1.812-7.17-4.448l-0.021-0.047-71-184.96c-0.125-0.25-0.26-0.567-0.378-0.892l-0.022-0.068c-8.696-19.903-28.21-33.56-50.914-33.56-0.073 0-0.145 0-0.218 0h0.011c-0.92 0-1.8 0-2.72 0-23.566 1.075-43.21 16.719-50.209 38.088l-0.111 0.392-209.2 640.32c-1.689 5.098-2.663 10.967-2.663 17.063 0 30.928 25.072 56 56 56 6.096 0 11.965-0.974 17.459-2.775l-0.396 0.112 640.32-209.2c22.205-7.774 37.845-28.548 37.845-52.975 0-22.566-13.347-42.014-32.577-50.881l-0.347-0.144-0.96-0.36-185-71.040c-2.668-1.334-4.468-4.046-4.468-7.178 0-2.212 0.897-4.214 2.348-5.662v0zM837.64 184.4l-205.24 205.24c-10.135 10.134-16.403 24.135-16.403 39.599 0 22.857 13.694 42.516 33.326 51.22l0.357 0.141 0.96 0.4 185 71c2.454 1.398 4.083 3.996 4.083 6.975 0 3.383-2.1 6.276-5.068 7.446l-0.054 0.019-640.28 209.12c-0.772 0.256-1.663 0.415-2.588 0.44h-0.012c-4.255-0.205-7.626-3.704-7.626-7.991 0-0.831 0.127-1.632 0.362-2.385l-0.015 0.057 209.080-640.28c0.887-3.134 3.719-5.393 7.079-5.4h0.001c0.211-0.022 0.455-0.034 0.703-0.034 2.97 0 5.523 1.789 6.639 4.348l0.018 0.047 71.040 185 0.4 0.96c8.845 19.989 28.504 33.683 51.361 33.683 15.464 0 29.465-6.268 39.599-16.403l205.24-205.24c1.448-1.45 3.449-2.346 5.66-2.346s4.212 0.897 5.66 2.346v0l50.72 50.72c1.45 1.448 2.346 3.449 2.346 5.66s-0.897 4.212-2.346 5.66v0z\"/></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Pay-Per-Click (PPC)",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Louisville is a more cost-efficient <a href=\"/louisville-digital-marketing-agency/ppc-agency/\">PPC</a> market than Nashville or Indianapolis in many categories — but those savings disappear with poorly built campaigns. We&#8217;ve audited accounts targeting the wrong keywords, sending clicks to pages that don&#8217;t convert, and measuring success with metrics disconnected from revenue. We fix the structure and targeting first, then build campaigns around what actually generates business for a Louisville company. Our team manages Google Ads, Meta advertising, and display campaigns with reporting that connects spend directly to leads and customers.</p>",
+                "link": "#008AFC",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1024 1024\" fill=\"currentColor\"><path transform=\"matrix(1 0 0 -1 0 960)\" d=\"M360 864v32c0 13.255 10.745 24 24 24s24-10.745 24-24v0-32c0-13.255-10.745-24-24-24s-24 10.745-24 24v0zM64 552h32c13.255 0 24 10.745 24 24s-10.745 24-24 24v0h-32c-13.255 0-24-10.745-24-24s10.745-24 24-24v0zM501.28 810.52c3.124-1.594 6.815-2.529 10.723-2.529 9.351 0 17.453 5.348 21.414 13.152l0.063 0.137 32 64c1.599 3.129 2.535 6.825 2.535 10.74 0 13.263-10.752 24.015-24.015 24.015-9.348 0-17.449-5.341-21.417-13.139l-0.063-0.136-32-64c-1.604-3.133-2.545-6.834-2.545-10.755 0-9.357 5.355-17.464 13.168-21.422l0.137-0.063zM117.28 469.48l-64-32c-7.94-4.026-13.286-12.129-13.286-21.48 0-13.258 10.748-24.006 24.006-24.006 3.907 0 7.596 0.933 10.857 2.589l-0.137-0.063 64 32c7.94 4.026 13.286 12.129 13.286 21.48 0 13.258-10.748 24.006-24.006 24.006-3.907 0-7.596-0.933-10.857-2.589l0.137 0.063zM871.6 218.36c10.135-10.134 16.404-24.135 16.404-39.6s-6.269-29.466-16.404-39.6l-50.76-50.76c-10.134-10.135-24.135-16.404-39.6-16.404s-29.466 6.269-39.6 16.404l-205.24 205.24c-1.447 1.443-3.444 2.335-5.649 2.335-3.143 0-5.862-1.812-7.17-4.448l-0.021-0.047-71-184.96c-0.125-0.25-0.26-0.567-0.378-0.892l-0.022-0.068c-8.696-19.903-28.21-33.56-50.914-33.56-0.073 0-0.145 0-0.218 0h0.011c-0.92 0-1.8 0-2.72 0-23.566 1.075-43.21 16.719-50.209 38.088l-0.111 0.392-209.2 640.32c-1.689 5.098-2.663 10.967-2.663 17.063 0 30.928 25.072 56 56 56 6.096 0 11.965-0.974 17.459-2.775l-0.396 0.112 640.32-209.2c22.205-7.774 37.845-28.548 37.845-52.975 0-22.566-13.347-42.014-32.577-50.881l-0.347-0.144-0.96-0.36-185-71.040c-2.668-1.334-4.468-4.046-4.468-7.178 0-2.212 0.897-4.214 2.348-5.662v0zM837.64 184.4l-205.24 205.24c-10.135 10.134-16.403 24.135-16.403 39.599 0 22.857 13.694 42.516 33.326 51.22l0.357 0.141 0.96 0.4 185 71c2.454 1.398 4.083 3.996 4.083 6.975 0 3.383-2.1 6.276-5.068 7.446l-0.054 0.019-640.28 209.12c-0.772 0.256-1.663 0.415-2.588 0.44h-0.012c-4.255-0.205-7.626-3.704-7.626-7.991 0-0.831 0.127-1.632 0.362-2.385l-0.015 0.057 209.080-640.28c0.887-3.134 3.719-5.393 7.079-5.4h0.001c0.211-0.022 0.455-0.034 0.703-0.034 2.97 0 5.523 1.789 6.639 4.348l0.018 0.047 71.040 185 0.4 0.96c8.845 19.989 28.504 33.683 51.361 33.683 15.464 0 29.465-6.268 39.599-16.403l205.24-205.24c1.448-1.45 3.449-2.346 5.66-2.346s4.212 0.897 5.66 2.346v0l50.72 50.72c1.45 1.448 2.346 3.449 2.346 5.66s-0.897 4.212-2.346 5.66v0z\"/></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Online Reputation Management",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Louisville&#8217;s business community is relationship-driven — referrals and word-of-mouth still matter significantly here. Online reputation amplifies or undermines that word-of-mouth dynamic. A pattern of negative reviews, even unfair ones, quietly suppresses lead flow before most businesses identify the cause. We manage reputation from both sides: making it simple for satisfied Louisville customers to leave positive reviews, and responding to negative feedback in a way that demonstrates accountability. We monitor your brand across Google, Yelp, and relevant directories continuously.</p>",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1024 1024\" fill=\"currentColor\"><path transform=\"matrix(1 0 0 -1 0 960)\" d=\"M360 864v32c0 13.255 10.745 24 24 24s24-10.745 24-24v0-32c0-13.255-10.745-24-24-24s-24 10.745-24 24v0zM64 552h32c13.255 0 24 10.745 24 24s-10.745 24-24 24v0h-32c-13.255 0-24-10.745-24-24s10.745-24 24-24v0zM501.28 810.52c3.124-1.594 6.815-2.529 10.723-2.529 9.351 0 17.453 5.348 21.414 13.152l0.063 0.137 32 64c1.599 3.129 2.535 6.825 2.535 10.74 0 13.263-10.752 24.015-24.015 24.015-9.348 0-17.449-5.341-21.417-13.139l-0.063-0.136-32-64c-1.604-3.133-2.545-6.834-2.545-10.755 0-9.357 5.355-17.464 13.168-21.422l0.137-0.063zM117.28 469.48l-64-32c-7.94-4.026-13.286-12.129-13.286-21.48 0-13.258 10.748-24.006 24.006-24.006 3.907 0 7.596 0.933 10.857 2.589l-0.137-0.063 64 32c7.94 4.026 13.286 12.129 13.286 21.48 0 13.258-10.748 24.006-24.006 24.006-3.907 0-7.596-0.933-10.857-2.589l0.137 0.063zM871.6 218.36c10.135-10.134 16.404-24.135 16.404-39.6s-6.269-29.466-16.404-39.6l-50.76-50.76c-10.134-10.135-24.135-16.404-39.6-16.404s-29.466 6.269-39.6 16.404l-205.24 205.24c-1.447 1.443-3.444 2.335-5.649 2.335-3.143 0-5.862-1.812-7.17-4.448l-0.021-0.047-71-184.96c-0.125-0.25-0.26-0.567-0.378-0.892l-0.022-0.068c-8.696-19.903-28.21-33.56-50.914-33.56-0.073 0-0.145 0-0.218 0h0.011c-0.92 0-1.8 0-2.72 0-23.566 1.075-43.21 16.719-50.209 38.088l-0.111 0.392-209.2 640.32c-1.689 5.098-2.663 10.967-2.663 17.063 0 30.928 25.072 56 56 56 6.096 0 11.965-0.974 17.459-2.775l-0.396 0.112 640.32-209.2c22.205-7.774 37.845-28.548 37.845-52.975 0-22.566-13.347-42.014-32.577-50.881l-0.347-0.144-0.96-0.36-185-71.040c-2.668-1.334-4.468-4.046-4.468-7.178 0-2.212 0.897-4.214 2.348-5.662v0zM837.64 184.4l-205.24 205.24c-10.135 10.134-16.403 24.135-16.403 39.599 0 22.857 13.694 42.516 33.326 51.22l0.357 0.141 0.96 0.4 185 71c2.454 1.398 4.083 3.996 4.083 6.975 0 3.383-2.1 6.276-5.068 7.446l-0.054 0.019-640.28 209.12c-0.772 0.256-1.663 0.415-2.588 0.44h-0.012c-4.255-0.205-7.626-3.704-7.626-7.991 0-0.831 0.127-1.632 0.362-2.385l-0.015 0.057 209.080-640.28c0.887-3.134 3.719-5.393 7.079-5.4h0.001c0.211-0.022 0.455-0.034 0.703-0.034 2.97 0 5.523 1.789 6.639 4.348l0.018 0.047 71.040 185 0.4 0.96c8.845 19.989 28.504 33.683 51.361 33.683 15.464 0 29.465-6.268 39.599-16.403l205.24-205.24c1.448-1.45 3.449-2.346 5.66-2.346s4.212 0.897 5.66 2.346v0l50.72 50.72c1.45 1.448 2.346 3.449 2.346 5.66s-0.897 4.212-2.346 5.66v0z\"/></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Content Marketing",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Content marketing earns trust with Louisville customers before they ever contact you — and it works while your team focuses on running the business. We write blog posts, service pages, and guides built around the specific questions your Louisville audience searches for. Every piece is tied to an SEO objective and designed to move a prospect closer to a decision. Our writers work alongside the <a href=\"/louisville-digital-marketing-agency/seo-company/\">SEO</a> team so content and rankings build together, and each piece serves a purpose beyond just filling a content calendar.</p>",
+                "link": "#008AFC",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1024 1024\" fill=\"currentColor\"><path transform=\"matrix(1 0 0 -1 0 960)\" d=\"M360 864v32c0 13.255 10.745 24 24 24s24-10.745 24-24v0-32c0-13.255-10.745-24-24-24s-24 10.745-24 24v0zM64 552h32c13.255 0 24 10.745 24 24s-10.745 24-24 24v0h-32c-13.255 0-24-10.745-24-24s10.745-24 24-24v0zM501.28 810.52c3.124-1.594 6.815-2.529 10.723-2.529 9.351 0 17.453 5.348 21.414 13.152l0.063 0.137 32 64c1.599 3.129 2.535 6.825 2.535 10.74 0 13.263-10.752 24.015-24.015 24.015-9.348 0-17.449-5.341-21.417-13.139l-0.063-0.136-32-64c-1.604-3.133-2.545-6.834-2.545-10.755 0-9.357 5.355-17.464 13.168-21.422l0.137-0.063zM117.28 469.48l-64-32c-7.94-4.026-13.286-12.129-13.286-21.48 0-13.258 10.748-24.006 24.006-24.006 3.907 0 7.596 0.933 10.857 2.589l-0.137-0.063 64 32c7.94 4.026 13.286 12.129 13.286 21.48 0 13.258-10.748 24.006-24.006 24.006-3.907 0-7.596-0.933-10.857-2.589l0.137 0.063zM871.6 218.36c10.135-10.134 16.404-24.135 16.404-39.6s-6.269-29.466-16.404-39.6l-50.76-50.76c-10.134-10.135-24.135-16.404-39.6-16.404s-29.466 6.269-39.6 16.404l-205.24 205.24c-1.447 1.443-3.444 2.335-5.649 2.335-3.143 0-5.862-1.812-7.17-4.448l-0.021-0.047-71-184.96c-0.125-0.25-0.26-0.567-0.378-0.892l-0.022-0.068c-8.696-19.903-28.21-33.56-50.914-33.56-0.073 0-0.145 0-0.218 0h0.011c-0.92 0-1.8 0-2.72 0-23.566 1.075-43.21 16.719-50.209 38.088l-0.111 0.392-209.2 640.32c-1.689 5.098-2.663 10.967-2.663 17.063 0 30.928 25.072 56 56 56 6.096 0 11.965-0.974 17.459-2.775l-0.396 0.112 640.32-209.2c22.205-7.774 37.845-28.548 37.845-52.975 0-22.566-13.347-42.014-32.577-50.881l-0.347-0.144-0.96-0.36-185-71.040c-2.668-1.334-4.468-4.046-4.468-7.178 0-2.212 0.897-4.214 2.348-5.662v0zM837.64 184.4l-205.24 205.24c-10.135 10.134-16.403 24.135-16.403 39.599 0 22.857 13.694 42.516 33.326 51.22l0.357 0.141 0.96 0.4 185 71c2.454 1.398 4.083 3.996 4.083 6.975 0 3.383-2.1 6.276-5.068 7.446l-0.054 0.019-640.28 209.12c-0.772 0.256-1.663 0.415-2.588 0.44h-0.012c-4.255-0.205-7.626-3.704-7.626-7.991 0-0.831 0.127-1.632 0.362-2.385l-0.015 0.057 209.080-640.28c0.887-3.134 3.719-5.393 7.079-5.4h0.001c0.211-0.022 0.455-0.034 0.703-0.034 2.97 0 5.523 1.789 6.639 4.348l0.018 0.047 71.040 185 0.4 0.96c8.845 19.989 28.504 33.683 51.361 33.683 15.464 0 29.465-6.268 39.599-16.403l205.24-205.24c1.448-1.45 3.449-2.346 5.66-2.346s4.212 0.897 5.66 2.346v0l50.72 50.72c1.45 1.448 2.346 3.449 2.346 5.66s-0.897 4.212-2.346 5.66v0z\"/></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Video Production",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Video is the format that earns real attention online, and in Louisville&#8217;s community-oriented business culture, authenticity on screen builds trust quickly. A well-produced client testimonial, a clear explainer about what you do, or a look inside your operation does more for credibility than written copy can achieve alone. We handle the full production process — scripting, filming, editing, and formatting for the platforms you use. If you&#8217;re running video ads, we build the creative with performance in mind from the start.</p>",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1024 1024\" fill=\"currentColor\"><path transform=\"matrix(1 0 0 -1 0 960)\" d=\"M360 864v32c0 13.255 10.745 24 24 24s24-10.745 24-24v0-32c0-13.255-10.745-24-24-24s-24 10.745-24 24v0zM64 552h32c13.255 0 24 10.745 24 24s-10.745 24-24 24v0h-32c-13.255 0-24-10.745-24-24s10.745-24 24-24v0zM501.28 810.52c3.124-1.594 6.815-2.529 10.723-2.529 9.351 0 17.453 5.348 21.414 13.152l0.063 0.137 32 64c1.599 3.129 2.535 6.825 2.535 10.74 0 13.263-10.752 24.015-24.015 24.015-9.348 0-17.449-5.341-21.417-13.139l-0.063-0.136-32-64c-1.604-3.133-2.545-6.834-2.545-10.755 0-9.357 5.355-17.464 13.168-21.422l0.137-0.063zM117.28 469.48l-64-32c-7.94-4.026-13.286-12.129-13.286-21.48 0-13.258 10.748-24.006 24.006-24.006 3.907 0 7.596 0.933 10.857 2.589l-0.137-0.063 64 32c7.94 4.026 13.286 12.129 13.286 21.48 0 13.258-10.748 24.006-24.006 24.006-3.907 0-7.596-0.933-10.857-2.589l0.137 0.063zM871.6 218.36c10.135-10.134 16.404-24.135 16.404-39.6s-6.269-29.466-16.404-39.6l-50.76-50.76c-10.134-10.135-24.135-16.404-39.6-16.404s-29.466 6.269-39.6 16.404l-205.24 205.24c-1.447 1.443-3.444 2.335-5.649 2.335-3.143 0-5.862-1.812-7.17-4.448l-0.021-0.047-71-184.96c-0.125-0.25-0.26-0.567-0.378-0.892l-0.022-0.068c-8.696-19.903-28.21-33.56-50.914-33.56-0.073 0-0.145 0-0.218 0h0.011c-0.92 0-1.8 0-2.72 0-23.566 1.075-43.21 16.719-50.209 38.088l-0.111 0.392-209.2 640.32c-1.689 5.098-2.663 10.967-2.663 17.063 0 30.928 25.072 56 56 56 6.096 0 11.965-0.974 17.459-2.775l-0.396 0.112 640.32-209.2c22.205-7.774 37.845-28.548 37.845-52.975 0-22.566-13.347-42.014-32.577-50.881l-0.347-0.144-0.96-0.36-185-71.040c-2.668-1.334-4.468-4.046-4.468-7.178 0-2.212 0.897-4.214 2.348-5.662v0zM837.64 184.4l-205.24 205.24c-10.135 10.134-16.403 24.135-16.403 39.599 0 22.857 13.694 42.516 33.326 51.22l0.357 0.141 0.96 0.4 185 71c2.454 1.398 4.083 3.996 4.083 6.975 0 3.383-2.1 6.276-5.068 7.446l-0.054 0.019-640.28 209.12c-0.772 0.256-1.663 0.415-2.588 0.44h-0.012c-4.255-0.205-7.626-3.704-7.626-7.991 0-0.831 0.127-1.632 0.362-2.385l-0.015 0.057 209.080-640.28c0.887-3.134 3.719-5.393 7.079-5.4h0.001c0.211-0.022 0.455-0.034 0.703-0.034 2.97 0 5.523 1.789 6.639 4.348l0.018 0.047 71.040 185 0.4 0.96c8.845 19.989 28.504 33.683 51.361 33.683 15.464 0 29.465-6.268 39.599-16.403l205.24-205.24c1.448-1.45 3.449-2.346 5.66-2.346s4.212 0.897 5.66 2.346v0l50.72 50.72c1.45 1.448 2.346 3.449 2.346 5.66s-0.897 4.212-2.346 5.66v0z\"/></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Conversion Rate Optimization",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Getting Louisville traffic to your website is only half the equation. If visitors aren&#8217;t turning into leads or customers, the traffic spend is wasted. CRO is about understanding why people leave without acting — and making targeted changes to fix it. We analyze heat maps, session recordings, form completion rates, and funnel drop-offs. Then we test changes to page layouts, headlines, calls to action, and user flows. Every improvement compounds over time, making your existing traffic work significantly harder for your Louisville business.</p>",
+                "align": "start"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "icon",
+                "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1024 1024\" fill=\"currentColor\"><path transform=\"matrix(1 0 0 -1 0 960)\" d=\"M360 864v32c0 13.255 10.745 24 24 24s24-10.745 24-24v0-32c0-13.255-10.745-24-24-24s-24 10.745-24 24v0zM64 552h32c13.255 0 24 10.745 24 24s-10.745 24-24 24v0h-32c-13.255 0-24-10.745-24-24s10.745-24 24-24v0zM501.28 810.52c3.124-1.594 6.815-2.529 10.723-2.529 9.351 0 17.453 5.348 21.414 13.152l0.063 0.137 32 64c1.599 3.129 2.535 6.825 2.535 10.74 0 13.263-10.752 24.015-24.015 24.015-9.348 0-17.449-5.341-21.417-13.139l-0.063-0.136-32-64c-1.604-3.133-2.545-6.834-2.545-10.755 0-9.357 5.355-17.464 13.168-21.422l0.137-0.063zM117.28 469.48l-64-32c-7.94-4.026-13.286-12.129-13.286-21.48 0-13.258 10.748-24.006 24.006-24.006 3.907 0 7.596 0.933 10.857 2.589l-0.137-0.063 64 32c7.94 4.026 13.286 12.129 13.286 21.48 0 13.258-10.748 24.006-24.006 24.006-3.907 0-7.596-0.933-10.857-2.589l0.137 0.063zM871.6 218.36c10.135-10.134 16.404-24.135 16.404-39.6s-6.269-29.466-16.404-39.6l-50.76-50.76c-10.134-10.135-24.135-16.404-39.6-16.404s-29.466 6.269-39.6 16.404l-205.24 205.24c-1.447 1.443-3.444 2.335-5.649 2.335-3.143 0-5.862-1.812-7.17-4.448l-0.021-0.047-71-184.96c-0.125-0.25-0.26-0.567-0.378-0.892l-0.022-0.068c-8.696-19.903-28.21-33.56-50.914-33.56-0.073 0-0.145 0-0.218 0h0.011c-0.92 0-1.8 0-2.72 0-23.566 1.075-43.21 16.719-50.209 38.088l-0.111 0.392-209.2 640.32c-1.689 5.098-2.663 10.967-2.663 17.063 0 30.928 25.072 56 56 56 6.096 0 11.965-0.974 17.459-2.775l-0.396 0.112 640.32-209.2c22.205-7.774 37.845-28.548 37.845-52.975 0-22.566-13.347-42.014-32.577-50.881l-0.347-0.144-0.96-0.36-185-71.040c-2.668-1.334-4.468-4.046-4.468-7.178 0-2.212 0.897-4.214 2.348-5.662v0zM837.64 184.4l-205.24 205.24c-10.135 10.134-16.403 24.135-16.403 39.599 0 22.857 13.694 42.516 33.326 51.22l0.357 0.141 0.96 0.4 185 71c2.454 1.398 4.083 3.996 4.083 6.975 0 3.383-2.1 6.276-5.068 7.446l-0.054 0.019-640.28 209.12c-0.772 0.256-1.663 0.415-2.588 0.44h-0.012c-4.255-0.205-7.626-3.704-7.626-7.991 0-0.831 0.127-1.632 0.362-2.385l-0.015 0.057 209.080-640.28c0.887-3.134 3.719-5.393 7.079-5.4h0.001c0.211-0.022 0.455-0.034 0.703-0.034 2.97 0 5.523 1.789 6.639 4.348l0.018 0.047 71.040 185 0.4 0.96c8.845 19.989 28.504 33.683 51.361 33.683 15.464 0 29.465-6.268 39.599-16.403l205.24-205.24c1.448-1.45 3.449-2.346 5.66-2.346s4.212 0.897 5.66 2.346v0l50.72 50.72c1.45 1.448 2.346 3.449 2.346 5.66s-0.897 4.212-2.346 5.66v0z\"/></svg>"
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Amazon Marketing Services",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Amazon&#8217;s marketplace operates by its own rules — its own search algorithm, its own buyer psychology, and its own competitive dynamics. Louisville&#8217;s manufacturing and consumer goods heritage means there are businesses here well-positioned to succeed on Amazon with the right strategy. We help Louisville sellers optimize product listings and brand pages, improve search visibility within Amazon, and run sponsored campaigns that attract buyers rather than browsers. We also handle A+ content, brand store setup, and review strategy.</p>",
+                "align": "start"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "why",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Why Choose Zoot As Your Louisville Digital Marketing Company",
+            "align": "start"
+          },
+          {
+            "t": "text",
+            "html": "<p>We built Zoot around a simple idea: if the results aren’t there, the client leaves. That keeps everyone on the team honest. Most agencies focus energy on signing new clients. We focus energy on keeping the ones we have — which means the work has to actually produce something. Every account manager, strategist, and specialist on our team knows their job isn’t to make a report look good. It’s to make the client’s business grow.</p><p>If you want to <a href=\"/what-is-digital-marketing-in-louisville/\">better understand what is digital marketing in Louisville,</a> our team can help explain how local businesses build visibility, generate leads, and compete effectively in a growing digital market.</p>",
+            "link": "#008AFC"
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg aria-hidden=\"true\" viewBox=\"0 0 640 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M434.7 64h-85.9c-8 0-15.7 3-21.6 8.4l-98.3 90c-.1.1-.2.3-.3.4-16.6 15.6-16.3 40.5-2.1 56 12.7 13.9 39.4 17.6 56.1 2.7.1-.1.3-.1.4-.2l79.9-73.2c6.5-5.9 16.7-5.5 22.6 1 6 6.5 5.5 16.6-1 22.6l-26.1 23.9L504 313.8c2.9 2.4 5.5 5 7.9 7.7V128l-54.6-54.6c-5.9-6-14.1-9.4-22.6-9.4zM544 128.2v223.9c0 17.7 14.3 32 32 32h64V128.2h-96zm48 223.9c-8.8 0-16-7.2-16-16s7.2-16 16-16 16 7.2 16 16-7.2 16-16 16zM0 384h64c17.7 0 32-14.3 32-32V128.2H0V384zm48-63.9c8.8 0 16 7.2 16 16s-7.2 16-16 16-16-7.2-16-16c0-8.9 7.2-16 16-16zm435.9 18.6L334.6 217.5l-30 27.5c-29.7 27.1-75.2 24.5-101.7-4.4-26.9-29.4-24.8-74.9 4.4-101.7L289.1 64h-83.8c-8.5 0-16.6 3.4-22.6 9.4L128 128v223.9h18.3l90.5 81.9c27.4 22.3 67.7 18.1 90-9.3l.2-.2 17.9 15.5c15.9 13 39.4 10.5 52.3-5.4l31.4-38.6 5.4 4.4c13.7 11.1 33.9 9.1 45-4.7l9.5-11.7c11.2-13.8 9.1-33.9-4.6-45.1z\"></path></svg>",
+            "tag": "p",
+            "html": "Honest, Straight Talk",
+            "desc": "We tell clients what we can realistically achieve, and we own it when something isn't performing the way we expected. If a strategy isn't working, we say so and change course — we don't hide it in a report. We've turned down clients who weren't a good fit and ended campaigns that weren't producing. That kind of honesty is sometimes uncomfortable, but it's the only way to build a working relationship that lasts."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg aria-hidden=\"true\" viewBox=\"0 0 576 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M552 64H448V24c0-13.3-10.7-24-24-24H152c-13.3 0-24 10.7-24 24v40H24C10.7 64 0 74.7 0 88v56c0 35.7 22.5 72.4 61.9 100.7 31.5 22.7 69.8 37.1 110 41.7C203.3 338.5 240 360 240 360v72h-48c-35.3 0-64 20.7-64 56v12c0 6.6 5.4 12 12 12h296c6.6 0 12-5.4 12-12v-12c0-35.3-28.7-56-64-56h-48v-72s36.7-21.5 68.1-73.6c40.3-4.6 78.6-19 110-41.7 39.3-28.3 61.9-65 61.9-100.7V88c0-13.3-10.7-24-24-24zM99.3 192.8C74.9 175.2 64 155.6 64 144v-16h64.2c1 32.6 5.8 61.2 12.8 86.2-15.1-5.2-29.2-12.4-41.7-21.4zM512 144c0 16.1-17.7 36.1-35.3 48.8-12.5 9-26.7 16.2-41.8 21.4 7-25 11.8-53.6 12.8-86.2H512v16z\"></path></svg>",
+            "tag": "p",
+            "html": "Results We Can Show You",
+            "desc": "We have actual numbers from actual clients — traffic growth, lead increases, and revenue impact — across industries including legal, healthcare, home services, retail, and professional services. When we tell you something works, we can show you cases where it did. That track record shapes every recommendation we make because it filters out tactics that sound good in a pitch but don't move the needle."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg aria-hidden=\"true\" viewBox=\"0 0 640 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M96 224c35.3 0 64-28.7 64-64s-28.7-64-64-64-64 28.7-64 64 28.7 64 64 64zm448 0c35.3 0 64-28.7 64-64s-28.7-64-64-64-64 28.7-64 64 28.7 64 64 64zm32 32h-64c-17.6 0-33.5 7.1-45.1 18.6 40.3 22.1 68.9 62 75.1 109.4h66c17.7 0 32-14.3 32-32v-32c0-35.3-28.7-64-64-64zm-256 0c61.9 0 112-50.1 112-112S381.9 32 320 32 208 82.1 208 144s50.1 112 112 112zm76.8 32h-8.3c-20.8 10-43.9 16-68.5 16s-47.6-6-68.5-16h-8.3C179.6 288 128 339.6 128 403.2V432c0 26.5 21.5 48 48 48h288c26.5 0 48-21.5 48-48v-28.8c0-63.6-51.6-115.2-115.2-115.2zm-223.7-13.4C161.5 263.1 145.6 256 128 256H64c-35.3 0-64 28.7-64 64v32c0 17.7 14.3 32 32 32h65.9c6.3-47.4 34.9-87.3 75.2-109.4z\"></path></svg>",
+            "tag": "p",
+            "html": "Specialists, Not Generalists",
+            "desc": "Every person who works on your account is a specialist in their area. Your SEO isn't being handled by someone who also manages your social media and writes your blog posts on the side. We have dedicated people for each channel, and they actually talk to each other. That coordination matters — your campaigns reinforce each other instead of pulling in different directions."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg aria-hidden=\"true\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M332.8 320h38.4c6.4 0 12.8-6.4 12.8-12.8V172.8c0-6.4-6.4-12.8-12.8-12.8h-38.4c-6.4 0-12.8 6.4-12.8 12.8v134.4c0 6.4 6.4 12.8 12.8 12.8zm96 0h38.4c6.4 0 12.8-6.4 12.8-12.8V76.8c0-6.4-6.4-12.8-12.8-12.8h-38.4c-6.4 0-12.8 6.4-12.8 12.8v230.4c0 6.4 6.4 12.8 12.8 12.8zm-288 0h38.4c6.4 0 12.8-6.4 12.8-12.8v-70.4c0-6.4-6.4-12.8-12.8-12.8h-38.4c-6.4 0-12.8 6.4-12.8 12.8v70.4c0 6.4 6.4 12.8 12.8 12.8zm96 0h38.4c6.4 0 12.8-6.4 12.8-12.8V108.8c0-6.4-6.4-12.8-12.8-12.8h-38.4c-6.4 0-12.8 6.4-12.8 12.8v198.4c0 6.4 6.4 12.8 12.8 12.8zM496 384H64V80c0-8.84-7.16-16-16-16H16C7.16 64 0 71.16 0 80v336c0 17.67 14.33 32 32 32h464c8.84 0 16-7.16 16-16v-32c0-8.84-7.16-16-16-16z\"></path></svg>",
+            "tag": "p",
+            "html": "Reporting That Makes Sense",
+            "desc": "Our monthly reports answer the questions that actually matter: what did we do, what did it produce, and what's the plan for next month? No 40-page PDFs packed with metrics that don't connect to your bottom line. You also get access to your live dashboard anytime, plus a direct line to your account manager when you have a question between reports."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg aria-hidden=\"true\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M256,8C119,8,8,119,8,256S119,504,256,504,504,393,504,256,393,8,256,8Zm92.49,313h0l-20,25a16,16,0,0,1-22.49,2.5h0l-67-49.72a40,40,0,0,1-15-31.23V112a16,16,0,0,1,16-16h32a16,16,0,0,1,16,16V256l58,42.5A16,16,0,0,1,348.49,321Z\"></path></svg>",
+            "tag": "p",
+            "html": "We Respect Your Time",
+            "desc": "We set timelines we intend to keep. Before any campaign or project kicks off, we walk through a realistic schedule so there are no surprises. When something runs longer than planned — and occasionally it does — we communicate early, explain what happened, and give you a revised date. You'll never be sitting there wondering why nothing has happened."
+          },
+          {
+            "t": "iconbox",
+            "svg": "<svg aria-hidden=\"true\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M496 384H160v-16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v16H16c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h80v16c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16v-16h336c8.8 0 16-7.2 16-16v-32c0-8.8-7.2-16-16-16zm0-160h-80v-16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v16H16c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h336v16c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16v-16h80c8.8 0 16-7.2 16-16v-32c0-8.8-7.2-16-16-16zm0-160H288V48c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v16H16C7.2 64 0 71.2 0 80v32c0 8.8 7.2 16 16 16h208v16c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16v-16h208c8.8 0 16-7.2 16-16V80c0-8.8-7.2-16-16-16z\"></path></svg>",
+            "tag": "p",
+            "html": "Built for Your Business",
+            "desc": "Generic packages don't work because no two businesses compete in the same way. Before we recommend anything, we do the homework — your market, your competitors, your current digital footprint, and where the actual growth opportunities are. What we put together for you is based on that research, not whatever package is easiest for us to sell this month."
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "awards",
+        "parts": [
+          {
+            "t": "h",
+            "tag": "h2",
+            "html": "Award-Winning Digital Marketing Agency in Louisville",
+            "align": "start"
+          },
+          {
+            "t": "cards"
+          }
+        ],
+        "cards": [
+          {
+            "parts": [
+              {
+                "t": "img",
+                "src": "/uploads/2026/05/ChatGPT-Image-May-1-2026-05_50_19-PM.png",
+                "alt": "Dallas Digital Marketing Agency - Houston Digital Marketing Services -austin digital marketing",
+                "width": 1536,
+                "height": 1025
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Zoot Web Agency Named Top Digital Marketing Agency in Louisville by Clutch",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>Clutch ranks B2B service providers using verified client interviews and market presence data. Their evaluation is independent and can&#8217;t be paid for — which is what makes it meaningful. Zoot Web Agency has been named a top agency in Louisville across five categories:</p><ul><li>Digital Marketing Agency</li><li>SEO Agency</li><li>PPC Agency</li><li>Social Media Agency</li><li>Web Design Agency</li></ul><p>We hold a 5.0 rating on the platform. Every review comes from a real client, and we&#8217;re grateful to those who took the time to share their experience.</p>"
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "img",
+                "src": "/uploads/2026/05/ChatGPT-Image-May-1-2026-05_36_26-PM.png",
+                "alt": "Houston Digital Marketing Services",
+                "width": 1536,
+                "height": 1025
+              },
+              {
+                "t": "h",
+                "tag": "h3",
+                "html": "Zoot Web Agency Named National Excellence Award Winner in Louisville by UpCity",
+                "align": "start"
+              },
+              {
+                "t": "text",
+                "html": "<p>UpCity scores service providers using their Recommendability Rating — an algorithm that evaluates credibility, reputation, and client satisfaction signals from across the web. It&#8217;s not self-reported and can&#8217;t be gamed.</p><p>Zoot Web Agency holds a 5.0 rating on UpCity and has been named a National Excellence Award winner in the Louisville market. We treat this as a baseline to maintain, not a finish line. The only way to keep earning it is to keep doing good work.</p>"
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "60px 0px 60px 0px"
+        }
+      },
+      {
+        "kind": "faq",
+        "parts": [
+          {
+            "t": "headline",
+            "tag": "h3",
+            "before": "Frequently Asked",
+            "highlight": "Questions",
+            "after": ""
+          },
+          {
+            "t": "text",
+            "html": "<p>Common questions from Louisville businesses about digital marketing services and what to expect when working with Zoot Web Agency.</p>",
+            "align": "center"
+          },
+          {
+            "t": "faq",
+            "items": [
+              {
+                "q": "How much does digital marketing cost for a Louisville business?",
+                "a": "Louisville is a more affordable market than Nashville or Cincinnati for digital marketing, which means your budget often goes further here. Most small-to-medium businesses spend between $1,200 and $4,000 per month for a meaningful strategy. We do a free audit first and build a custom proposal with clear deliverables before anything starts.",
+                "open": true
+              },
+              {
+                "q": "How long before SEO produces results in Louisville?",
+                "a": "Most Louisville businesses start seeing clear movement within three to six months. Local service businesses often move faster in the Google Maps pack. Healthcare and legal categories take longer due to competition. Louisville's digital marketing market is still less saturated than comparable cities, meaning now is a favorable time to build search authority.",
+                "open": false
+              },
+              {
+                "q": "Do you work with healthcare businesses in Louisville?",
+                "a": "Yes. Healthcare is Louisville's largest industry — Humana and Kindred both have global headquarters here, and the city's hospital systems compete intensely for patient acquisition online. We've worked with medical practices, hospital systems, and health services companies on SEO, content marketing, and patient lead generation. We understand healthcare advertising compliance and work within those guardrails.",
+                "open": false
+              },
+              {
+                "q": "What makes Zoot different from other Louisville digital marketing agencies?",
+                "a": "Month-to-month contracts — no lock-ins. One dedicated account manager who knows your account. Reporting that tells you what your investment produced, not just impressions and clicks. We earn your business every month through results, which means we can't afford to coast on a long-term contract.",
+                "open": false
+              },
+              {
+                "q": "Can you help a Louisville business rank in Google Maps?",
+                "a": "Yes. We optimize your Google Business Profile, fix citation inconsistencies across local directories, build a steady review stream, and handle the local signals that influence map pack rankings. Most Louisville clients see meaningful improvement in the local pack within 60 to 90 days of starting the work.",
+                "open": false
+              }
+            ]
+          },
+          {
+            "t": "faq",
+            "items": [
+              {
+                "q": "Do you build websites for Louisville businesses?",
+                "a": "Yes — all on WordPress with Elementor. Fast, mobile-first, and SEO-ready from launch. We design around your specific audience and the conversion actions that matter most for your Louisville business. You own the site outright and can manage updates without developer dependency.",
+                "open": true
+              },
+              {
+                "q": "Can you manage social media for my Louisville business?",
+                "a": "Yes. We handle strategy, content creation, posting, and paid social on Facebook, Instagram, and LinkedIn. Louisville has strong local identity — Derby City culture, bourbon heritage, local sports — that creates real social media hooks. We build content around what resonates specifically with your Louisville audience.",
+                "open": false
+              },
+              {
+                "q": "Do you work with manufacturing businesses in Louisville?",
+                "a": "Yes. Louisville has a significant manufacturing base — Ford, GE Appliances, and a dense network of suppliers and industrial businesses. We've worked with manufacturing companies on B2B lead generation, SEO, and web design. The approach for industrial and manufacturing businesses is very different from retail or service businesses — we build accordingly.",
+                "open": false
+              },
+              {
+                "q": "How do you handle reporting for Louisville clients?",
+                "a": "Monthly reports that answer what matters: what we did, what it produced, and what's next. Plain language — no 40-page PDFs filled with metrics that don't connect to revenue. You also get live dashboard access and a direct line to your account manager between reports.",
+                "open": false
+              },
+              {
+                "q": "How do I get started with Zoot in Louisville?",
+                "a": "With a free audit. We review your website, search visibility, Google Business Profile, and any ad accounts you're running. We identify the specific gaps and opportunities for a Louisville business in your category and build a proposal with clear deliverables. No obligation — the audit is useful regardless of whether you move forward with us.",
+                "open": false
+              }
+            ]
+          }
+        ],
+        "pad": {
+          "sec": "0px 0px 30px 0px",
+          "box": "60px 0px 0px 0px"
+        }
+      }
+    ]
   }
 }
