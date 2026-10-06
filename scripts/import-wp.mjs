@@ -70,15 +70,25 @@ console.log(`${pages.length} pages, ${posts.length} posts`);
 await rm(OUT, { recursive: true, force: true });
 await mkdir(OUT, { recursive: true });
 
+// WP (Rank Math) redirects this URL elsewhere: keep the redirect. Returns true if it redirected.
+function addRedirect(path, res) {
+  if (res.status < 300 || res.status >= 400) return false;
+  const to = new URL(res.headers.get("location"), WP);
+  redirects.push({ source: path, destination: to.origin === WP ? to.pathname + to.search : to.href, permanent: res.status === 301 || res.status === 308 });
+  return true;
+}
+
+// Header/footer links that aren't WP pages but redirect on WP (e.g. menu "Contact Us" -> /contact/).
+const CHROME_LINKS = ["/contact/"];
+// Images used only by the header/footer (Elementor CSS), so they never show up in page content.
+const CHROME_UPLOADS = ["2025/08/BG-013.jpg"];
+for (const f of CHROME_UPLOADS) uploads.add(`${WP}/wp-content/uploads/${f}`);
+for (const path of CHROME_LINKS) addRedirect(path, await get(WP + path, 4, "manual"));
+
 await pool([...pages, ...posts], 4, async (item) => {
   const path = new URL(item.link).pathname;
   const res = await get(item.link, 4, "manual");
-  if (res.status >= 300 && res.status < 400) {
-    // WP (Rank Math) redirects this page elsewhere: keep the redirect, not the page.
-    const to = new URL(res.headers.get("location"), WP);
-    redirects.push({ source: path, destination: to.origin === WP ? to.pathname + to.search : to.href, permanent: res.status === 301 || res.status === 308 });
-    return;
-  }
+  if (addRedirect(path, res)) return;
   const head = parseHead(await res.text());
   const html = localize(item.content.rendered).replace(/<script[\s\S]*?<\/script>/g, "");
   const doc = {
