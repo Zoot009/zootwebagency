@@ -16,6 +16,8 @@
   --font-tight: var(--nf-inter-tight), sans-serif; /* nav, menus */
   --font-script: var(--nf-amita), cursive; /* accent words in headlines */
   --font-poppins: var(--nf-poppins), sans-serif; /* contact dropdown titles */
+  --font-lato: var(--nf-lato), sans-serif; /* testimonials */
+  --font-nunito: var(--nf-nunito), sans-serif; /* small caps labels */
 
   /* Kit global colors */
   --color-ink: #040e1e; /* page background */
@@ -46,6 +48,35 @@
   --color-footer-icon: #0bd5ff;
   --color-footer-text: #d1d1d1;
   --color-footer-link: #dce7f0;
+
+  /* Homepage section surfaces and accents (page 8461) */
+  --color-night: #01061c; /* hero, stats */
+  --color-night-2: #01071f; /* what-are, team */
+  --color-night-3: #080e25; /* why-choose, trusted */
+  --color-night-4: #030b1d; /* growth */
+  --color-night-5: #0b1220; /* projects */
+  --color-night-6: #04021a; /* AI visibility */
+  --color-night-7: #050e22; /* process */
+  --color-night-8: #03021a; /* testimonials */
+  --color-night-9: #111834; /* FAQ */
+  --color-hero-bar: #30455f; /* website bar */
+  --color-hero-input: #132149;
+  --color-report: #183a6b; /* "Get Report" gradient start (→ blue-3) */
+  --color-stat: #3a6df0;
+  --color-stat-label: #bebdbd;
+  --color-role: #84b9ef; /* team roles */
+  --color-tile: #1c2242; /* service tiles */
+  --color-tile-hover: #152158;
+  --color-tile-hover-2: #001655;
+  --color-tile-icon: #94b8dd;
+  --color-stat-card: #06132e;
+  --color-counter: #4b97e4;
+  --color-counter-title: #e2e2e2;
+  --color-tab-shadow: #023768;
+  --color-process: #0e0257; /* process card overlay gradient start (→ black) */
+  --color-testimonial: #193852;
+  --color-faq: #060a27;
+  --color-cta-accent: #0600d1;
 
   --container-site: 1140px; /* Elementor boxed container */
   --container-footer: 1400px;

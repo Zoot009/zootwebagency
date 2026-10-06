@@ -1,4 +1,4 @@
-import { Amita, DM_Sans, Inter_Tight, Manrope, Poppins } from "next/font/google";
+import { Amita, DM_Sans, Inter_Tight, Lato, Manrope, Nunito_Sans, Poppins } from "next/font/google";
 import Header from "@/components/sections/Header";
 import "./globals.css";
 
@@ -8,12 +8,14 @@ const dmSans = DM_Sans({ variable: "--nf-dm-sans", subsets: ["latin"] });
 const interTight = Inter_Tight({ variable: "--nf-inter-tight", subsets: ["latin"] });
 const amita = Amita({ variable: "--nf-amita", subsets: ["latin"], weight: ["400", "700"] });
 const poppins = Poppins({ variable: "--nf-poppins", subsets: ["latin"], weight: "500" });
+const lato = Lato({ variable: "--nf-lato", subsets: ["latin"], weight: ["400", "700"] });
+const nunito = Nunito_Sans({ variable: "--nf-nunito", subsets: ["latin"] });
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html
       lang="en-US"
-      className={`${manrope.variable} ${dmSans.variable} ${interTight.variable} ${amita.variable} ${poppins.variable} antialiased`}
+      className={`${manrope.variable} ${dmSans.variable} ${interTight.variable} ${amita.variable} ${poppins.variable} ${lato.variable} ${nunito.variable} antialiased`}
     >
       <body className="flex min-h-screen flex-col">
         <a href="#content" className="sr-only focus:not-sr-only focus:absolute focus:z-50 focus:bg-white focus:p-2 focus:text-navy">

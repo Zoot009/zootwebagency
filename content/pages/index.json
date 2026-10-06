@@ -361,5 +361,984 @@
         ]
       }
     ]
-  }
+  },
+  "home": [
+    {
+      "id": "a287d2b",
+      "kind": "hero",
+      "title": {
+        "tag": "h1",
+        "before": "Digital Marketing Agency That Drive Real",
+        "highlight": "Customers to Your Business",
+        "after": "",
+        "hidden": []
+      },
+      "subtitle": "<p><strong>Grow Your Visibility, Leads, and Sales with Proven SEO Strategies</strong></p>",
+      "banner": {
+        "hidden": [
+          "desktop",
+          "laptop",
+          "tablet"
+        ],
+        "src": "/uploads/2026/02/Add-a-heading-2-2048x304-1.png",
+        "alt": "digital marketing services",
+        "width": 2048,
+        "height": 304
+      },
+      "badges": [
+        {
+          "hidden": [],
+          "src": "/uploads/2026/05/google.png",
+          "alt": "",
+          "width": 727,
+          "height": 304
+        },
+        {
+          "hidden": [],
+          "src": "/uploads/2026/05/clutch.png",
+          "alt": "",
+          "width": 662,
+          "height": 304
+        },
+        {
+          "hidden": [],
+          "src": "/uploads/2026/05/tp.png",
+          "alt": "",
+          "width": 596,
+          "height": 304
+        }
+      ],
+      "badgesHidden": [
+        "mobile"
+      ],
+      "intro": "<p>We provide professional <strong>Digital Marketing Services</strong> designed to help your business rank higher in Google search, appear in local results, and attract customers ready to buy. If you&#8217;re looking for reliable <strong>Digital Marketing services near you</strong>, we deliver strategies that generate real results.</p>",
+      "placeholder": "Enter Your Website Here....",
+      "button": {
+        "text": "Get Report",
+        "href": "/contact-zoot-web-agency/"
+      },
+      "image": {
+        "hidden": [
+          "mobile"
+        ],
+        "src": "/uploads/2026/02/KfASKiURLEglp2K702oWlM8EQ-removebg-preview-1.webp",
+        "alt": "digital marketing services",
+        "width": 496,
+        "height": 503
+      }
+    },
+    {
+      "id": "1c13193",
+      "kind": "stats",
+      "items": [
+        {
+          "value": "50%",
+          "label": "Time Reduction"
+        },
+        {
+          "value": "80%",
+          "label": "Cost Saving"
+        },
+        {
+          "value": "3 mins",
+          "label": "Average Answer Time"
+        },
+        {
+          "value": "100%",
+          "label": "Guaranteed Improvements"
+        }
+      ]
+    },
+    {
+      "id": "3363bd4",
+      "kind": "whatAre",
+      "image": {
+        "hidden": [
+          "mobile"
+        ],
+        "src": "/uploads/2026/02/Gemini_Generated_Image_6o46wr6o46wr6o46-removebg-preview-1.webp",
+        "alt": "digital marketing services",
+        "width": 612,
+        "height": 408
+      },
+      "cardA": {
+        "icon": null,
+        "title": "Results from Digital Marketing Services that are Proven and Measurable",
+        "titleTag": "p",
+        "html": "We only offer digital marketing services that work, not ones that make empty promises. Custom plans are made to fit your specific goals, so every<br> effort turns traffic into growth<br> and value that lasts.",
+        "href": null
+      },
+      "title": {
+        "tag": "h2",
+        "before": "What Are",
+        "highlight": "Digital Marketing Services?",
+        "after": "",
+        "hidden": []
+      },
+      "body": "<p><strong>Digital Marketing Services</strong> help businesses grow their online reach through search engines, social media, and paid advertising when customers are looking for what they offer.</p><p>They help you:</p><ul><li>Reach customers across every channel.</li><li>Build a stronger online presence.</li><li>Generate more leads and sales.</li></ul>",
+      "cardB": {
+        "icon": null,
+        "title": "A wealth of knowledge across digital marketing services",
+        "titleTag": "p",
+        "html": "We are the best at delivering digital marketing services, full stop. Our work has proven itself time and time again, helping clients win qualified leads and a strong return on investment (ROI) through sharp strategy, data-driven execution, and continuous optimization.",
+        "href": null
+      }
+    },
+    {
+      "id": "d0ae128",
+      "kind": "whyChoose",
+      "kicker": {
+        "tag": "h3",
+        "before": "WHY",
+        "highlight": "CHOOSE US",
+        "after": "",
+        "hidden": []
+      },
+      "body": "<h4><strong>Why Choose Our Digital Marketing Services Company</strong></h4><p>Affordable digital marketing services built around your business<br>Proven strategies focused on real, measurable growth<br >Transparent and straightforward process from day one<br >Long-term results without shortcuts</p>",
+      "video": {
+        "youtube": "https://youtu.be/bbH7j7qgNGo",
+        "overlay": "/uploads/2026/03/Group-Photo-scaled.png"
+      }
+    },
+    {
+      "id": "f67f928",
+      "kind": "team",
+      "title": {
+        "tag": "h3",
+        "before": "Meet The Minds",
+        "highlight": "Behind Zoot",
+        "after": "",
+        "hidden": []
+      },
+      "intro": "<p>A multidisciplinary team of developers, designers, and SEO strategists creating high-performance digital solutions that drive measurable business growth.</p>",
+      "leads": [
+        {
+          "image": {
+            "hidden": [],
+            "src": "/uploads/2026/01/420ceb3c-249a-47b9-8d2b-509fa1c94ad5.jpg",
+            "alt": "",
+            "width": 1600,
+            "height": 1600
+          },
+          "name": "Prasad Pol",
+          "nameTag": "h3",
+          "role": "Director/Founder",
+          "hidden": []
+        },
+        {
+          "image": {
+            "hidden": [],
+            "src": "/uploads/2026/01/WhatsApp-Image-2026-01-03-at-4.43.11-PM.jpeg",
+            "alt": "mangesh sir",
+            "width": 1600,
+            "height": 1600
+          },
+          "name": "Mageshwaram",
+          "nameTag": "h3",
+          "role": "Manager",
+          "hidden": []
+        },
+        {
+          "image": {
+            "hidden": [],
+            "src": "/uploads/2026/01/WhatsApp-Image-2026-01-03-at-4.43.12-PM.jpeg",
+            "alt": "aishwrya",
+            "width": 1600,
+            "height": 1600
+          },
+          "name": "Aishwarya",
+          "nameTag": "h3",
+          "role": "Human Resources (HR)",
+          "hidden": []
+        },
+        {
+          "image": {
+            "hidden": [],
+            "src": "/uploads/2025/12/IMG_6538-1.png",
+            "alt": "divya",
+            "width": 1986,
+            "height": 1983
+          },
+          "name": "Divya",
+          "nameTag": "h3",
+          "role": "SEO Specialists(Team Leader)",
+          "hidden": [
+            "laptop",
+            "tablet",
+            "mobile"
+          ]
+        },
+        {
+          "image": {
+            "hidden": [],
+            "src": "/uploads/2026/01/1766754965485-1.png",
+            "alt": "Karuna",
+            "width": 2054,
+            "height": 2054
+          },
+          "name": "Karuna",
+          "nameTag": "h3",
+          "role": "Team Leader",
+          "hidden": [
+            "laptop",
+            "tablet",
+            "mobile"
+          ]
+        },
+        {
+          "image": {
+            "hidden": [],
+            "src": "/uploads/2026/01/1766748806595-scaled.png",
+            "alt": "",
+            "width": 2560,
+            "height": 2560
+          },
+          "name": "Simran",
+          "nameTag": "h3",
+          "role": "Sr. Web Developer ( Operational Project Head)",
+          "hidden": []
+        }
+      ],
+      "members": [
+        {
+          "image": {
+            "hidden": [],
+            "src": "/uploads/2026/01/1766747590476-150x150.png",
+            "alt": "Neha (SEO Executive)"
+          },
+          "caption": "Neha (SEO Executive)"
+        },
+        {
+          "image": {
+            "hidden": [],
+            "src": "/uploads/2026/01/1766749589221-150x150.png",
+            "alt": "Tejas  (SEO Executive)"
+          },
+          "caption": "Tejas (SEO Executive)"
+        },
+        {
+          "image": {
+            "hidden": [],
+            "src": "/uploads/2026/01/1766559551047-150x150.png",
+            "alt": "Shweta ( Web Developer)"
+          },
+          "caption": "Shweta ( Web Developer)"
+        },
+        {
+          "image": {
+            "hidden": [],
+            "src": "/uploads/2026/01/1766755461727-1-150x150.png",
+            "alt": "Shahnawaz  (SEO Executive)"
+          },
+          "caption": "Shahnawaz (SEO Executive)"
+        },
+        {
+          "image": {
+            "hidden": [],
+            "src": "/uploads/2026/01/1766817235049-1-150x150.png",
+            "alt": "Monika  (SEO Executive)"
+          },
+          "caption": "Monika (SEO Executive)"
+        },
+        {
+          "image": {
+            "hidden": [],
+            "src": "/uploads/2025/12/1766748856038-150x150.png",
+            "alt": "Shridhar (Web Developer)"
+          },
+          "caption": "Shridhar (Web Developer)"
+        },
+        {
+          "image": {
+            "hidden": [],
+            "src": "/uploads/2025/12/1766816951689-150x150.png",
+            "alt": "Kritika (SEO Executive)"
+          },
+          "caption": "Kritika (SEO Executive)"
+        },
+        {
+          "image": {
+            "hidden": [],
+            "src": "/uploads/2025/12/1766568107249-150x150.png",
+            "alt": "Alfiya (Web Developer )"
+          },
+          "caption": "Alfiya (Web Developer )"
+        },
+        {
+          "image": {
+            "hidden": [],
+            "src": "/uploads/2025/12/1766560570946-150x150.png",
+            "alt": "Jagdish (Web Developer)"
+          },
+          "caption": "Jagdish (Web Developer)"
+        },
+        {
+          "image": {
+            "hidden": [],
+            "src": "/uploads/2025/12/1766560100540-150x150.png",
+            "alt": "Surya (Web Developer)"
+          },
+          "caption": "Surya (Web Developer)"
+        },
+        {
+          "image": {
+            "hidden": [],
+            "src": "/uploads/2025/12/1766749418689-150x150.png",
+            "alt": "Kunal (Web Developer)"
+          },
+          "caption": "Kunal (Web Developer)"
+        },
+        {
+          "image": {
+            "hidden": [],
+            "src": "/uploads/2025/12/1-150x150.png",
+            "alt": "Sneha (SEO Executive)"
+          },
+          "caption": "Sneha (SEO Executive)"
+        },
+        {
+          "image": {
+            "hidden": [],
+            "src": "/uploads/2025/12/1766560038242-150x150.png",
+            "alt": "Prathana (SEO Executive)"
+          },
+          "caption": "Prathana (SEO Executive)"
+        },
+        {
+          "image": {
+            "hidden": [],
+            "src": "/uploads/2025/12/1766747822428-150x150.png",
+            "alt": "Maahi (SEO Executive)"
+          },
+          "caption": "Maahi (SEO Executive)"
+        },
+        {
+          "image": {
+            "hidden": [],
+            "src": "/uploads/2025/12/1766559504338-150x150.png",
+            "alt": "teams"
+          },
+          "caption": "Sopan (Sr. Software Developer)"
+        }
+      ]
+    },
+    {
+      "id": "aef2674",
+      "kind": "trusted",
+      "left": [
+        {
+          "kind": "headline",
+          "tag": "h2",
+          "before": "Your Trusted Partner for",
+          "highlight": "Digital Marketing Services",
+          "after": "",
+          "hidden": []
+        },
+        {
+          "kind": "html",
+          "id": "75bbdbb",
+          "html": "<p>Since 2016, Zoot Web Agency&#8217;s digital marketing services have helped businesses grow. Every plan we build is focused on results that can be tracked, measured, and verified.</p> <p>We help businesses grow with effective <strong>Digital Marketing Services for small business</strong> owners who want more visibility, more leads, and consistent growth.</p> <p>Our approach focuses on:</p> <ul> <li>Growing your presence across digital channels</li> <li>Attracting high-intent customers</li> <li>Converting visitors into real leads</li> </ul>",
+          "hidden": []
+        },
+        {
+          "kind": "headline",
+          "tag": "h4",
+          "before": "Our Client Base",
+          "highlight": "",
+          "after": "",
+          "hidden": []
+        },
+        {
+          "kind": "html",
+          "id": "c7114b9",
+          "html": "<p>We provide expert <strong>Digital Marketing Services UK</strong> businesses trust to improve rankings and visibility. Our strategies are designed to help businesses succeed in competitive areas like <strong>Digital Marketing Services London</strong>, Manchester, and Liverpool.</p><p>If you are looking for <strong>targeted digital marketing Liverpool</strong> solutions or reliable local SEO support, we ensure your business appears in front of the right audience.</p>",
+          "hidden": []
+        },
+        {
+          "kind": "headline",
+          "tag": "h4",
+          "before": "Real Results from Our Digital Marketing Services",
+          "highlight": "",
+          "after": "",
+          "hidden": []
+        },
+        {
+          "kind": "html",
+          "id": "764cda7",
+          "html": "<p>Our <strong>Digital Marketing Services</strong> are focused on delivering measurable outcomes:</p><p>Higher search rankings <br>More calls and inquiries<br>Increased local visibility<br >More customers and sales</p>",
+          "hidden": []
+        },
+        {
+          "kind": "headline",
+          "tag": "h4",
+          "before": "CASE STUDY",
+          "highlight": "",
+          "after": "",
+          "hidden": []
+        },
+        {
+          "kind": "html",
+          "id": "9dae217",
+          "html": "<p><strong>Challenge:</strong> Low visibility and fewer leads</p> <p><strong>What We Did:</strong></p> <ul> <li>Targeted high-intent keywords across digital channels</li> <li>Optimised website structure for better performance</li> <li>Strengthened online presence and business profiles</li> </ul> <p><strong>Result:</strong> Improved rankings<br> Increased customer inquiries</p>",
+          "hidden": []
+        },
+        {
+          "kind": "html",
+          "id": "95c27c1",
+          "html": "<p><a href=\"/seo-case-study/\">View case study</a> </p>",
+          "hidden": []
+        }
+      ],
+      "tiles": [
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\" fill=\"none\"><circle cx=\"25\" cy=\"25\" r=\"16\" stroke=\"#0A84FF\" stroke-width=\"2\"></circle><circle cx=\"24\" cy=\"26\" r=\"5\" stroke=\"#0A84FF\" stroke-width=\"2\"></circle><path d=\"M29 24.5H37\" stroke=\"#0A84FF\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M28 22L35 15\" stroke=\"#0A84FF\" stroke-width=\"2\" stroke-linecap=\"round\"></path></svg>",
+          "title": "GBP Optimization",
+          "titleTag": "p",
+          "html": "",
+          "href": "/digital-marketing-services/google-business-profile-optimization/"
+        },
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><g fill=\"none\" stroke=\"#1E90FF\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"10\" y=\"10\" width=\"44\" height=\"44\" rx=\"6\" ry=\"6\"></rect><polyline points=\"20,34 28,42 44,24\"></polyline></g></svg>",
+          "title": "Web Design Services",
+          "titleTag": "p",
+          "html": "",
+          "href": "/digital-marketing-services/website-design/"
+        },
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><g fill=\"none\" stroke=\"#1E90FF\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M8 12h8l8 28h24l8-20H22\"></path><circle cx=\"28\" cy=\"52\" r=\"3\" fill=\"#1E90FF\" stroke=\"none\"></circle><circle cx=\"48\" cy=\"52\" r=\"3\" fill=\"#1E90FF\" stroke=\"none\"></circle></g></svg>",
+          "title": "Local Citation Building",
+          "titleTag": "p",
+          "html": "",
+          "href": "/digital-marketing-services/local-citation-building/"
+        },
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><g fill=\"none\" stroke=\"#1E90FF\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M22 34l-6 6a10 10 0 1 0 14 14l6-6\"></path><path d=\"M42 30l6-6a10 10 0 1 0-14-14l-6 6\"></path><line x1=\"24\" y1=\"40\" x2=\"40\" y2=\"24\"></line></g></svg>",
+          "title": "Link Building",
+          "titleTag": "p",
+          "html": "",
+          "href": "/digital-marketing-services/link-building/"
+        },
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><g fill=\"#1E90FF\"><circle cx=\"26\" cy=\"26\" r=\"14\" fill=\"none\" stroke=\"#1E90FF\" stroke-width=\"6\"></circle><rect x=\"36\" y=\"36\" width=\"16\" height=\"6\" rx=\"3\" ry=\"3\" transform=\"rotate(45 36 36)\"></rect></g></svg>",
+          "title": "Local SEO Keywords Research",
+          "titleTag": "p",
+          "html": "",
+          "href": "/digital-marketing-services/on-page-seo/"
+        },
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><g fill=\"none\" stroke=\"#1E90FF\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M38 6a14 14 0 0 0-12 20L8 44a6 6 0 1 0 8 8l18-18A14 14 0 0 0 54 22l-8 6-6-6 6-8A14 14 0 0 0 38 6z\"></path></g></svg>",
+          "title": "On-Page Optimization",
+          "titleTag": "p",
+          "html": "",
+          "href": "/digital-marketing-services/on-page-seo/"
+        },
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\" fill=\"none\"><circle cx=\"25\" cy=\"25\" r=\"16\" stroke=\"#0A84FF\" stroke-width=\"2\"></circle><circle cx=\"24\" cy=\"26\" r=\"5\" stroke=\"#0A84FF\" stroke-width=\"2\"></circle><path d=\"M29 24.5H37\" stroke=\"#0A84FF\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M28 22L35 15\" stroke=\"#0A84FF\" stroke-width=\"2\" stroke-linecap=\"round\"></path></svg>",
+          "title": "Technical SEO Optimization",
+          "titleTag": "p",
+          "html": "",
+          "href": "/digital-marketing-services/technical-seo-optimization/"
+        },
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><g fill=\"none\" stroke=\"#1E90FF\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"6,34 20,48 42,26\"></polyline><polyline points=\"22,18 36,32 58,10\"></polyline></g></svg>",
+          "title": "Local SEO Content Writing",
+          "titleTag": "p",
+          "html": "",
+          "href": "/digital-marketing-services/seo-content-writing/"
+        },
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><g fill=\"none\" stroke=\"#1E90FF\" stroke-width=\"5\"><circle cx=\"32\" cy=\"32\" r=\"18\"></circle><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"#1E90FF\" stroke=\"none\"></circle></g></svg>",
+          "title": "Local Ads",
+          "titleTag": "p",
+          "html": "",
+          "href": "/digital-marketing-services/google-ads-management/"
+        },
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><g fill=\"none\" stroke=\"#1E90FF\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M22 34l-6 6a10 10 0 1 0 14 14l6-6\"></path><path d=\"M42 30l6-6a10 10 0 1 0-14-14l-6 6\"></path><line x1=\"24\" y1=\"40\" x2=\"40\" y2=\"24\"></line></g></svg>",
+          "title": "Search Engine Marketing (SEM)",
+          "titleTag": "p",
+          "html": "",
+          "href": "/digital-marketing-services/google-ads-management/"
+        },
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><g fill=\"none\" stroke=\"#1E90FF\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"8\" y=\"12\" width=\"48\" height=\"32\" rx=\"3\" ry=\"3\"></rect><line x1=\"24\" y1=\"48\" x2=\"40\" y2=\"48\"></line><line x1=\"32\" y1=\"44\" x2=\"32\" y2=\"56\"></line><rect x=\"20\" y=\"56\" width=\"24\" height=\"4\" rx=\"2\"></rect><circle cx=\"32\" cy=\"28\" r=\"8\"></circle><path d=\"M32 22v12\"></path><path d=\"M28 24c0-1.5 1.8-2.5 4-2.5s4 1 4 2.5-1.8 2.5-4 2.5-4 1-4 2.5 1.8 2.5 4 2.5 4-1 4-2.5\"></path></g></svg>",
+          "title": "Email Marketing Services",
+          "titleTag": "p",
+          "html": "",
+          "href": "/digital-marketing-services/email-marketing-services/"
+        },
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><line x1=\"29.200\" y1=\"24.000\" x2=\"42.200\" y2=\"24.000\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"28.886\" y1=\"25.779\" x2=\"41.102\" y2=\"30.225\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"27.983\" y1=\"27.342\" x2=\"37.942\" y2=\"35.699\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"26.600\" y1=\"28.503\" x2=\"33.100\" y2=\"39.762\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"24.903\" y1=\"29.121\" x2=\"27.160\" y2=\"41.924\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"23.097\" y1=\"29.121\" x2=\"20.840\" y2=\"41.924\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"21.400\" y1=\"28.503\" x2=\"14.900\" y2=\"39.762\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"20.017\" y1=\"27.342\" x2=\"10.058\" y2=\"35.699\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"19.114\" y1=\"25.779\" x2=\"6.898\" y2=\"30.225\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"18.800\" y1=\"24.000\" x2=\"5.800\" y2=\"24.000\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"19.114\" y1=\"22.221\" x2=\"6.898\" y2=\"17.775\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"20.017\" y1=\"20.658\" x2=\"10.058\" y2=\"12.301\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"21.400\" y1=\"19.497\" x2=\"14.900\" y2=\"8.238\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"23.097\" y1=\"18.879\" x2=\"20.840\" y2=\"6.076\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"24.903\" y1=\"18.879\" x2=\"27.160\" y2=\"6.076\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"26.600\" y1=\"19.497\" x2=\"33.100\" y2=\"8.238\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"27.983\" y1=\"20.658\" x2=\"37.942\" y2=\"12.301\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"28.886\" y1=\"22.221\" x2=\"41.102\" y2=\"17.775\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line></svg>",
+          "title": "AI SEO Services",
+          "titleTag": "p",
+          "html": "",
+          "href": "/digital-marketing-services/ai-seo-services/"
+        }
+      ],
+      "cardTitle": "<p>Complete <strong>Digital Marketing Services</strong> for Better Rankings</p>",
+      "cardStats": [
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><rect x=\"8\" y=\"36\" width=\"6\" height=\"16\" fill=\"#2F80ED\"></rect><rect x=\"20\" y=\"28\" width=\"6\" height=\"24\" fill=\"#2F80ED\"></rect><rect x=\"32\" y=\"20\" width=\"6\" height=\"32\" fill=\"#2F80ED\"></rect><path d=\"M10 30 L26 18 L42 10\" stroke=\"#2F80ED\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><polyline points=\"36,10 42,10 42,16\" stroke=\"#2F80ED\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></polyline></svg>",
+          "title": "+664%",
+          "titleTag": "p",
+          "html": "Organic Traffic",
+          "href": null
+        },
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><circle cx=\"32\" cy=\"16\" r=\"4\" stroke=\"#2F80ED\" stroke-width=\"3\" fill=\"none\"></circle><circle cx=\"32\" cy=\"32\" r=\"4\" stroke=\"#2F80ED\" stroke-width=\"3\" fill=\"none\"></circle><circle cx=\"32\" cy=\"48\" r=\"4\" stroke=\"#2F80ED\" stroke-width=\"3\" fill=\"none\"></circle></svg>",
+          "title": "+360%",
+          "titleTag": "p",
+          "html": "Online Leads",
+          "href": null
+        }
+      ],
+      "cardBody": "<p>We provide everything needed to improve your online presence:</p><ul><li><a href=\"/technical-seo-optimization/\">Technical SEO Optimization</a></li><li><a href=\"/keyword-research-strategy/#digital-marketing\">Keyword Research Strategy</a></li><li>On-Page SEO Optimization</li><li><a href=\"/google-business-profile-optimization/\">Google Business Profile Optimization</a></li><li><a href=\"/local-citation-building/\">Local Citation Building</a></li><li><a href=\"/link-building/\">Link Building Services</a></li><li>SEO Content Writing</li></ul><p>We also offer<a href=\"https://www.viralchilly.com/white-label-local-seo\" target=\"_blank\" rel=\"noopener\"> white label local SEO services </a>for agencies looking to scale their SEO solutions.</p>"
+    },
+    {
+      "id": "80c3180",
+      "kind": "growth",
+      "image": {
+        "hidden": [],
+        "src": "/uploads/elementor/thumbs/1-scaled-rl14kd7zavxm64t69gd0m98shkni8oqkxzq6bia45c.png",
+        "alt": "digital marketing services"
+      },
+      "title": {
+        "tag": "h3",
+        "before": "Get Digital Marketing Services to",
+        "highlight": "Speed Up Your Growth",
+        "after": "",
+        "hidden": []
+      },
+      "body": "<p>Zoot Web Agency&#8217;s digital marketing services are built around helping your business grow online in a way that genuinely impacts your bottom line. Everything we do is grounded in data and focused on delivering results you can actually see.</p><p>We combine the latest tools with years of hands-on industry experience to keep your business ahead of the competition. Every digital marketing solution we put together is built to scale as your business grows.</p>",
+      "boxTitle": {
+        "tag": "h3",
+        "before": "Not just another vendor, but your",
+        "highlight": "Digital Marketing Services partner",
+        "after": "",
+        "hidden": []
+      },
+      "boxBody": "Our full range of digital marketing services will strengthen your online presence and bring in measurable sales. We don&#8217;t use cookie-cutter plans. We tailor every digital marketing campaign to your specific goals, audience, industry, and budget. Our digital marketing specialists have helped a lot of businesses grow. We can do the same for you."
+    },
+    {
+      "id": "e619329",
+      "kind": "projects",
+      "title": {
+        "tag": "h3",
+        "before": "Local SEO Projects,",
+        "highlight": "We are Proud of",
+        "after": "",
+        "hidden": []
+      },
+      "intro": "<p>A skilled team of strategists, designers, and developers delivering digital solutions that drive real business results.</p>",
+      "items": [
+        {
+          "image": {
+            "hidden": [],
+            "src": "/uploads/2026/04/WhatsApp-Image-2026-04-02-at-10.31.17-AM.jpeg",
+            "alt": "digital marketing services",
+            "width": 1536,
+            "height": 1024
+          },
+          "href": "https://nexusinnovationscapital.com/",
+          "title": "Nexus Innovations Capital",
+          "titleTag": "p",
+          "tags": [
+            "Web Development,",
+            "Wireframe & Prototyping"
+          ]
+        },
+        {
+          "image": {
+            "hidden": [],
+            "src": "/uploads/2026/04/WhatsApp-Image-2026-04-02-at-10.47.03-AM.jpeg",
+            "alt": "digital marketing services",
+            "width": 1536,
+            "height": 1024
+          },
+          "href": "https://blueantinc.com/",
+          "title": "Blue ant",
+          "titleTag": "p",
+          "tags": [
+            "Web Development,",
+            "Branding,",
+            "Marketing"
+          ]
+        },
+        {
+          "image": {
+            "hidden": [],
+            "src": "/uploads/2026/04/WhatsApp-Image-2026-04-02-at-10.59.51-AM.jpeg",
+            "alt": "digital marketing services",
+            "width": 1536,
+            "height": 1024
+          },
+          "href": "https://edeneventcenter.net/",
+          "title": "Eden Event Center",
+          "titleTag": "p",
+          "tags": [
+            "Branding,",
+            "User Research,",
+            "Corporate Identity"
+          ]
+        },
+        {
+          "image": {
+            "hidden": [],
+            "src": "/uploads/2026/04/WhatsApp-Image-2026-04-02-at-11.29.08-AM.jpeg",
+            "alt": "digital marketing services",
+            "width": 1536,
+            "height": 1024
+          },
+          "href": "https://searchlightsocial.com/",
+          "title": "SEARCHLIGHT SOCIAL",
+          "titleTag": "p",
+          "tags": [
+            "Web Development,",
+            "User Interface,",
+            "Web Design"
+          ]
+        },
+        {
+          "image": {
+            "hidden": [],
+            "src": "/uploads/2026/04/WhatsApp-Image-2026-04-02-at-11.47.17-AM.jpeg",
+            "alt": "digital marketing services",
+            "width": 1536,
+            "height": 1024
+          },
+          "href": "https://appliancerepair2rescue.com/",
+          "title": "Appliance Repair Service",
+          "titleTag": "p",
+          "tags": [
+            "UI & UX design,",
+            "Branding,",
+            "Marketing"
+          ]
+        },
+        {
+          "image": {
+            "hidden": [],
+            "src": "/uploads/2026/04/WhatsApp-Image-2026-04-02-at-11.52.37-AM.jpeg",
+            "alt": "digital marketing services",
+            "width": 1536,
+            "height": 1024
+          },
+          "href": "https://heatboxheating.com/",
+          "title": "Heatbox Heating",
+          "titleTag": "p",
+          "tags": [
+            "Front-End Development,",
+            "Product Design"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8145648",
+      "kind": "ai",
+      "title": {
+        "tag": "h3",
+        "before": "The Best Zoot Web Agency",
+        "highlight": "for AI‑Driven Local Visibility",
+        "after": "",
+        "hidden": []
+      },
+      "subtitle": "<p>Empowering LocalBusinesses to Lead in Large Language Model Search</p>",
+      "counters": [
+        {
+          "title": "Local AI Referral Traffic",
+          "prefix": "+",
+          "value": 5556,
+          "separator": ",",
+          "suffix": "%"
+        },
+        {
+          "title": "Local AI Referral Traffic",
+          "prefix": "+",
+          "value": 404,
+          "separator": ",",
+          "suffix": "%"
+        },
+        {
+          "title": "ChatGPT Search Traffic",
+          "prefix": "+",
+          "value": 1078,
+          "separator": ",",
+          "suffix": "%"
+        }
+      ],
+      "body": "Rapid advances in generative AI have changed how audiences discover businesses online. Traditional digital marketing alone is no longer enough to capture every potential customer searching today. Zoot Web Agency tests and refines AI-driven digital marketing strategies for large language models in-house. So while other agencies experiment with your budget, our digital marketing services are already delivering results.",
+      "tabsHidden": [
+        "mobile"
+      ],
+      "tabs": [
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><line x1=\"29.200\" y1=\"24.000\" x2=\"42.200\" y2=\"24.000\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"28.886\" y1=\"25.779\" x2=\"41.102\" y2=\"30.225\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"27.983\" y1=\"27.342\" x2=\"37.942\" y2=\"35.699\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"26.600\" y1=\"28.503\" x2=\"33.100\" y2=\"39.762\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"24.903\" y1=\"29.121\" x2=\"27.160\" y2=\"41.924\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"23.097\" y1=\"29.121\" x2=\"20.840\" y2=\"41.924\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"21.400\" y1=\"28.503\" x2=\"14.900\" y2=\"39.762\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"20.017\" y1=\"27.342\" x2=\"10.058\" y2=\"35.699\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"19.114\" y1=\"25.779\" x2=\"6.898\" y2=\"30.225\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"18.800\" y1=\"24.000\" x2=\"5.800\" y2=\"24.000\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"19.114\" y1=\"22.221\" x2=\"6.898\" y2=\"17.775\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"20.017\" y1=\"20.658\" x2=\"10.058\" y2=\"12.301\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"21.400\" y1=\"19.497\" x2=\"14.900\" y2=\"8.238\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"23.097\" y1=\"18.879\" x2=\"20.840\" y2=\"6.076\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"24.903\" y1=\"18.879\" x2=\"27.160\" y2=\"6.076\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"26.600\" y1=\"19.497\" x2=\"33.100\" y2=\"8.238\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"27.983\" y1=\"20.658\" x2=\"37.942\" y2=\"12.301\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"28.886\" y1=\"22.221\" x2=\"41.102\" y2=\"17.775\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line></svg>",
+          "iconClass": null,
+          "items": [
+            {
+              "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><line x1=\"29.200\" y1=\"24.000\" x2=\"42.200\" y2=\"24.000\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"28.886\" y1=\"25.779\" x2=\"41.102\" y2=\"30.225\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"27.983\" y1=\"27.342\" x2=\"37.942\" y2=\"35.699\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"26.600\" y1=\"28.503\" x2=\"33.100\" y2=\"39.762\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"24.903\" y1=\"29.121\" x2=\"27.160\" y2=\"41.924\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"23.097\" y1=\"29.121\" x2=\"20.840\" y2=\"41.924\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"21.400\" y1=\"28.503\" x2=\"14.900\" y2=\"39.762\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"20.017\" y1=\"27.342\" x2=\"10.058\" y2=\"35.699\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"19.114\" y1=\"25.779\" x2=\"6.898\" y2=\"30.225\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"18.800\" y1=\"24.000\" x2=\"5.800\" y2=\"24.000\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"19.114\" y1=\"22.221\" x2=\"6.898\" y2=\"17.775\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"20.017\" y1=\"20.658\" x2=\"10.058\" y2=\"12.301\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"21.400\" y1=\"19.497\" x2=\"14.900\" y2=\"8.238\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"23.097\" y1=\"18.879\" x2=\"20.840\" y2=\"6.076\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"24.903\" y1=\"18.879\" x2=\"27.160\" y2=\"6.076\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"26.600\" y1=\"19.497\" x2=\"33.100\" y2=\"8.238\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"27.983\" y1=\"20.658\" x2=\"37.942\" y2=\"12.301\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line><line x1=\"28.886\" y1=\"22.221\" x2=\"41.102\" y2=\"17.775\" stroke=\"#008FEF\" stroke-width=\"4\" stroke-linecap=\"round\"></line></svg>",
+              "title": "Local Search AI Visibility",
+              "titleTag": "p",
+              "html": "Our digital marketing services help businesses get discovered through AI-driven search insights, prioritizing zero-click results over traditional listings. We optimize content for conversational queries and topic clusters, building authority that AI models actually recognize and reference.",
+              "href": null
+            }
+          ]
+        },
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><g fill=\"none\" stroke=\"#1E90FF\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"10\" y=\"10\" width=\"44\" height=\"44\" rx=\"6\" ry=\"6\"></rect><polyline points=\"20,34 28,42 44,24\"></polyline></g></svg>",
+          "iconClass": null,
+          "items": [
+            {
+              "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><g fill=\"none\" stroke=\"#1E90FF\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"10\" y=\"10\" width=\"44\" height=\"44\" rx=\"6\" ry=\"6\"></rect><polyline points=\"20,34 28,42 44,24\"></polyline></g></svg>",
+              "title": "AI Overviews Visibility",
+              "titleTag": "p",
+              "html": "Get cited as a trusted source in Google AI Overviews and drive traffic even when users don't click through traditional results. Our LLM-powered digital marketing approach structures content to answer layered user queries, earning authentic reviews and boosting your online presence.",
+              "href": null
+            }
+          ]
+        },
+        {
+          "icon": null,
+          "iconClass": "xlio ion-ios-chatbubbles",
+          "items": [
+            {
+              "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><g fill=\"none\" stroke=\"#1E90FF\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M22 34l-6 6a10 10 0 1 0 14 14l6-6\"></path><path d=\"M42 30l6-6a10 10 0 1 0-14-14l-6 6\"></path><line x1=\"24\" y1=\"40\" x2=\"40\" y2=\"24\"></line></g></svg>",
+              "title": "ChatGPT Search Optimization",
+              "titleTag": "p",
+              "html": "Zoot Web Agency leverages AI-driven search insights to help businesses get discovered, prioritizing zero-click results over traditional listings. Our digital marketing specialists optimize content for conversational queries and topic clusters, establishing authority that AI recognizes.",
+              "href": null
+            }
+          ]
+        },
+        {
+          "icon": null,
+          "iconClass": "phl phlight-star-four",
+          "items": [
+            {
+              "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><g fill=\"none\" stroke=\"#1E90FF\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M38 6a14 14 0 0 0-12 20L8 44a6 6 0 1 0 8 8l18-18A14 14 0 0 0 54 22l-8 6-6-6 6-8A14 14 0 0 0 38 6z\"></path></g></svg>",
+              "title": "Gemini Search Optimization",
+              "titleTag": "p",
+              "html": "Zoot Web Agency uses AI-driven search insights to help businesses get discovered, prioritizing zero-click results over traditional listings. Our digital marketing specialists optimize content for conversational queries and topic clusters, establishing authority that AI recognizes.",
+              "href": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "70eb3cbf",
+      "kind": "process",
+      "badge": {
+        "emoji": "⏳",
+        "label": "Our PROCESS"
+      },
+      "title": {
+        "tag": "h4",
+        "html": "<span><span>How We Grow Your Revenue </span></span>"
+      },
+      "body": "<div> <div> <div> <div> Zoot Web Agency stands apart from the thousands of marketing firms through proprietary technology that gives you complete visibility into your performance across channels. Our advanced tools give clients a distinct advantage by transforming raw data into clear, actionable insights. Paired with our proven, strategy-first approach, these tools maximize budget efficiency and deliver measurable, meaningful results. </div> </div> </div> </div>",
+      "items": [
+        {
+          "icon": "<svg xmlns:inkscape=\"http://www.inkscape.org/namespaces/inkscape\" xmlns:sodipodi=\"http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:svg=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#0A84FF\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" id=\"svg5\" sodipodi:docname=\"13def74c-4aea-4226-b94e-151782950ae7.svg\"><defs id=\"defs5\"></defs><path d=\"M16 3h5v5\" id=\"path1\"></path><path d=\"M4 20L21 3\" id=\"path2\"></path><path d=\"M21 16v5h-5\" id=\"path3\"></path><path d=\"M15 15l6 6\" id=\"path4\"></path><path d=\"M4 4l6 6\" id=\"path5\"></path></svg>",
+          "title": "Zoot Score",
+          "text": "We utilize a scoring matrix with over 150 factors",
+          "href": "#"
+        },
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><g fill=\"none\" stroke=\"#1E90FF\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"10\" y=\"10\" width=\"44\" height=\"44\" rx=\"6\" ry=\"6\"></rect><polyline points=\"20,34 28,42 44,24\"></polyline></g></svg>",
+          "title": "Zoot Stats",
+          "text": "This helps you understand your campaign status.",
+          "href": "#"
+        },
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><rect x=\"8\" y=\"36\" width=\"6\" height=\"16\" fill=\"#2F80ED\"></rect><rect x=\"20\" y=\"28\" width=\"6\" height=\"24\" fill=\"#2F80ED\"></rect><rect x=\"32\" y=\"20\" width=\"6\" height=\"32\" fill=\"#2F80ED\"></rect><path d=\"M10 30 L26 18 L42 10\" stroke=\"#2F80ED\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><polyline points=\"36,10 42,10 42,16\" stroke=\"#2F80ED\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></polyline></svg>",
+          "title": "Zoot Growth Formula",
+          "text": "We take a strategy-first approach",
+          "href": "#"
+        },
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100\" height=\"100\" viewBox=\"0 0 24 24\" fill=\"none\"><path d=\"M2 5C2 3.89543 2.89543 3 4 3H20C21.1046 3 22 3.89543 22 5V15C22 16.1046 21.1046 17 20 17H4C2.89543 17 2 16.1046 2 15V5Z\" stroke=\"#0A65C3\" stroke-width=\"1.5\" stroke-linejoin=\"round\"></path><path d=\"M10 17V20\" stroke=\"#0A65C3\" stroke-width=\"1.5\" stroke-linecap=\"round\"></path><path d=\"M6 21H18\" stroke=\"#0A65C3\" stroke-width=\"1.5\" stroke-linecap=\"round\"></path><circle cx=\"12\" r=\"1\" cy=\"17\" fill=\"#0A65C3\"></circle><mask id=\"screen-mask\"><rect x=\"3.5\" y=\"4.5\" width=\"17\" height=\"11\" rx=\"1\" fill=\"white\"></rect><path d=\"M15 6L18 9\" stroke=\"black\" stroke-width=\"1\" stroke-linecap=\"round\"></path><path d=\"M17 7L20 10\" stroke=\"black\" stroke-width=\"1\" stroke-linecap=\"round\"></path></mask><rect x=\"3.5\" y=\"4.5\" width=\"17\" height=\"11\" rx=\"1\" fill=\"#0A65C3\" mask=\"url(#screen-mask)\"></rect><rect x=\"3.5\" y=\"4.5\" width=\"17\" height=\"11\" rx=\"1\" stroke=\"#0A65C3\" stroke-width=\"0.5\"></rect></svg>",
+          "title": "Zoot AI",
+          "text": "Smarter Insights. Faster Digital Growth",
+          "href": "#"
+        }
+      ]
+    },
+    {
+      "id": "6e7982c1",
+      "kind": "testimonialsIntro",
+      "badge": {
+        "emoji": "⭐",
+        "label": "Testimonials"
+      },
+      "title": {
+        "tag": "h4",
+        "before": "Real First Impressions.",
+        "highlight": "Real Results.",
+        "after": "",
+        "hidden": []
+      },
+      "body": "<p>Hear from our clients about working with Zoot Web Agency and the measurable results we helped them achieve.</p>"
+    },
+    {
+      "id": "2522402d",
+      "kind": "testimonials",
+      "items": [
+        {
+          "html": "<p>We hired Zoot web agency for Google My Business SEO services and the results have been outstanding. Our local visibility improved quickly, our listing is now optimized correctly, and we’re getting more calls and in-store traffic than before. They clearly understand local SEO, maps ranking, reviews, and how to position a business to stand out in competitive searches. Communication was clear, expectations were realistic, and delivery exceeded what was promised. Highly recommend their GMB SEO services to any business serious about local growth. </p>",
+          "stars": {
+            "hidden": [],
+            "src": "/uploads/2026/05/icon-five-stars.svg",
+            "alt": "google business profile optimization - digital marketing services",
+            "width": 120,
+            "height": 24
+          },
+          "name": "brainbodge",
+          "role": ""
+        },
+        {
+          "html": "<p>I’ve now worked with many other agencies but this one absolutely delivered what I was looking for. The citations they completed were incredibly detailed, accurate, and clearly done with a deep understanding of what actually moves the needle. What really stands out is how much he goes above and beyond, not just doing the job, but making sure everything is set up properly for long-term results. Even from the first order, the level of depth and care was impressive, and this second order just reinforced that. Communication is always smooth, turnaround is reliable, and the quality is consistently high. I’ll definitely continue ordering and look forward to working with him long-term! </p>",
+          "stars": {
+            "hidden": [],
+            "src": "/uploads/2026/05/icon-five-stars.svg",
+            "alt": "google business profile optimization - digital marketing services",
+            "width": 120,
+            "height": 24
+          },
+          "name": "Englishcoach",
+          "role": ""
+        },
+        {
+          "html": "<p>Zoot Web Agency has been Exceptional in helping us with SEO across all of our clinics, i am deeply content on the direction we are taking as citations are much underrated by many business owners. AI signaling in diffrent ways is replacing the outdated old SEO and I am glad I am working with Prasad to maintain modern visibility online.</p>",
+          "stars": {
+            "hidden": [],
+            "src": "/uploads/2026/05/icon-five-stars.svg",
+            "alt": "google business profile optimization - digital marketing services",
+            "width": 120,
+            "height": 24
+          },
+          "name": "Scubaskool",
+          "role": ""
+        },
+        {
+          "html": "<p>Zoot did an excellent job improving our SEO and online visibility. They built high-quality backlinks, optimized our map citations, and helped strengthen our local search presence. Their work was professional, effective, and clearly driven by real expertise. What impressed me most was that he went beyond the agreed work by adding extra improvements and giving valuable SEO advice for free. They are knowledgeable, proactive, and genuinely cares about delivering results. I highly recommend them to anyone looking for reliable SEO and backlink services </p>",
+          "stars": {
+            "hidden": [],
+            "src": "/uploads/2026/05/icon-five-stars.svg",
+            "alt": "google business profile optimization - digital marketing services",
+            "width": 120,
+            "height": 24
+          },
+          "name": "karlblud",
+          "role": ""
+        },
+        {
+          "html": "<p>After trying several top rated agency, i can surely say they is outstanding. Dont even look furher, hire them they has an excellent and in-depth understanding of webpage SEO and explains clearly how everything connects to Google. They breaks down what backlinks are created, where they lead, and how they strengthen your online presence. They communicates in a very transparent and structured way and puts real effort into choosing the best strategy for your project. Highly recommended. </p>",
+          "stars": {
+            "hidden": [],
+            "src": "/uploads/2026/05/icon-five-stars.svg",
+            "alt": "google business profile optimization - digital marketing services",
+            "width": 120,
+            "height": 24
+          },
+          "name": "Revibetherapy",
+          "role": ""
+        },
+        {
+          "html": "<p>I had a great experience working with this SEO service. They helped improve my Google Business ranking and increased visibility for my towing company. Very professional, honest, and knowledgeable about local SEO. I started seeing better results on Google Maps and more customer calls after their work. Communication was excellent and they explained everything clearly. I highly recommend them to anyone looking to grow their business online. Great job and thank you for the amazing service! </p>",
+          "stars": {
+            "hidden": [],
+            "src": "/uploads/2026/05/icon-five-stars.svg",
+            "alt": "google business profile optimization - digital marketing services",
+            "width": 120,
+            "height": 24
+          },
+          "name": "Kalsaid16",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": "068a0e4",
+      "kind": "faq",
+      "title": {
+        "tag": "h3",
+        "before": "Frequently Asked",
+        "highlight": "Question",
+        "after": "",
+        "hidden": []
+      },
+      "intro": "<p><strong>Find Answers to Common Questions About Our digital marketing services and How We Help Your Business Grow</strong></p>",
+      "columns": [
+        [
+          {
+            "q": "1. What are Digital Marketing Services and why does my business need them?",
+            "a": "<p>Digital Marketing Services are strategies used to improve your business visibility across search engines, social media, and paid advertising channels.Your business needs Digital Marketing Services because they help you:</p><ul><li>Appear in front of the right customers</li><li>Increase calls and inquiries</li><li>Generate high-intent leads</li><li>Without Digital Marketing Services, you may miss customers actively searching for what your business offers online.</li></ul>",
+            "open": true
+          },
+          {
+            "q": "3. How long does it take to see results from Digital Marketing Services?",
+            "a": "<p>Most businesses see results from digital marketing services within 3 to 6 months. The timeline depends on:</p><ul><li>Competition in your industry</li><li>Current website condition</li><li>Your overall digital marketing strategy</li></ul><p>Digital Marketing Services often deliver faster results than traditional methods because they target the right audience at the right time.</p>",
+            "open": true
+          },
+          {
+            "q": "5. What is an Online Presence Score and how can I improve it?d how can I rank in it?",
+            "a": "<p>An Online Presence Score reflects how visible and consistent your business is across search engines, directories, and social platforms. To improve your score, you need:</p><ul><li>A fully optimised Google Business Profile</li><li>Consistent business information across all platforms</li><li>Positive customer reviews</li><li>Strong digital marketing signals</li></ul>",
+            "open": true
+          },
+          {
+            "q": "7. Do I need a physical address for Digital Marketing Services?",
+            "a": "<p>No, a physical office is not always required for Digital Marketing Services. Service-based businesses can still grow using:</p><ul><li>Targeted audience and location settings</li><li>Optimised Google Business Profile</li><li>Location-based and service-focused content</li></ul><p>This allows you to reach customers in your target area without showing your home address.</p>",
+            "open": true
+          },
+          {
+            "q": "9. What are online directories and why are they important?e they important?",
+            "a": "<p>Online directories are listings of your business name, address, and phone number on platforms like Google, Yelp, and industry directories. They are important because:</p><ul><li>They build trust with search engines</li><li>They improve online visibility and rankings</li><li>They verify your business information across the web</li></ul>",
+            "open": true
+          }
+        ],
+        [
+          {
+            "q": "2. How do reviews impact Digital Marketing rankings?",
+            "a": "<p>Reviews are one of the most important factors in digital marketing services.</p><p>They help:</p><ul><li>Improve your rankings across search platforms</li><li>Build trust with potential customers</li><li>Increase clicks and conversions</li><li>Regular positive reviews and responses improve your visibility.</li></ul>",
+            "open": true
+          },
+          {
+            "q": "4. What is the difference between SEO and Digital Marketing?",
+            "a": "<p>SEO focuses on improving visibility through organic search, while digital marketing services cover a broader range of channels, including social media, paid ads, and content marketing.</p><p>Digital Marketing helps businesses:</p><ul><li>Target the right customers across multiple channels</li><li>Rank for high-intent searches</li><li>Generate consistent leads</li></ul>",
+            "open": true
+          },
+          {
+            "q": "6. Do you manage Google Business Profile as part of Digital Marketing Services?",
+            "a": "<p>Yes, managing your Google Business Profile is a key part of our digital marketing services.</p><p>We handle:</p><ul><li>Profile optimization,</li><li>Regular updates, and posts</li><li>Photos and business details</li><li>Monitoring and improvements</li></ul>",
+            "open": true
+          },
+          {
+            "q": "8. How do you choose keywords for Digital Marketing?",
+            "a": "<p>We select keywords based on:</p><ul><li>Target audience and location</li><li>Customer intent</li><li>Search demand</li></ul><p>This includes terms like:</p><ul><li>digital marketing services near me</li><li>digital marketing services for small business</li></ul>",
+            "open": true
+          },
+          {
+            "q": "10. How much do digital marketing services cost?",
+            "a": "<p>The cost of <strong>Local SEO Services</strong> depends on:</p><ul><li>Your industry competition</li><li>Target locations</li><li>Scope of work</li></ul><p>We offer flexible pricing focused on delivering the best return on investment.</p>",
+            "open": true
+          }
+        ]
+      ]
+    },
+    {
+      "id": "79c1b5d0",
+      "kind": "cta",
+      "title": {
+        "tag": "p",
+        "html": "Transform Your Brand Into a <span><span>Growth Engine</span></span>"
+      },
+      "body": "<p>We help businesses generate real leads, measurable growth, and lasting impact through performance driven digital marketing strategies.</p>",
+      "button": {
+        "text": "Let's Discuss a project",
+        "href": "#"
+      }
+    }
+  ]
 }

@@ -4,6 +4,7 @@ import { mkdir, writeFile, rm, access } from "node:fs/promises";
 import { dirname } from "node:path";
 import { parse } from "node-html-parser";
 import { decode, parseHead } from "./wp-head.mjs";
+import { extractHome } from "./extract-home.mjs";
 
 const WP = "https://powderblue-gaur-774652.hostingersite.com";
 // Final production domain. Canonicals/OG URLs are rewritten from WP to this. Change at cutover.
@@ -93,9 +94,15 @@ function addRedirect(path, res) {
 
 // Header/footer links that aren't WP pages but redirect on WP (e.g. menu "Contact Us" -> /contact/).
 const CHROME_LINKS = ["/contact/"];
-// Images used only by the header/footer (Elementor CSS), so they never show up in page content.
-const CHROME_UPLOADS = ["2025/08/BG-013.jpg"];
-for (const f of CHROME_UPLOADS) uploads.add(`${WP}/wp-content/uploads/${f}`);
+// Images used only as Elementor CSS backgrounds (footer, homepage sections), so they never show up in page content.
+const CSS_UPLOADS = [
+  "2025/08/BG-013.jpg", // footer
+  "2026/01/ChatGPT-Image-Jan-13-2026-12_09_59-PM.png", // home: AI visibility, FAQ
+  "2025/08/BG-014.jpg", // home: process card
+  "2025/08/BG-011.jpg", // home: testimonials heading
+  "2025/08/Asset-045.png", // home: closing CTA
+];
+for (const f of CSS_UPLOADS) uploads.add(`${WP}/wp-content/uploads/${f}`);
 for (const path of CHROME_LINKS) addRedirect(path, await get(WP + path, 4, "manual"));
 
 await pool([...pages, ...posts], 4, async (item) => {
@@ -123,6 +130,7 @@ await pool([...pages, ...posts], 4, async (item) => {
     html,
     footer: footer(page),
   };
+  if (doc.family === "home") doc.home = extractHome(html, localize);
   const file = path === "/" ? "index" : path.replace(/^\/|\/$/g, "").replaceAll("/", "__");
   await writeFile(`${OUT}/${file}.json`, JSON.stringify(doc, null, 2) + "\n");
 });

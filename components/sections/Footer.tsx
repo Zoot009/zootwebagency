@@ -34,6 +34,7 @@ const social = [
 type Section = NonNullable<Page["footer"]>["sections"][number];
 
 // Per-page link rows (WP "Manual Footer Internal Links" shortcode), e.g. "Digital Marketing Cities".
+// No prefetch: some targets are dead on WP too (e.g. /arlington-digital-marketing-agency/), kept as-is.
 function FooterLinks({ sections }: { sections: Section[] }) {
   return (
     <div className="mx-auto w-full max-w-footer px-4 pt-5 pb-7 text-white sm:px-6 sm:pt-[30px] sm:pb-10">
@@ -49,7 +50,7 @@ function FooterLinks({ sections }: { sections: Section[] }) {
             {links.map(([label, href], i) => (
               <span key={href + i}>
                 {i > 0 && "|"}
-                <Link href={href} className="inline-block px-2 text-footer-link transition-colors hover:text-cyan">
+                <Link href={href} prefetch={false} className="inline-block px-2 text-footer-link transition-colors hover:text-cyan">
                   {label}
                 </Link>
               </span>
