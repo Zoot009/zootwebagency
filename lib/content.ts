@@ -16,6 +16,8 @@ export type Page = {
   seo: { title: string; canonical?: string; meta: [string, string][] };
   jsonLd: object[];
   html: string;
+  // Footer as WP renders it on this page: null = no footer; sections = per-page link rows (often empty).
+  footer: { sections: { heading: string; links: [string, string][] }[] } | null;
 };
 
 const DIR = "content/pages";

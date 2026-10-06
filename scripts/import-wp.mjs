@@ -2,6 +2,7 @@
 // Re-runnable: overwrites generated files. Usage: node scripts/import-wp.mjs
 import { mkdir, writeFile, rm, access } from "node:fs/promises";
 import { dirname } from "node:path";
+import { parse } from "node-html-parser";
 import { decode, parseHead } from "./wp-head.mjs";
 
 const WP = "https://powderblue-gaur-774652.hostingersite.com";
@@ -54,6 +55,18 @@ function toSite(str) {
   return str.replaceAll(`${WP}/wp-content/uploads/`, `${WP}/uploads/`).replaceAll(WP, SITE);
 }
 
+// The rendered page's footer: null if WP shows none; otherwise its per-page link sections
+// (Rank Math "Manual Footer Internal Links", e.g. "Digital Marketing Cities"), often empty.
+function footer(page) {
+  const dom = parse(page);
+  if (!dom.querySelector('[data-elementor-type="footer"]')) return null;
+  const sections = dom.querySelectorAll(".mfilm-footer-links__section").map((s) => ({
+    heading: s.querySelector(".mfilm-footer-links__heading")?.text.trim() ?? "", // some sections have none
+    links: s.querySelectorAll(".mfilm-footer-links__nav a").map((a) => [a.text.trim(), localize(a.getAttribute("href"))]),
+  }));
+  return { sections };
+}
+
 async function pool(items, n, fn) {
   const queue = [...items];
   await Promise.all(Array.from({ length: n }, async () => {
@@ -89,7 +102,8 @@ await pool([...pages, ...posts], 4, async (item) => {
   const path = new URL(item.link).pathname;
   const res = await get(item.link, 4, "manual");
   if (addRedirect(path, res)) return;
-  const head = parseHead(await res.text());
+  const page = await res.text();
+  const head = parseHead(page);
   const html = localize(item.content.rendered).replace(/<script[\s\S]*?<\/script>/g, "");
   const doc = {
     path,
@@ -107,6 +121,7 @@ await pool([...pages, ...posts], 4, async (item) => {
     },
     jsonLd: JSON.parse(toSite(JSON.stringify(head.jsonLd))),
     html,
+    footer: footer(page),
   };
   const file = path === "/" ? "index" : path.replace(/^\/|\/$/g, "").replaceAll("/", "__");
   await writeFile(`${OUT}/${file}.json`, JSON.stringify(doc, null, 2) + "\n");

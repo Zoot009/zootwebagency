@@ -1,6 +1,5 @@
 import { Amita, DM_Sans, Inter_Tight, Manrope, Poppins } from "next/font/google";
 import Header from "@/components/sections/Header";
-import Footer from "@/components/sections/Footer";
 import "./globals.css";
 
 // Fonts from the live Elementor kit. Names map to tokens in globals.css (@theme).
@@ -24,7 +23,6 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <div id="content" className="flex-1">
           {children}
         </div>
-        <Footer />
       </body>
     </html>
   );

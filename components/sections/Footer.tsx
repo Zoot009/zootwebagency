@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import type { Page } from "@/lib/content";
 import { ArrowRight, MapPin } from "./icons";
 
 // Site footer (WP Elementor footer template 30). Copy, links and odd markup (emoji in <font size=5>, href="#") match WP.
@@ -30,7 +31,37 @@ const social = [
   ["LinkedIn", "https://www.linkedin.com/company/zootdigital/"],
 ];
 
-export default function Footer() {
+type Section = NonNullable<Page["footer"]>["sections"][number];
+
+// Per-page link rows (WP "Manual Footer Internal Links" shortcode), e.g. "Digital Marketing Cities".
+function FooterLinks({ sections }: { sections: Section[] }) {
+  return (
+    <div className="mx-auto w-full max-w-footer px-4 pt-5 pb-7 text-white sm:px-6 sm:pt-[30px] sm:pb-10">
+      {sections.map(({ heading, links }, n) => (
+        <div key={n} className="mb-9 last:mb-0">
+          {heading && <h3 className="mb-[22px] inline-block rounded-[14px] bg-[radial-gradient(circle_at_14%_50%,transparent_14%,color-mix(in_srgb,var(--color-blue)_50%,transparent)_100%)] px-4 py-1.5 font-display text-lg/[1.3] font-bold tracking-[-0.5px] text-white sm:px-[22px] sm:py-2 sm:text-xl lg:text-[22px]">
+            {heading}
+          </h3>}
+          <nav
+            aria-label={heading || undefined}
+            className="text-sm/[2.3em] tracking-[0.3px] text-white/28 [word-spacing:6px] sm:text-[15px]/[2.5em] lg:text-base/[2.6em]"
+          >
+            {links.map(([label, href], i) => (
+              <span key={href + i}>
+                {i > 0 && "|"}
+                <Link href={href} className="inline-block px-2 text-footer-link transition-colors hover:text-cyan">
+                  {label}
+                </Link>
+              </span>
+            ))}
+          </nav>
+        </div>
+      ))}
+    </div>
+  );
+}
+
+export default function Footer({ sections }: { sections: Section[] }) {
   return (
     <footer className="mt-[30px] bg-[url(/uploads/2025/08/BG-013.jpg)] bg-cover bg-top bg-no-repeat pb-3.5 lg:pt-[98px] xl:mt-10">
       <div className="mx-auto flex max-w-footer flex-wrap justify-between">
@@ -101,8 +132,7 @@ export default function Footer() {
           </div>
         </div>
 
-        {/* Per-page "footer links" block (e.g. Digital Marketing Cities) sits here on WP. Pending importer support. */}
-        <div className="mt-[50px] w-full border-t border-line" />
+        <div className="mt-[50px] w-full border-t border-line">{sections.length > 0 && <FooterLinks sections={sections} />}</div>
 
         <div className="mt-[50px] flex w-full flex-wrap items-center justify-between border-t border-line px-2.5 pt-2.5 max-md:flex-col max-md:pt-5">
           <Link href="/">
