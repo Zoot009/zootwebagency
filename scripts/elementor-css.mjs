@@ -18,33 +18,41 @@ const FONTS = {
 };
 const font = (v) => v.replace(/"([^"]+)"/g, (m, name) => FONTS[name] ?? m);
 
-// [{ media, rules: [[selector, declarations]] }] for top-level rules and one level of @media.
-function parseBlocks(css) {
-  const out = [{ media: "", body: "" }];
+// [{ media, rules: [[selector, declarations]] }]. Nested @media (custom CSS has them) are flattened by
+// joining the queries; other at-rules (@keyframes, @supports, ...) are dropped.
+function parseBlocks(css, media = "", out = [{ media: "", rules: [] }]) {
+  if (!media)
+    css = css
+      .replace(/\/\*[\s\S]*?\*\//g, "") // comments (custom CSS has them inside declarations)
+      .replace(/\{\{[^{}]*\}\}/g, ""); // unfilled Elementor placeholders like {{VALUE}} (their braces break parsing)
+  const block = media ? { media, rules: [] } : out[0];
+  if (media) out.push(block);
   let i = 0;
   while (i < css.length) {
-    if (css.startsWith("@", i)) {
-      const open = css.indexOf("{", i);
-      const q = css.slice(i, open).trim();
-      let depth = 1, j = open + 1;
-      while (depth) { if (css[j] === "{") depth++; else if (css[j] === "}") depth--; j++; }
-      if (q.startsWith("@media") && !q.includes("prefers-reduced-motion")) out.push({ media: q.replace(/\s+/g, " "), body: css.slice(open + 1, j - 1) });
-      i = j;
-    } else {
-      const end = css.indexOf("}", i);
-      if (end < 0) break;
-      out[0].body += css.slice(i, end + 1);
-      i = end + 1;
-    }
+    while (/\s/.test(css[i] ?? "")) i++;
+    if (i >= css.length) break;
+    const open = css.indexOf("{", i);
+    if (open < 0) break;
+    const head = css.slice(i, open).trim();
+    let depth = 1, j = open + 1;
+    while (depth && j < css.length) { if (css[j] === "{") depth++; else if (css[j] === "}") depth--; j++; }
+    const body = css.slice(open + 1, j - 1);
+    if (head.startsWith("@media")) {
+      if (!head.includes("prefers-reduced-motion")) {
+        const q = head.replace(/\s+/g, " ");
+        parseBlocks(body, media ? `${media} and ${q.replace(/^@media\s*/, "")}` : q, out);
+      }
+    } else if (!head.startsWith("@") && !body.includes("{")) block.rules.push([head, body]);
+    i = j;
   }
-  return out.map(({ media, body }) => ({ media, rules: [...body.matchAll(/([^{}]+)\{([^}]*)\}/g)].map((m) => [m[1].trim(), m[2]]) }));
+  return out;
 }
 
 function filterDecls(decls, localizeUrl) {
   return decls
     .split(";")
     .map((d) => d.trim())
-    .filter((d) => d.includes(":") && !DROP.test(d))
+    .filter((d) => d.includes(":") && !DROP.test(d) && d.slice(d.indexOf(":") + 1).trim())
     .map((d) => {
       const k = d.slice(0, d.indexOf(":")).trim();
       let v = d.slice(d.indexOf(":") + 1).trim();
