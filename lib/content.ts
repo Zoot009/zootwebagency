@@ -20,6 +20,7 @@ export type Page = {
   // Footer as WP renders it on this page: null = no footer; sections = per-page link rows (often empty).
   footer: { sections: { heading: string; links: [string, string][] }[] } | null;
   home?: HomeSection[]; // family "home" only: structured sections (scripts/extract-home.mjs)
+  layoutCss?: string; // family "generic" only: Elementor layout values for the raw HTML (scripts/elementor-css.mjs)
 };
 
 const DIR = "content/pages";

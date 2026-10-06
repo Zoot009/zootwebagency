@@ -5,6 +5,8 @@ import { dirname } from "node:path";
 import { parse } from "node-html-parser";
 import { decode, parseHead } from "./wp-head.mjs";
 import { extractHome } from "./extract-home.mjs";
+import { kitVars, pageCss, staticWidgets } from "./elementor-css.mjs";
+import { iconCss, loadIconFonts } from "./icon-fonts.mjs";
 
 const WP = "https://powderblue-gaur-774652.hostingersite.com";
 // Final production domain. Canonicals/OG URLs are rewritten from WP to this. Change at cutover.
@@ -105,6 +107,16 @@ const CSS_UPLOADS = [
 for (const f of CSS_UPLOADS) uploads.add(`${WP}/wp-content/uploads/${f}`);
 for (const path of CHROME_LINKS) addRedirect(path, await get(WP + path, 4, "manual"));
 
+// Elementor CSS values for GenericPage (see scripts/elementor-css.mjs). Kit 21 = site-wide globals.
+const CSS = `${WP}/wp-content/uploads/elementor/css`;
+const kitCss = kitVars(await (await get(`${CSS}/post-21.css`)).text(), localize);
+await loadIconFonts(WP, get);
+const elementorCss = async (html) => {
+  const ids = [...new Set([...html.matchAll(/data-elementor-id="(\d+)"/g)].map((m) => m[1]))];
+  const parts = await Promise.all(ids.map((id) => get(`${CSS}/post-${id}.css`).then((r) => r.text()).catch(() => "")));
+  return kitCss + iconCss(html) + parts.map((c) => pageCss(c, localize)).join("");
+};
+
 await pool([...pages, ...posts], 4, async (item) => {
   const path = new URL(item.link).pathname;
   const res = await get(item.link, 4, "manual");
@@ -131,6 +143,10 @@ await pool([...pages, ...posts], 4, async (item) => {
     footer: footer(page),
   };
   if (doc.family === "home") doc.home = extractHome(html, localize);
+  if (doc.family === "generic") {
+    doc.html = staticWidgets(html);
+    doc.layoutCss = await elementorCss(html);
+  }
   const file = path === "/" ? "index" : path.replace(/^\/|\/$/g, "").replaceAll("/", "__");
   await writeFile(`${OUT}/${file}.json`, JSON.stringify(doc, null, 2) + "\n");
 });
