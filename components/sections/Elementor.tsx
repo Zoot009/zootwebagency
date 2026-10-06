@@ -1,5 +1,4 @@
 import Image from "next/image";
-import { Amita, DM_Sans, Inter_Tight, Manrope } from "next/font/google";
 import type { CSSProperties } from "react";
 import type { Page } from "@/lib/content";
 import { parse, type Block } from "./elementor-parse";
@@ -8,21 +7,9 @@ import { parse, type Block } from "./elementor-parse";
 // (Elementor's per-page CSS, captured by scripts/import-wp.mjs); widget content stays the original WP HTML,
 // so copy, heading levels, links and alt text are untouched.
 
-const dmSans = DM_Sans({ subsets: ["latin"], variable: "--font-dm-sans" });
-const manrope = Manrope({ subsets: ["latin"], variable: "--font-manrope" });
-const interTight = Inter_Tight({ subsets: ["latin"], variable: "--font-inter-tight" });
-const amita = Amita({ subsets: ["latin"], weight: ["400", "700"], variable: "--font-amita" });
-
-// Elementor kit colours (WP "Site Settings"). TODO: move to app/globals.css @theme once Person A adds tokens.
+// Page-level Elementor colours that aren't kit tokens in app/globals.css (yet); the kit ones are used as tokens.
 const KIT_COLORS = {
-  "--zw-bg": "#040E1E",
   "--zw-band": "#050C1B",
-  "--zw-navy": "#091028",
-  "--zw-heading": "#D2CFCF",
-  "--zw-text": "#C7C2C2",
-  "--zw-blue": "#008AFC",
-  "--zw-blue-2": "#119CFF",
-  "--zw-cyan": "#97F8F4",
   "--zw-line": "#A09E9E29",
   "--zw-line-2": "#B8B2B21F",
   "--zw-line-3": "#7777773B",
@@ -36,26 +23,26 @@ const KIT_COLORS = {
 // Kit typography per tag, plus the browser defaults WP relies on (Tailwind's preflight removes them).
 // :where() keeps these at low specificity so widget styles below always win.
 const KIT = [
-  "bg-(--zw-bg) font-(family-name:--font-manrope) text-[14px] leading-[2.1em] tracking-[0.5px] text-(--zw-text)",
-  "[&_:where(a)]:text-(--zw-heading) [&_:where(h1,h2,h3,h4,h5,h6)]:text-(--zw-heading)",
+  "bg-ink font-sans text-[14px] leading-[2.1em] tracking-[0.5px] text-body",
+  "[&_:where(a)]:text-heading [&_:where(h1,h2,h3,h4,h5,h6)]:text-heading",
   "[&_:where(p)]:my-[1em] [&_:where(ul,ol)]:pl-10 [&_:where(ol)]:list-decimal [&_:where(hr)]:[border:1px_inset_gray]",
   "[&_:where(ul,ol):not(:where(ul,ol)_*)]:my-[1em] [&_:where(ul):not(:where(ul,ol)_*)]:list-disc [&_:where(ul,ol)_:where(ul)]:list-[circle]",
   "[&_:where(table)]:border-separate [&_:where(table)]:border-spacing-[2px] [&_:where(td,th)]:p-px",
-  "[&_:where(input,textarea)]:text-(--zw-heading) [&_:where(input,textarea)]:pt-3 [&_:where(input,textarea)]:pr-5 [&_:where(input,textarea)]:pb-[11px] [&_:where(input,textarea)]:pl-[30px]",
-  "[&_:where(h1)]:my-[0.67em] [&_:where(h1)]:font-(family-name:--font-dm-sans) [&_:where(h1)]:font-medium [&_:where(h1)]:leading-[1.2em] [&_:where(h1)]:tracking-[-1px]",
-  "[&_:where(h1)]:text-[57px] max-[1367px]:[&_:where(h1)]:text-[63px] max-[1025px]:[&_:where(h1)]:text-[52px] max-md:[&_:where(h1)]:text-[43px]",
-  "[&_:where(h2)]:my-[0.83em] [&_:where(h2)]:font-(family-name:--font-manrope) [&_:where(h2)]:font-bold [&_:where(h2)]:leading-[1.2em] [&_:where(h2)]:tracking-[-2px]",
-  "[&_:where(h2)]:text-[56px] [&_:where(h2)]:[word-spacing:-0.2rem] max-[1367px]:[&_:where(h2)]:text-[60px] max-[1367px]:[&_:where(h2)]:[word-spacing:0] max-[1025px]:[&_:where(h2)]:text-[47px] max-md:[&_:where(h2)]:text-[40px]",
-  "[&_:where(h3)]:my-[1em] [&_:where(h3)]:font-(family-name:--font-dm-sans) [&_:where(h3)]:font-extralight [&_:where(h3)]:leading-[1.5em] [&_:where(h3)]:tracking-[-1px]",
-  "[&_:where(h3)]:text-[45px] max-[1367px]:[&_:where(h3)]:text-[39px] max-[1025px]:[&_:where(h3)]:text-[33px] max-md:[&_:where(h3)]:text-[31px]",
-  "[&_:where(h4)]:my-[1.33em] [&_:where(h4)]:font-(family-name:--font-dm-sans) [&_:where(h4)]:font-normal [&_:where(h4)]:leading-[1.3em] [&_:where(h4)]:tracking-[-0.3px]",
-  "[&_:where(h4)]:text-[23px] max-[1025px]:[&_:where(h4)]:text-[22px] max-md:[&_:where(h4)]:text-[21px]",
-  "[&_:where(h5)]:my-[1.67em] [&_:where(h5)]:font-(family-name:--font-dm-sans) [&_:where(h5)]:font-bold [&_:where(h5)]:leading-[1.3em] [&_:where(h5)]:tracking-[-0.5px] [&_:where(h5)]:text-[19px]",
-  "[&_:where(h6)]:my-[2.33em] [&_:where(h6)]:font-(family-name:--font-manrope) [&_:where(h6)]:font-normal [&_:where(h6)]:tracking-[-0.1px]",
-  "[&_:where(h6)]:text-[15px] max-[1025px]:[&_:where(h6)]:text-[14px] max-md:[&_:where(h6)]:text-[13px]",
+  "[&_:where(input,textarea)]:text-heading [&_:where(input,textarea)]:pt-3 [&_:where(input,textarea)]:pr-5 [&_:where(input,textarea)]:pb-[11px] [&_:where(input,textarea)]:pl-[30px]",
+  "[&_:where(h1)]:my-[0.67em] [&_:where(h1)]:font-display [&_:where(h1)]:font-medium [&_:where(h1)]:leading-[1.2em] [&_:where(h1)]:tracking-[-1px]",
+  "[&_:where(h1)]:text-[57px] max-xl:[&_:where(h1)]:text-[63px] max-lg:[&_:where(h1)]:text-[52px] max-md:[&_:where(h1)]:text-[43px]",
+  "[&_:where(h2)]:my-[0.83em] [&_:where(h2)]:font-sans [&_:where(h2)]:font-bold [&_:where(h2)]:leading-[1.2em] [&_:where(h2)]:tracking-[-2px]",
+  "[&_:where(h2)]:text-[56px] [&_:where(h2)]:[word-spacing:-0.2rem] max-xl:[&_:where(h2)]:text-[60px] max-xl:[&_:where(h2)]:[word-spacing:0] max-lg:[&_:where(h2)]:text-[47px] max-md:[&_:where(h2)]:text-[40px]",
+  "[&_:where(h3)]:my-[1em] [&_:where(h3)]:font-display [&_:where(h3)]:font-extralight [&_:where(h3)]:leading-[1.5em] [&_:where(h3)]:tracking-[-1px]",
+  "[&_:where(h3)]:text-[45px] max-xl:[&_:where(h3)]:text-[39px] max-lg:[&_:where(h3)]:text-[33px] max-md:[&_:where(h3)]:text-[31px]",
+  "[&_:where(h4)]:my-[1.33em] [&_:where(h4)]:font-display [&_:where(h4)]:font-normal [&_:where(h4)]:leading-[1.3em] [&_:where(h4)]:tracking-[-0.3px]",
+  "[&_:where(h4)]:text-[23px] max-lg:[&_:where(h4)]:text-[22px] max-md:[&_:where(h4)]:text-[21px]",
+  "[&_:where(h5)]:my-[1.67em] [&_:where(h5)]:font-display [&_:where(h5)]:font-bold [&_:where(h5)]:leading-[1.3em] [&_:where(h5)]:tracking-[-0.5px] [&_:where(h5)]:text-[19px]",
+  "[&_:where(h6)]:my-[2.33em] [&_:where(h6)]:font-sans [&_:where(h6)]:font-normal [&_:where(h6)]:leading-[inherit] [&_:where(h6)]:tracking-[-0.1px]",
+  "[&_:where(h6)]:text-[15px] max-lg:[&_:where(h6)]:text-[14px] max-md:[&_:where(h6)]:text-[13px]",
 ].join(" ");
 
-// Elementor breakpoints: mobile < 768 (max-md), tablet <= 1024 (max-[1025px]), laptop <= 1366 (max-[1367px]).
+// Elementor breakpoints (theme screens): mobile < 768 (max-md), tablet <= 1024 (max-lg), laptop <= 1366 (max-xl).
 // Every value seen on WP is listed; anything else falls back to the Elementor default.
 type Table = Record<string, Record<string, string>>;
 type Layout = Record<string, string>; // one element's entry in page.layout
@@ -76,25 +63,25 @@ const CONTENT_WIDTH: Record<string, string> = { "1360px": "md:max-w-[1360px]" };
 // align-self works the same on containers and widgets.
 const SELF: Table = {
   "--align-self": { center: "self-center", "flex-start": "self-start" },
-  "--align-self@laptop": { center: "max-[1367px]:self-center" },
+  "--align-self@laptop": { center: "max-xl:self-center" },
   "--align-self@mobile": { center: "max-md:self-center", "flex-start": "max-md:self-start" },
 };
 
 const BOX: Table = {
   ...SELF,
   "--width@min768": { "100%": "md:w-full", "99%": "md:w-[99%]", "66.6666%": "md:w-2/3", "50%": "md:w-1/2", "33.3333%": "md:w-1/3" },
-  "--width@laptop-tablet": { "1155.11px": "lg:max-[1367px]:w-[1155px]" }, // WP also applies it at tablet and overflows
+  "--width@laptop-tablet": { "1155.11px": "lg:max-xl:w-[1155px]" }, // WP also applies it at tablet and overflows
   "--margin-top": { "-29px": "-mt-[29px]", "-22px": "-mt-[22px]", "-16px": "-mt-4", "20px": "mt-5" },
   "--min-height": { "490px": "min-h-[490px]" },
   "--padding-left": { "0px": "pl-0" },
   "--padding-right": { "0px": "pr-0" },
-  "background-color": { "#050C1B": "bg-(--zw-band)", "var( --e-global-color-secondary )": "bg-(--zw-navy)" },
+  "background-color": { "#050C1B": "bg-(--zw-band)", "var( --e-global-color-secondary )": "bg-navy" },
   "border-width": { "1px 0px 0px 0px": "border-t" },
   "border-color": { "#A09E9E29": "border-(--zw-line)", "#B8B2B21F": "border-(--zw-line-2)" },
 };
 
 const OVERLAY: Table = {
-  "::before background-color": { "var( --e-global-color-secondary )": "bg-(--zw-navy)", "#131212": "bg-black", "#000000": "bg-black" },
+  "::before background-color": { "var( --e-global-color-secondary )": "bg-navy", "#131212": "bg-black", "#000000": "bg-black" },
   "--overlay-opacity": { "0.5": "opacity-50", "0.64": "opacity-[0.64]", "0.74": "opacity-[0.74]", "0.81": "opacity-[0.81]", "0.89": "opacity-[0.89]" },
 };
 
@@ -102,62 +89,62 @@ const WIDGET: Record<string, Table> = {
   "animated-headline": {
     margin: { "-20px 0px calc(var(--kit-widget-spacing, 0px) + -34px) 0px": "-mt-5 -mb-[34px]", "-20px 0px calc(var(--kit-widget-spacing, 0px) + -20px) 0px": "-mt-5 -mb-5" },
     "margin@mobile": { [SPACING_0]: "max-md:my-0" },
-    "width@laptop": { "var( --container-widget-width, 95% )": "max-[1367px]:w-[95%]" },
+    "width@laptop": { "var( --container-widget-width, 95% )": "max-xl:w-[95%]" },
     "width@mobile": { "var( --container-widget-width, 92% )": "max-md:w-[92%]" },
     "headline font-size": {
       "25px": "[&_.elementor-headline]:text-[25px]", "26px": "[&_.elementor-headline]:text-[26px]", "27px": "[&_.elementor-headline]:text-[27px]",
       "30px": "[&_.elementor-headline]:text-[30px]", "37px": "[&_.elementor-headline]:text-[37px]", "50px": "[&_.elementor-headline]:text-[50px]",
     },
-    "headline font-size@laptop": { "34px": "max-[1367px]:[&_.elementor-headline]:text-[34px]" },
+    "headline font-size@laptop": { "34px": "max-xl:[&_.elementor-headline]:text-[34px]" },
     "headline font-size@mobile": { "25px": "max-md:[&_.elementor-headline]:text-[25px]", "29px": "max-md:[&_.elementor-headline]:text-[29px]" },
     "headline font-weight": { "600": "[&_.elementor-headline]:font-semibold", "800": "[&_.elementor-headline]:font-extrabold" },
     "dynamic font-weight": { "800": "[&_.elementor-headline-dynamic-text]:font-extrabold" },
     "headline line-height": { "52px": "[&_.elementor-headline]:leading-[52px]" },
-    "headline line-height@laptop": { "40px": "max-[1367px]:[&_.elementor-headline]:leading-[40px]" },
+    "headline line-height@laptop": { "40px": "max-xl:[&_.elementor-headline]:leading-[40px]" },
     "headline line-height@mobile": { "1.3em": "max-md:[&_.elementor-headline]:leading-[1.3em]" },
     "headline letter-spacing": { "0.3px": "[&_.elementor-headline]:tracking-[0.3px]" },
     "headline text-align": { center: "[&_.elementor-headline]:text-center" },
     "headline text-align@mobile": { center: "max-md:[&_.elementor-headline]:text-center", start: "max-md:[&_.elementor-headline]:text-start" },
     "plain color": { "#FFFFFF": "[&_.elementor-headline-plain-text]:text-white", "var( --e-global-color-accent )": "[&_.elementor-headline-plain-text]:text-white" },
-    "--dynamic-text-color": { "var( --e-global-color-beb0691 )": "[&_.elementor-headline-dynamic-text]:text-(--zw-blue-2)" },
+    "--dynamic-text-color": { "var( --e-global-color-beb0691 )": "[&_.elementor-headline-dynamic-text]:text-blue-2" },
   },
   "text-editor": {
     margin: { "-20px 0px calc(var(--kit-widget-spacing, 0px) + 0px) 0px": "-mt-5", "-40px 0px calc(var(--kit-widget-spacing, 0px) + 0px) 0px": "-mt-10" },
     width: { "var( --container-widget-width, 95% )": "w-[95%]", "var( --container-widget-width, 86% )": "w-[86%]" },
     "width@laptop": {
-      "var( --container-widget-width, 95% )": "max-[1367px]:w-[95%]",
-      "var( --container-widget-width, 471.958px )": "max-[1367px]:w-[472px]",
-      "var( --container-widget-width, 889.993px )": "max-[1367px]:w-[890px]",
+      "var( --container-widget-width, 95% )": "max-xl:w-[95%]",
+      "var( --container-widget-width, 471.958px )": "max-xl:w-[472px]",
+      "var( --container-widget-width, 889.993px )": "max-xl:w-[890px]",
     },
     "width@mobile": { "var( --container-widget-width, 99% )": "max-md:w-[99%]" },
     color: {
       "#FFFFFF": "text-white", "#FFF6F6": "text-white", "#FFF1F1": "text-white", "var( --e-global-color-accent )": "text-white",
-      "var( --e-global-color-primary )": "text-(--zw-heading)", "#C8C8C8": "text-(--zw-grey)",
+      "var( --e-global-color-primary )": "text-heading", "#C8C8C8": "text-(--zw-grey)",
     },
     "font-size": { "18px": "text-[18px]" },
-    "font-size@laptop": { "16px": "max-[1367px]:text-[16px]" },
-    "line-height@laptop": { "24px": "max-[1367px]:leading-[24px]" },
+    "font-size@laptop": { "16px": "max-xl:text-[16px]" },
+    "line-height@laptop": { "24px": "max-xl:leading-[24px]" },
     "text-align": { center: "text-center" },
     "text-align@mobile": { center: "max-md:text-center" },
     "a color": {
-      "var( --e-global-color-4a5499b )": "[&_a]:text-(--zw-blue)", "#008AFC": "[&_a]:text-(--zw-blue)", "#0362F9": "[&_a]:text-(--zw-blue)",
-      "#4C5FE7": "[&_a]:text-(--zw-blue)", "var( --e-global-color-beb0691 )": "[&_a]:text-(--zw-blue-2)", "#000000": "[&_a]:text-black",
+      "var( --e-global-color-4a5499b )": "[&_a]:text-blue", "#008AFC": "[&_a]:text-blue", "#0362F9": "[&_a]:text-blue",
+      "#4C5FE7": "[&_a]:text-blue", "var( --e-global-color-beb0691 )": "[&_a]:text-blue-2", "#000000": "[&_a]:text-black",
       "#FFF4F4": "[&_a]:text-white", "#FFFCFC": "[&_a]:text-white",
     },
-    "background-color": { "var( --e-global-color-495d27d )": "bg-(--zw-bg)" },
+    "background-color": { "var( --e-global-color-495d27d )": "bg-ink" },
     "border-width": { "0px 1px 0px 0px": "border-r" },
     "border-color": { "#7777773B": "border-(--zw-line-3)" },
   },
   heading: {
     margin: { "187px 0px calc(var(--kit-widget-spacing, 0px) + 0px) 0px": "mt-[187px]" },
-    "width@laptop": { "var( --container-widget-width, 1076.1px )": "max-[1367px]:w-[1076px]", "var( --container-widget-width, 934px )": "max-[1367px]:w-[934px]" },
+    "width@laptop": { "var( --container-widget-width, 1076.1px )": "max-xl:w-[1076px]", "var( --container-widget-width, 934px )": "max-xl:w-[934px]" },
     "text-align": { center: "text-center" },
     "title color": { "var( --e-global-color-accent )": "[&_.elementor-heading-title]:text-white" },
     "title font-size": {
       "31px": "[&_.elementor-heading-title]:text-[31px]", "41px": "[&_.elementor-heading-title]:text-[41px]", "55px": "[&_.elementor-heading-title]:text-[55px]",
     },
   },
-  image: { "width@laptop": { "var( --container-widget-width, 727.987px )": "max-[1367px]:w-[728px]" } },
+  image: { "width@laptop": { "var( --container-widget-width, 727.987px )": "max-xl:w-[728px]" } },
 };
 const IMG_WIDTH: Record<string, string> = { "19%": "w-[19%]", "9%": "w-[9%]" };
 
@@ -175,7 +162,7 @@ const WIDGET_BASE: Record<string, string> = {
   "animated-headline": [
     "[:where(&)_:where(.elementor-headline)]:leading-[1.2] [&_.elementor-headline]:block", // Elementor defaults (line-height below the kit's per-tag one)
     "[&_.elementor-headline-text-wrapper]:align-bottom [&_.elementor-headline-dynamic-wrapper]:inline-block",
-    "[&_.elementor-headline-dynamic-text]:inline-block [&_.elementor-headline-dynamic-text]:font-(family-name:--font-amita) [&_.elementor-headline-dynamic-text]:text-(--zw-blue)",
+    "[&_.elementor-headline-dynamic-text]:inline-block [&_.elementor-headline-dynamic-text]:font-script [&_.elementor-headline-dynamic-text]:text-blue",
     // Highlight marker (see UNDERLINE): drawn behind the text, 20px larger than the highlighted words.
     "[&_.elementor-headline-dynamic-wrapper]:relative [&_:is(.elementor-headline-plain-text,.elementor-headline-dynamic-text)]:relative [&_:is(.elementor-headline-plain-text,.elementor-headline-dynamic-text)]:z-1",
     "[&_svg]:absolute [&_svg]:top-1/2 [&_svg]:left-1/2 [&_svg]:h-[calc(100%+20px)] [&_svg]:w-[calc(100%+20px)] [&_svg]:-translate-x-1/2 [&_svg]:-translate-y-1/2 [&_svg]:overflow-visible",
@@ -183,7 +170,7 @@ const WIDGET_BASE: Record<string, string> = {
   ].join(" "),
   heading: "[&_.elementor-heading-title]:m-0",
   "icon-box": [
-    "[&_.elementor-icon-box-title]:mb-[9px] [&_.elementor-icon-box-title]:font-(family-name:--font-inter-tight) [&_.elementor-icon-box-title]:text-[18px]",
+    "[&_.elementor-icon-box-title]:mb-[9px] [&_.elementor-icon-box-title]:font-tight [&_.elementor-icon-box-title]:text-[18px]",
     "[&_.elementor-icon-box-title]:font-semibold [&_.elementor-icon-box-title]:tracking-[0.4px] [&_.elementor-icon-box-description]:m-0",
   ].join(" "),
   image: "text-center",
@@ -195,17 +182,17 @@ const WIDGET_BASE: Record<string, string> = {
     "[&_.elementor-form-fields-wrapper]:-mx-[5px] [&_.elementor-form-fields-wrapper]:-mb-2.5 [&_.elementor-form-fields-wrapper]:flex [&_.elementor-form-fields-wrapper]:flex-wrap",
     "[&_.elementor-field-group]:mb-2.5 [&_.elementor-field-group]:flex [&_.elementor-field-group]:w-full [&_.elementor-field-group]:flex-wrap [&_.elementor-field-group]:items-center [&_.elementor-field-group]:px-[5px]",
     "[&_.elementor-field]:w-full [&_.elementor-field]:rounded-[10px] [&_.elementor-field]:bg-(--zw-field)",
-    "[&_.elementor-button]:rounded-xl [&_.elementor-button]:bg-[linear-gradient(134deg,var(--zw-blue)_27%,var(--zw-cyan)_100%)] [&_.elementor-button]:pt-[15px] [&_.elementor-button]:pr-[9px] [&_.elementor-button]:pb-[15px] [&_.elementor-button]:pl-2",
-    "[&_.elementor-button]:text-[15px] max-[1367px]:[&_.elementor-button]:text-[14px] [&_.elementor-button]:leading-none [&_.elementor-button]:font-semibold [&_.elementor-button]:tracking-[0.3px] [&_.elementor-button]:text-white",
-    "[&_.elementor-button:hover]:bg-[linear-gradient(132deg,var(--zw-blue)_0%,var(--zw-cyan)_100%)]",
+    "[&_.elementor-button]:rounded-xl [&_.elementor-button]:bg-[linear-gradient(134deg,var(--color-blue)_27%,var(--color-cyan)_100%)] [&_.elementor-button]:pt-[15px] [&_.elementor-button]:pr-[9px] [&_.elementor-button]:pb-[15px] [&_.elementor-button]:pl-2",
+    "[&_.elementor-button]:text-[15px] max-xl:[&_.elementor-button]:text-[14px] [&_.elementor-button]:leading-none [&_.elementor-button]:font-semibold [&_.elementor-button]:tracking-[0.3px] [&_.elementor-button]:text-white",
+    "[&_.elementor-button:hover]:bg-[linear-gradient(132deg,var(--color-blue)_0%,var(--color-cyan)_100%)]",
   ].join(" "),
 };
 
 // Elementor classes that carry layout in the HTML itself.
 const CLASSES: Record<string, string> = {
-  "elementor-hidden-desktop": "min-[1367px]:hidden",
-  "elementor-hidden-laptop": "lg:max-[1367px]:hidden",
-  "elementor-hidden-tablet": "md:max-[1025px]:hidden",
+  "elementor-hidden-desktop": "xl:hidden",
+  "elementor-hidden-laptop": "lg:max-xl:hidden",
+  "elementor-hidden-tablet": "md:max-lg:hidden",
   "elementor-hidden-mobile": "max-md:hidden",
   "elementor-align--mobilecenter": "max-md:text-center",
 };
@@ -291,7 +278,7 @@ export default function Elementor({ page }: { page: Page }) {
   const nodes = parse(page.html);
   return (
     <div
-      className={cx(dmSans.variable, manrope.variable, interTight.variable, amita.variable, KIT, "flex-1")}
+      className={cx(KIT, "flex-1")}
       style={KIT_COLORS}
     >
       {nodes.length ? (
