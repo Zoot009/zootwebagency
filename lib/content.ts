@@ -122,6 +122,8 @@ export function toMetadata({ seo }: Page): Metadata {
       description: take("twitter:description"),
       images: take("twitter:image"),
     },
+    // Google Search Console ownership. Not from WP, so check-seo ignores it.
+    verification: { google: "hkVh9kW6xHH8EYxA4iEknkUkOauWl9hftazqsb3zDLs" },
   };
   for (const [k, v] of m) other[k] = v; // twitter:label1/data1, og:updated_time, ...
   metadata.other = other;
