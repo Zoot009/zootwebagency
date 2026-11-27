@@ -50,6 +50,11 @@
     "permanent": true
   },
   {
+    "source": "/blog/",
+    "destination": "/",
+    "permanent": true
+  },
+  {
     "source": "/career/",
     "destination": "/career-at-digital-marketing-agency/",
     "permanent": true
@@ -287,6 +292,11 @@
   {
     "source": "/wp-booking-calendar/",
     "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/wp-sitemap.xml",
+    "destination": "/sitemap.xml",
     "permanent": true
   },
   {
