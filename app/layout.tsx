@@ -1,4 +1,5 @@
 import { Amita, Archivo, DM_Sans, Inter, Inter_Tight, Lato, Manrope, Nunito_Sans, Poppins } from "next/font/google";
+import Script from "next/script";
 import "./globals.css";
 
 // Fonts from the live Elementor kit. Names map to tokens in globals.css (@theme).
@@ -20,7 +21,17 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       className={`${manrope.variable} ${dmSans.variable} ${interTight.variable} ${amita.variable} ${poppins.variable} ${lato.variable} ${nunito.variable} ${inter.variable} ${archivo.variable} antialiased`}
     >
       {/* Header and footer are per page (components/sections/Chrome.tsx): WP leaves them off some pages. */}
-      <body className="flex min-h-screen flex-col">{children}</body>
+      <body className="flex min-h-screen flex-col">
+        {children}
+        {/* AI chatbot widget */}
+        <Script
+          src="https://whatsappchatbot.zootcloud.com/chatbot.js"
+          data-chatbot-id="0EnUpjnuwxv5-pG4iSwJYw"
+          data-color="#2563eb"
+          data-position="right"
+          strategy="lazyOnload"
+        />
+      </body>
     </html>
   );
 }
